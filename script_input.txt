@@ -3443,8 +3443,8 @@
 （わっ、夜になってる……）=
 !FILE:SCZ06_03_00.arc/SCZ06_03_00.BIN
 [name]=
-（あ、そうだ。|<c red>地図</c>はセレクトボタンを押すと|見られるんだったな……）=Control codes: <c red>c red</c> <c green>c green</c> <wait 1000>wait 1000 <s>s test</s>
-（あ、そうだ。|<c red>地図</c>はセレクトボタンを押すと|見られるんだったよね……）=
+（あ、そうだ。|<c red>地図</c>はセレクトボタンを押すと|見られるんだったな……）=Testing automatic wordwrap <c red>with</c> <c green>mixed</c> control codes. Test 1 2 3
+（あ、そうだ。|<c red>地図</c>はセレクトボタンを押すと|見られるんだったよね……）=Control codes: <c red>c red</c> <c green>c green</c> <wait 1000>wait 1000 <s>s test</s>
 !FILE:SCZ06_04_00.arc/SCZ06_04_00.BIN
 [name]=
 （<c red>狩房文庫</c>に行ってみようかな|確か、タイトルから|行けるんだったよな……）=
