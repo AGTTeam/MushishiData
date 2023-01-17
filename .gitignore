@@ -3,6 +3,6 @@ repack*
 out_*
 *_output.txt
 *.nds
-*.jpg
+screens
 *.xdelta
 font_data.bin
