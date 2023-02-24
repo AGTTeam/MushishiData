@@ -5760,15 +5760,15 @@
       </trans-unit>
       <trans-unit id="280" xml:space="preserve" approved="no">
         <source>闇の底を流れるは　光の河&lt;wait 5500&gt;|光の河に流れるは　命の水&lt;wait 6000&gt;|命の水がもたらすは豊饒の土地</source>
-        <target state="translated">Flowing in the deepest darkness|is the River of Light.&lt;wait 5500&gt;|Flowing in the River of Light|is the Water of Life.&lt;wait 6000&gt;|The Water of Life brings fertility to the land.</target>
+        <target state="translated">>>Flowing in the deepest darkness|is the River of Light.&lt;wait 5500&gt;|Flowing in the River of Light|is the Water of Life.&lt;wait 6000&gt;|The Water of Life brings fertility to the land.</target>
       </trans-unit>
       <trans-unit id="384" xml:space="preserve" approved="no">
         <source>草の青　清らな水　命の芽吹き</source>
-        <target state="translated">Green grass,|pure water,|the budding of life.</target>
+        <target state="translated">>>Green grass,|pure water,|the budding of life.</target>
       </trans-unit>
       <trans-unit id="416" xml:space="preserve" approved="no">
         <source>されど　それらはやがて&lt;wait 2500&gt;|天の帷（あまのとばり）に隠される</source>
-        <target state="translated">But, eventually,&lt;wait 2500&gt;|that will all be hidden by the veil of Heaven</target>
+        <target state="translated">>>But, eventually,&lt;wait 2500&gt;|that will all be hidden by the veil of Heaven</target>
       </trans-unit>
     </body>
   </file>
