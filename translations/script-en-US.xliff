@@ -3796,11 +3796,11 @@
       </trans-unit>
       <trans-unit id="12328" xml:space="preserve" approved="no">
         <source>そして、そのヤクノという名の|蟲師はこの地に留まり、|まだ幼かった僕が独りで|生きていけるようになるまで、|育ててくれたんだ</source>
-        <target state="translated">&gt;&gt;That Mushishi,|whose name was Yakuno,|stayed with me|while I was young|and raised me until I was able|to live on my own.</target>
+        <target state="translated">&gt;&gt;That Mushishi,|whose name was Yakuno,|stayed with me and raised me|until I was able to live on my own.</target>
       </trans-unit>
       <trans-unit id="12452" xml:space="preserve" approved="no">
         <source>そして、そのヤクノという名の|蟲師はこの地に留まり、|まだ幼かった私が独りで|生きていけるようになるまで、|育ててくれたんだ</source>
-        <target state="translated">&gt;&gt;That Mushishi,|whose name was Yakuno,|stayed with me|while I was young|and raised me until I was able|to live on my own.</target>
+        <target state="translated">&gt;&gt;That Mushishi,|whose name was Yakuno,|stayed with me and raised me|until I was able to live on my own.</target>
       </trans-unit>
       <trans-unit id="12588" xml:space="preserve" approved="no">
         <source>よく調べてるな。|ほう、|こいつは初めて見る蟲だ……</source>
@@ -3836,7 +3836,7 @@
       </trans-unit>
       <trans-unit id="12960" xml:space="preserve" approved="no">
         <source>とはいえ、それに甘える|ばかりではいい里にならん。|村の者たちが努力した結果さ</source>
-        <target state="new"></target>
+        <target state="new"/>
       </trans-unit>
       <trans-unit id="13040" xml:space="preserve" approved="no">
         <source>お？</source>
