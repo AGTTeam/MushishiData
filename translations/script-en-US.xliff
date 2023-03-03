@@ -3780,11 +3780,11 @@
       </trans-unit>
       <trans-unit id="11880" xml:space="preserve" approved="no">
         <source>ある日突然、里の人間が一斉に|死に絶えてしまったんだ。|だけど――なぜかその時、|僕だけが一人、生き残った</source>
-        <target state="translated">&gt;&gt;One day, everybody in the village suddenly died.|But…somehow,|I was the only person|who survived.</target>
+        <target state="translated">&gt;&gt;One day,|everybody in the village|suddenly died.|But…somehow,|I was the only person|who survived.</target>
       </trans-unit>
       <trans-unit id="11988" xml:space="preserve" approved="no">
         <source>ある日突然、里の人間が一斉に|死に絶えてしまったんだ。|だけど――なぜかその時、|私だけが一人、生き残った</source>
-        <target state="translated">&gt;&gt;One day, everybody in the village suddenly died.|But…somehow,|I was the only person|who survived.</target>
+        <target state="translated">&gt;&gt;One day,|everybody in the village|suddenly died.|But…somehow,|I was the only person|who survived.</target>
       </trans-unit>
       <trans-unit id="12108" xml:space="preserve" approved="no">
         <source>天災の直後、|この地を訪れた男に、|僕は助けられた。|男は旅をしながら蟲を払う、|蟲師という仕事をしていた</source>
@@ -3836,7 +3836,7 @@
       </trans-unit>
       <trans-unit id="12960" xml:space="preserve" approved="no">
         <source>とはいえ、それに甘える|ばかりではいい里にならん。|村の者たちが努力した結果さ</source>
-        <target state="new"/>
+        <target state="translated">That said, just taking advantage of that doesn't make for a good village. The result is thanks to the hard work of the villagers. (How much text can I put in dialogue? Let's find out! Hopefully it fits!)</target>
       </trans-unit>
       <trans-unit id="13040" xml:space="preserve" approved="no">
         <source>お？</source>
@@ -3886,9 +3886,9 @@
         <source>あ、これ……</source>
         <target state="translated">Ah, this is…</target>
       </trans-unit>
-      <trans-unit id="13304" xml:space="preserve">
+      <trans-unit id="13304" xml:space="preserve" approved="no">
         <source>お前にやろうと思って、|作っといたんだ</source>
-        <target/>
+        <target state="translated">I made it for you.</target>
       </trans-unit>
       <trans-unit id="13344" xml:space="preserve" approved="no">
         <source>蟲調べるのにも、|こいつがあると便利かと|思ってな</source>
@@ -13780,11 +13780,11 @@
       </trans-unit>
       <trans-unit id="388" xml:space="preserve" approved="no">
         <source>（あ、そうだ。|&lt;c red&gt;地図&lt;/c&gt;はセレクトボタンを押すと|見られるんだったな……）</source>
-        <target state="translated">Testing automatic wordwrap &lt;c red&gt;with&lt;/c&gt; &lt;c green&gt;mixed&lt;/c&gt; control codes. Test 1 2 3</target>
+        <target state="translated">(Ah, right. You can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button…)</target>
       </trans-unit>
       <trans-unit id="472" xml:space="preserve" approved="no">
         <source>（あ、そうだ。|&lt;c red&gt;地図&lt;/c&gt;はセレクトボタンを押すと|見られるんだったよね……）</source>
-        <target state="translated">Control codes: &lt;c red&gt;c red&lt;/c&gt; &lt;c green&gt;c green&lt;/c&gt; &lt;wait 1000&gt;wait 1000 &lt;s&gt;s test&lt;/s&gt;</target>
+        <target state="translated">(Ah, right. You can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button…)</target>
       </trans-unit>
     </body>
   </file>
