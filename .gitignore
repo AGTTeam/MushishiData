@@ -6,3 +6,4 @@ out_*
 screens
 *.xdelta
 font_data.bin
+.DS_Store
