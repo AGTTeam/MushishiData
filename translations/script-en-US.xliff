@@ -3772,35 +3772,35 @@
       </trans-unit>
       <trans-unit id="11764" xml:space="preserve" approved="no">
         <source>今からおよそ十年前――</source>
-        <target state="translated">Roughly 10 years ago…</target>
+        <target state="translated">&gt;&gt;Roughly 10 years ago…</target>
       </trans-unit>
       <trans-unit id="11800" xml:space="preserve" approved="no">
         <source>この里は大きな天災に襲われた。|天災といっても|地震や水害ではない</source>
-        <target state="translated">This village was hit by a great disaster.|And by disaster,|I don't mean an earthquake or a flood.</target>
+        <target state="translated">&gt;&gt;This village was hit|by a great disaster.|And by disaster,|I don't mean an earthquake|or a flood.</target>
       </trans-unit>
       <trans-unit id="11880" xml:space="preserve" approved="no">
         <source>ある日突然、里の人間が一斉に|死に絶えてしまったんだ。|だけど――なぜかその時、|僕だけが一人、生き残った</source>
-        <target state="translated">One day, everybody in the village suddenly died.|But…somehow,|I was the only person who survived.</target>
+        <target state="translated">&gt;&gt;One day,|everybody in the village|suddenly died.|But…somehow,|I was the only person|who survived.</target>
       </trans-unit>
       <trans-unit id="11988" xml:space="preserve" approved="no">
         <source>ある日突然、里の人間が一斉に|死に絶えてしまったんだ。|だけど――なぜかその時、|私だけが一人、生き残った</source>
-        <target state="translated">One day, everybody in the village suddenly died.|But…somehow,|I was the only person who survived.</target>
+        <target state="translated">&gt;&gt;One day,|everybody in the village|suddenly died.|But…somehow,|I was the only person|who survived.</target>
       </trans-unit>
       <trans-unit id="12108" xml:space="preserve" approved="no">
         <source>天災の直後、|この地を訪れた男に、|僕は助けられた。|男は旅をしながら蟲を払う、|蟲師という仕事をしていた</source>
-        <target state="translated">After the disaster,|I was helped by a man who came to the village.|The man worked as a Mushishi,|someone who wanders the land while driving away mushi.</target>
+        <target state="translated">&gt;&gt;After the disaster,|I was helped by a man|who came to the village.|The man worked as a Mushishi,|someone who wanders the land|while driving away mushi.</target>
       </trans-unit>
       <trans-unit id="12212" xml:space="preserve" approved="no">
         <source>天災の直後、|この地を訪れた男に、|私は助けられた。|男は旅をしながら蟲を払う、|蟲師という仕事をしていた</source>
-        <target state="translated">After the disaster,|I was helped by a man who came to the village.|The man worked as a Mushishi,|someone who wanders the land while driving away mushi.</target>
+        <target state="translated">&gt;&gt;After the disaster,|I was helped by a man|who came to the village.|The man worked as a Mushishi,|someone who wanders the land|while driving away mushi.</target>
       </trans-unit>
       <trans-unit id="12328" xml:space="preserve" approved="no">
         <source>そして、そのヤクノという名の|蟲師はこの地に留まり、|まだ幼かった僕が独りで|生きていけるようになるまで、|育ててくれたんだ</source>
-        <target state="translated">That Mushishi, whose name was Yakuno,|stayed with me while I was young|and raised me until I was able to live on my own.</target>
+        <target state="translated">&gt;&gt;That Mushishi,|whose name was Yakuno,|stayed with me and raised me|until I was able to live on my own.</target>
       </trans-unit>
       <trans-unit id="12452" xml:space="preserve" approved="no">
         <source>そして、そのヤクノという名の|蟲師はこの地に留まり、|まだ幼かった私が独りで|生きていけるようになるまで、|育ててくれたんだ</source>
-        <target state="translated">That Mushishi, whose name was Yakuno,|stayed with me while I was young|and raised me until I was able to live on my own.</target>
+        <target state="translated">&gt;&gt;That Mushishi,|whose name was Yakuno,|stayed with me and raised me|until I was able to live on my own.</target>
       </trans-unit>
       <trans-unit id="12588" xml:space="preserve" approved="no">
         <source>よく調べてるな。|ほう、|こいつは初めて見る蟲だ……</source>
@@ -3832,11 +3832,11 @@
       </trans-unit>
       <trans-unit id="12924" xml:space="preserve" approved="no">
         <source>この地には|恩恵があるからな……</source>
-        <target state="translated">This place is a blessing…</target>
+        <target state="translated">This land is a blessing…</target>
       </trans-unit>
       <trans-unit id="12960" xml:space="preserve" approved="no">
         <source>とはいえ、それに甘える|ばかりではいい里にならん。|村の者たちが努力した結果さ</source>
-        <target state="translated">That said,</target>
+        <target state="translated">That said, just taking advantage of that doesn't make for a good village. The result is thanks to the hard work of the villagers. (How much text can I put in dialogue? Let's find out! Hopefully it fits!)</target>
       </trans-unit>
       <trans-unit id="13040" xml:space="preserve" approved="no">
         <source>お？</source>
@@ -3886,41 +3886,41 @@
         <source>あ、これ……</source>
         <target state="translated">Ah, this is…</target>
       </trans-unit>
-      <trans-unit id="13304" xml:space="preserve">
+      <trans-unit id="13304" xml:space="preserve" approved="no">
         <source>お前にやろうと思って、|作っといたんだ</source>
-        <target/>
+        <target state="translated">I made it for you.</target>
       </trans-unit>
-      <trans-unit id="13344" xml:space="preserve">
+      <trans-unit id="13344" xml:space="preserve" approved="no">
         <source>蟲調べるのにも、|こいつがあると便利かと|思ってな</source>
-        <target/>
+        <target state="translated">I thought it would come in handy for studying mushi.</target>
       </trans-unit>
-      <trans-unit id="13396" xml:space="preserve">
+      <trans-unit id="13396" xml:space="preserve" approved="no">
         <source>うん、ありがとう</source>
-        <target/>
+        <target state="translated">Yeah, thanks!</target>
       </trans-unit>
-      <trans-unit id="13416" xml:space="preserve">
+      <trans-unit id="13416" xml:space="preserve" approved="no">
         <source>近いうちにまた来ると思うが、|何かあったら|手紙をよこしてくれ</source>
-        <target/>
+        <target state="translated">I should be back soon, but if anything comes up, send me a letter.</target>
       </trans-unit>
-      <trans-unit id="13480" xml:space="preserve">
+      <trans-unit id="13480" xml:space="preserve" approved="no">
         <source>そうだ。|お前が調べた蟲の調書。|新しいの出来たら送ってくれよ</source>
-        <target/>
+        <target state="translated">Oh, right. Whenever you update your mushi record, make sure to send me a copy.</target>
       </trans-unit>
-      <trans-unit id="13544" xml:space="preserve">
+      <trans-unit id="13544" xml:space="preserve" approved="no">
         <source>いいけど、あんなんでいいの？</source>
-        <target/>
+        <target state="translated">Okay, but are you sure?</target>
       </trans-unit>
-      <trans-unit id="13576" xml:space="preserve">
+      <trans-unit id="13576" xml:space="preserve" approved="no">
         <source>いや、なかなかのもんさ。|場合によっちゃ、|他の蟲師にも見せるかもしれん</source>
-        <target/>
+        <target state="translated">Yeah, of course. Depending on the situation, I might even show it to other Mushishi.</target>
       </trans-unit>
-      <trans-unit id="13648" xml:space="preserve">
+      <trans-unit id="13648" xml:space="preserve" approved="no">
         <source>わかった……</source>
-        <target/>
+        <target state="translated">Understood…</target>
       </trans-unit>
       <trans-unit id="13664" xml:space="preserve" approved="no">
         <source>それじゃ、|さっそく蟲の採取に|いこうかな</source>
-        <target state="translated">Okay, it's time to start collecting mushi.</target>
+        <target state="translated">Okay, time to start collecting mushi!</target>
       </trans-unit>
     </body>
   </file>
@@ -5760,15 +5760,15 @@
       </trans-unit>
       <trans-unit id="280" xml:space="preserve" approved="no">
         <source>闇の底を流れるは　光の河&lt;wait 5500&gt;|光の河に流れるは　命の水&lt;wait 6000&gt;|命の水がもたらすは豊饒の土地</source>
-        <target state="translated">>>Flowing in the deepest darkness|is the River of Light.&lt;wait 5500&gt;|Flowing in the River of Light|is the Water of Life.&lt;wait 6000&gt;|The Water of Life brings fertility to the land.</target>
+        <target state="translated">&gt;&gt;Flowing in the deepest darkness|is the River of Light.&lt;wait 5500&gt;|Flowing in the River of Light|is the Water of Life.&lt;wait 6000&gt;|The Water of Life|brings fertility to the land.</target>
       </trans-unit>
       <trans-unit id="384" xml:space="preserve" approved="no">
         <source>草の青　清らな水　命の芽吹き</source>
-        <target state="translated">>>Green grass,|pure water,|the budding of life.</target>
+        <target state="translated">&gt;&gt;Green grass,|pure water,|the budding of life.</target>
       </trans-unit>
       <trans-unit id="416" xml:space="preserve" approved="no">
         <source>されど　それらはやがて&lt;wait 2500&gt;|天の帷（あまのとばり）に隠される</source>
-        <target state="translated">>>But, eventually,&lt;wait 2500&gt;|that will all be hidden by the veil of Heaven</target>
+        <target state="translated">&gt;&gt;But, eventually,&lt;wait 2500&gt;|that will all be hidden|by the veil of Heaven</target>
       </trans-unit>
     </body>
   </file>
@@ -13780,11 +13780,11 @@
       </trans-unit>
       <trans-unit id="388" xml:space="preserve" approved="no">
         <source>（あ、そうだ。|&lt;c red&gt;地図&lt;/c&gt;はセレクトボタンを押すと|見られるんだったな……）</source>
-        <target state="translated">Testing automatic wordwrap &lt;c red&gt;with&lt;/c&gt; &lt;c green&gt;mixed&lt;/c&gt; control codes. Test 1 2 3</target>
+        <target state="translated">(Ah, right. You can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button…)</target>
       </trans-unit>
       <trans-unit id="472" xml:space="preserve" approved="no">
         <source>（あ、そうだ。|&lt;c red&gt;地図&lt;/c&gt;はセレクトボタンを押すと|見られるんだったよね……）</source>
-        <target state="translated">Control codes: &lt;c red&gt;c red&lt;/c&gt; &lt;c green&gt;c green&lt;/c&gt; &lt;wait 1000&gt;wait 1000 &lt;s&gt;s test&lt;/s&gt;</target>
+        <target state="translated">(Ah, right. You can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button…)</target>
       </trans-unit>
     </body>
   </file>
