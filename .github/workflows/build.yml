@@ -46,7 +46,6 @@ jobs:
         uses: suisei-cn/actions-download-file@v1.3.0
         with:
           url: ${{ secrets.URL_DATA }}
-          target: MushishiData
       - name: Extract data
         run: 7z x mushishi.7z
       - name: Install dependencies
