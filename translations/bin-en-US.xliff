@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file xml:space="preserve" original="bin" source-language="ja" target-language="en">
     <body>
@@ -1102,13 +1102,13 @@
         <source>データを|消去しました</source>
         <target/>
       </trans-unit>
-      <trans-unit id="893764" xml:space="preserve">
+      <trans-unit id="893764" xml:space="preserve" approved="no">
         <source>性別の選択</source>
-        <target/>
+        <target state="translated">Gender selection</target>
       </trans-unit>
-      <trans-unit id="893776" xml:space="preserve">
+      <trans-unit id="893776" xml:space="preserve" approved="no">
         <source>主人公の性別を|選んでください</source>
-        <target/>
+        <target state="translated">Select the|character's gender</target>
       </trans-unit>
       <trans-unit id="894188" xml:space="preserve">
         <source>マーベラス</source>

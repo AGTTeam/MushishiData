@@ -2,13 +2,13 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file xml:space="preserve" original="CM002_01.arc/CM002_01.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="10204" xml:space="preserve">
+      <trans-unit id="10204" xml:space="preserve" approved="no">
         <source>メインシナリオ</source>
-        <target/>
+        <target state="translated">Main Story</target>
       </trans-unit>
-      <trans-unit id="10220" xml:space="preserve">
+      <trans-unit id="10220" xml:space="preserve" approved="no">
         <source>サブシナリオ</source>
-        <target/>
+        <target state="translated">Sub-story</target>
       </trans-unit>
       <trans-unit id="10236" xml:space="preserve">
         <source>単体イベントチェック</source>
@@ -3836,7 +3836,7 @@
       </trans-unit>
       <trans-unit id="12960" xml:space="preserve" approved="no">
         <source>とはいえ、それに甘える|ばかりではいい里にならん。|村の者たちが努力した結果さ</source>
-        <target state="translated">But taking advantage of that doesn't make for a good village; it's all thanks to the hard work of the villagers. (TN: Let's hope this fits!)</target>
+        <target state="translated">That said, it's all thanks to the hard work of the villagers that the village is doing so well.</target>
       </trans-unit>
       <trans-unit id="13040" xml:space="preserve" approved="no">
         <source>お？</source>
@@ -3848,7 +3848,7 @@
       </trans-unit>
       <trans-unit id="13060" xml:space="preserve" approved="no">
         <source>……行くの？</source>
-        <target state="translated">…Are you leaving?</target>
+        <target state="translated">…Do you have to leave?</target>
       </trans-unit>
       <trans-unit id="13076" xml:space="preserve" approved="no">
         <source>ああ。|ちょっと厄介なことが|起きてるらしい</source>
@@ -3908,7 +3908,7 @@
       </trans-unit>
       <trans-unit id="13544" xml:space="preserve" approved="no">
         <source>いいけど、あんなんでいいの？</source>
-        <target state="translated">Okay, but are you sure?</target>
+        <target state="translated">Is that okay for me to do?</target>
       </trans-unit>
       <trans-unit id="13576" xml:space="preserve" approved="no">
         <source>いや、なかなかのもんさ。|場合によっちゃ、|他の蟲師にも見せるかもしれん</source>
@@ -12414,17 +12414,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="11632" xml:space="preserve">
+      <trans-unit id="11632" xml:space="preserve" approved="no">
         <source>（よし、採取できた。|家で「蟲の記録」をつけて|ヤクノに報告しよう）</source>
-        <target/>
+        <target state="translated">(Okay, I caught it. Don't forget to update the mushi record and report it to Yakuno.)</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="SCZ03_02_20.arc/SCZ03_02_20.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="6612" xml:space="preserve">
+      <trans-unit id="6612" xml:space="preserve" approved="no">
         <source>システム</source>
-        <target/>
+        <target state="translated">System</target>
       </trans-unit>
       <trans-unit id="6624" xml:space="preserve">
         <source>[mushi001]|の採取に失敗しました</source>
