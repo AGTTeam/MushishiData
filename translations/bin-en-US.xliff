@@ -2,201 +2,201 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file xml:space="preserve" original="bin" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="867392" xml:space="preserve">
+      <trans-unit id="867392" xml:space="preserve" approved="no">
         <source>七</source>
-        <target/>
+        <target state="translated">7</target>
       </trans-unit>
-      <trans-unit id="867396" xml:space="preserve">
+      <trans-unit id="867396" xml:space="preserve" approved="no">
         <source>二</source>
-        <target/>
+        <target state="translated">2</target>
       </trans-unit>
-      <trans-unit id="867400" xml:space="preserve">
+      <trans-unit id="867400" xml:space="preserve" approved="no">
         <source>池</source>
-        <target/>
+        <target state="translated">Pond</target>
       </trans-unit>
-      <trans-unit id="867404" xml:space="preserve">
+      <trans-unit id="867404" xml:space="preserve" approved="no">
         <source>夕</source>
-        <target/>
+        <target state="translated">Evening</target>
       </trans-unit>
-      <trans-unit id="867408" xml:space="preserve">
+      <trans-unit id="867408" xml:space="preserve" approved="no">
         <source>谷</source>
-        <target/>
+        <target state="translated">Valley</target>
       </trans-unit>
-      <trans-unit id="867412" xml:space="preserve">
+      <trans-unit id="867412" xml:space="preserve" approved="no">
         <source>栗</source>
-        <target/>
+        <target state="translated">Chestnut</target>
       </trans-unit>
-      <trans-unit id="867416" xml:space="preserve">
+      <trans-unit id="867416" xml:space="preserve" approved="no">
         <source>昼</source>
-        <target/>
+        <target state="translated">Noon</target>
       </trans-unit>
-      <trans-unit id="867420" xml:space="preserve">
+      <trans-unit id="867420" xml:space="preserve" approved="no">
         <source>四</source>
-        <target/>
+        <target state="translated">4</target>
       </trans-unit>
-      <trans-unit id="867424" xml:space="preserve">
+      <trans-unit id="867424" xml:space="preserve" approved="no">
         <source>九</source>
-        <target/>
+        <target state="translated">9</target>
       </trans-unit>
-      <trans-unit id="867428" xml:space="preserve">
+      <trans-unit id="867428" xml:space="preserve" approved="no">
         <source>沼</source>
-        <target/>
+        <target state="translated">Swamp</target>
       </trans-unit>
-      <trans-unit id="867432" xml:space="preserve">
+      <trans-unit id="867432" xml:space="preserve" approved="no">
         <source>田</source>
-        <target/>
+        <target state="translated">Field</target>
       </trans-unit>
-      <trans-unit id="867436" xml:space="preserve">
+      <trans-unit id="867436" xml:space="preserve" approved="no">
         <source>〇</source>
-        <target/>
+        <target state="translated">0</target>
       </trans-unit>
-      <trans-unit id="867440" xml:space="preserve">
+      <trans-unit id="867440" xml:space="preserve" approved="no">
         <source>八</source>
-        <target/>
+        <target state="translated">8</target>
       </trans-unit>
-      <trans-unit id="867444" xml:space="preserve">
+      <trans-unit id="867444" xml:space="preserve" approved="no">
         <source>丘</source>
-        <target/>
+        <target state="translated">Hill</target>
       </trans-unit>
-      <trans-unit id="867448" xml:space="preserve">
+      <trans-unit id="867448" xml:space="preserve" approved="no">
         <source>夜</source>
-        <target/>
+        <target state="translated">Night</target>
       </trans-unit>
-      <trans-unit id="867452" xml:space="preserve">
+      <trans-unit id="867452" xml:space="preserve" approved="no">
         <source>一</source>
-        <target/>
+        <target state="translated">1</target>
       </trans-unit>
-      <trans-unit id="867456" xml:space="preserve">
+      <trans-unit id="867456" xml:space="preserve" approved="no">
         <source>三</source>
-        <target/>
+        <target state="translated">3</target>
       </trans-unit>
-      <trans-unit id="867460" xml:space="preserve">
+      <trans-unit id="867460" xml:space="preserve" approved="no">
         <source>森</source>
-        <target/>
+        <target state="translated">Forest</target>
       </trans-unit>
-      <trans-unit id="867464" xml:space="preserve">
+      <trans-unit id="867464" xml:space="preserve" approved="no">
         <source>五</source>
-        <target/>
+        <target state="translated">5</target>
       </trans-unit>
-      <trans-unit id="867468" xml:space="preserve">
+      <trans-unit id="867468" xml:space="preserve" approved="no">
         <source>六</source>
-        <target/>
+        <target state="translated">6</target>
       </trans-unit>
-      <trans-unit id="867572" xml:space="preserve">
+      <trans-unit id="867572" xml:space="preserve" approved="no">
         <source>大豆</source>
-        <target/>
+        <target state="translated">Soybean</target>
       </trans-unit>
-      <trans-unit id="867580" xml:space="preserve">
+      <trans-unit id="867580" xml:space="preserve" approved="no">
         <source>山芋</source>
-        <target/>
+        <target state="translated">Yam</target>
       </trans-unit>
-      <trans-unit id="867588" xml:space="preserve">
+      <trans-unit id="867588" xml:space="preserve" approved="no">
         <source>フナ</source>
-        <target/>
+        <target state="translated">Crucian Carp</target>
       </trans-unit>
-      <trans-unit id="867596" xml:space="preserve">
+      <trans-unit id="867596" xml:space="preserve" approved="no">
         <source>滝壺</source>
-        <target/>
+        <target state="translated">Basin</target>
       </trans-unit>
-      <trans-unit id="867604" xml:space="preserve">
+      <trans-unit id="867604" xml:space="preserve" approved="no">
         <source>枝豆</source>
-        <target/>
+        <target state="translated">Edamame</target>
       </trans-unit>
-      <trans-unit id="867612" xml:space="preserve">
+      <trans-unit id="867612" xml:space="preserve" approved="no">
         <source>里芋</source>
-        <target/>
+        <target state="translated">Taro</target>
       </trans-unit>
-      <trans-unit id="867620" xml:space="preserve">
+      <trans-unit id="867620" xml:space="preserve" approved="no">
         <source>大根</source>
-        <target/>
+        <target state="translated">Daikon</target>
       </trans-unit>
-      <trans-unit id="867628" xml:space="preserve">
+      <trans-unit id="867628" xml:space="preserve" approved="no">
         <source>なす</source>
-        <target/>
+        <target state="translated">Eggplant</target>
       </trans-unit>
-      <trans-unit id="867636" xml:space="preserve">
+      <trans-unit id="867636" xml:space="preserve" approved="no">
         <source>納豆</source>
-        <target/>
+        <target state="translated">Natto</target>
       </trans-unit>
-      <trans-unit id="867644" xml:space="preserve">
+      <trans-unit id="867644" xml:space="preserve" approved="no">
         <source>山桃</source>
-        <target/>
+        <target state="translated">Mountain Peach</target>
       </trans-unit>
-      <trans-unit id="867652" xml:space="preserve">
+      <trans-unit id="867652" xml:space="preserve" approved="no">
         <source>コイ</source>
-        <target/>
+        <target state="translated">Koi</target>
       </trans-unit>
-      <trans-unit id="867660" xml:space="preserve">
+      <trans-unit id="867660" xml:space="preserve" approved="no">
         <source>竹林</source>
-        <target/>
+        <target state="translated">Bamboo Grove</target>
       </trans-unit>
-      <trans-unit id="867668" xml:space="preserve">
+      <trans-unit id="867668" xml:space="preserve" approved="no">
         <source>雪山</source>
-        <target/>
+        <target state="translated">Mountain</target>
       </trans-unit>
-      <trans-unit id="867676" xml:space="preserve">
+      <trans-unit id="867676" xml:space="preserve" approved="no">
         <source>集落</source>
-        <target/>
+        <target state="translated">Village</target>
       </trans-unit>
-      <trans-unit id="867684" xml:space="preserve">
+      <trans-unit id="867684" xml:space="preserve" approved="no">
         <source>蟲煙草</source>
-        <target/>
+        <target state="translated">Mushi Tobacco</target>
       </trans-unit>
-      <trans-unit id="867692" xml:space="preserve">
+      <trans-unit id="867692" xml:space="preserve" approved="no">
         <source>一日中</source>
-        <target/>
+        <target state="translated">All Day</target>
       </trans-unit>
-      <trans-unit id="867700" xml:space="preserve">
+      <trans-unit id="867700" xml:space="preserve" approved="no">
         <source>蟲ビン</source>
-        <target/>
+        <target state="translated">Mushi Jar</target>
       </trans-unit>
-      <trans-unit id="867708" xml:space="preserve">
+      <trans-unit id="867708" xml:space="preserve" approved="no">
         <source>釣り竿</source>
-        <target/>
+        <target state="translated">Fishing Rod</target>
       </trans-unit>
-      <trans-unit id="867716" xml:space="preserve">
+      <trans-unit id="867716" xml:space="preserve" approved="no">
         <source>わらび</source>
-        <target/>
+        <target state="translated">Bracken</target>
       </trans-unit>
-      <trans-unit id="867724" xml:space="preserve">
+      <trans-unit id="867724" xml:space="preserve" approved="no">
         <source>イワナ</source>
-        <target/>
+        <target state="translated">Char</target>
       </trans-unit>
-      <trans-unit id="867732" xml:space="preserve">
+      <trans-unit id="867732" xml:space="preserve" approved="no">
         <source>ヤマメ</source>
-        <target/>
+        <target state="translated">Salmon</target>
       </trans-unit>
-      <trans-unit id="867740" xml:space="preserve">
+      <trans-unit id="867740" xml:space="preserve" approved="no">
         <source>ナマズ</source>
-        <target/>
+        <target state="translated">Catfish</target>
       </trans-unit>
-      <trans-unit id="867748" xml:space="preserve">
+      <trans-unit id="867748" xml:space="preserve" approved="no">
         <source>お弁当</source>
-        <target/>
+        <target state="translated">Bento</target>
       </trans-unit>
-      <trans-unit id="867756" xml:space="preserve">
+      <trans-unit id="867756" xml:space="preserve" approved="no">
         <source>昼～夕</source>
-        <target/>
+        <target state="translated">Noon～Evening</target>
       </trans-unit>
-      <trans-unit id="867764" xml:space="preserve">
+      <trans-unit id="867764" xml:space="preserve" approved="no">
         <source>花行燈</source>
-        <target/>
+        <target state="translated">Flower Lantern</target>
       </trans-unit>
-      <trans-unit id="867780" xml:space="preserve">
+      <trans-unit id="867780" xml:space="preserve" approved="no">
         <source>夕～夜</source>
-        <target/>
+        <target state="translated">Evening～Night</target>
       </trans-unit>
-      <trans-unit id="867788" xml:space="preserve">
+      <trans-unit id="867788" xml:space="preserve" approved="no">
         <source>川沿い</source>
-        <target/>
+        <target state="translated">Riverside</target>
       </trans-unit>
-      <trans-unit id="867796" xml:space="preserve">
+      <trans-unit id="867796" xml:space="preserve" approved="no">
         <source>夜～昼</source>
-        <target/>
+        <target state="translated">Night～Noon</target>
       </trans-unit>
-      <trans-unit id="867804" xml:space="preserve">
+      <trans-unit id="867804" xml:space="preserve" approved="no">
         <source>贈り物</source>
-        <target/>
+        <target state="translated">Gift</target>
       </trans-unit>
       <trans-unit id="869808" xml:space="preserve" approved="no">
         <source>続きから</source>
@@ -226,29 +226,29 @@
         <source>足跡異常</source>
         <target/>
       </trans-unit>
-      <trans-unit id="870084" xml:space="preserve">
+      <trans-unit id="870084" xml:space="preserve" approved="no">
         <source>ぜんまい</source>
-        <target/>
+        <target state="translated">Fern</target>
       </trans-unit>
-      <trans-unit id="870120" xml:space="preserve">
+      <trans-unit id="870120" xml:space="preserve" approved="no">
         <source>しいたけ</source>
-        <target/>
+        <target state="translated">Shiitake</target>
       </trans-unit>
-      <trans-unit id="870156" xml:space="preserve">
+      <trans-unit id="870156" xml:space="preserve" approved="no">
         <source>にんじん</source>
-        <target/>
+        <target state="translated">Carrot</target>
       </trans-unit>
-      <trans-unit id="870180" xml:space="preserve">
+      <trans-unit id="870180" xml:space="preserve" approved="no">
         <source>タケノコ</source>
-        <target/>
+        <target state="translated">Bamboo shoot</target>
       </trans-unit>
-      <trans-unit id="870204" xml:space="preserve">
+      <trans-unit id="870204" xml:space="preserve" approved="no">
         <source>きゅうり</source>
-        <target/>
+        <target state="translated">Cucumber</target>
       </trans-unit>
-      <trans-unit id="870252" xml:space="preserve">
+      <trans-unit id="870252" xml:space="preserve" approved="no">
         <source>野いちご</source>
-        <target/>
+        <target state="translated">Strawberry</target>
       </trans-unit>
       <trans-unit id="870384" xml:space="preserve">
         <source>会話異常</source>
@@ -270,9 +270,9 @@
         <source>『陰火』</source>
         <target/>
       </trans-unit>
-      <trans-unit id="870720" xml:space="preserve">
+      <trans-unit id="870720" xml:space="preserve" approved="no">
         <source>特になし</source>
-        <target/>
+        <target state="translated">Nowhere|special</target>
       </trans-unit>
       <trans-unit id="870888" xml:space="preserve">
         <source>『虚繭』</source>
@@ -298,13 +298,13 @@
         <source>ふきのとう</source>
         <target/>
       </trans-unit>
-      <trans-unit id="871956" xml:space="preserve">
+      <trans-unit id="871956" xml:space="preserve" approved="no">
         <source>じゃがいも</source>
-        <target/>
+        <target state="translated">Potato</target>
       </trans-unit>
-      <trans-unit id="871968" xml:space="preserve">
+      <trans-unit id="871968" xml:space="preserve" approved="no">
         <source>さつまいも</source>
-        <target/>
+        <target state="translated">Sweet Potato</target>
       </trans-unit>
       <trans-unit id="871980" xml:space="preserve">
         <source>薬草・青根</source>
@@ -474,9 +474,9 @@
         <source>無限おむすび</source>
         <target/>
       </trans-unit>
-      <trans-unit id="872688" xml:space="preserve">
+      <trans-unit id="872688" xml:space="preserve" approved="no">
         <source>たらのきの芽</source>
-        <target/>
+        <target state="translated">Taranoki Bud</target>
       </trans-unit>
       <trans-unit id="872704" xml:space="preserve">
         <source>蟲気抜きの薬</source>
@@ -554,9 +554,9 @@
         <source>『生き神信仰』</source>
         <target/>
       </trans-unit>
-      <trans-unit id="873376" xml:space="preserve">
+      <trans-unit id="873376" xml:space="preserve" approved="no">
         <source>おはじきっぽい石</source>
-        <target/>
+        <target state="translated">Marble-like Stone</target>
       </trans-unit>
       <trans-unit id="873396" xml:space="preserve">
         <source>しがない新参蟲師</source>
@@ -786,61 +786,61 @@
         <source>タッチペンで障子を|タッチして、あけた穴|からしんらの持つ筆を|覗き見しましょう</source>
         <target/>
       </trans-unit>
-      <trans-unit id="885708" xml:space="preserve">
+      <trans-unit id="885708" xml:space="preserve" approved="no">
         <source>蟲の記録</source>
-        <target/>
+        <target state="translated">Mushi Record</target>
       </trans-unit>
-      <trans-unit id="885720" xml:space="preserve">
+      <trans-unit id="885720" xml:space="preserve" approved="no">
         <source>寝る</source>
-        <target/>
+        <target state="translated">Sleep</target>
       </trans-unit>
-      <trans-unit id="885728" xml:space="preserve">
+      <trans-unit id="885728" xml:space="preserve" approved="no">
         <source>日記をつける</source>
-        <target/>
+        <target state="translated">Save Game</target>
       </trans-unit>
-      <trans-unit id="885744" xml:space="preserve">
+      <trans-unit id="885744" xml:space="preserve" approved="no">
         <source>タイトルへ戻る</source>
-        <target/>
+        <target state="translated">Back to Title</target>
       </trans-unit>
-      <trans-unit id="885832" xml:space="preserve">
+      <trans-unit id="885832" xml:space="preserve" approved="no">
         <source>●発見者|　・</source>
-        <target/>
+        <target state="translated">●Discoverer|　・</target>
       </trans-unit>
-      <trans-unit id="885848" xml:space="preserve">
+      <trans-unit id="885848" xml:space="preserve" approved="no">
         <source>●蟲の名前|　・</source>
-        <target/>
+        <target state="translated">●Mushi Name|　・</target>
       </trans-unit>
-      <trans-unit id="885864" xml:space="preserve">
+      <trans-unit id="885864" xml:space="preserve" approved="no">
         <source>未記入</source>
-        <target/>
+        <target state="translated">Blank</target>
       </trans-unit>
-      <trans-unit id="885872" xml:space="preserve">
+      <trans-unit id="885872" xml:space="preserve" approved="no">
         <source>●棲息場所|　・</source>
-        <target/>
+        <target state="translated">●Habitat|　・</target>
       </trans-unit>
-      <trans-unit id="885896" xml:space="preserve">
+      <trans-unit id="885896" xml:space="preserve" approved="no">
         <source>●出没時間帯|　・</source>
-        <target/>
+        <target state="translated">●Haunting Time|　・</target>
       </trans-unit>
-      <trans-unit id="885924" xml:space="preserve">
+      <trans-unit id="885924" xml:space="preserve" approved="no">
         <source>蟲の名前</source>
-        <target/>
+        <target state="translated">Mushi Name</target>
       </trans-unit>
-      <trans-unit id="885936" xml:space="preserve">
+      <trans-unit id="885936" xml:space="preserve" approved="no">
         <source>棲息場所</source>
-        <target/>
+        <target state="translated">Habitat</target>
       </trans-unit>
-      <trans-unit id="885948" xml:space="preserve">
+      <trans-unit id="885948" xml:space="preserve" approved="no">
         <source>出没時間帯</source>
-        <target/>
+        <target state="translated">Haunting Time</target>
       </trans-unit>
-      <trans-unit id="885964" xml:space="preserve">
+      <trans-unit id="885964" xml:space="preserve" approved="no">
         <source>●図解</source>
-        <target/>
+        <target state="translated">●Illustration</target>
       </trans-unit>
-      <trans-unit id="886016" xml:space="preserve">
+      <trans-unit id="886016" xml:space="preserve" approved="no">
         <source>●虚繭でヤクノに報告|　・</source>
-        <target/>
+        <target state="translated">●Report to Yakuno|　・</target>
       </trans-unit>
       <trans-unit id="886044" xml:space="preserve">
         <source>ヤクノ返答済み</source>
@@ -850,9 +850,9 @@
         <source>ヤクノに報告中</source>
         <target/>
       </trans-unit>
-      <trans-unit id="886076" xml:space="preserve">
+      <trans-unit id="886076" xml:space="preserve" approved="no">
         <source>未報告</source>
-        <target/>
+        <target state="translated">Unreported</target>
       </trans-unit>
       <trans-unit id="886084" xml:space="preserve">
         <source>報告中です</source>
@@ -862,13 +862,13 @@
         <source>この蟲の記録を|虚繭で報告しました</source>
         <target/>
       </trans-unit>
-      <trans-unit id="886132" xml:space="preserve">
+      <trans-unit id="886132" xml:space="preserve" approved="no">
         <source>この蟲の記録は|未記入の箇所があるため|報告できません</source>
-        <target/>
+        <target state="translated">This mushi record cannot|be reported because|it is incomplete</target>
       </trans-unit>
-      <trans-unit id="886188" xml:space="preserve">
+      <trans-unit id="886188" xml:space="preserve" approved="no">
         <source>蟲の図解描画</source>
-        <target/>
+        <target state="translated">Mushi Illustration</target>
       </trans-unit>
       <trans-unit id="886260" xml:space="preserve">
         <source>読みたい調書を|選んでください</source>
@@ -890,49 +890,49 @@
         <source>阿うんについて３</source>
         <target/>
       </trans-unit>
-      <trans-unit id="886368" xml:space="preserve">
+      <trans-unit id="886368" xml:space="preserve" approved="no">
         <source>これまでの行動を|記録します</source>
-        <target/>
+        <target state="translated">Save your progress</target>
       </trans-unit>
-      <trans-unit id="886396" xml:space="preserve">
+      <trans-unit id="886396" xml:space="preserve" approved="no">
         <source>日記を|更新しますか？</source>
-        <target/>
+        <target state="translated">Do you want to|save the game?</target>
       </trans-unit>
-      <trans-unit id="886420" xml:space="preserve">
+      <trans-unit id="886420" xml:space="preserve" approved="no">
         <source>・はい</source>
-        <target/>
+        <target state="translated">・Yes</target>
       </trans-unit>
-      <trans-unit id="886428" xml:space="preserve">
+      <trans-unit id="886428" xml:space="preserve" approved="no">
         <source>・いいえ</source>
-        <target/>
+        <target state="translated">・No</target>
       </trans-unit>
-      <trans-unit id="886440" xml:space="preserve">
+      <trans-unit id="886440" xml:space="preserve" approved="no">
         <source>タイトル画面に|戻ることができます</source>
-        <target/>
+        <target state="translated">Return to title screen</target>
       </trans-unit>
-      <trans-unit id="886476" xml:space="preserve">
+      <trans-unit id="886476" xml:space="preserve" approved="no">
         <source>タイトル画面に|戻りますか？</source>
-        <target/>
+        <target state="translated">Do you want to return|to the title screen?</target>
       </trans-unit>
-      <trans-unit id="890252" xml:space="preserve">
+      <trans-unit id="890252" xml:space="preserve" approved="no">
         <source>セーブデータが|こわれています</source>
-        <target/>
+        <target state="translated">Save data is corrupted</target>
       </trans-unit>
-      <trans-unit id="890292" xml:space="preserve">
+      <trans-unit id="890292" xml:space="preserve" approved="no">
         <source>記録しています|電源を切らないで|下さい</source>
-        <target/>
+        <target state="translated">Do not turn off|the game while|it is saving</target>
       </trans-unit>
       <trans-unit id="890336" xml:space="preserve" approved="no">
         <source>名前　</source>
-        <target state="translated">Name: </target>
+        <target state="translated">Name:　</target>
       </trans-unit>
       <trans-unit id="890344" xml:space="preserve" approved="no">
         <source>名前の入力</source>
-        <target state="translated">Enter name</target>
+        <target state="translated">Enter Name</target>
       </trans-unit>
       <trans-unit id="890356" xml:space="preserve" approved="no">
         <source>主人公の名前を|決めてください</source>
-        <target state="translated">Pick a name for|the character</target>
+        <target state="translated">Write a name for|your character</target>
       </trans-unit>
       <trans-unit id="891020" xml:space="preserve">
         <source>タッチペンで|赤い文章を|タッチしましょう</source>
@@ -946,25 +946,25 @@
         <source>持ち物</source>
         <target/>
       </trans-unit>
-      <trans-unit id="892144" xml:space="preserve">
+      <trans-unit id="892144" xml:space="preserve" approved="no">
         <source>採取した蟲</source>
-        <target/>
+        <target state="translated">Collected Mushi</target>
       </trans-unit>
-      <trans-unit id="892156" xml:space="preserve">
+      <trans-unit id="892156" xml:space="preserve" approved="no">
         <source>薬の作成</source>
-        <target/>
+        <target state="translated">Make Medicine</target>
       </trans-unit>
-      <trans-unit id="892168" xml:space="preserve">
+      <trans-unit id="892168" xml:space="preserve" approved="no">
         <source>虚繭</source>
-        <target/>
+        <target state="translated">Uro Cocoon</target>
       </trans-unit>
-      <trans-unit id="892176" xml:space="preserve">
+      <trans-unit id="892176" xml:space="preserve" approved="no">
         <source>時間を進める</source>
-        <target/>
+        <target state="translated">Pass Time</target>
       </trans-unit>
-      <trans-unit id="892192" xml:space="preserve">
+      <trans-unit id="892192" xml:space="preserve" approved="no">
         <source>状態</source>
-        <target/>
+        <target state="translated">Status</target>
       </trans-unit>
       <trans-unit id="892200" xml:space="preserve">
         <source>持ち物を|選択してください</source>
@@ -1002,13 +1002,13 @@
         <source>特に効果は|ありませんでした</source>
         <target/>
       </trans-unit>
-      <trans-unit id="892468" xml:space="preserve">
+      <trans-unit id="892468" xml:space="preserve" approved="no">
         <source>採取した蟲です|４匹まで所持|できます</source>
-        <target/>
+        <target state="translated">You can hold up to|4 mushi at once</target>
       </trans-unit>
-      <trans-unit id="892512" xml:space="preserve">
+      <trans-unit id="892512" xml:space="preserve" approved="no">
         <source>逃がしますか？</source>
-        <target/>
+        <target state="translated">Release it?</target>
       </trans-unit>
       <trans-unit id="892552" xml:space="preserve">
         <source>処方箋を選んで|ください</source>
@@ -1050,9 +1050,9 @@
         <source>どの時間まで|進めますか？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="892952" xml:space="preserve">
+      <trans-unit id="892952" xml:space="preserve" approved="no">
         <source>夕方</source>
-        <target/>
+        <target state="translated">Evening</target>
       </trans-unit>
       <trans-unit id="892964" xml:space="preserve">
         <source>野宿をする</source>
@@ -1074,41 +1074,41 @@
         <source>異常あり</source>
         <target/>
       </trans-unit>
-      <trans-unit id="893064" xml:space="preserve">
+      <trans-unit id="893064" xml:space="preserve" approved="no">
         <source>良好</source>
-        <target/>
+        <target state="translated">Good</target>
       </trans-unit>
-      <trans-unit id="893072" xml:space="preserve">
+      <trans-unit id="893072" xml:space="preserve" approved="no">
         <source>称号</source>
-        <target/>
+        <target state="translated">Title</target>
       </trans-unit>
-      <trans-unit id="893080" xml:space="preserve">
+      <trans-unit id="893080" xml:space="preserve" approved="no">
         <source>身体の状態</source>
-        <target/>
+        <target state="translated">Physical Condition</target>
       </trans-unit>
       <trans-unit id="893456" xml:space="preserve" approved="no">
         <source>始める</source>
         <target state="translated">Start</target>
       </trans-unit>
-      <trans-unit id="893544" xml:space="preserve">
+      <trans-unit id="893544" xml:space="preserve" approved="no">
         <source>データを消去します|よろしいですか？</source>
-        <target/>
+        <target state="translated">Are you sure you want|to clear your data?</target>
       </trans-unit>
-      <trans-unit id="893600" xml:space="preserve">
+      <trans-unit id="893600" xml:space="preserve" approved="no">
         <source>本当に消去します|よろしいですか？</source>
-        <target/>
+        <target state="translated">Are you REALLY sure?</target>
       </trans-unit>
-      <trans-unit id="893656" xml:space="preserve">
+      <trans-unit id="893656" xml:space="preserve" approved="no">
         <source>データを|消去しました</source>
-        <target/>
+        <target state="translated">Your data has|been cleared</target>
       </trans-unit>
       <trans-unit id="893764" xml:space="preserve" approved="no">
         <source>性別の選択</source>
-        <target state="translated">Gender selection</target>
+        <target state="translated">Gender Selection</target>
       </trans-unit>
       <trans-unit id="893776" xml:space="preserve" approved="no">
         <source>主人公の性別を|選んでください</source>
-        <target state="translated">Select the|character's gender</target>
+        <target state="translated">Select your|character's gender</target>
       </trans-unit>
       <trans-unit id="894188" xml:space="preserve">
         <source>マーベラス</source>
@@ -1134,9 +1134,9 @@
         <source>十字キー左を押しながらＡボタンで|「上質な蟲ピン」と「蟲封じの薬」を|持った状態になる</source>
         <target/>
       </trans-unit>
-      <trans-unit id="900028" xml:space="preserve">
+      <trans-unit id="900028" xml:space="preserve" approved="no">
         <source>蟲の採取</source>
-        <target/>
+        <target state="translated">Mushi Collection</target>
       </trans-unit>
     </body>
   </file>

@@ -13794,17 +13794,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="500" xml:space="preserve">
+      <trans-unit id="500" xml:space="preserve" approved="no">
         <source>（&lt;c red&gt;狩房文庫&lt;/c&gt;に行ってみようかな|確か、タイトルから|行けるんだったよな……）</source>
-        <target/>
+        <target state="translated">(I'm pretty sure you can access the &lt;c red&gt;Karibusa library&lt;/c&gt; from the title screen…)</target>
       </trans-unit>
-      <trans-unit id="588" xml:space="preserve">
+      <trans-unit id="588" xml:space="preserve" approved="no">
         <source>（タイトルへ戻る前に|ちゃんと日記をつけて|おこう……）</source>
-        <target/>
+        <target state="translated">(It's very important that you remember to save the game before returning to the title screen…)</target>
       </trans-unit>
-      <trans-unit id="644" xml:space="preserve">
+      <trans-unit id="644" xml:space="preserve" approved="no">
         <source>（&lt;c red&gt;狩房文庫&lt;/c&gt;に行ってみようかな|確か、タイトルから|行けるんだったよね……）</source>
-        <target/>
+        <target state="translated">(I'm pretty sure you can access the &lt;c red&gt;Karibusa library&lt;/c&gt; from the title screen…)</target>
       </trans-unit>
     </body>
   </file>
