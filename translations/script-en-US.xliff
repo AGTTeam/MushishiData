@@ -1370,17 +1370,17 @@
         <source>そうだね、気を付けてね</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2380" xml:space="preserve">
+      <trans-unit id="2380" xml:space="preserve" approved="no">
         <source>こんにちは|[name]お兄ちゃん</source>
-        <target/>
+        <target state="translated">Hello, [name]!</target>
       </trans-unit>
-      <trans-unit id="2412" xml:space="preserve">
+      <trans-unit id="2412" xml:space="preserve" approved="no">
         <source>こんにちは|[name]お姉ちゃん</source>
-        <target/>
+        <target state="translated">Hello, [name]!</target>
       </trans-unit>
-      <trans-unit id="2456" xml:space="preserve">
+      <trans-unit id="2456" xml:space="preserve" approved="no">
         <source>こんにちは</source>
-        <target/>
+        <target state="translated">Hello!</target>
       </trans-unit>
       <trans-unit id="2480" xml:space="preserve">
         <source>す、すごい声……|大丈夫？</source>

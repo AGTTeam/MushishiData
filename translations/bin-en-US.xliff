@@ -864,7 +864,7 @@
       </trans-unit>
       <trans-unit id="886132" xml:space="preserve" approved="no">
         <source>この蟲の記録は|未記入の箇所があるため|報告できません</source>
-        <target state="translated">This mushi record cannot|be reported because|it is incomplete</target>
+        <target state="translated">This mushi record|cannot be reported|because it is incomplete</target>
       </trans-unit>
       <trans-unit id="886188" xml:space="preserve" approved="no">
         <source>蟲の図解描画</source>
