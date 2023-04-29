@@ -124,7 +124,7 @@
       </trans-unit>
       <trans-unit id="867652" xml:space="preserve" approved="no">
         <source>コイ</source>
-        <target state="translated">Koi</target>
+        <target state="translated">Carp</target>
       </trans-unit>
       <trans-unit id="867660" xml:space="preserve" approved="no">
         <source>竹林</source>
@@ -258,9 +258,9 @@
         <source>空腹異常</source>
         <target/>
       </trans-unit>
-      <trans-unit id="870516" xml:space="preserve">
+      <trans-unit id="870516" xml:space="preserve" approved="no">
         <source>腰痛の薬</source>
-        <target/>
+        <target state="translated">Medicine for Back Pain</target>
       </trans-unit>
       <trans-unit id="870528" xml:space="preserve">
         <source>『野Б』</source>
@@ -282,9 +282,9 @@
         <source>初めから</source>
         <target state="translated">New Game</target>
       </trans-unit>
-      <trans-unit id="871596" xml:space="preserve">
+      <trans-unit id="871596" xml:space="preserve" approved="no">
         <source>狩房文庫</source>
-        <target/>
+        <target state="translated">Karibusa Library</target>
       </trans-unit>
       <trans-unit id="871920" xml:space="preserve">
         <source>気付けの薬</source>
@@ -294,9 +294,9 @@
         <source>立派な蟲師</source>
         <target/>
       </trans-unit>
-      <trans-unit id="871944" xml:space="preserve">
+      <trans-unit id="871944" xml:space="preserve" approved="no">
         <source>ふきのとう</source>
-        <target/>
+        <target state="translated">Fuki Bud</target>
       </trans-unit>
       <trans-unit id="871956" xml:space="preserve" approved="no">
         <source>じゃがいも</source>
@@ -306,109 +306,109 @@
         <source>さつまいも</source>
         <target state="translated">Sweet Potato</target>
       </trans-unit>
-      <trans-unit id="871980" xml:space="preserve">
+      <trans-unit id="871980" xml:space="preserve" approved="no">
         <source>薬草・青根</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Green Root</target>
       </trans-unit>
-      <trans-unit id="871992" xml:space="preserve">
+      <trans-unit id="871992" xml:space="preserve" approved="no">
         <source>薬草・赤根</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Red Root</target>
       </trans-unit>
-      <trans-unit id="872004" xml:space="preserve">
+      <trans-unit id="872004" xml:space="preserve" approved="no">
         <source>薬草・黄根</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Yellow Root</target>
       </trans-unit>
-      <trans-unit id="872016" xml:space="preserve">
+      <trans-unit id="872016" xml:space="preserve" approved="no">
         <source>薬草・白根</source>
-        <target/>
+        <target state="translated">Medicinal Herb・White Root</target>
       </trans-unit>
-      <trans-unit id="872028" xml:space="preserve">
+      <trans-unit id="872028" xml:space="preserve" approved="no">
         <source>薬草・黒根</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Black Root</target>
       </trans-unit>
-      <trans-unit id="872040" xml:space="preserve">
+      <trans-unit id="872040" xml:space="preserve" approved="no">
         <source>薬草・青葉</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Green Leaf</target>
       </trans-unit>
-      <trans-unit id="872052" xml:space="preserve">
+      <trans-unit id="872052" xml:space="preserve" approved="no">
         <source>薬草・赤葉</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Red Leaf</target>
       </trans-unit>
-      <trans-unit id="872064" xml:space="preserve">
+      <trans-unit id="872064" xml:space="preserve" approved="no">
         <source>薬草・黄葉</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Yellow Leaf</target>
       </trans-unit>
-      <trans-unit id="872076" xml:space="preserve">
+      <trans-unit id="872076" xml:space="preserve" approved="no">
         <source>薬草・白葉</source>
-        <target/>
+        <target state="translated">Medicinal Herb・White Leaf</target>
       </trans-unit>
-      <trans-unit id="872088" xml:space="preserve">
+      <trans-unit id="872088" xml:space="preserve" approved="no">
         <source>薬草・黒葉</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Black Leaf</target>
       </trans-unit>
-      <trans-unit id="872100" xml:space="preserve">
+      <trans-unit id="872100" xml:space="preserve" approved="no">
         <source>薬草・青皮</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872112" xml:space="preserve">
+      <trans-unit id="872112" xml:space="preserve" approved="no">
         <source>薬草・赤皮</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872124" xml:space="preserve">
+      <trans-unit id="872124" xml:space="preserve" approved="no">
         <source>薬草・黄皮</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872136" xml:space="preserve">
+      <trans-unit id="872136" xml:space="preserve" approved="no">
         <source>薬草・白皮</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872148" xml:space="preserve">
+      <trans-unit id="872148" xml:space="preserve" approved="no">
         <source>薬草・黒皮</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872160" xml:space="preserve">
+      <trans-unit id="872160" xml:space="preserve" approved="no">
         <source>薬草・青実</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872172" xml:space="preserve">
+      <trans-unit id="872172" xml:space="preserve" approved="no">
         <source>薬草・赤実</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872184" xml:space="preserve">
+      <trans-unit id="872184" xml:space="preserve" approved="no">
         <source>薬草・黄実</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872196" xml:space="preserve">
+      <trans-unit id="872196" xml:space="preserve" approved="no">
         <source>薬草・白実</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872208" xml:space="preserve">
+      <trans-unit id="872208" xml:space="preserve" approved="no">
         <source>薬草・黒実</source>
-        <target/>
+        <target state="translated">Medicinal Herb・</target>
       </trans-unit>
-      <trans-unit id="872220" xml:space="preserve">
+      <trans-unit id="872220" xml:space="preserve" approved="no">
         <source>薬草・青種</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Green Seed</target>
       </trans-unit>
-      <trans-unit id="872232" xml:space="preserve">
+      <trans-unit id="872232" xml:space="preserve" approved="no">
         <source>薬草・赤種</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Red Seed</target>
       </trans-unit>
-      <trans-unit id="872244" xml:space="preserve">
+      <trans-unit id="872244" xml:space="preserve" approved="no">
         <source>薬草・黄種</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Yellow Seed</target>
       </trans-unit>
-      <trans-unit id="872256" xml:space="preserve">
+      <trans-unit id="872256" xml:space="preserve" approved="no">
         <source>薬草・白種</source>
-        <target/>
+        <target state="translated">Medicinal Herb・White Seed</target>
       </trans-unit>
       <trans-unit id="872268" xml:space="preserve">
         <source>蟲払いの薬</source>
         <target/>
       </trans-unit>
-      <trans-unit id="872280" xml:space="preserve">
+      <trans-unit id="872280" xml:space="preserve" approved="no">
         <source>薬草・黒種</source>
-        <target/>
+        <target state="translated">Medicinal Herb・Black Seed</target>
       </trans-unit>
       <trans-unit id="872292" xml:space="preserve">
         <source>蟲封じの薬</source>
@@ -858,9 +858,9 @@
         <source>報告中です</source>
         <target/>
       </trans-unit>
-      <trans-unit id="886096" xml:space="preserve">
+      <trans-unit id="886096" xml:space="preserve" approved="no">
         <source>この蟲の記録を|虚繭で報告しました</source>
-        <target/>
+        <target state="translated">This mushi record|has been reported</target>
       </trans-unit>
       <trans-unit id="886132" xml:space="preserve" approved="no">
         <source>この蟲の記録は|未記入の箇所があるため|報告できません</source>
@@ -912,7 +912,7 @@
       </trans-unit>
       <trans-unit id="886476" xml:space="preserve" approved="no">
         <source>タイトル画面に|戻りますか？</source>
-        <target state="translated">Do you want to return|to the title screen?</target>
+        <target state="translated">Return to the|title screen?</target>
       </trans-unit>
       <trans-unit id="890252" xml:space="preserve" approved="no">
         <source>セーブデータが|こわれています</source>
@@ -942,9 +942,9 @@
         <source>「……描くとこ|見ちゃだめだよ」</source>
         <target/>
       </trans-unit>
-      <trans-unit id="892136" xml:space="preserve">
+      <trans-unit id="892136" xml:space="preserve" approved="no">
         <source>持ち物</source>
-        <target/>
+        <target state="translated">Inventory</target>
       </trans-unit>
       <trans-unit id="892144" xml:space="preserve" approved="no">
         <source>採取した蟲</source>
@@ -970,29 +970,29 @@
         <source>持ち物を|選択してください</source>
         <target/>
       </trans-unit>
-      <trans-unit id="892252" xml:space="preserve">
+      <trans-unit id="892252" xml:space="preserve" approved="no">
         <source>どうしますか？</source>
-        <target/>
+        <target state="translated">What should I do?</target>
       </trans-unit>
-      <trans-unit id="892268" xml:space="preserve">
+      <trans-unit id="892268" xml:space="preserve" approved="no">
         <source>・入れ替え</source>
-        <target/>
+        <target state="translated">・Swap</target>
       </trans-unit>
-      <trans-unit id="892280" xml:space="preserve">
+      <trans-unit id="892280" xml:space="preserve" approved="no">
         <source>・食べる</source>
-        <target/>
+        <target state="translated">・Eat</target>
       </trans-unit>
-      <trans-unit id="892292" xml:space="preserve">
+      <trans-unit id="892292" xml:space="preserve" approved="no">
         <source>・捨てる</source>
-        <target/>
+        <target state="translated">・Throw Away</target>
       </trans-unit>
-      <trans-unit id="892304" xml:space="preserve">
+      <trans-unit id="892304" xml:space="preserve" approved="no">
         <source>・戻る</source>
-        <target/>
+        <target state="translated">・Back</target>
       </trans-unit>
-      <trans-unit id="892340" xml:space="preserve">
+      <trans-unit id="892340" xml:space="preserve" approved="no">
         <source>・服用する</source>
-        <target/>
+        <target state="translated">・Take</target>
       </trans-unit>
       <trans-unit id="892372" xml:space="preserve">
         <source>|の治療ができました</source>
@@ -1014,17 +1014,17 @@
         <source>処方箋を選んで|ください</source>
         <target/>
       </trans-unit>
-      <trans-unit id="892652" xml:space="preserve">
+      <trans-unit id="892652" xml:space="preserve" approved="no">
         <source>調合</source>
-        <target/>
+        <target state="translated">Mixing</target>
       </trans-unit>
-      <trans-unit id="892684" xml:space="preserve">
+      <trans-unit id="892684" xml:space="preserve" approved="no">
         <source>調合する薬草を|選んでください</source>
-        <target/>
+        <target state="translated">Choose the herbs|you want to mix</target>
       </trans-unit>
-      <trans-unit id="892736" xml:space="preserve">
+      <trans-unit id="892736" xml:space="preserve" approved="no">
         <source>タッチペンでスライド|して、すり鉢の中を|かき混ぜてください</source>
-        <target/>
+        <target state="translated">Spin the stylus|inside the mortar|to mix the herbs</target>
       </trans-unit>
       <trans-unit id="892800" xml:space="preserve">
         <source>が|できました</source>
@@ -1046,9 +1046,9 @@
         <source>読みたい手紙を|選んでください</source>
         <target/>
       </trans-unit>
-      <trans-unit id="892924" xml:space="preserve">
+      <trans-unit id="892924" xml:space="preserve" approved="no">
         <source>どの時間まで|進めますか？</source>
-        <target/>
+        <target state="translated">How long to wait?</target>
       </trans-unit>
       <trans-unit id="892952" xml:space="preserve" approved="no">
         <source>夕方</source>
@@ -1096,11 +1096,11 @@
       </trans-unit>
       <trans-unit id="893600" xml:space="preserve" approved="no">
         <source>本当に消去します|よろしいですか？</source>
-        <target state="translated">Are you REALLY sure?</target>
+        <target state="translated">Are you REALLY|sure?</target>
       </trans-unit>
       <trans-unit id="893656" xml:space="preserve" approved="no">
         <source>データを|消去しました</source>
-        <target state="translated">Your data has|been cleared</target>
+        <target state="translated">Data has|been cleared</target>
       </trans-unit>
       <trans-unit id="893764" xml:space="preserve" approved="no">
         <source>性別の選択</source>
@@ -1110,9 +1110,9 @@
         <source>主人公の性別を|選んでください</source>
         <target state="translated">Select your|character's gender</target>
       </trans-unit>
-      <trans-unit id="894188" xml:space="preserve">
+      <trans-unit id="894188" xml:space="preserve" approved="no">
         <source>マーベラス</source>
-        <target/>
+        <target state="translated">Marvelous</target>
       </trans-unit>
       <trans-unit id="894344" xml:space="preserve">
         <source>村長：台詞振動異常</source>
