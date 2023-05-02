@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="870516" xml:space="preserve" approved="no">
         <source>腰痛の薬</source>
-        <target state="translated">Medicine for Back Pain</target>
+        <target state="translated">Back Medicine</target>
       </trans-unit>
       <trans-unit id="870528" xml:space="preserve">
         <source>『野Б』</source>
@@ -308,111 +308,111 @@
       </trans-unit>
       <trans-unit id="871980" xml:space="preserve" approved="no">
         <source>薬草・青根</source>
-        <target state="translated">Medicinal Herb・Green Root</target>
+        <target state="translated">Herb・Green Root</target>
       </trans-unit>
       <trans-unit id="871992" xml:space="preserve" approved="no">
         <source>薬草・赤根</source>
-        <target state="translated">Medicinal Herb・Red Root</target>
+        <target state="translated">Herb・Red Root</target>
       </trans-unit>
       <trans-unit id="872004" xml:space="preserve" approved="no">
         <source>薬草・黄根</source>
-        <target state="translated">Medicinal Herb・Yellow Root</target>
+        <target state="translated">Herb・Yellow Root</target>
       </trans-unit>
       <trans-unit id="872016" xml:space="preserve" approved="no">
         <source>薬草・白根</source>
-        <target state="translated">Medicinal Herb・White Root</target>
+        <target state="translated">Herb・White Root</target>
       </trans-unit>
       <trans-unit id="872028" xml:space="preserve" approved="no">
         <source>薬草・黒根</source>
-        <target state="translated">Medicinal Herb・Black Root</target>
+        <target state="translated">Herb・Black Root</target>
       </trans-unit>
       <trans-unit id="872040" xml:space="preserve" approved="no">
         <source>薬草・青葉</source>
-        <target state="translated">Medicinal Herb・Green Leaf</target>
+        <target state="translated">Herb・Green Leaf</target>
       </trans-unit>
       <trans-unit id="872052" xml:space="preserve" approved="no">
         <source>薬草・赤葉</source>
-        <target state="translated">Medicinal Herb・Red Leaf</target>
+        <target state="translated">Herb・Red Leaf</target>
       </trans-unit>
       <trans-unit id="872064" xml:space="preserve" approved="no">
         <source>薬草・黄葉</source>
-        <target state="translated">Medicinal Herb・Yellow Leaf</target>
+        <target state="translated">Herb・Yellow Leaf</target>
       </trans-unit>
       <trans-unit id="872076" xml:space="preserve" approved="no">
         <source>薬草・白葉</source>
-        <target state="translated">Medicinal Herb・White Leaf</target>
+        <target state="translated">Herb・White Leaf</target>
       </trans-unit>
       <trans-unit id="872088" xml:space="preserve" approved="no">
         <source>薬草・黒葉</source>
-        <target state="translated">Medicinal Herb・Black Leaf</target>
+        <target state="translated">Herb・Black Leaf</target>
       </trans-unit>
       <trans-unit id="872100" xml:space="preserve" approved="no">
         <source>薬草・青皮</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Green Bark</target>
       </trans-unit>
       <trans-unit id="872112" xml:space="preserve" approved="no">
         <source>薬草・赤皮</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Red Bark</target>
       </trans-unit>
       <trans-unit id="872124" xml:space="preserve" approved="no">
         <source>薬草・黄皮</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Yellow Bark</target>
       </trans-unit>
       <trans-unit id="872136" xml:space="preserve" approved="no">
         <source>薬草・白皮</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・White Bark</target>
       </trans-unit>
       <trans-unit id="872148" xml:space="preserve" approved="no">
         <source>薬草・黒皮</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Black Bark</target>
       </trans-unit>
       <trans-unit id="872160" xml:space="preserve" approved="no">
         <source>薬草・青実</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Green Berry</target>
       </trans-unit>
       <trans-unit id="872172" xml:space="preserve" approved="no">
         <source>薬草・赤実</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Red Berry</target>
       </trans-unit>
       <trans-unit id="872184" xml:space="preserve" approved="no">
         <source>薬草・黄実</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Yellow Berry</target>
       </trans-unit>
       <trans-unit id="872196" xml:space="preserve" approved="no">
         <source>薬草・白実</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・White Berry</target>
       </trans-unit>
       <trans-unit id="872208" xml:space="preserve" approved="no">
         <source>薬草・黒実</source>
-        <target state="translated">Medicinal Herb・</target>
+        <target state="translated">Herb・Black Berry</target>
       </trans-unit>
       <trans-unit id="872220" xml:space="preserve" approved="no">
         <source>薬草・青種</source>
-        <target state="translated">Medicinal Herb・Green Seed</target>
+        <target state="translated">Herb・Green Seed</target>
       </trans-unit>
       <trans-unit id="872232" xml:space="preserve" approved="no">
         <source>薬草・赤種</source>
-        <target state="translated">Medicinal Herb・Red Seed</target>
+        <target state="translated">Herb・Red Seed</target>
       </trans-unit>
       <trans-unit id="872244" xml:space="preserve" approved="no">
         <source>薬草・黄種</source>
-        <target state="translated">Medicinal Herb・Yellow Seed</target>
+        <target state="translated">Herb・Yellow Seed</target>
       </trans-unit>
       <trans-unit id="872256" xml:space="preserve" approved="no">
         <source>薬草・白種</source>
-        <target state="translated">Medicinal Herb・White Seed</target>
+        <target state="translated">Herb・White Seed</target>
       </trans-unit>
-      <trans-unit id="872268" xml:space="preserve">
+      <trans-unit id="872268" xml:space="preserve" approved="no">
         <source>蟲払いの薬</source>
-        <target/>
+        <target state="translated">Mushi Repellent</target>
       </trans-unit>
       <trans-unit id="872280" xml:space="preserve" approved="no">
         <source>薬草・黒種</source>
-        <target state="translated">Medicinal Herb・Black Seed</target>
+        <target state="translated">Herb・Black Seed</target>
       </trans-unit>
-      <trans-unit id="872292" xml:space="preserve">
+      <trans-unit id="872292" xml:space="preserve" approved="no">
         <source>蟲封じの薬</source>
-        <target/>
+        <target state="translated">Mushi Inhibitor</target>
       </trans-unit>
       <trans-unit id="872304" xml:space="preserve">
         <source>『神の筆』</source>
