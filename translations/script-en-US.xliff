@@ -20,47 +20,47 @@
       </trans-unit>
       <trans-unit id="10268" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０１　導入、ヤクノ登場</source>
-        <target state="translated">Ｍ０１＿０１　Introduction, Yakuno's Appearance</target>
+        <target state="translated">M01_01　Introduction, Yakuno appears</target>
       </trans-unit>
       <trans-unit id="10300" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０２　本編スタート</source>
-        <target state="translated">Ｍ０１＿０２　Main Story Start</target>
+        <target state="translated">M01_02　Main story start</target>
       </trans-unit>
-      <trans-unit id="10352" xml:space="preserve">
+      <trans-unit id="10352" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０３　村人達の点描１</source>
-        <target/>
+        <target state="translated">M01_03　Villagers' pointillism 1</target>
       </trans-unit>
-      <trans-unit id="10384" xml:space="preserve">
+      <trans-unit id="10384" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０４　村人達の点描２</source>
-        <target/>
+        <target state="translated">M01_04　Villagers' pointillism 2</target>
       </trans-unit>
-      <trans-unit id="10440" xml:space="preserve">
+      <trans-unit id="10440" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０５　村人達の点描３</source>
-        <target/>
+        <target state="translated">M01_05　Villagers' pointillism 3</target>
       </trans-unit>
-      <trans-unit id="10472" xml:space="preserve">
+      <trans-unit id="10472" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０６　動物、虫がいなくなる</source>
-        <target/>
+        <target state="translated">M01_06　Animals and insects disappear</target>
       </trans-unit>
-      <trans-unit id="10532" xml:space="preserve">
+      <trans-unit id="10532" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０７　村長と帷の影</source>
-        <target/>
+        <target state="translated">M01_07　The village chief and the shadow of the veil</target>
       </trans-unit>
-      <trans-unit id="10560" xml:space="preserve">
+      <trans-unit id="10560" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０８　村人達の噂</source>
-        <target/>
+        <target state="translated">M01_08　Villagers' rumors</target>
       </trans-unit>
-      <trans-unit id="10612" xml:space="preserve">
+      <trans-unit id="10612" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０９　ヤクノに手紙を出す</source>
-        <target/>
+        <target state="translated">M01_09　Send a letter to Yakuno</target>
       </trans-unit>
-      <trans-unit id="10648" xml:space="preserve">
+      <trans-unit id="10648" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１０　ヤクノから手紙が届く</source>
-        <target/>
+        <target state="translated">M01_10　Receive a letter from Yakuno</target>
       </trans-unit>
-      <trans-unit id="10708" xml:space="preserve">
+      <trans-unit id="10708" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１１　ギンコ登場</source>
-        <target/>
+        <target state="translated">M01_11　Ginko appears</target>
       </trans-unit>
       <trans-unit id="10736" xml:space="preserve">
         <source>Ｍ０１＿１３　蟲煙草（再確認）</source>
@@ -94,29 +94,29 @@
         <source>Ｍ０１＿２３　洞の中で、夜出直し</source>
         <target/>
       </trans-unit>
-      <trans-unit id="11084" xml:space="preserve">
+      <trans-unit id="11084" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２４　ギンコと里の状況</source>
-        <target/>
+        <target state="translated">M01_24　Ginko and the village situation</target>
       </trans-unit>
-      <trans-unit id="11140" xml:space="preserve">
+      <trans-unit id="11140" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２５　里の状況：山中</source>
-        <target/>
+        <target state="translated">M01_25　Village situation: In the mountains</target>
       </trans-unit>
-      <trans-unit id="11172" xml:space="preserve">
+      <trans-unit id="11172" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２６　里の状況：田んぼ</source>
-        <target/>
+        <target state="translated">M01_26　Village situation: Rice field</target>
       </trans-unit>
       <trans-unit id="11228" xml:space="preserve" approved="no">
         <source>おしまい</source>
         <target state="translated">End</target>
       </trans-unit>
-      <trans-unit id="11240" xml:space="preserve">
+      <trans-unit id="11240" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２７　里の状況：鶏</source>
-        <target/>
+        <target state="translated">M01_27　Village situation: Chicken</target>
       </trans-unit>
-      <trans-unit id="11268" xml:space="preserve">
+      <trans-unit id="11268" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２８　帷蟲降下、ＥＮＤ</source>
-        <target/>
+        <target state="translated">M01_28　Mushi veil descent, END</target>
       </trans-unit>
       <trans-unit id="11324" xml:space="preserve">
         <source>Ｓ０１＿０１　依頼：移動方向異常</source>
@@ -230,9 +230,9 @@
         <source>死んでいく蟲たちの光</source>
         <target/>
       </trans-unit>
-      <trans-unit id="12520" xml:space="preserve">
+      <trans-unit id="12520" xml:space="preserve" approved="no">
         <source>ヌシ登場</source>
-        <target/>
+        <target state="translated">Nushi appears</target>
       </trans-unit>
       <trans-unit id="12532" xml:space="preserve">
         <source>[name]</source>
@@ -250,9 +250,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="612" xml:space="preserve">
+      <trans-unit id="612" xml:space="preserve" approved="no">
         <source>（今の体力じゃ|この谷は越えられないな……）</source>
-        <target/>
+        <target state="translated">(I don't have enough energy to cross the valley…)</target>
       </trans-unit>
     </body>
   </file>
@@ -262,9 +262,9 @@
         <source>システム</source>
         <target state="translated">System</target>
       </trans-unit>
-      <trans-unit id="20624" xml:space="preserve">
+      <trans-unit id="20624" xml:space="preserve" approved="no">
         <source>&lt;c red&gt;シナリオチェッカー&lt;/c&gt;|を強制起動します</source>
-        <target/>
+        <target state="translated">Force start &lt;c red&gt;scenario checker&lt;/s&gt;</target>
       </trans-unit>
       <trans-unit id="20672" xml:space="preserve" approved="no">
         <source>メインシナリオ</source>
@@ -962,9 +962,9 @@
         <source>村長３</source>
         <target state="translated">Village Chief 3</target>
       </trans-unit>
-      <trans-unit id="2824" xml:space="preserve">
+      <trans-unit id="2824" xml:space="preserve" approved="no">
         <source>さ、里が……|何が起こっておるんだ</source>
-        <target/>
+        <target state="translated">The…the village…what's happening?</target>
       </trans-unit>
       <trans-unit id="2860" xml:space="preserve">
         <source>[name]</source>
@@ -1074,9 +1074,9 @@
   </file>
   <file xml:space="preserve" original="DC_027_0.arc/DC_027_0.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="2952" xml:space="preserve">
+      <trans-unit id="2952" xml:space="preserve" approved="no">
         <source>村の男１</source>
-        <target/>
+        <target state="translated">Village Man 1</target>
       </trans-unit>
       <trans-unit id="2964" xml:space="preserve">
         <source>田が急に……|どうしちまったんだ</source>
@@ -1090,25 +1090,25 @@
         <source>こんにちは|がんばってますね</source>
         <target/>
       </trans-unit>
-      <trans-unit id="3052" xml:space="preserve">
+      <trans-unit id="3052" xml:space="preserve" approved="no">
         <source>どうしたんだその声。|大丈夫か？</source>
-        <target/>
+        <target state="translated">What happened to your voice? Are you okay?</target>
       </trans-unit>
       <trans-unit id="3088" xml:space="preserve">
         <source>おう、お前も|がんばって働けよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="3120" xml:space="preserve">
+      <trans-unit id="3120" xml:space="preserve" approved="no">
         <source>ふうー、疲れた疲れた|今日も１日|一生懸命に働いた</source>
-        <target/>
+        <target state="translated">Phew, I'm exhausted. I worked hard all day today.</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="DC_028_0.arc/DC_028_0.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="1496" xml:space="preserve">
+      <trans-unit id="1496" xml:space="preserve" approved="no">
         <source>村の男２</source>
-        <target/>
+        <target state="translated">Village Man 2</target>
       </trans-unit>
       <trans-unit id="1508" xml:space="preserve">
         <source>おいおい、本当に|天変地異の前触れなんじゃ……</source>
@@ -11802,13 +11802,13 @@
         <source>システム</source>
         <target state="translated">System</target>
       </trans-unit>
-      <trans-unit id="216" xml:space="preserve">
+      <trans-unit id="216" xml:space="preserve" approved="no">
         <source>＊＊＊＊＊＊＊＊|を採取しました</source>
-        <target/>
+        <target state="translated">You caught ＊＊＊＊＊＊＊＊</target>
       </trans-unit>
-      <trans-unit id="252" xml:space="preserve">
+      <trans-unit id="252" xml:space="preserve" approved="no">
         <source>＊＊＊＊＊＊＊＊|の採取に失敗しました</source>
-        <target/>
+        <target state="translated">Failed to catch ＊＊＊＊＊＊＊＊</target>
       </trans-unit>
     </body>
   </file>
@@ -12416,7 +12416,7 @@
       </trans-unit>
       <trans-unit id="11632" xml:space="preserve" approved="no">
         <source>（よし、採取できた。|家で「蟲の記録」をつけて|ヤクノに報告しよう）</source>
-        <target state="translated">(Okay, I caught it. Don't forget to update the mushi record and report it to Yakuno.)</target>
+        <target state="translated">(Okay, I caught it. When I'm at home, I can update the mushi record and report it to Yakuno.)</target>
       </trans-unit>
     </body>
   </file>
@@ -13024,15 +13024,15 @@
       </trans-unit>
       <trans-unit id="11972" xml:space="preserve" approved="no">
         <source>（&lt;c red&gt;蟲封じの薬&lt;/c&gt;を使えば|採取しやすくなるかな）</source>
-        <target state="translated">(I wonder if using a mushi suppressant will make it easier to catch…)</target>
+        <target state="translated">(I wonder if using a mushi inhibitor will make it easier to catch…)</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="SCZ03_02_30.arc/SCZ03_02_30.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="6108" xml:space="preserve">
+      <trans-unit id="6108" xml:space="preserve" approved="no">
         <source>システム</source>
-        <target/>
+        <target state="translated">System</target>
       </trans-unit>
       <trans-unit id="6120" xml:space="preserve">
         <source>[mushi001]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
@@ -13634,17 +13634,17 @@
         <source>システム</source>
         <target state="translated">System</target>
       </trans-unit>
-      <trans-unit id="264" xml:space="preserve">
+      <trans-unit id="264" xml:space="preserve" approved="no">
         <source>＊＊＊＊＊＊＊＊|を釣りました</source>
-        <target/>
+        <target state="translated">You caught ＊＊＊＊＊＊＊＊</target>
       </trans-unit>
-      <trans-unit id="296" xml:space="preserve">
+      <trans-unit id="296" xml:space="preserve" approved="no">
         <source>釣れませんでした</source>
-        <target/>
+        <target state="translated">Failed to catch</target>
       </trans-unit>
-      <trans-unit id="316" xml:space="preserve">
+      <trans-unit id="316" xml:space="preserve" approved="no">
         <source>持ち物がいっぱいのため|釣りができません</source>
-        <target/>
+        <target state="translated">You cannot fish because your inventory is full</target>
       </trans-unit>
     </body>
   </file>
@@ -13654,37 +13654,37 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1392" xml:space="preserve">
+      <trans-unit id="1392" xml:space="preserve" approved="no">
         <source>（そろそろ寄り合いが|始まる時間だ）</source>
-        <target/>
+        <target state="translated">(It's almost time for the assembly to start.) temp 1</target>
       </trans-unit>
-      <trans-unit id="1444" xml:space="preserve">
+      <trans-unit id="1444" xml:space="preserve" approved="no">
         <source>（眠くなってきた）</source>
-        <target/>
+        <target state="translated">(I'm getting sleepy…)</target>
       </trans-unit>
       <trans-unit id="1464" xml:space="preserve">
         <source>（今日はもう、寝よう）</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1500" xml:space="preserve">
+      <trans-unit id="1500" xml:space="preserve" approved="no">
         <source>「家に帰って寝る」</source>
-        <target/>
+        <target state="translated">・Go home</target>
       </trans-unit>
-      <trans-unit id="1520" xml:space="preserve">
+      <trans-unit id="1520" xml:space="preserve" approved="no">
         <source>「ここで野宿をする」</source>
-        <target/>
+        <target state="translated">・Set up camp</target>
       </trans-unit>
-      <trans-unit id="1544" xml:space="preserve">
+      <trans-unit id="1544" xml:space="preserve" approved="no">
         <source>「家に帰って寝る」が選ばれた</source>
-        <target/>
+        <target state="translated">"Go home" was chosen</target>
       </trans-unit>
-      <trans-unit id="1576" xml:space="preserve">
+      <trans-unit id="1576" xml:space="preserve" approved="no">
         <source>（今日はもう、|家に帰って寝よう）</source>
-        <target/>
+        <target state="translated">(I'll go home to sleep.)</target>
       </trans-unit>
-      <trans-unit id="1612" xml:space="preserve">
+      <trans-unit id="1612" xml:space="preserve" approved="no">
         <source>「ここで野宿をする」が選ばれた</source>
-        <target/>
+        <target state="translated">"Set up camp" was chosen</target>
       </trans-unit>
       <trans-unit id="1644" xml:space="preserve">
         <source>（このところ、|不穏な雰囲気だから|やっぱり家に帰って寝よう）</source>
@@ -13694,9 +13694,9 @@
         <source>（今は、|ギンコさんが来ているから|やっぱり家に帰って寝よう）</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1772" xml:space="preserve">
+      <trans-unit id="1772" xml:space="preserve" approved="no">
         <source>（今日は、|ここで野宿をしよう）</source>
-        <target/>
+        <target state="translated">(I'll set up camp for the night.)</target>
       </trans-unit>
     </body>
   </file>
@@ -13706,9 +13706,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1980" xml:space="preserve">
+      <trans-unit id="1980" xml:space="preserve" approved="no">
         <source>（そろそろ寄り合いが|始まる時間だ）</source>
-        <target/>
+        <target state="translated">(It's almost time for the assembly to start.) temp 2</target>
       </trans-unit>
     </body>
   </file>
@@ -13718,9 +13718,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="5152" xml:space="preserve">
+      <trans-unit id="5152" xml:space="preserve" approved="no">
         <source>（そろそろ寄り合いが|始まる時間だ）</source>
-        <target/>
+        <target state="translated">(It's almost time for the assembly to start.) temp 3</target>
       </trans-unit>
     </body>
   </file>
@@ -13742,9 +13742,9 @@
         <source>（はぁ……|ちゃんと食べないと……）</source>
         <target/>
       </trans-unit>
-      <trans-unit id="3096" xml:space="preserve">
+      <trans-unit id="3096" xml:space="preserve" approved="no">
         <source>（そろそろ寄り合いが|始まる時間だ）</source>
-        <target/>
+        <target state="translated">(It's almost time for the assembly to start.) temp 4</target>
       </trans-unit>
     </body>
   </file>
