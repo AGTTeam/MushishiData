@@ -964,7 +964,7 @@
       </trans-unit>
       <trans-unit id="2824" xml:space="preserve" approved="no">
         <source>さ、里が……|何が起こっておるんだ</source>
-        <target state="translated">The…the village…what's happening?</target>
+        <target state="translated">The…the village… What's happening?</target>
       </trans-unit>
       <trans-unit id="2860" xml:space="preserve">
         <source>[name]</source>
@@ -1086,17 +1086,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="3008" xml:space="preserve">
+      <trans-unit id="3008" xml:space="preserve" approved="no">
         <source>こんにちは|がんばってますね</source>
-        <target/>
+        <target state="translated">Hello. Make sure to do your best!</target>
       </trans-unit>
       <trans-unit id="3052" xml:space="preserve" approved="no">
         <source>どうしたんだその声。|大丈夫か？</source>
         <target state="translated">What happened to your voice? Are you okay?</target>
       </trans-unit>
-      <trans-unit id="3088" xml:space="preserve">
+      <trans-unit id="3088" xml:space="preserve" approved="no">
         <source>おう、お前も|がんばって働けよ</source>
-        <target/>
+        <target state="translated">Oh, you make sure to do your best and work hard, too.</target>
       </trans-unit>
       <trans-unit id="3120" xml:space="preserve" approved="no">
         <source>ふうー、疲れた疲れた|今日も１日|一生懸命に働いた</source>
@@ -1122,9 +1122,9 @@
         <source>豊作になるといいですね</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1588" xml:space="preserve">
+      <trans-unit id="1588" xml:space="preserve" approved="no">
         <source>お、|声変りか？</source>
-        <target/>
+        <target state="translated">Oh, did your voice change?</target>
       </trans-unit>
       <trans-unit id="1608" xml:space="preserve">
         <source>ああ、しっかり育ってくれると|いいんだが</source>
@@ -1170,9 +1170,9 @@
   </file>
   <file xml:space="preserve" original="DC_030_0.arc/DC_030_0.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="2592" xml:space="preserve">
+      <trans-unit id="2592" xml:space="preserve" approved="no">
         <source>村の女１</source>
-        <target/>
+        <target state="translated">Village Woman 1</target>
       </trans-unit>
       <trans-unit id="2604" xml:space="preserve">
         <source>この里はいったい|どうしちまったんだい……</source>
@@ -1258,57 +1258,57 @@
         <source>そうだね、|気を付けるんだよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1496" xml:space="preserve">
+      <trans-unit id="1496" xml:space="preserve" approved="no">
         <source>こんにちは</source>
-        <target/>
+        <target state="translated">Hello.</target>
       </trans-unit>
-      <trans-unit id="1520" xml:space="preserve">
+      <trans-unit id="1520" xml:space="preserve" approved="no">
         <source>ど、どうしたの|その声……</source>
-        <target/>
+        <target state="translated">Wha…what happened to your voice?</target>
       </trans-unit>
-      <trans-unit id="1548" xml:space="preserve">
+      <trans-unit id="1548" xml:space="preserve" approved="no">
         <source>[name]お兄ちゃんは|釣りのやり方は知ってる？</source>
-        <target/>
+        <target state="translated">[name], do you know how to fish?</target>
       </trans-unit>
-      <trans-unit id="1596" xml:space="preserve">
+      <trans-unit id="1596" xml:space="preserve" approved="no">
         <source>[name]お姉ちゃんは|釣りのやり方は知ってる？</source>
-        <target/>
+        <target state="translated">[name], do you know how to fish?</target>
       </trans-unit>
-      <trans-unit id="1644" xml:space="preserve">
+      <trans-unit id="1644" xml:space="preserve" approved="no">
         <source>「うん、知ってる」</source>
-        <target/>
+        <target state="translated">"Yeah, I do."</target>
       </trans-unit>
-      <trans-unit id="1664" xml:space="preserve">
+      <trans-unit id="1664" xml:space="preserve" approved="no">
         <source>「知らないから教えて」</source>
-        <target/>
+        <target state="translated">"No, tell me."</target>
       </trans-unit>
-      <trans-unit id="1700" xml:space="preserve">
+      <trans-unit id="1700" xml:space="preserve" approved="no">
         <source>たくさん釣れるといいね</source>
-        <target/>
+        <target state="translated">I hope you'll catch lots of fish!</target>
       </trans-unit>
-      <trans-unit id="1724" xml:space="preserve">
+      <trans-unit id="1724" xml:space="preserve" approved="no">
         <source>滝壺や川、沼とかに近づいて|釣り竿を振った後</source>
-        <target/>
+        <target state="translated">Approach a body of water - like a waterfall basin, river, or swamp - and cast your fishing rod.</target>
       </trans-unit>
-      <trans-unit id="1772" xml:space="preserve">
+      <trans-unit id="1772" xml:space="preserve" approved="no">
         <source>少し待つと|魚がかかるから</source>
-        <target/>
+        <target state="translated">If you wait for a moment, a fish will bite.</target>
       </trans-unit>
-      <trans-unit id="1800" xml:space="preserve">
+      <trans-unit id="1800" xml:space="preserve" approved="no">
         <source>素早く、Ａボタンを押すか|タッチペンで|下画面をタッチするといいよ！</source>
-        <target/>
+        <target state="translated">Then, you'll have to quickly press the A button or touch the bottom screen with your stylus!</target>
       </trans-unit>
-      <trans-unit id="1880" xml:space="preserve">
+      <trans-unit id="1880" xml:space="preserve" approved="no">
         <source>ありがとう</source>
-        <target/>
+        <target state="translated">Thanks!</target>
       </trans-unit>
-      <trans-unit id="1892" xml:space="preserve">
+      <trans-unit id="1892" xml:space="preserve" approved="no">
         <source>がんばってね</source>
-        <target/>
+        <target state="translated">Do your best!</target>
       </trans-unit>
-      <trans-unit id="1908" xml:space="preserve">
+      <trans-unit id="1908" xml:space="preserve" approved="no">
         <source>おやすみなさい</source>
-        <target/>
+        <target state="translated">Goodnight.</target>
       </trans-unit>
     </body>
   </file>
@@ -1330,25 +1330,25 @@
         <source>うん、気を付けるんだよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1504" xml:space="preserve">
+      <trans-unit id="1504" xml:space="preserve" approved="no">
         <source>[name]兄ちゃん、|こんにちは</source>
-        <target/>
+        <target state="translated">Hello, [name].</target>
       </trans-unit>
-      <trans-unit id="1536" xml:space="preserve">
+      <trans-unit id="1536" xml:space="preserve" approved="no">
         <source>[name]姉ちゃん、|こんにちは</source>
-        <target/>
+        <target state="translated">Hello, [name].</target>
       </trans-unit>
-      <trans-unit id="1568" xml:space="preserve">
+      <trans-unit id="1568" xml:space="preserve" approved="no">
         <source>こんにちは</source>
-        <target/>
+        <target state="translated">Hello.</target>
       </trans-unit>
-      <trans-unit id="1592" xml:space="preserve">
+      <trans-unit id="1592" xml:space="preserve" approved="no">
         <source>だ、大丈夫？|ひっどい声だよ……</source>
-        <target/>
+        <target state="translated">A-are you okay? Your voice sounds weird…</target>
       </trans-unit>
-      <trans-unit id="1628" xml:space="preserve">
+      <trans-unit id="1628" xml:space="preserve" approved="no">
         <source>おやすみなさい</source>
-        <target/>
+        <target state="translated">Goodnight.</target>
       </trans-unit>
     </body>
   </file>
@@ -1372,31 +1372,31 @@
       </trans-unit>
       <trans-unit id="2380" xml:space="preserve" approved="no">
         <source>こんにちは|[name]お兄ちゃん</source>
-        <target state="translated">Hello, [name]!</target>
+        <target state="translated">Hello, [name].</target>
       </trans-unit>
       <trans-unit id="2412" xml:space="preserve" approved="no">
         <source>こんにちは|[name]お姉ちゃん</source>
-        <target state="translated">Hello, [name]!</target>
+        <target state="translated">Hello, [name].</target>
       </trans-unit>
       <trans-unit id="2456" xml:space="preserve" approved="no">
         <source>こんにちは</source>
-        <target state="translated">Hello!</target>
+        <target state="translated">Hello.</target>
       </trans-unit>
-      <trans-unit id="2480" xml:space="preserve">
+      <trans-unit id="2480" xml:space="preserve" approved="no">
         <source>す、すごい声……|大丈夫？</source>
-        <target/>
+        <target state="translated">Y-your voice… Are you okay?</target>
       </trans-unit>
-      <trans-unit id="2508" xml:space="preserve">
+      <trans-unit id="2508" xml:space="preserve" approved="no">
         <source>おやすみなさい</source>
-        <target/>
+        <target state="translated">Goodnight.</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="DC_036_0.arc/DC_036_0.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="1556" xml:space="preserve">
+      <trans-unit id="1556" xml:space="preserve" approved="no">
         <source>村の少女２</source>
-        <target/>
+        <target state="translated">Village Girl 2</target>
       </trans-unit>
       <trans-unit id="1568" xml:space="preserve">
         <source>おるすばんー</source>
@@ -1410,41 +1410,41 @@
         <source>えらいねー</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1604" xml:space="preserve">
+      <trans-unit id="1604" xml:space="preserve" approved="no">
         <source>こんにちは</source>
-        <target/>
+        <target state="translated">Hello.</target>
       </trans-unit>
-      <trans-unit id="1628" xml:space="preserve">
+      <trans-unit id="1628" xml:space="preserve" approved="no">
         <source>あははは|声、おもしろーい</source>
-        <target/>
+        <target state="translated">Ha ha ha! Your voice sounds funny!</target>
       </trans-unit>
-      <trans-unit id="1656" xml:space="preserve">
+      <trans-unit id="1656" xml:space="preserve" approved="no">
         <source>[name]兄ちゃん、|いっしょに遊ぼー</source>
-        <target/>
+        <target state="translated">[name], let's play!</target>
       </trans-unit>
-      <trans-unit id="1692" xml:space="preserve">
+      <trans-unit id="1692" xml:space="preserve" approved="no">
         <source>[name]姉ちゃん、|いっしょに遊ぼー</source>
-        <target/>
+        <target state="translated">[name], let's play!</target>
       </trans-unit>
-      <trans-unit id="1740" xml:space="preserve">
+      <trans-unit id="1740" xml:space="preserve" approved="no">
         <source>村の少年２</source>
-        <target/>
+        <target state="translated">Village Boy 2</target>
       </trans-unit>
-      <trans-unit id="1752" xml:space="preserve">
+      <trans-unit id="1752" xml:space="preserve" approved="no">
         <source>[name]兄ちゃんは|忙しいんだから|そんなこと言っちゃダメだろ</source>
-        <target/>
+        <target state="translated">[name] is too busy to play with you!</target>
       </trans-unit>
-      <trans-unit id="1812" xml:space="preserve">
+      <trans-unit id="1812" xml:space="preserve" approved="no">
         <source>[name]姉ちゃんは|忙しいんだから|そんなこと言っちゃダメだろ</source>
-        <target/>
+        <target state="translated">[name] is too busy to play with you!</target>
       </trans-unit>
-      <trans-unit id="1896" xml:space="preserve">
+      <trans-unit id="1896" xml:space="preserve" approved="no">
         <source>また、今度ね</source>
-        <target/>
+        <target state="translated">Maybe another time.</target>
       </trans-unit>
-      <trans-unit id="1912" xml:space="preserve">
+      <trans-unit id="1912" xml:space="preserve" approved="no">
         <source>おやすみなさい</source>
-        <target/>
+        <target state="translated">Goodnight.</target>
       </trans-unit>
     </body>
   </file>
@@ -1454,17 +1454,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="616" xml:space="preserve">
+      <trans-unit id="616" xml:space="preserve" approved="no">
         <source>うわっ、大量の蟲だ</source>
-        <target/>
+        <target state="translated">Wow, it's a bunch of mushi.</target>
       </trans-unit>
-      <trans-unit id="636" xml:space="preserve">
+      <trans-unit id="636" xml:space="preserve" approved="no">
         <source>ギンコ</source>
-        <target/>
+        <target state="translated">Ginko</target>
       </trans-unit>
-      <trans-unit id="644" xml:space="preserve">
+      <trans-unit id="644" xml:space="preserve" approved="no">
         <source>なんとかしてくれ</source>
-        <target/>
+        <target state="translated">Do something about it.</target>
       </trans-unit>
     </body>
   </file>
@@ -1474,9 +1474,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1486,9 +1486,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1498,9 +1498,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1510,9 +1510,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1522,9 +1522,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1534,9 +1534,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1546,9 +1546,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1558,9 +1558,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1570,9 +1570,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1582,9 +1582,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1594,9 +1594,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1606,9 +1606,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1618,9 +1618,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1630,9 +1630,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1642,9 +1642,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1654,9 +1654,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1666,9 +1666,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1678,9 +1678,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1690,9 +1690,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1702,9 +1702,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1714,9 +1714,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1726,9 +1726,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1738,9 +1738,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1750,9 +1750,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1762,9 +1762,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1774,9 +1774,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1786,9 +1786,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1798,9 +1798,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1810,9 +1810,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1822,9 +1822,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1834,9 +1834,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1846,9 +1846,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1858,9 +1858,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1870,9 +1870,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1882,9 +1882,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1894,9 +1894,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1906,9 +1906,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1918,9 +1918,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1930,9 +1930,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1942,9 +1942,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1954,9 +1954,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1966,9 +1966,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1978,9 +1978,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -1990,9 +1990,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2002,9 +2002,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2014,9 +2014,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2026,9 +2026,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2038,9 +2038,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2050,9 +2050,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2062,9 +2062,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2074,9 +2074,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2086,9 +2086,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2098,9 +2098,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2110,9 +2110,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2122,9 +2122,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2134,9 +2134,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2146,9 +2146,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2158,9 +2158,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2170,9 +2170,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2182,9 +2182,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2194,9 +2194,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2206,9 +2206,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2218,9 +2218,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2230,9 +2230,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2242,9 +2242,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2254,9 +2254,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2266,9 +2266,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2278,9 +2278,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2290,9 +2290,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2302,9 +2302,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2314,9 +2314,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2326,9 +2326,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2338,9 +2338,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2350,9 +2350,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2362,9 +2362,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2374,9 +2374,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2386,9 +2386,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2398,9 +2398,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2410,9 +2410,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2422,9 +2422,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2434,9 +2434,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2446,9 +2446,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2458,9 +2458,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2470,9 +2470,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2482,9 +2482,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2494,9 +2494,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2506,9 +2506,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2518,9 +2518,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2530,9 +2530,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2542,9 +2542,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2554,9 +2554,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2566,9 +2566,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2578,9 +2578,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2590,9 +2590,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2602,9 +2602,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2614,9 +2614,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2626,9 +2626,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2638,9 +2638,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2650,9 +2650,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2662,9 +2662,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2674,9 +2674,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2686,9 +2686,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2698,9 +2698,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2710,9 +2710,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2722,9 +2722,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2734,9 +2734,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2746,9 +2746,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2758,9 +2758,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2770,9 +2770,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2782,9 +2782,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2794,9 +2794,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2806,9 +2806,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2818,9 +2818,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2830,9 +2830,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2842,9 +2842,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2854,9 +2854,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2866,9 +2866,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2878,9 +2878,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2890,9 +2890,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2902,9 +2902,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2914,9 +2914,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2926,9 +2926,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2938,9 +2938,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2950,9 +2950,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2962,9 +2962,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2974,9 +2974,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2986,9 +2986,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -2998,9 +2998,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3010,9 +3010,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3022,9 +3022,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3034,9 +3034,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3046,9 +3046,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3058,9 +3058,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3070,9 +3070,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3082,9 +3082,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3094,9 +3094,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3106,9 +3106,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3118,9 +3118,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3130,9 +3130,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3142,9 +3142,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3154,9 +3154,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="456" xml:space="preserve">
+      <trans-unit id="456" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3166,9 +3166,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="552" xml:space="preserve">
+      <trans-unit id="552" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -3178,17 +3178,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="552" xml:space="preserve">
+      <trans-unit id="552" xml:space="preserve" approved="no">
         <source>蟲さんこんにちは|&lt;c red&gt;蟲さんこんにちは&lt;/c&gt;|&lt;c green&gt;蟲さんこんにちは&lt;/c&gt;</source>
-        <target/>
+        <target state="translated">Hello mushi.|&lt;c red&gt;Hello mushi.&lt;/c&gt;|&lt;c green&gt;Hello mushi.&lt;/c&gt;</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="SCF00_00_00.arc/SCF00_00_00.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="2368" xml:space="preserve">
+      <trans-unit id="2368" xml:space="preserve" approved="no">
         <source>持ち物がいっぱいのため|釣りができません</source>
-        <target/>
+        <target state="translated">You cannot fish because your inventory is full</target>
       </trans-unit>
       <trans-unit id="2420" xml:space="preserve">
         <source>フナを釣りました</source>

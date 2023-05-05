@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="870180" xml:space="preserve" approved="no">
         <source>タケノコ</source>
-        <target state="translated">Bamboo shoot</target>
+        <target state="translated">Bamboo Shoot</target>
       </trans-unit>
       <trans-unit id="870204" xml:space="preserve" approved="no">
         <source>きゅうり</source>
@@ -308,99 +308,99 @@
       </trans-unit>
       <trans-unit id="871980" xml:space="preserve" approved="no">
         <source>薬草・青根</source>
-        <target state="translated">Herb・Green Root</target>
+        <target state="translated">Green Root</target>
       </trans-unit>
       <trans-unit id="871992" xml:space="preserve" approved="no">
         <source>薬草・赤根</source>
-        <target state="translated">Herb・Red Root</target>
+        <target state="translated">Red Root</target>
       </trans-unit>
       <trans-unit id="872004" xml:space="preserve" approved="no">
         <source>薬草・黄根</source>
-        <target state="translated">Herb・Yellow Root</target>
+        <target state="translated">Yellow Root</target>
       </trans-unit>
       <trans-unit id="872016" xml:space="preserve" approved="no">
         <source>薬草・白根</source>
-        <target state="translated">Herb・White Root</target>
+        <target state="translated">White Root</target>
       </trans-unit>
       <trans-unit id="872028" xml:space="preserve" approved="no">
         <source>薬草・黒根</source>
-        <target state="translated">Herb・Black Root</target>
+        <target state="translated">Black Root</target>
       </trans-unit>
       <trans-unit id="872040" xml:space="preserve" approved="no">
         <source>薬草・青葉</source>
-        <target state="translated">Herb・Green Leaf</target>
+        <target state="translated">Green Leaf</target>
       </trans-unit>
       <trans-unit id="872052" xml:space="preserve" approved="no">
         <source>薬草・赤葉</source>
-        <target state="translated">Herb・Red Leaf</target>
+        <target state="translated">Red Leaf</target>
       </trans-unit>
       <trans-unit id="872064" xml:space="preserve" approved="no">
         <source>薬草・黄葉</source>
-        <target state="translated">Herb・Yellow Leaf</target>
+        <target state="translated">Yellow Leaf</target>
       </trans-unit>
       <trans-unit id="872076" xml:space="preserve" approved="no">
         <source>薬草・白葉</source>
-        <target state="translated">Herb・White Leaf</target>
+        <target state="translated">White Leaf</target>
       </trans-unit>
       <trans-unit id="872088" xml:space="preserve" approved="no">
         <source>薬草・黒葉</source>
-        <target state="translated">Herb・Black Leaf</target>
+        <target state="translated">Black Leaf</target>
       </trans-unit>
       <trans-unit id="872100" xml:space="preserve" approved="no">
         <source>薬草・青皮</source>
-        <target state="translated">Herb・Green Bark</target>
+        <target state="translated">Green Bark</target>
       </trans-unit>
       <trans-unit id="872112" xml:space="preserve" approved="no">
         <source>薬草・赤皮</source>
-        <target state="translated">Herb・Red Bark</target>
+        <target state="translated">Red Bark</target>
       </trans-unit>
       <trans-unit id="872124" xml:space="preserve" approved="no">
         <source>薬草・黄皮</source>
-        <target state="translated">Herb・Yellow Bark</target>
+        <target state="translated">Yellow Bark</target>
       </trans-unit>
       <trans-unit id="872136" xml:space="preserve" approved="no">
         <source>薬草・白皮</source>
-        <target state="translated">Herb・White Bark</target>
+        <target state="translated">White Bark</target>
       </trans-unit>
       <trans-unit id="872148" xml:space="preserve" approved="no">
         <source>薬草・黒皮</source>
-        <target state="translated">Herb・Black Bark</target>
+        <target state="translated">Black Bark</target>
       </trans-unit>
       <trans-unit id="872160" xml:space="preserve" approved="no">
         <source>薬草・青実</source>
-        <target state="translated">Herb・Green Berry</target>
+        <target state="translated">Green Berry</target>
       </trans-unit>
       <trans-unit id="872172" xml:space="preserve" approved="no">
         <source>薬草・赤実</source>
-        <target state="translated">Herb・Red Berry</target>
+        <target state="translated">Red Berry</target>
       </trans-unit>
       <trans-unit id="872184" xml:space="preserve" approved="no">
         <source>薬草・黄実</source>
-        <target state="translated">Herb・Yellow Berry</target>
+        <target state="translated">Yellow Berry</target>
       </trans-unit>
       <trans-unit id="872196" xml:space="preserve" approved="no">
         <source>薬草・白実</source>
-        <target state="translated">Herb・White Berry</target>
+        <target state="translated">White Berry</target>
       </trans-unit>
       <trans-unit id="872208" xml:space="preserve" approved="no">
         <source>薬草・黒実</source>
-        <target state="translated">Herb・Black Berry</target>
+        <target state="translated">Black Berry</target>
       </trans-unit>
       <trans-unit id="872220" xml:space="preserve" approved="no">
         <source>薬草・青種</source>
-        <target state="translated">Herb・Green Seed</target>
+        <target state="translated">Green Seed</target>
       </trans-unit>
       <trans-unit id="872232" xml:space="preserve" approved="no">
         <source>薬草・赤種</source>
-        <target state="translated">Herb・Red Seed</target>
+        <target state="translated">Red Seed</target>
       </trans-unit>
       <trans-unit id="872244" xml:space="preserve" approved="no">
         <source>薬草・黄種</source>
-        <target state="translated">Herb・Yellow Seed</target>
+        <target state="translated">Yellow Seed</target>
       </trans-unit>
       <trans-unit id="872256" xml:space="preserve" approved="no">
         <source>薬草・白種</source>
-        <target state="translated">Herb・White Seed</target>
+        <target state="translated">White Seed</target>
       </trans-unit>
       <trans-unit id="872268" xml:space="preserve" approved="no">
         <source>蟲払いの薬</source>
@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="872280" xml:space="preserve" approved="no">
         <source>薬草・黒種</source>
-        <target state="translated">Herb・Black Seed</target>
+        <target state="translated">Black Seed</target>
       </trans-unit>
       <trans-unit id="872292" xml:space="preserve" approved="no">
         <source>蟲封じの薬</source>
@@ -1000,7 +1000,7 @@
       </trans-unit>
       <trans-unit id="892392" xml:space="preserve" approved="no">
         <source>特に効果は|ありませんでした</source>
-        <target state="translated">No effect</target>
+        <target state="translated">It had no effect</target>
       </trans-unit>
       <trans-unit id="892468" xml:space="preserve" approved="no">
         <source>採取した蟲です|４匹まで所持|できます</source>
@@ -1056,7 +1056,7 @@
       </trans-unit>
       <trans-unit id="892964" xml:space="preserve" approved="no">
         <source>野宿をする</source>
-        <target state="translated">Sleep outside</target>
+        <target state="translated">Sleep Outside</target>
       </trans-unit>
       <trans-unit id="892976" xml:space="preserve" approved="no">
         <source>夕方になりました</source>
