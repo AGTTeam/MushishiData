@@ -710,17 +710,17 @@
         <source>夜になると|変わった足跡が|付くようになる</source>
         <target/>
       </trans-unit>
-      <trans-unit id="878320" xml:space="preserve">
+      <trans-unit id="878320" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|硯を磨りましょう</source>
-        <target/>
+        <target state="translated">Slide the stylus|over the inkstone|to polish it</target>
       </trans-unit>
       <trans-unit id="878540" xml:space="preserve">
         <source>歩く際、移動方向の|上下左右が|互い違いになる</source>
         <target/>
       </trans-unit>
-      <trans-unit id="878588" xml:space="preserve">
+      <trans-unit id="878588" xml:space="preserve" approved="no">
         <source>タッチペンで|下画面をタッチすると|終了します</source>
-        <target/>
+        <target state="translated">Touch the|bottom screen|with the stylus|to quit</target>
       </trans-unit>
       <trans-unit id="878636" xml:space="preserve" approved="no">
         <source>タッチペンで|蟲（赤い点）を|タッチしましょう</source>
@@ -730,29 +730,29 @@
         <source>話をする際|会話の語尾に|「ムシシシシ」が|付く</source>
         <target/>
       </trans-unit>
-      <trans-unit id="878732" xml:space="preserve">
+      <trans-unit id="878732" xml:space="preserve" approved="no">
         <source>タッチペンで|眉間をタッチして|治療をしましょう</source>
-        <target/>
+        <target state="translated">Use the stylus to|touch between|the eyebrows</target>
       </trans-unit>
-      <trans-unit id="878780" xml:space="preserve">
+      <trans-unit id="878780" xml:space="preserve" approved="no">
         <source>タッチペンで|網をタッチして|蟲を捕まえましょう</source>
-        <target/>
+        <target state="translated">Touch the net|with the stylus|to catch the mushi</target>
       </trans-unit>
       <trans-unit id="878828" xml:space="preserve">
         <source>タッチペンで|耳をタッチし続けて|音を聞きましょう</source>
         <target/>
       </trans-unit>
-      <trans-unit id="878880" xml:space="preserve">
+      <trans-unit id="878880" xml:space="preserve" approved="no">
         <source>タッチペンで|タッチして|Аの中から|阿を探しましょう</source>
-        <target/>
+        <target state="translated">Use the stylus|to find the Ah|among the Un</target>
       </trans-unit>
       <trans-unit id="878932" xml:space="preserve">
         <source>タッチペンで方角を|タッチして虚穴の中を|歩きましょう</source>
         <target/>
       </trans-unit>
-      <trans-unit id="878988" xml:space="preserve">
+      <trans-unit id="878988" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|蟲の輪郭を綺麗に|なぞりましょう</source>
-        <target/>
+        <target state="translated">Use the stylus to|trace the outline|of the mushi|as best as you can</target>
       </trans-unit>
       <trans-unit id="879048" xml:space="preserve">
         <source>タッチペンで蟲ピンを|タッチして陰火を|三〇匹捕らえましょう</source>
@@ -782,9 +782,9 @@
         <source>データを読めませんで|した。電源を切って|カードを差し込み直し|てください</source>
         <target state="translated">Failed to read data.|Turn off the power|and reinsert the|game card</target>
       </trans-unit>
-      <trans-unit id="880868" xml:space="preserve">
+      <trans-unit id="880868" xml:space="preserve" approved="no">
         <source>タッチペンで障子を|タッチして、あけた穴|からしんらの持つ筆を|覗き見しましょう</source>
-        <target/>
+        <target state="translated">Use the stylus to|poke a hole in|the shoji screen|and peek at Shinra</target>
       </trans-unit>
       <trans-unit id="885708" xml:space="preserve" approved="no">
         <source>蟲の記録</source>
