@@ -848,7 +848,7 @@
       </trans-unit>
       <trans-unit id="886060" xml:space="preserve" approved="no">
         <source>ヤクノに報告中</source>
-        <target state="translated">Reporting to Yakuno</target>
+        <target state="translated">Reporting</target>
       </trans-unit>
       <trans-unit id="886076" xml:space="preserve" approved="no">
         <source>未報告</source>
@@ -856,7 +856,7 @@
       </trans-unit>
       <trans-unit id="886084" xml:space="preserve" approved="no">
         <source>報告中です</source>
-        <target state="translated">Reporting</target>
+        <target state="translated">Reporting to Yakuno</target>
       </trans-unit>
       <trans-unit id="886096" xml:space="preserve" approved="no">
         <source>この蟲の記録を|虚繭で報告しました</source>
@@ -920,7 +920,7 @@
       </trans-unit>
       <trans-unit id="890292" xml:space="preserve" approved="no">
         <source>記録しています|電源を切らないで|下さい</source>
-        <target state="translated">Do not turn off|the game while|it is saving</target>
+        <target state="translated">Do not turn off the|game while it is|saving</target>
       </trans-unit>
       <trans-unit id="890336" xml:space="preserve" approved="no">
         <source>名前　</source>
@@ -1066,9 +1066,9 @@
         <source>夜になりました</source>
         <target state="translated">It is now night</target>
       </trans-unit>
-      <trans-unit id="893028" xml:space="preserve">
+      <trans-unit id="893028" xml:space="preserve" approved="no">
         <source>異常内容</source>
-        <target/>
+        <target state="translated">Character Status</target>
       </trans-unit>
       <trans-unit id="893052" xml:space="preserve" approved="no">
         <source>異常あり</source>

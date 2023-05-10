@@ -3920,7 +3920,7 @@
       </trans-unit>
       <trans-unit id="13664" xml:space="preserve" approved="no">
         <source>それじゃ、|さっそく蟲の採取に|いこうかな</source>
-        <target state="translated">Okay, time to start collecting mushi!</target>
+        <target state="translated">Okay, let's start catching mushi!</target>
       </trans-unit>
     </body>
   </file>
