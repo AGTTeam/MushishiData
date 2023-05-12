@@ -1182,13 +1182,13 @@
         <source>今日も１日|仕事がんばらないとね</source>
         <target state="translated">I have to work hard all day today.</target>
       </trans-unit>
-      <trans-unit id="2684" xml:space="preserve">
+      <trans-unit id="2684" xml:space="preserve" approved="no">
         <source>夕飯は、|何を作ろうかねぇ</source>
-        <target/>
+        <target state="translated">Hmmm, what should I make for dinner…?</target>
       </trans-unit>
-      <trans-unit id="2712" xml:space="preserve">
+      <trans-unit id="2712" xml:space="preserve" approved="no">
         <source>こんな時間まで|ご苦労様</source>
-        <target/>
+        <target state="translated">Thank you for working so hard despite how late it is.</target>
       </trans-unit>
     </body>
   </file>
@@ -1206,13 +1206,13 @@
         <source>ふうー|おたがい、精がでるねえ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2880" xml:space="preserve">
+      <trans-unit id="2880" xml:space="preserve" approved="no">
         <source>さあて、おいしいご飯を|作らないとね</source>
-        <target/>
+        <target state="translated">Well, time to start cooking up a delicious dinner!</target>
       </trans-unit>
-      <trans-unit id="2920" xml:space="preserve">
+      <trans-unit id="2920" xml:space="preserve" approved="no">
         <source>あまり遅くならないうちに|気をつけて家に帰るんだよ</source>
-        <target/>
+        <target state="translated">Make sure to get home safe before it gets past your bedtime.</target>
       </trans-unit>
     </body>
   </file>
@@ -1288,7 +1288,7 @@
       </trans-unit>
       <trans-unit id="1724" xml:space="preserve" approved="no">
         <source>滝壺や川、沼とかに近づいて|釣り竿を振った後</source>
-        <target state="translated">Approach a body of water - like a waterfall basin, river, or swamp - and cast your fishing rod.</target>
+        <target state="translated">Approach a body of water - like a waterfall basin, river, or swamp - and cast your lure.</target>
       </trans-unit>
       <trans-unit id="1772" xml:space="preserve" approved="no">
         <source>少し待つと|魚がかかるから</source>
@@ -7674,9 +7674,9 @@
         <source>この蟲かな？</source>
         <target/>
       </trans-unit>
-      <trans-unit id="692" xml:space="preserve">
+      <trans-unit id="692" xml:space="preserve" approved="no">
         <source>（…………）</source>
-        <target/>
+        <target state="translated">(…)</target>
       </trans-unit>
       <trans-unit id="708" xml:space="preserve">
         <source>（う……、声が出ない……）</source>
@@ -13730,17 +13730,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="2968" xml:space="preserve">
+      <trans-unit id="2968" xml:space="preserve" approved="no">
         <source>（お腹が減って|もうダメだ……）</source>
-        <target/>
+        <target state="translated">(Ugh, I'm starving…)</target>
       </trans-unit>
-      <trans-unit id="3004" xml:space="preserve">
+      <trans-unit id="3004" xml:space="preserve" approved="no">
         <source>（お腹が減って|もうダメ……）</source>
-        <target/>
+        <target state="translated">(Ugh, I'm starving…)</target>
       </trans-unit>
-      <trans-unit id="3044" xml:space="preserve">
+      <trans-unit id="3044" xml:space="preserve" approved="no">
         <source>（はぁ……|ちゃんと食べないと……）</source>
-        <target/>
+        <target state="translated">(Haaa…I need to remember to eat…)</target>
       </trans-unit>
       <trans-unit id="3096" xml:space="preserve" approved="no">
         <source>（そろそろ寄り合いが|始まる時間だ）</source>

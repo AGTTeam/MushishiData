@@ -272,7 +272,7 @@
       </trans-unit>
       <trans-unit id="870720" xml:space="preserve" approved="no">
         <source>特になし</source>
-        <target state="translated">Nowhere|special</target>
+        <target state="translated">Other</target>
       </trans-unit>
       <trans-unit id="870888" xml:space="preserve" approved="no">
         <source>『虚繭』</source>
@@ -682,9 +682,9 @@
         <source>歩く際、移動速度が|遅くなる</source>
         <target/>
       </trans-unit>
-      <trans-unit id="875932" xml:space="preserve">
+      <trans-unit id="875932" xml:space="preserve" approved="no">
         <source>報告中のため|編集できません</source>
-        <target/>
+        <target state="translated">Cannot edit while|being reported</target>
       </trans-unit>
       <trans-unit id="876436" xml:space="preserve">
         <source>歩く際、頻繁に|転ぶようになる</source>
@@ -844,7 +844,7 @@
       </trans-unit>
       <trans-unit id="886044" xml:space="preserve" approved="no">
         <source>ヤクノ返答済み</source>
-        <target state="translated">Yakuno replied</target>
+        <target state="translated">Reported</target>
       </trans-unit>
       <trans-unit id="886060" xml:space="preserve" approved="no">
         <source>ヤクノに報告中</source>
@@ -874,21 +874,21 @@
         <source>読みたい調書を|選んでください</source>
         <target/>
       </trans-unit>
-      <trans-unit id="886292" xml:space="preserve">
+      <trans-unit id="886292" xml:space="preserve" approved="no">
         <source>緑の盃について</source>
-        <target/>
+        <target state="translated">About the green cup</target>
       </trans-unit>
-      <trans-unit id="886308" xml:space="preserve">
+      <trans-unit id="886308" xml:space="preserve" approved="no">
         <source>阿うんについて</source>
-        <target/>
+        <target state="translated">About the Ah and Un</target>
       </trans-unit>
-      <trans-unit id="886324" xml:space="preserve">
+      <trans-unit id="886324" xml:space="preserve" approved="no">
         <source>阿うんについて２</source>
-        <target/>
+        <target state="translated">About the Ah and Un 2</target>
       </trans-unit>
-      <trans-unit id="886344" xml:space="preserve">
+      <trans-unit id="886344" xml:space="preserve" approved="no">
         <source>阿うんについて３</source>
-        <target/>
+        <target state="translated">About the Ah and Un 3</target>
       </trans-unit>
       <trans-unit id="886368" xml:space="preserve" approved="no">
         <source>これまでの行動を|記録します</source>
@@ -1092,11 +1092,11 @@
       </trans-unit>
       <trans-unit id="893544" xml:space="preserve" approved="no">
         <source>データを消去します|よろしいですか？</source>
-        <target state="translated">Are you sure you|want to clear|your data?</target>
+        <target state="translated">Do you want to|clear your data?</target>
       </trans-unit>
       <trans-unit id="893600" xml:space="preserve" approved="no">
         <source>本当に消去します|よろしいですか？</source>
-        <target state="translated">Are you REALLY|sure?</target>
+        <target state="translated">Are you sure?</target>
       </trans-unit>
       <trans-unit id="893656" xml:space="preserve" approved="no">
         <source>データを|消去しました</source>
