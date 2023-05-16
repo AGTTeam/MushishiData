@@ -768,7 +768,7 @@
       </trans-unit>
       <trans-unit id="879956" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|蟲（青い円の中）に|触れ続けましょう</source>
-        <target state="translated">Keep the stylus|on top of|the mushi|(inside the blue circle)</target>
+        <target state="translated">Keep the stylus|on top of the mushi|(in the blue circle)</target>
       </trans-unit>
       <trans-unit id="880292" xml:space="preserve" approved="no">
         <source>タッチペンで|蟲に触れないように|スライドして丸を|描いて囲みましょう</source>

@@ -488,15 +488,15 @@
     <body>
       <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi024]|だが|ニセカズラという|蟲のようだ|今後　数が増えて|きたら　夜　谷を|渡るかもしれない　|これは二十年に一度|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|The mushi you|reported,|[mushi024],|is called a|"Nisekazura".|If it continues to|multiply, it will cross|the valley at night.|This only happens|once every 20 years.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;The mushi you|reported,|[mushi024],|is called a|"Nisekazura".|If it continues to|multiply, it will cross|the valley at night.|This only happens|once every 20 years.&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|起こるとされている|現象だ　|その様子は　まるで|橋が架かったようで|「一夜橋」と|呼ばれている　|しかし　よほどの事情|がない限りは　|その橋は渡らない方が|いいだろう　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|This phenomenon|is known as the|"One-night Bridge"|due to it resembling|a bridge spanning|across the valley.|However, I wouldn't|recommend crossing|it unless you really|need to.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;This phenomenon|is known as the|"One-night Bridge"|due to it resembling|a bridge spanning|across the valley.|However, I wouldn't|recommend crossing|it unless you really|need to.&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|もし橋を渡ることが|あったら　絶対に引き|返してはいけない　|戻れば　ニセカズラが|解け　人は谷底へ|落ちてしまうのだ　|くれぐれも気をつける|ことだ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|If you cross it, you|mustn't turn back,|because the|Nisekazura will|unravel and send you|plummeting to the|bottom of the valley.|Be very careful.||-Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;If you cross it, you|mustn't turn back,|because the|Nisekazura will|unravel and send you|plummeting to the|bottom of the valley.|Be very careful.||Yakuno&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
