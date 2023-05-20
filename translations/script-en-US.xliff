@@ -82,13 +82,13 @@
         <source>Ｍ０１＿２０　洞（再確認）</source>
         <target state="translated">M01_20　Cave (double check)</target>
       </trans-unit>
-      <trans-unit id="10960" xml:space="preserve">
+      <trans-unit id="10960" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２１　洞への道を思い出す</source>
-        <target/>
+        <target state="translated">M01_21　Remember path to cave</target>
       </trans-unit>
-      <trans-unit id="10996" xml:space="preserve">
+      <trans-unit id="10996" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２２　洞の中で、昼</source>
-        <target/>
+        <target state="translated">M01_22　In the cave, noon</target>
       </trans-unit>
       <trans-unit id="11048" xml:space="preserve">
         <source>Ｍ０１＿２３　洞の中で、夜出直し</source>
@@ -118,17 +118,17 @@
         <source>Ｍ０１＿２８　帷蟲降下、ＥＮＤ</source>
         <target state="translated">M01_28　Mushi veil descent, END</target>
       </trans-unit>
-      <trans-unit id="11324" xml:space="preserve">
+      <trans-unit id="11324" xml:space="preserve" approved="no">
         <source>Ｓ０１＿０１　依頼：移動方向異常</source>
-        <target/>
+        <target state="translated">S01_01　Request: Abnormal movement direction</target>
       </trans-unit>
-      <trans-unit id="11360" xml:space="preserve">
+      <trans-unit id="11360" xml:space="preserve" approved="no">
         <source>Ｓ０１＿０３　発見：移動方向異常</source>
-        <target/>
+        <target state="translated">S01_03　Discover: Abnormal movement direction</target>
       </trans-unit>
-      <trans-unit id="11420" xml:space="preserve">
+      <trans-unit id="11420" xml:space="preserve" approved="no">
         <source>Ｓ０１＿０５　感染：移動方向異常</source>
-        <target/>
+        <target state="translated">S01_05　Infection: Abnormal movement direction</target>
       </trans-unit>
       <trans-unit id="11456" xml:space="preserve">
         <source>Ｓ０４＿０１　依頼：時間経過異常</source>
@@ -154,9 +154,9 @@
         <source>Ｓ１２＿０５　治療：移動過程異常</source>
         <target/>
       </trans-unit>
-      <trans-unit id="11736" xml:space="preserve">
+      <trans-unit id="11736" xml:space="preserve" approved="no">
         <source>Ｓ１５＿０２　ヌシ登場</source>
-        <target/>
+        <target state="translated">S15_02　Guardian Spirit appears</target>
       </trans-unit>
       <trans-unit id="11784" xml:space="preserve">
         <source>Ｓ１６＿０２　雨（虹蛇前ふり）</source>
@@ -232,7 +232,7 @@
       </trans-unit>
       <trans-unit id="12520" xml:space="preserve" approved="no">
         <source>ヌシ登場</source>
-        <target state="translated">Nushi appears</target>
+        <target state="translated">Guardian Spirit appears</target>
       </trans-unit>
       <trans-unit id="12532" xml:space="preserve">
         <source>[name]</source>
@@ -5760,7 +5760,7 @@
       </trans-unit>
       <trans-unit id="280" xml:space="preserve" approved="no">
         <source>闇の底を流れるは　光の河&lt;wait 5500&gt;|光の河に流れるは　命の水&lt;wait 6000&gt;|命の水がもたらすは豊饒の土地</source>
-        <target state="translated">&gt;&gt;Flowing in the deepest darkness|is the River of Light.&lt;wait 5500&gt;|Flowing in the River of Light|is the Water of Life.&lt;wait 6000&gt;|The Water of Life|brings fertility to the land.</target>
+        <target state="translated">&gt;&gt;Flowing in the deepest darkness|is the River of Light.&lt;wait 3000&gt;|Flowing in the River of Light|is the Water of Life.&lt;wait 3000&gt;|The Water of Life|brings fertility to the land.</target>
       </trans-unit>
       <trans-unit id="384" xml:space="preserve" approved="no">
         <source>草の青　清らな水　命の芽吹き</source>
