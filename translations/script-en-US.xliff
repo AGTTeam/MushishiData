@@ -11258,9 +11258,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="732" xml:space="preserve">
+      <trans-unit id="732" xml:space="preserve" approved="no">
         <source>（この&lt;c red&gt;蟲払いの薬&lt;/c&gt;で……）</source>
-        <target/>
+        <target state="translated">(If I use this &lt;c red&gt;mushi repellent&lt;/c&gt;…)</target>
       </trans-unit>
     </body>
   </file>
@@ -11282,9 +11282,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="504" xml:space="preserve">
+      <trans-unit id="504" xml:space="preserve" approved="no">
         <source>（この&lt;c red&gt;蟲払いの薬&lt;/c&gt;で……）</source>
-        <target/>
+        <target state="translated">(If I use this &lt;c red&gt;mushi repellent&lt;/c&gt;…)</target>
       </trans-unit>
     </body>
   </file>
