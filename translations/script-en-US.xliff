@@ -1008,7 +1008,7 @@
       </trans-unit>
       <trans-unit id="3120" xml:space="preserve" approved="no">
         <source>さつまいも|をもらいました！</source>
-        <target state="translated">I got some sweet potatoes!</target>
+        <target state="translated">I got a sweet potato!</target>
       </trans-unit>
       <trans-unit id="3152" xml:space="preserve" approved="no">
         <source>里芋|をもらいました！</source>
@@ -1020,11 +1020,11 @@
       </trans-unit>
       <trans-unit id="3204" xml:space="preserve" approved="no">
         <source>大根|をもらいました！</source>
-        <target state="translated">I got some daikon!</target>
+        <target state="translated">I got a daikon!</target>
       </trans-unit>
       <trans-unit id="3228" xml:space="preserve" approved="no">
         <source>なす|をもらいました！</source>
-        <target state="translated">I got some eggplants!</target>
+        <target state="translated">I got an eggplant!</target>
       </trans-unit>
       <trans-unit id="3252" xml:space="preserve" approved="no">
         <source>きゅうり|をもらいました！</source>
@@ -11346,453 +11346,453 @@
         <source>システム</source>
         <target state="translated">System</target>
       </trans-unit>
-      <trans-unit id="6104" xml:space="preserve">
+      <trans-unit id="6104" xml:space="preserve" approved="no">
         <source>何もなし|を採取しました</source>
-        <target/>
+        <target state="translated">Nothing was taken</target>
       </trans-unit>
-      <trans-unit id="6132" xml:space="preserve">
+      <trans-unit id="6132" xml:space="preserve" approved="no">
         <source>蟲ビン|を採取しました</source>
-        <target/>
+        <target state="translated">You got a mushi jar</target>
       </trans-unit>
-      <trans-unit id="6156" xml:space="preserve">
+      <trans-unit id="6156" xml:space="preserve" approved="no">
         <source>釣り竿|を採取しました</source>
-        <target/>
+        <target state="translated">You got a fishing rod</target>
       </trans-unit>
-      <trans-unit id="6180" xml:space="preserve">
+      <trans-unit id="6180" xml:space="preserve" approved="no">
         <source>上質な蟲ピン|を採取しました</source>
-        <target/>
+        <target state="translated">You got a fine mushi pin</target>
       </trans-unit>
-      <trans-unit id="6212" xml:space="preserve">
+      <trans-unit id="6212" xml:space="preserve" approved="no">
         <source>上質な釣り竿|を採取しました</source>
-        <target/>
+        <target state="translated">You got a fine fishing rod</target>
       </trans-unit>
-      <trans-unit id="6244" xml:space="preserve">
+      <trans-unit id="6244" xml:space="preserve" approved="no">
         <source>わらび|を採取しました</source>
-        <target/>
+        <target state="translated">You got some bracken</target>
       </trans-unit>
-      <trans-unit id="6268" xml:space="preserve">
+      <trans-unit id="6268" xml:space="preserve" approved="no">
         <source>ぜんまい|を採取しました</source>
-        <target/>
+        <target state="translated">You got some ferns</target>
       </trans-unit>
-      <trans-unit id="6296" xml:space="preserve">
+      <trans-unit id="6296" xml:space="preserve" approved="no">
         <source>ふきのとう|を採取しました</source>
-        <target/>
+        <target state="translated">You got a fuki bud</target>
       </trans-unit>
-      <trans-unit id="6324" xml:space="preserve">
+      <trans-unit id="6324" xml:space="preserve" approved="no">
         <source>たらのきの芽|を採取しました</source>
-        <target/>
+        <target state="translated">You got some taranoki buds</target>
       </trans-unit>
-      <trans-unit id="6356" xml:space="preserve">
+      <trans-unit id="6356" xml:space="preserve" approved="no">
         <source>しいたけ|を採取しました</source>
-        <target/>
+        <target state="translated">You got some shiitake</target>
       </trans-unit>
-      <trans-unit id="6384" xml:space="preserve">
+      <trans-unit id="6384" xml:space="preserve" approved="no">
         <source>じゃがいも|を採取しました</source>
-        <target/>
+        <target state="translated">You got some potatoes</target>
       </trans-unit>
-      <trans-unit id="6412" xml:space="preserve">
+      <trans-unit id="6412" xml:space="preserve" approved="no">
         <source>さつまいも|を採取しました</source>
-        <target/>
+        <target state="translated">You got a sweet potato</target>
       </trans-unit>
-      <trans-unit id="6440" xml:space="preserve">
+      <trans-unit id="6440" xml:space="preserve" approved="no">
         <source>山芋|を採取しました</source>
-        <target/>
+        <target state="translated">You got some yams</target>
       </trans-unit>
-      <trans-unit id="6464" xml:space="preserve">
+      <trans-unit id="6464" xml:space="preserve" approved="no">
         <source>里芋|を採取しました</source>
-        <target/>
+        <target state="translated">You got some taro</target>
       </trans-unit>
-      <trans-unit id="6488" xml:space="preserve">
+      <trans-unit id="6488" xml:space="preserve" approved="no">
         <source>にんじん|を採取しました</source>
-        <target/>
+        <target state="translated">You got some carrots</target>
       </trans-unit>
-      <trans-unit id="6516" xml:space="preserve">
+      <trans-unit id="6516" xml:space="preserve" approved="no">
         <source>大根|を採取しました</source>
-        <target/>
+        <target state="translated">You got a daikon</target>
       </trans-unit>
-      <trans-unit id="6540" xml:space="preserve">
+      <trans-unit id="6540" xml:space="preserve" approved="no">
         <source>タケノコ|を採取しました</source>
-        <target/>
+        <target state="translated">You got some bamboo shoots</target>
       </trans-unit>
-      <trans-unit id="6568" xml:space="preserve">
+      <trans-unit id="6568" xml:space="preserve" approved="no">
         <source>なす|を採取しました</source>
-        <target/>
+        <target state="translated">You got an eggplant</target>
       </trans-unit>
-      <trans-unit id="6592" xml:space="preserve">
+      <trans-unit id="6592" xml:space="preserve" approved="no">
         <source>きゅうり|を採取しました</source>
-        <target/>
+        <target state="translated">You got some cucumbers</target>
       </trans-unit>
-      <trans-unit id="6620" xml:space="preserve">
+      <trans-unit id="6620" xml:space="preserve" approved="no">
         <source>枝豆|を採取しました</source>
-        <target/>
+        <target state="translated">You got some edamame</target>
       </trans-unit>
-      <trans-unit id="6644" xml:space="preserve">
+      <trans-unit id="6644" xml:space="preserve" approved="no">
         <source>大豆|を採取しました</source>
-        <target/>
+        <target state="translated">You got some soybeans</target>
       </trans-unit>
-      <trans-unit id="6668" xml:space="preserve">
+      <trans-unit id="6668" xml:space="preserve" approved="no">
         <source>納豆|を採取しました</source>
-        <target/>
+        <target state="translated">You got some natto</target>
       </trans-unit>
-      <trans-unit id="6692" xml:space="preserve">
+      <trans-unit id="6692" xml:space="preserve" approved="no">
         <source>栗|を採取しました</source>
-        <target/>
+        <target state="translated">You got some chestnuts</target>
       </trans-unit>
-      <trans-unit id="6712" xml:space="preserve">
+      <trans-unit id="6712" xml:space="preserve" approved="no">
         <source>野いちご|を採取しました</source>
-        <target/>
+        <target state="translated">You got some strawberries</target>
       </trans-unit>
-      <trans-unit id="6740" xml:space="preserve">
+      <trans-unit id="6740" xml:space="preserve" approved="no">
         <source>山桃|を採取しました</source>
-        <target/>
+        <target state="translated">You got some yamamomo</target>
       </trans-unit>
-      <trans-unit id="6764" xml:space="preserve">
+      <trans-unit id="6764" xml:space="preserve" approved="no">
         <source>イワナ|を採取しました</source>
-        <target/>
+        <target state="translated">You got a char</target>
       </trans-unit>
-      <trans-unit id="6788" xml:space="preserve">
+      <trans-unit id="6788" xml:space="preserve" approved="no">
         <source>ヤマメ|を採取しました</source>
-        <target/>
+        <target state="translated">You got a salmon</target>
       </trans-unit>
-      <trans-unit id="6812" xml:space="preserve">
+      <trans-unit id="6812" xml:space="preserve" approved="no">
         <source>フナ|を採取しました</source>
-        <target/>
+        <target state="translated">You got a crucian carp</target>
       </trans-unit>
-      <trans-unit id="6836" xml:space="preserve">
+      <trans-unit id="6836" xml:space="preserve" approved="no">
         <source>コイ|を採取しました</source>
-        <target/>
+        <target state="translated">You got a carp</target>
       </trans-unit>
-      <trans-unit id="6860" xml:space="preserve">
+      <trans-unit id="6860" xml:space="preserve" approved="no">
         <source>ナマズ|を採取しました</source>
-        <target/>
+        <target state="translated">You got a catfish</target>
       </trans-unit>
-      <trans-unit id="6884" xml:space="preserve">
+      <trans-unit id="6884" xml:space="preserve" approved="no">
         <source>お弁当|を採取しました</source>
-        <target/>
+        <target state="translated">You got a bento</target>
       </trans-unit>
-      <trans-unit id="6908" xml:space="preserve">
+      <trans-unit id="6908" xml:space="preserve" approved="no">
         <source>薬草・青根|を採取しました</source>
-        <target/>
+        <target state="translated">You got a green root</target>
       </trans-unit>
-      <trans-unit id="6936" xml:space="preserve">
+      <trans-unit id="6936" xml:space="preserve" approved="no">
         <source>薬草・赤根|を採取しました</source>
-        <target/>
+        <target state="translated">You got some red roots</target>
       </trans-unit>
-      <trans-unit id="6964" xml:space="preserve">
+      <trans-unit id="6964" xml:space="preserve" approved="no">
         <source>薬草・黄根|を採取しました</source>
-        <target/>
+        <target state="translated">You got a yellow root</target>
       </trans-unit>
-      <trans-unit id="6992" xml:space="preserve">
+      <trans-unit id="6992" xml:space="preserve" approved="no">
         <source>薬草・白根|を採取しました</source>
-        <target/>
+        <target state="translated">You got some white roots</target>
       </trans-unit>
-      <trans-unit id="7020" xml:space="preserve">
+      <trans-unit id="7020" xml:space="preserve" approved="no">
         <source>薬草・黒根|を採取しました</source>
-        <target/>
+        <target state="translated">You got some black roots</target>
       </trans-unit>
-      <trans-unit id="7048" xml:space="preserve">
+      <trans-unit id="7048" xml:space="preserve" approved="no">
         <source>薬草・青葉|を採取しました</source>
-        <target/>
+        <target state="translated">You got some green leaves</target>
       </trans-unit>
-      <trans-unit id="7076" xml:space="preserve">
+      <trans-unit id="7076" xml:space="preserve" approved="no">
         <source>薬草・赤葉|を採取しました</source>
-        <target/>
+        <target state="translated">You got some red leaves</target>
       </trans-unit>
-      <trans-unit id="7104" xml:space="preserve">
+      <trans-unit id="7104" xml:space="preserve" approved="no">
         <source>薬草・黄葉|を採取しました</source>
-        <target/>
+        <target state="translated">You got some yellow leaves</target>
       </trans-unit>
-      <trans-unit id="7132" xml:space="preserve">
+      <trans-unit id="7132" xml:space="preserve" approved="no">
         <source>薬草・白葉|を採取しました</source>
-        <target/>
+        <target state="translated">You got some white leaves</target>
       </trans-unit>
-      <trans-unit id="7160" xml:space="preserve">
+      <trans-unit id="7160" xml:space="preserve" approved="no">
         <source>薬草・黒葉|を採取しました</source>
-        <target/>
+        <target state="translated">You got some black leaves</target>
       </trans-unit>
-      <trans-unit id="7188" xml:space="preserve">
+      <trans-unit id="7188" xml:space="preserve" approved="no">
         <source>薬草・青皮|を採取しました</source>
-        <target/>
+        <target state="translated">You got some green bark</target>
       </trans-unit>
-      <trans-unit id="7216" xml:space="preserve">
+      <trans-unit id="7216" xml:space="preserve" approved="no">
         <source>薬草・赤皮|を採取しました</source>
-        <target/>
+        <target state="translated">You got some red bark</target>
       </trans-unit>
-      <trans-unit id="7244" xml:space="preserve">
+      <trans-unit id="7244" xml:space="preserve" approved="no">
         <source>薬草・黄皮|を採取しました</source>
-        <target/>
+        <target state="translated">You got some yellow bark</target>
       </trans-unit>
-      <trans-unit id="7272" xml:space="preserve">
+      <trans-unit id="7272" xml:space="preserve" approved="no">
         <source>薬草・白皮|を採取しました</source>
-        <target/>
+        <target state="translated">You got some white bark</target>
       </trans-unit>
-      <trans-unit id="7300" xml:space="preserve">
+      <trans-unit id="7300" xml:space="preserve" approved="no">
         <source>薬草・黒皮|を採取しました</source>
-        <target/>
+        <target state="translated">You got some black bark</target>
       </trans-unit>
-      <trans-unit id="7328" xml:space="preserve">
+      <trans-unit id="7328" xml:space="preserve" approved="no">
         <source>薬草・青実|を採取しました</source>
-        <target/>
+        <target state="translated">You got some green berries</target>
       </trans-unit>
-      <trans-unit id="7356" xml:space="preserve">
+      <trans-unit id="7356" xml:space="preserve" approved="no">
         <source>薬草・赤実|を採取しました</source>
-        <target/>
+        <target state="translated">You got some red berries</target>
       </trans-unit>
-      <trans-unit id="7384" xml:space="preserve">
+      <trans-unit id="7384" xml:space="preserve" approved="no">
         <source>薬草・黄実|を採取しました</source>
-        <target/>
+        <target state="translated">You got some yellow berries</target>
       </trans-unit>
-      <trans-unit id="7412" xml:space="preserve">
+      <trans-unit id="7412" xml:space="preserve" approved="no">
         <source>薬草・白実|を採取しました</source>
-        <target/>
+        <target state="translated">You got some white berries</target>
       </trans-unit>
-      <trans-unit id="7440" xml:space="preserve">
+      <trans-unit id="7440" xml:space="preserve" approved="no">
         <source>薬草・黒実|を採取しました</source>
-        <target/>
+        <target state="translated">You got some black berries</target>
       </trans-unit>
-      <trans-unit id="7468" xml:space="preserve">
+      <trans-unit id="7468" xml:space="preserve" approved="no">
         <source>薬草・青種|を採取しました</source>
-        <target/>
+        <target state="translated">You got some green seeds</target>
       </trans-unit>
-      <trans-unit id="7496" xml:space="preserve">
+      <trans-unit id="7496" xml:space="preserve" approved="no">
         <source>薬草・赤種|を採取しました</source>
-        <target/>
+        <target state="translated">You got some red seeds</target>
       </trans-unit>
-      <trans-unit id="7524" xml:space="preserve">
+      <trans-unit id="7524" xml:space="preserve" approved="no">
         <source>薬草・黄種|を採取しました</source>
-        <target/>
+        <target state="translated">You got some yellow seeds</target>
       </trans-unit>
-      <trans-unit id="7552" xml:space="preserve">
+      <trans-unit id="7552" xml:space="preserve" approved="no">
         <source>薬草・白種|を採取しました</source>
-        <target/>
+        <target state="translated">You got a white seed</target>
       </trans-unit>
-      <trans-unit id="7580" xml:space="preserve">
+      <trans-unit id="7580" xml:space="preserve" approved="no">
         <source>薬草・黒種|を採取しました</source>
-        <target/>
+        <target state="translated">You got some black seeds</target>
       </trans-unit>
-      <trans-unit id="7608" xml:space="preserve">
+      <trans-unit id="7608" xml:space="preserve" approved="no">
         <source>何もなし|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got nothing, but your inventory is full#what???</target>
       </trans-unit>
-      <trans-unit id="7660" xml:space="preserve">
+      <trans-unit id="7660" xml:space="preserve" approved="no">
         <source>蟲ビン|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a mushi jar, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="7708" xml:space="preserve">
+      <trans-unit id="7708" xml:space="preserve" approved="no">
         <source>釣り竿|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a fishing rod, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="7756" xml:space="preserve">
+      <trans-unit id="7756" xml:space="preserve" approved="no">
         <source>上質な蟲ピン|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a fine mushi pin, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="7812" xml:space="preserve">
+      <trans-unit id="7812" xml:space="preserve" approved="no">
         <source>上質な釣り竿|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a fine fishing rod, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="7868" xml:space="preserve">
+      <trans-unit id="7868" xml:space="preserve" approved="no">
         <source>わらび|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some bracken, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="7916" xml:space="preserve">
+      <trans-unit id="7916" xml:space="preserve" approved="no">
         <source>ぜんまい|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some ferns, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="7968" xml:space="preserve">
+      <trans-unit id="7968" xml:space="preserve" approved="no">
         <source>ふきのとう|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a fuki bud, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8020" xml:space="preserve">
+      <trans-unit id="8020" xml:space="preserve" approved="no">
         <source>たらのきの芽|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some taranoki buds, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8076" xml:space="preserve">
+      <trans-unit id="8076" xml:space="preserve" approved="no">
         <source>しいたけ|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some shiitake, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8128" xml:space="preserve">
+      <trans-unit id="8128" xml:space="preserve" approved="no">
         <source>じゃがいも|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some potatos, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8180" xml:space="preserve">
+      <trans-unit id="8180" xml:space="preserve" approved="no">
         <source>さつまいも|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a sweet potato, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8232" xml:space="preserve">
+      <trans-unit id="8232" xml:space="preserve" approved="no">
         <source>山芋|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some yams, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8280" xml:space="preserve">
+      <trans-unit id="8280" xml:space="preserve" approved="no">
         <source>里芋|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some taro, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8328" xml:space="preserve">
+      <trans-unit id="8328" xml:space="preserve" approved="no">
         <source>にんじん|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some carrots, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8380" xml:space="preserve">
+      <trans-unit id="8380" xml:space="preserve" approved="no">
         <source>大根|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a daikon, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8428" xml:space="preserve">
+      <trans-unit id="8428" xml:space="preserve" approved="no">
         <source>タケノコ|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some bamboo shoots, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8480" xml:space="preserve">
+      <trans-unit id="8480" xml:space="preserve" approved="no">
         <source>なす|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got an eggplant, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8528" xml:space="preserve">
+      <trans-unit id="8528" xml:space="preserve" approved="no">
         <source>きゅうり|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some cucumbers, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8580" xml:space="preserve">
+      <trans-unit id="8580" xml:space="preserve" approved="no">
         <source>枝豆|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some edamame, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8628" xml:space="preserve">
+      <trans-unit id="8628" xml:space="preserve" approved="no">
         <source>大豆|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some soybeans, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8676" xml:space="preserve">
+      <trans-unit id="8676" xml:space="preserve" approved="no">
         <source>納豆|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some natto, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8724" xml:space="preserve">
+      <trans-unit id="8724" xml:space="preserve" approved="no">
         <source>栗|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some chestnuts, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8768" xml:space="preserve">
+      <trans-unit id="8768" xml:space="preserve" approved="no">
         <source>野いちご|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some strawberries, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8820" xml:space="preserve">
+      <trans-unit id="8820" xml:space="preserve" approved="no">
         <source>山桃|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some yamamomo, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8868" xml:space="preserve">
+      <trans-unit id="8868" xml:space="preserve" approved="no">
         <source>イワナ|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a char, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8916" xml:space="preserve">
+      <trans-unit id="8916" xml:space="preserve" approved="no">
         <source>ヤマメ|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a salmon, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="8964" xml:space="preserve">
+      <trans-unit id="8964" xml:space="preserve" approved="no">
         <source>フナ|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a crucian carp, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9012" xml:space="preserve">
+      <trans-unit id="9012" xml:space="preserve" approved="no">
         <source>コイ|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a carp, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9060" xml:space="preserve">
+      <trans-unit id="9060" xml:space="preserve" approved="no">
         <source>ナマズ|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a catfish, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9108" xml:space="preserve">
+      <trans-unit id="9108" xml:space="preserve" approved="no">
         <source>お弁当|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a bento, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9156" xml:space="preserve">
+      <trans-unit id="9156" xml:space="preserve" approved="no">
         <source>薬草・青根|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a green root, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9208" xml:space="preserve">
+      <trans-unit id="9208" xml:space="preserve" approved="no">
         <source>薬草・赤根|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some red roots, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9260" xml:space="preserve">
+      <trans-unit id="9260" xml:space="preserve" approved="no">
         <source>薬草・黄根|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a yellow root, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9312" xml:space="preserve">
+      <trans-unit id="9312" xml:space="preserve" approved="no">
         <source>薬草・白根|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some white roots, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9364" xml:space="preserve">
+      <trans-unit id="9364" xml:space="preserve" approved="no">
         <source>薬草・黒根|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some black roots, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9416" xml:space="preserve">
+      <trans-unit id="9416" xml:space="preserve" approved="no">
         <source>薬草・青葉|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some green leaves, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9468" xml:space="preserve">
+      <trans-unit id="9468" xml:space="preserve" approved="no">
         <source>薬草・赤葉|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some red leaves, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9520" xml:space="preserve">
+      <trans-unit id="9520" xml:space="preserve" approved="no">
         <source>薬草・黄葉|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some yellow leaves, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9572" xml:space="preserve">
+      <trans-unit id="9572" xml:space="preserve" approved="no">
         <source>薬草・白葉|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some white leaves, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9624" xml:space="preserve">
+      <trans-unit id="9624" xml:space="preserve" approved="no">
         <source>薬草・黒葉|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some black leaves, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9676" xml:space="preserve">
+      <trans-unit id="9676" xml:space="preserve" approved="no">
         <source>薬草・青皮|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some green bark, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9728" xml:space="preserve">
+      <trans-unit id="9728" xml:space="preserve" approved="no">
         <source>薬草・赤皮|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some red bark, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9780" xml:space="preserve">
+      <trans-unit id="9780" xml:space="preserve" approved="no">
         <source>薬草・黄皮|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some yellow bark, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9832" xml:space="preserve">
+      <trans-unit id="9832" xml:space="preserve" approved="no">
         <source>薬草・白皮|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some white bark, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9884" xml:space="preserve">
+      <trans-unit id="9884" xml:space="preserve" approved="no">
         <source>薬草・黒皮|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some black bark, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9936" xml:space="preserve">
+      <trans-unit id="9936" xml:space="preserve" approved="no">
         <source>薬草・青実|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some green berries, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="9988" xml:space="preserve">
+      <trans-unit id="9988" xml:space="preserve" approved="no">
         <source>薬草・赤実|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some red berries, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10040" xml:space="preserve">
+      <trans-unit id="10040" xml:space="preserve" approved="no">
         <source>薬草・黄実|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some yellow berries, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10092" xml:space="preserve">
+      <trans-unit id="10092" xml:space="preserve" approved="no">
         <source>薬草・白実|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some white berries, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10144" xml:space="preserve">
+      <trans-unit id="10144" xml:space="preserve" approved="no">
         <source>薬草・黒実|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some black berries, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10196" xml:space="preserve">
+      <trans-unit id="10196" xml:space="preserve" approved="no">
         <source>薬草・青種|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some green seeds, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10248" xml:space="preserve">
+      <trans-unit id="10248" xml:space="preserve" approved="no">
         <source>薬草・赤種|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some red seeds, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10300" xml:space="preserve">
+      <trans-unit id="10300" xml:space="preserve" approved="no">
         <source>薬草・黄種|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some yellow seeds, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10352" xml:space="preserve">
+      <trans-unit id="10352" xml:space="preserve" approved="no">
         <source>薬草・白種|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got a white seed, but your inventory is full</target>
       </trans-unit>
-      <trans-unit id="10404" xml:space="preserve">
+      <trans-unit id="10404" xml:space="preserve" approved="no">
         <source>薬草・黒種|を見つけましたが、|持ち物がいっぱいです</source>
-        <target/>
+        <target state="translated">You got some black seeds, but your inventory is full</target>
       </trans-unit>
     </body>
   </file>
@@ -11804,11 +11804,11 @@
       </trans-unit>
       <trans-unit id="216" xml:space="preserve" approved="no">
         <source>＊＊＊＊＊＊＊＊|を採取しました</source>
-        <target state="translated">You caught ＊＊＊＊＊＊＊＊</target>
+        <target state="translated">You got ＊＊＊＊＊＊＊＊</target>
       </trans-unit>
       <trans-unit id="252" xml:space="preserve" approved="no">
         <source>＊＊＊＊＊＊＊＊|の採取に失敗しました</source>
-        <target state="translated">You failed to catch ＊＊＊＊＊＊＊＊</target>
+        <target state="translated">You failed to get ＊＊＊＊＊＊＊＊</target>
       </trans-unit>
     </body>
   </file>
@@ -12544,7 +12544,7 @@
       </trans-unit>
       <trans-unit id="7668" xml:space="preserve" approved="no">
         <source>[mushi030]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi30]</target>
+        <target state="translated">You failed to catch [mushi030]</target>
       </trans-unit>
       <trans-unit id="7704" xml:space="preserve" approved="no">
         <source>[mushi031]|の採取に失敗しました</source>
@@ -13640,7 +13640,7 @@
       </trans-unit>
       <trans-unit id="296" xml:space="preserve" approved="no">
         <source>釣れませんでした</source>
-        <target state="translated">Failed to catch</target>
+        <target state="translated">You failed to catch anything</target>
       </trans-unit>
       <trans-unit id="316" xml:space="preserve" approved="no">
         <source>持ち物がいっぱいのため|釣りができません</source>

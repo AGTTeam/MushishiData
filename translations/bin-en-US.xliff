@@ -24,7 +24,7 @@
       </trans-unit>
       <trans-unit id="867412" xml:space="preserve" approved="no">
         <source>栗</source>
-        <target state="translated">Chestnut</target>
+        <target state="translated">Chestnuts</target>
       </trans-unit>
       <trans-unit id="867416" xml:space="preserve" approved="no">
         <source>昼</source>
@@ -84,11 +84,11 @@
       </trans-unit>
       <trans-unit id="867572" xml:space="preserve" approved="no">
         <source>大豆</source>
-        <target state="translated">Soybean</target>
+        <target state="translated">Soybeans</target>
       </trans-unit>
       <trans-unit id="867580" xml:space="preserve" approved="no">
         <source>山芋</source>
-        <target state="translated">Yam</target>
+        <target state="translated">Yams</target>
       </trans-unit>
       <trans-unit id="867588" xml:space="preserve" approved="no">
         <source>フナ</source>
@@ -120,7 +120,7 @@
       </trans-unit>
       <trans-unit id="867644" xml:space="preserve" approved="no">
         <source>山桃</source>
-        <target state="translated">Mountain Peach</target>
+        <target state="translated">Yamamomo</target>
       </trans-unit>
       <trans-unit id="867652" xml:space="preserve" approved="no">
         <source>コイ</source>
@@ -228,7 +228,7 @@
       </trans-unit>
       <trans-unit id="870084" xml:space="preserve" approved="no">
         <source>ぜんまい</source>
-        <target state="translated">Fern</target>
+        <target state="translated">Ferns</target>
       </trans-unit>
       <trans-unit id="870120" xml:space="preserve" approved="no">
         <source>しいたけ</source>
@@ -236,19 +236,19 @@
       </trans-unit>
       <trans-unit id="870156" xml:space="preserve" approved="no">
         <source>にんじん</source>
-        <target state="translated">Carrot</target>
+        <target state="translated">Carrots</target>
       </trans-unit>
       <trans-unit id="870180" xml:space="preserve" approved="no">
         <source>タケノコ</source>
-        <target state="translated">Bamboo Shoot</target>
+        <target state="translated">Bamboo Shoots</target>
       </trans-unit>
       <trans-unit id="870204" xml:space="preserve" approved="no">
         <source>きゅうり</source>
-        <target state="translated">Cucumber</target>
+        <target state="translated">Cucumbers</target>
       </trans-unit>
       <trans-unit id="870252" xml:space="preserve" approved="no">
         <source>野いちご</source>
-        <target state="translated">Strawberry</target>
+        <target state="translated">Strawberries</target>
       </trans-unit>
       <trans-unit id="870384" xml:space="preserve" approved="no">
         <source>会話異常</source>
@@ -300,7 +300,7 @@
       </trans-unit>
       <trans-unit id="871956" xml:space="preserve" approved="no">
         <source>じゃがいも</source>
-        <target state="translated">Potato</target>
+        <target state="translated">Potatos</target>
       </trans-unit>
       <trans-unit id="871968" xml:space="preserve" approved="no">
         <source>さつまいも</source>
@@ -312,7 +312,7 @@
       </trans-unit>
       <trans-unit id="871992" xml:space="preserve" approved="no">
         <source>薬草・赤根</source>
-        <target state="translated">Red Root</target>
+        <target state="translated">Red Roots</target>
       </trans-unit>
       <trans-unit id="872004" xml:space="preserve" approved="no">
         <source>薬草・黄根</source>
@@ -320,31 +320,31 @@
       </trans-unit>
       <trans-unit id="872016" xml:space="preserve" approved="no">
         <source>薬草・白根</source>
-        <target state="translated">White Root</target>
+        <target state="translated">White Roots</target>
       </trans-unit>
       <trans-unit id="872028" xml:space="preserve" approved="no">
         <source>薬草・黒根</source>
-        <target state="translated">Black Root</target>
+        <target state="translated">Black Roots</target>
       </trans-unit>
       <trans-unit id="872040" xml:space="preserve" approved="no">
         <source>薬草・青葉</source>
-        <target state="translated">Green Leaf</target>
+        <target state="translated">Green Leaves</target>
       </trans-unit>
       <trans-unit id="872052" xml:space="preserve" approved="no">
         <source>薬草・赤葉</source>
-        <target state="translated">Red Leaf</target>
+        <target state="translated">Red Leaves</target>
       </trans-unit>
       <trans-unit id="872064" xml:space="preserve" approved="no">
         <source>薬草・黄葉</source>
-        <target state="translated">Yellow Leaf</target>
+        <target state="translated">Yellow Leaves</target>
       </trans-unit>
       <trans-unit id="872076" xml:space="preserve" approved="no">
         <source>薬草・白葉</source>
-        <target state="translated">White Leaf</target>
+        <target state="translated">White Leaves</target>
       </trans-unit>
       <trans-unit id="872088" xml:space="preserve" approved="no">
         <source>薬草・黒葉</source>
-        <target state="translated">Black Leaf</target>
+        <target state="translated">Black Leaves</target>
       </trans-unit>
       <trans-unit id="872100" xml:space="preserve" approved="no">
         <source>薬草・青皮</source>
@@ -368,35 +368,35 @@
       </trans-unit>
       <trans-unit id="872160" xml:space="preserve" approved="no">
         <source>薬草・青実</source>
-        <target state="translated">Green Berry</target>
+        <target state="translated">Green Berries</target>
       </trans-unit>
       <trans-unit id="872172" xml:space="preserve" approved="no">
         <source>薬草・赤実</source>
-        <target state="translated">Red Berry</target>
+        <target state="translated">Red Berries</target>
       </trans-unit>
       <trans-unit id="872184" xml:space="preserve" approved="no">
         <source>薬草・黄実</source>
-        <target state="translated">Yellow Berry</target>
+        <target state="translated">Yellow Berries</target>
       </trans-unit>
       <trans-unit id="872196" xml:space="preserve" approved="no">
         <source>薬草・白実</source>
-        <target state="translated">White Berry</target>
+        <target state="translated">White Berries</target>
       </trans-unit>
       <trans-unit id="872208" xml:space="preserve" approved="no">
         <source>薬草・黒実</source>
-        <target state="translated">Black Berry</target>
+        <target state="translated">Black Berries</target>
       </trans-unit>
       <trans-unit id="872220" xml:space="preserve" approved="no">
         <source>薬草・青種</source>
-        <target state="translated">Green Seed</target>
+        <target state="translated">Green Seeds</target>
       </trans-unit>
       <trans-unit id="872232" xml:space="preserve" approved="no">
         <source>薬草・赤種</source>
-        <target state="translated">Red Seed</target>
+        <target state="translated">Red Seeds</target>
       </trans-unit>
       <trans-unit id="872244" xml:space="preserve" approved="no">
         <source>薬草・黄種</source>
-        <target state="translated">Yellow Seed</target>
+        <target state="translated">Yellow Seeds</target>
       </trans-unit>
       <trans-unit id="872256" xml:space="preserve" approved="no">
         <source>薬草・白種</source>
@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="872280" xml:space="preserve" approved="no">
         <source>薬草・黒種</source>
-        <target state="translated">Black Seed</target>
+        <target state="translated">Black Seeds</target>
       </trans-unit>
       <trans-unit id="872292" xml:space="preserve" approved="no">
         <source>蟲封じの薬</source>
@@ -1026,13 +1026,13 @@
         <source>タッチペンでスライド|して、すり鉢の中を|かき混ぜてください</source>
         <target state="translated">Spin the stylus|inside the mortar|to mix the herbs</target>
       </trans-unit>
-      <trans-unit id="892800" xml:space="preserve">
+      <trans-unit id="892800" xml:space="preserve" approved="no">
         <source>が|できました</source>
-        <target/>
+        <target state="translated">Mixing|successful</target>
       </trans-unit>
       <trans-unit id="892816" xml:space="preserve" approved="no">
         <source>薬の調合に|失敗しました</source>
-        <target state="translated">Failed to mix</target>
+        <target state="translated">Mixing failed</target>
       </trans-unit>
       <trans-unit id="892840" xml:space="preserve" approved="no">
         <source>送りたい手紙を|選んでください</source>
