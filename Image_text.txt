@@ -68,7 +68,7 @@ map\icon\iteminfo_01.arc\ITEMINFO_01.png
 	わらび=Bracken
 	ぜんまい=Ferns
 	ふきのとう=Fuki Bud
-	たらのきの芽=Taranoki Bud
+	たらのきの芽=Taranoki Buds
 	しいたけ=Shiitake
 	山芋=Yams
 	タケノコ=Bamboo Shoots
