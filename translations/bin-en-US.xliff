@@ -96,7 +96,7 @@
       </trans-unit>
       <trans-unit id="867596" xml:space="preserve" approved="no">
         <source>滝壺</source>
-        <target state="translated">Basin</target>
+        <target state="translated">Waterfall</target>
       </trans-unit>
       <trans-unit id="867604" xml:space="preserve" approved="no">
         <source>枝豆</source>
@@ -476,7 +476,7 @@
       </trans-unit>
       <trans-unit id="872688" xml:space="preserve" approved="no">
         <source>たらのきの芽</source>
-        <target state="translated">Taranoki Bud</target>
+        <target state="translated">Taranoki Buds</target>
       </trans-unit>
       <trans-unit id="872704" xml:space="preserve" approved="no">
         <source>蟲気抜きの薬</source>
@@ -1028,7 +1028,7 @@
       </trans-unit>
       <trans-unit id="892800" xml:space="preserve" approved="no">
         <source>が|できました</source>
-        <target state="translated">Mixing|successful</target>
+        <target state="translated">|successfully mixed</target>
       </trans-unit>
       <trans-unit id="892816" xml:space="preserve" approved="no">
         <source>薬の調合に|失敗しました</source>
