@@ -88,7 +88,7 @@
       </trans-unit>
       <trans-unit id="10996" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２２　洞の中で、昼</source>
-        <target state="translated">M01_22　In the cave, noon</target>
+        <target state="translated">M01_22　In the cave, day</target>
       </trans-unit>
       <trans-unit id="11048" xml:space="preserve">
         <source>Ｍ０１＿２３　洞の中で、夜出直し</source>
@@ -120,39 +120,39 @@
       </trans-unit>
       <trans-unit id="11324" xml:space="preserve" approved="no">
         <source>Ｓ０１＿０１　依頼：移動方向異常</source>
-        <target state="translated">S01_01　Request: Abnormal movement direction</target>
+        <target state="translated">S01_01　Request: Abnormal Direction</target>
       </trans-unit>
       <trans-unit id="11360" xml:space="preserve" approved="no">
         <source>Ｓ０１＿０３　発見：移動方向異常</source>
-        <target state="translated">S01_03　Discover: Abnormal movement direction</target>
+        <target state="translated">S01_03　Discover: Abnormal Direction</target>
       </trans-unit>
       <trans-unit id="11420" xml:space="preserve" approved="no">
         <source>Ｓ０１＿０５　感染：移動方向異常</source>
-        <target state="translated">S01_05　Infection: Abnormal movement direction</target>
+        <target state="translated">S01_05　Infection: Abnormal Direction</target>
       </trans-unit>
-      <trans-unit id="11456" xml:space="preserve">
+      <trans-unit id="11456" xml:space="preserve" approved="no">
         <source>Ｓ０４＿０１　依頼：時間経過異常</source>
-        <target/>
+        <target state="needs-translation">S04_01　Request:</target>
       </trans-unit>
-      <trans-unit id="11516" xml:space="preserve">
+      <trans-unit id="11516" xml:space="preserve" approved="no">
         <source>Ｓ０６＿０１　依頼：生活時間異常</source>
-        <target/>
+        <target state="needs-translation">S06_01　Request:</target>
       </trans-unit>
-      <trans-unit id="11552" xml:space="preserve">
+      <trans-unit id="11552" xml:space="preserve" approved="no">
         <source>Ｓ１０＿０１　依頼：無音異常</source>
-        <target/>
+        <target state="translated">S10_01　Request: Abnormal Silence</target>
       </trans-unit>
-      <trans-unit id="11608" xml:space="preserve">
+      <trans-unit id="11608" xml:space="preserve" approved="no">
         <source>Ｓ１１＿０１　依頼：会話異常</source>
-        <target/>
+        <target state="translated">S11_01　Request: Abnormal Speech</target>
       </trans-unit>
-      <trans-unit id="11640" xml:space="preserve">
+      <trans-unit id="11640" xml:space="preserve" approved="no">
         <source>Ｓ１２＿０３　感染：移動過程異常</source>
-        <target/>
+        <target state="needs-translation">S12_03　Infection:</target>
       </trans-unit>
-      <trans-unit id="11700" xml:space="preserve">
+      <trans-unit id="11700" xml:space="preserve" approved="no">
         <source>Ｓ１２＿０５　治療：移動過程異常</source>
-        <target/>
+        <target state="needs-translation">S12_05　Treatment:</target>
       </trans-unit>
       <trans-unit id="11736" xml:space="preserve" approved="no">
         <source>Ｓ１５＿０２　ヌシ登場</source>
@@ -170,9 +170,9 @@
         <source>Ｓ１７＿０３　猫の治療</source>
         <target state="translated">S17_03　Cat treatment</target>
       </trans-unit>
-      <trans-unit id="11884" xml:space="preserve">
+      <trans-unit id="11884" xml:space="preserve" approved="no">
         <source>Ｓ１８＿０６　屋根上の蟲、解決</source>
-        <target/>
+        <target state="translated">S18_06　Mushi on roof, solution</target>
       </trans-unit>
       <trans-unit id="11940" xml:space="preserve" approved="no">
         <source>Ｓ１９＿０３　家族１と食事</source>
@@ -222,13 +222,13 @@
         <source>Ｓ５０＿０７　ギンコ、蟲収集終わり</source>
         <target state="translated">S50_07　Ginko, mushi collection end</target>
       </trans-unit>
-      <trans-unit id="12480" xml:space="preserve">
+      <trans-unit id="12480" xml:space="preserve" approved="no">
         <source>帷蟲降下、上昇</source>
-        <target/>
+        <target state="translated">Mushi veil descent, ascend</target>
       </trans-unit>
-      <trans-unit id="12496" xml:space="preserve">
+      <trans-unit id="12496" xml:space="preserve" approved="no">
         <source>死んでいく蟲たちの光</source>
-        <target/>
+        <target state="translated">Light of dying mushi</target>
       </trans-unit>
       <trans-unit id="12520" xml:space="preserve" approved="no">
         <source>ヌシ登場</source>
@@ -710,61 +710,61 @@
         <source>Ｓ２４＿３　終了：お弁当</source>
         <target/>
       </trans-unit>
-      <trans-unit id="25240" xml:space="preserve">
+      <trans-unit id="25240" xml:space="preserve" approved="no">
         <source>Ｓ２５＿１　依頼：おはじき</source>
-        <target/>
+        <target state="translated">S25_1　Request: Marble</target>
       </trans-unit>
-      <trans-unit id="25268" xml:space="preserve">
+      <trans-unit id="25268" xml:space="preserve" approved="no">
         <source>Ｓ２５＿２　発見１：おはじき偽物</source>
-        <target/>
+        <target state="translated">S25_2　Discovery 1: Fake marble</target>
       </trans-unit>
-      <trans-unit id="25328" xml:space="preserve">
+      <trans-unit id="25328" xml:space="preserve" approved="no">
         <source>Ｓ２５＿３　発見２：おはじき偽物</source>
-        <target/>
+        <target state="translated">S25_3　Discovery 2: Fake marble</target>
       </trans-unit>
-      <trans-unit id="25364" xml:space="preserve">
+      <trans-unit id="25364" xml:space="preserve" approved="no">
         <source>Ｓ２５＿４　発見３：おはじき偽物</source>
-        <target/>
+        <target state="translated">S25_4　Discovery 3: Fake marble</target>
       </trans-unit>
-      <trans-unit id="25424" xml:space="preserve">
+      <trans-unit id="25424" xml:space="preserve" approved="no">
         <source>Ｓ２５＿５　発見４：おはじき本物</source>
-        <target/>
+        <target state="translated">S25_4　Discovery 4: Real marble</target>
       </trans-unit>
-      <trans-unit id="25460" xml:space="preserve">
+      <trans-unit id="25460" xml:space="preserve" approved="no">
         <source>Ｓ２５＿６　あたり：おはじき</source>
-        <target/>
+        <target state="translated">S25_6　Hit: Marble</target>
       </trans-unit>
-      <trans-unit id="25516" xml:space="preserve">
+      <trans-unit id="25516" xml:space="preserve" approved="no">
         <source>Ｓ２５＿７　はずれ：おはじき</source>
-        <target/>
+        <target state="translated">S25_7　Miss: Marble</target>
       </trans-unit>
-      <trans-unit id="25548" xml:space="preserve">
+      <trans-unit id="25548" xml:space="preserve" approved="no">
         <source>Ｓ２５＿８　失敗：おはじき</source>
-        <target/>
+        <target state="translated">S25_8　Fail: Marble</target>
       </trans-unit>
-      <trans-unit id="25600" xml:space="preserve">
+      <trans-unit id="25600" xml:space="preserve" approved="no">
         <source>Ｓ２６＿１　欠番</source>
-        <target/>
+        <target state="translated">S26_1　Missing Number</target>
       </trans-unit>
       <trans-unit id="25620" xml:space="preserve" approved="no">
         <source>Ｓ４２＿１　一夜橋</source>
         <target state="translated">S24_1　One-night Bridge</target>
       </trans-unit>
-      <trans-unit id="25652" xml:space="preserve">
+      <trans-unit id="25652" xml:space="preserve" approved="no">
         <source>Ｓ４３＿１　蟲の滝昇り</source>
-        <target/>
+        <target state="translated">S43_1　Mushi climbing the waterfall</target>
       </trans-unit>
-      <trans-unit id="25676" xml:space="preserve">
+      <trans-unit id="25676" xml:space="preserve" approved="no">
         <source>Ｓ４４＿１　歩数計蟲</source>
-        <target/>
+        <target state="translated">S44_1　Pedometer mushi</target>
       </trans-unit>
-      <trans-unit id="25724" xml:space="preserve">
+      <trans-unit id="25724" xml:space="preserve" approved="no">
         <source>Ｓ４５＿１　山彦蟲</source>
-        <target/>
+        <target state="translated">S45_1　Echo mushi</target>
       </trans-unit>
-      <trans-unit id="25744" xml:space="preserve">
+      <trans-unit id="25744" xml:space="preserve" approved="no">
         <source>Ｓ４６＿１　欠番</source>
-        <target/>
+        <target state="translated">S46_1　Missing number</target>
       </trans-unit>
       <trans-unit id="25776" xml:space="preserve" approved="no">
         <source>Ｓ４７＿１　寄り合い：ヤクノ登場</source>
@@ -810,33 +810,33 @@
         <source>Ｓ４９＿６　春まがいで倒れる</source>
         <target/>
       </trans-unit>
-      <trans-unit id="26220" xml:space="preserve">
+      <trans-unit id="26220" xml:space="preserve" approved="no">
         <source>Ｓ５０＿１　開始：ギンコ蟲調査</source>
-        <target/>
+        <target state="translated">S05_1　Start: Ginko mushi investigation</target>
       </trans-unit>
-      <trans-unit id="26276" xml:space="preserve">
+      <trans-unit id="26276" xml:space="preserve" approved="no">
         <source>Ｓ５０＿２　受渡：ギンコ蟲調査</source>
-        <target/>
+        <target state="translated">S50_2　Delivery: Ginko mushi investigation</target>
       </trans-unit>
-      <trans-unit id="26308" xml:space="preserve">
+      <trans-unit id="26308" xml:space="preserve" approved="no">
         <source>Ｓ５０＿３　会話１：ギンコ蟲調査</source>
-        <target/>
+        <target state="translated">S50_3　Conversation 1: Ginko mushi investigation</target>
       </trans-unit>
-      <trans-unit id="26368" xml:space="preserve">
+      <trans-unit id="26368" xml:space="preserve" approved="no">
         <source>Ｓ５０＿４　会話２：ギンコ蟲調査</source>
-        <target/>
+        <target state="translated">S50_4　Conversation 2: Ginko mushi investigation</target>
       </trans-unit>
-      <trans-unit id="26404" xml:space="preserve">
+      <trans-unit id="26404" xml:space="preserve" approved="no">
         <source>Ｓ５０＿５　会話３：ギンコ蟲調査</source>
-        <target/>
+        <target state="translated">S50_5　Conversation 3: Ginko mushi investigation</target>
       </trans-unit>
-      <trans-unit id="26464" xml:space="preserve">
+      <trans-unit id="26464" xml:space="preserve" approved="no">
         <source>Ｓ５０＿６　会話４：ギンコ蟲調査</source>
-        <target/>
+        <target state="translated">S50_6　Conversation 4: Ginko mushi investigation</target>
       </trans-unit>
-      <trans-unit id="26500" xml:space="preserve">
+      <trans-unit id="26500" xml:space="preserve" approved="no">
         <source>Ｓ５０＿７　終了：ギンコ蟲調査</source>
-        <target/>
+        <target state="translated">S50_7　End: Ginko mushi investigation</target>
       </trans-unit>
       <trans-unit id="26556" xml:space="preserve" approved="no">
         <source>Ｓ５４＿１　野宿時光脈を見る</source>
@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="3008" xml:space="preserve" approved="no">
         <source>こんにちは|がんばってますね</source>
-        <target state="translated">Hello. Make sure to do your best!</target>
+        <target state="translated">Hello. Keep up the good work!</target>
       </trans-unit>
       <trans-unit id="3052" xml:space="preserve" approved="no">
         <source>どうしたんだその声。|大丈夫か？</source>
@@ -1096,7 +1096,7 @@
       </trans-unit>
       <trans-unit id="3088" xml:space="preserve" approved="no">
         <source>おう、お前も|がんばって働けよ</source>
-        <target state="translated">Oh, you make sure to do your best and work hard, too.</target>
+        <target state="translated">Oh, you too.</target>
       </trans-unit>
       <trans-unit id="3120" xml:space="preserve" approved="no">
         <source>ふうー、疲れた疲れた|今日も１日|一生懸命に働いた</source>
@@ -1118,9 +1118,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1564" xml:space="preserve">
+      <trans-unit id="1564" xml:space="preserve" approved="no">
         <source>豊作になるといいですね</source>
-        <target/>
+        <target state="translated">Here's hoping for a bountiful harvest.</target>
       </trans-unit>
       <trans-unit id="1588" xml:space="preserve" approved="no">
         <source>お、|声変りか？</source>
@@ -1128,11 +1128,11 @@
       </trans-unit>
       <trans-unit id="1608" xml:space="preserve" approved="no">
         <source>ああ、しっかり育ってくれると|いいんだが</source>
-        <target state="translated">Ah, I hope the crops will grow up strong.</target>
+        <target state="translated">Ah, yeah, I hope the crops will grow up strong.</target>
       </trans-unit>
-      <trans-unit id="1652" xml:space="preserve">
+      <trans-unit id="1652" xml:space="preserve" approved="no">
         <source>お前も早く帰って|ちゃんと寝るんだぞ</source>
-        <target/>
+        <target state="translated">You should get home soon so you can get some good sleep.</target>
       </trans-unit>
     </body>
   </file>
@@ -1304,7 +1304,7 @@
       </trans-unit>
       <trans-unit id="1892" xml:space="preserve" approved="no">
         <source>がんばってね</source>
-        <target state="translated">Do your best!</target>
+        <target state="translated">Good luck!</target>
       </trans-unit>
       <trans-unit id="1908" xml:space="preserve" approved="no">
         <source>おやすみなさい</source>
@@ -1432,11 +1432,11 @@
       </trans-unit>
       <trans-unit id="1752" xml:space="preserve" approved="no">
         <source>[name]兄ちゃんは|忙しいんだから|そんなこと言っちゃダメだろ</source>
-        <target state="translated">[name] is too busy to play with you!</target>
+        <target state="translated">[name] is too busy for that! You can't just go around asking people to play with you!</target>
       </trans-unit>
       <trans-unit id="1812" xml:space="preserve" approved="no">
         <source>[name]姉ちゃんは|忙しいんだから|そんなこと言っちゃダメだろ</source>
-        <target state="translated">[name] is too busy to play with you!</target>
+        <target state="translated">[name] is too busy for that! You can't just go around asking people to play with you!</target>
       </trans-unit>
       <trans-unit id="1896" xml:space="preserve" approved="no">
         <source>また、今度ね</source>

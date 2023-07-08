@@ -28,7 +28,7 @@
       </trans-unit>
       <trans-unit id="867416" xml:space="preserve" approved="no">
         <source>昼</source>
-        <target state="translated">Noon</target>
+        <target state="translated">Day</target>
       </trans-unit>
       <trans-unit id="867420" xml:space="preserve" approved="no">
         <source>四</source>
@@ -176,7 +176,7 @@
       </trans-unit>
       <trans-unit id="867756" xml:space="preserve" approved="no">
         <source>昼～夕</source>
-        <target state="translated">Noon～Evening</target>
+        <target state="translated">Day～Evening</target>
       </trans-unit>
       <trans-unit id="867764" xml:space="preserve" approved="no">
         <source>花行燈</source>
@@ -192,7 +192,7 @@
       </trans-unit>
       <trans-unit id="867796" xml:space="preserve" approved="no">
         <source>夜～昼</source>
-        <target state="translated">Night～Noon</target>
+        <target state="translated">Night～Day</target>
       </trans-unit>
       <trans-unit id="867804" xml:space="preserve" approved="no">
         <source>贈り物</source>
@@ -214,17 +214,17 @@
         <source>食欲異常</source>
         <target state="translated">Abnormal Appetite</target>
       </trans-unit>
-      <trans-unit id="869916" xml:space="preserve">
+      <trans-unit id="869916" xml:space="preserve" approved="no">
         <source>雑音異常</source>
-        <target/>
+        <target state="translated">Abnormal Noise</target>
       </trans-unit>
-      <trans-unit id="869940" xml:space="preserve">
+      <trans-unit id="869940" xml:space="preserve" approved="no">
         <source>無音異常</source>
-        <target/>
+        <target state="translated">Abnormal Silence</target>
       </trans-unit>
-      <trans-unit id="870012" xml:space="preserve">
+      <trans-unit id="870012" xml:space="preserve" approved="no">
         <source>足跡異常</source>
-        <target/>
+        <target state="translated">Abnormal Footprints</target>
       </trans-unit>
       <trans-unit id="870084" xml:space="preserve" approved="no">
         <source>ぜんまい</source>
