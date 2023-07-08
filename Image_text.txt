@@ -151,16 +151,16 @@ menu\entry\cmd_02_01_256.arc\CMD_02_01.png
 menu\jitaku\bg.arc\BG07_00.png
 	自宅一覧=Home Menu
 
-menu\jitaku\musi_01.arc\MUSI_01.png
+menu\jitaku\musi_01.arc\MUSI_01.png#done
 	Numbers 1-32 – do you want me to keep the 0 at the front e.g. “001” or just “1”? (ith: i would say keep)
 
-menu\jitaku\musi_02.arc\MUSI_02.png
+menu\jitaku\musi_02.arc\MUSI_02.png#done
 	Numbers 33-64
 
-menu\jitaku\musi_03.arc\MUSI_03.png
+menu\jitaku\musi_03.arc\MUSI_03.png#done
 	Numbers 65-96
 
-menu\jitaku\musi_04.arc\MUSI_04.png
+menu\jitaku\musi_04.arc\MUSI_04.png#done
 	Numbers 97-127
 
 menu\karibusa\bg.arc\BG07_00.png
@@ -173,7 +173,7 @@ menu\kibako\mapNo_01.arc\MAPNO_01.png
 	地図=Map
 	Numbers 1-27 (as above, should I keep the 0 at the front or not?) (ith: also keep)
 
-menu\kibako\musi_01.arc\MUSI_01-4
+menu\kibako\musi_01.arc\MUSI_01-4#done
 	Same as jitaku\musi images
 
 menu\minigame\mg08\cursor_02.arc\CURSOR_02.png
