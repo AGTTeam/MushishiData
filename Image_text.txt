@@ -3,6 +3,9 @@
 bg\CB001_0_0.arc\CB001_0_0.png
 	Illegible? (ith: i can vaguely make out some characters, but not enough to be sure)
 
+	Subs: およそ遠しとされしもの
+		They are kept at a distance...
+
 bg\CB002_0_0.arc\CB002_0_0.png
 	right:
         ...のろ...
@@ -20,20 +23,45 @@ bg\CB002_0_0.arc\CB002_0_0.png
         (?)
         みどり
 
+	Subs: 
+		下等で奇怪　見慣れた動植物とは
+		まるで違うと おぼしきモノ達
+		Coarse and mysterious...
+		They seem to be completely
+		different from the flora and fauna
+		that are familiar to us.
+	#due to the cropping, this line takes up a lot of room on screen.
+
 bg\CB003_0_0.arc\CB003_0_0.png
 	(kanji i can't identify)の(?)...
         (?)ど...
+
+	Subs: それら異形の一群を
+		This group of strange looking
+		creatures
+
+bg\CB004_0_0.arc\CB004_0_0.png
+
+	Subs: ヒトは古くから畏れを含み
+		has inflicted fear onto humans
+		since long past,
 
 bg\CB005_0_0.arc\CB005_0_0.png
 	...間にて(same kanji as in cb003)...
         ...り蟲と...
         ...在る物を...
 
+	Subs: いつしか総じて
+		and have come to be called...
+
 bg\CB006_0_0.arc\CB006_0_0.png
 	蟲 – leave untranslated?
 
+	Subs: ｢蟲｣と呼んだ
+		“mushi”.
+
 common\messagewin\messwin_01.arc\MESSWIN_01.png
-	さわる=Touch
+	さわる=Touch – is this used?
 
 map\catch\all.arc\CTC_CMD_01.png
 	終了=End
