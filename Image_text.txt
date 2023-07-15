@@ -60,10 +60,10 @@ bg\CB006_0_0.arc\CB006_0_0.png
 	Subs: ｢蟲｣と呼んだ
 		“mushi”.
 
-common\messagewin\messwin_01.arc\MESSWIN_01.png
+common\messagewin\messwin_01.arc\MESSWIN_01.png#done
 	さわる=Touch – is this used?
 
-map\catch\all.arc\CTC_CMD_01.png
+map\catch\all.arc\CTC_CMD_01.png#done
 	終了=End
 	消す=Del
 
@@ -103,10 +103,10 @@ map\icon\iteminfo_01.arc\ITEMINFO_01.png
 	野いちご=Strawberries
 	山桃=Yamamomo
 
-map\sub\map_01.arc\MAP_01.png
+map\sub\map_01.arc\MAP_01.png#done
 	丘=Hill
 	池=Pond
-	田=Field
+	田=Fields
 	雪山=Mountain
 	家=Home
 	村長=(Village) Chief
@@ -115,18 +115,18 @@ map\sub\map_01.arc\MAP_01.png
 	沼=Swamp
 	竹林=Bamboo Grove
 
-map\sub\map_02.arc\MAP_02.png
+map\sub\map_02.arc\MAP_02.png#done
 	Same as previous, but with the addition of
 	洞=Cave (singular or plural?) (ith: singular)
 
-(ith: map\sub\map_pt_01 (the numbers on the map) goes here. i'm not sure what the proper process is for image extraction, and i don't want to break anything, so i'll leave it to the experts lol)
+map\sub\map_pt_01 (the numbers on the map)#done
 
-menu\common\cmd_00_00_128.arc\CMD_00_00.png
+menu\common\cmd_00_00_128.arc\CMD_00_00.png#done
 	決定=OK
 	完了=Done
 	戻る=Back
 
-menu\common\cmd_00_00_256.arc\CMD_00_00.png
+menu\common\cmd_00_00_256.arc\CMD_00_00.png#done
 	さわる=Touch
 	決定=OK
 	完了=Done
@@ -142,10 +142,10 @@ menu\common\cmd_00_01_128.arc\CMD_00_01.png#done
 menu\common\cmd_00_01_256.arc\CMD_00_01.png#done
 	same as above
 
-menu\common\eat_00_128.arc\EAT_00.png
+menu\common\eat_00_128.arc\EAT_00.png#done
 	Numbers 1-100
 
-menu\common\eat_00_256.arc\EAT_00.png
+menu\common\eat_00_256.arc\EAT_00.png#not used?
 	same as above
 
 menu\common\time_01_128.arc\TIME_01.png
@@ -169,11 +169,11 @@ menu\common\time_03_256.arc\TIME_03.png
 menu\entry\bg.arc\bg02_00.png
         主人公設定=Character Creation (ith: doubt all that would fit so shorten to just "character" i guess?)
 
-menu\entry\cmd_02_01_128.arc\CMD_02_01.png
-	男=M – or Boy/Girl? (ith: either works)
-	女=F
+menu\entry\cmd_02_01_128.arc\CMD_02_01.png#done
+	男=Male – or Boy/Girl? (ith: either works)
+	女=Female
 
-menu\entry\cmd_02_01_256.arc\CMD_02_01.png
+menu\entry\cmd_02_01_256.arc\CMD_02_01.png#done
 	same as above
 
 menu\jitaku\bg.arc\BG07_00.png
@@ -197,7 +197,7 @@ menu\karibusa\bg.arc\BG07_00.png
 menu\kibako\bg.arc\BG05_00.png
 	木箱一覧=Pack Menu (ith: "pack" because "wooden box" doesn't flow very well lol)
 
-menu\kibako\mapNo_01.arc\MAPNO_01.png
+menu\kibako\mapNo_01.arc\MAPNO_01.png#done
 	地図=Map
 	Numbers 1-27 (as above, should I keep the 0 at the front or not?) (ith: also keep)
 
