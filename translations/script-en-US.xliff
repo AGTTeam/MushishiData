@@ -5678,77 +5678,77 @@
         <source>「姉さんは、」</source>
         <target state="translated">"My sister…"</target>
       </trans-unit>
-      <trans-unit id="1500" xml:space="preserve">
+      <trans-unit id="1500" xml:space="preserve" approved="no">
         <source>「あの蟲は、」が選ばれた</source>
-        <target/>
+        <target state="translated">"That mushi…" was chosen</target>
       </trans-unit>
-      <trans-unit id="1528" xml:space="preserve">
+      <trans-unit id="1528" xml:space="preserve" approved="no">
         <source>「この里は、」が選ばれた</source>
-        <target/>
+        <target state="translated">"This village…" was chosen</target>
       </trans-unit>
-      <trans-unit id="1556" xml:space="preserve">
+      <trans-unit id="1556" xml:space="preserve" approved="no">
         <source>「姉さんは、」が選ばれた</source>
-        <target/>
+        <target state="translated">"My sister…" was chosen</target>
       </trans-unit>
-      <trans-unit id="1584" xml:space="preserve">
+      <trans-unit id="1584" xml:space="preserve" approved="no">
         <source>「やっぱり光に」</source>
-        <target/>
+        <target state="translated">"Is weak to…"</target>
       </trans-unit>
-      <trans-unit id="1604" xml:space="preserve">
+      <trans-unit id="1604" xml:space="preserve" approved="no">
         <source>「光脈筋で」</source>
-        <target/>
+        <target state="translated">"Is abundant with…"</target>
       </trans-unit>
-      <trans-unit id="1620" xml:space="preserve">
+      <trans-unit id="1620" xml:space="preserve" approved="no">
         <source>「身体が弱く」</source>
-        <target/>
+        <target state="translated">"Was frail, and able to see…"</target>
       </trans-unit>
-      <trans-unit id="1636" xml:space="preserve">
+      <trans-unit id="1636" xml:space="preserve" approved="no">
         <source>「やっぱり光に」が選ばれた</source>
-        <target/>
+        <target state="translated">"Is weak to…" was chosen</target>
       </trans-unit>
-      <trans-unit id="1664" xml:space="preserve">
+      <trans-unit id="1664" xml:space="preserve" approved="no">
         <source>「光脈筋で」が選ばれた</source>
-        <target/>
+        <target state="translated">"Is abundant with…" was chosen</target>
       </trans-unit>
-      <trans-unit id="1688" xml:space="preserve">
+      <trans-unit id="1688" xml:space="preserve" approved="no">
         <source>「身体が弱く」が選ばれた</source>
-        <target/>
+        <target state="translated">"Was frail, and able to see…" was chosen</target>
       </trans-unit>
-      <trans-unit id="1716" xml:space="preserve">
+      <trans-unit id="1716" xml:space="preserve" approved="no">
         <source>「弱いんじゃ……？」</source>
-        <target/>
+        <target state="translated">"Light…?"</target>
       </trans-unit>
-      <trans-unit id="1740" xml:space="preserve">
+      <trans-unit id="1740" xml:space="preserve" approved="no">
         <source>「豊かな土地だ」</source>
-        <target/>
+        <target state="translated">"Light veins…?"</target>
       </trans-unit>
-      <trans-unit id="1760" xml:space="preserve">
+      <trans-unit id="1760" xml:space="preserve" approved="no">
         <source>「蟲の見える体質だ」</source>
-        <target/>
+        <target state="translated">"Mushi…?"</target>
       </trans-unit>
-      <trans-unit id="1784" xml:space="preserve">
+      <trans-unit id="1784" xml:space="preserve" approved="no">
         <source>「弱いんじゃ……？」が選ばれた</source>
-        <target/>
+        <target state="translated">"Light…?" was chosen</target>
       </trans-unit>
-      <trans-unit id="1816" xml:space="preserve">
+      <trans-unit id="1816" xml:space="preserve" approved="no">
         <source>「豊かな土地だ」が選ばれた</source>
-        <target/>
+        <target state="translated">"Light veins…?" was chosen</target>
       </trans-unit>
-      <trans-unit id="1844" xml:space="preserve">
+      <trans-unit id="1844" xml:space="preserve" approved="no">
         <source>「蟲の見える体質だ」が選ばれた</source>
-        <target/>
+        <target state="translated">"Mushi…?" was chosen</target>
       </trans-unit>
       <trans-unit id="1888" xml:space="preserve" approved="no">
         <source>（うーん、|こんがらがってきた。|もう一度考え直してみよう）</source>
         <target state="translated">(Hmmm, I'm getting confused. Let's try this again.)</target>
       </trans-unit>
-      <trans-unit id="1960" xml:space="preserve">
+      <trans-unit id="1960" xml:space="preserve" approved="no">
         <source>あの蟲は、|やっぱり光に、|弱いんじゃ……？</source>
-        <target/>
+        <target state="translated">That mushi…is weak to…light…?</target>
       </trans-unit>
-      <trans-unit id="2004" xml:space="preserve">
+      <trans-unit id="2004" xml:space="preserve" approved="no">
         <source>そのようだな</source>
-        <target/>
+        <target state="translated">That seems to be the case.</target>
       </trans-unit>
     </body>
   </file>
