@@ -148,22 +148,22 @@ menu\common\eat_00_128.arc\EAT_00.png#done
 menu\common\eat_00_256.arc\EAT_00.png#not used?
 	same as above
 
-menu\common\time_01_128.arc\TIME_01.png
+menu\common\time_01_128.arc\TIME_01.png#done
 	時刻/日中=Day – cut “時刻” for space? (ith: definitely)
 
-menu\common\time_01_256.arc\TIME_01.png
+menu\common\time_01_256.arc\TIME_01.png#done
 	same as above
 
-menu\common\time_02_128.arc\TIME_02.png
+menu\common\time_02_128.arc\TIME_02.png#done
 	時刻/夕方=Evening
 
-menu\common\time_02_256.arc\TIME_02.png
+menu\common\time_02_256.arc\TIME_02.png#done
 	same as above
 
-menu\common\time_03_128.arc\TIME_03.png
+menu\common\time_03_128.arc\TIME_03.png#done
 	時刻/夜=Night
 
-menu\common\time_03_256.arc\TIME_03.png
+menu\common\time_03_256.arc\TIME_03.png#done
 	same as above
 
 menu\entry\bg.arc\bg02_00.png
@@ -204,42 +204,42 @@ menu\kibako\mapNo_01.arc\MAPNO_01.png#done
 menu\kibako\musi_01.arc\MUSI_01-4#done
 	Same as jitaku\musi images
 
-menu\minigame\mg08\cursor_02.arc\CURSOR_02.png
+menu\minigame\mg08\cursor_02.arc\CURSOR_02.png#done
 	北=N
 	南=S
 	西=W
 	東=E
 
-menu\minigame\mg09\all.arc\SCORE_01.png
+menu\minigame\mg09\all.arc\SCORE_01.png#done
 	Numbers 1-9
 
-menu\minigame\mg10\all.arc\ROLL_01.png
+menu\minigame\mg10\all.arc\ROLL_01.png#done
 	原作=Original Work
 	漆原友紀=Yuki Urushibara
 	(講談社 月刊 「アフタヌーン」連載)=Monthly Afternoon (KODANSHA)
 
-menu\minigame\mg10\all.arc\ROLL_02.png
+menu\minigame\mg10\all.arc\ROLL_02.png#done
 	総監修=Chief Supervisor
 	長濵博史=Hiroshi Nagahama
 
 	監修=Supervisor
 	漆原友紀=Yuki Urushibara
 
-menu\minigame\mg10\all.arc\ROLL_03.png
+menu\minigame\mg10\all.arc\ROLL_03.png#done
 	キャラクターデザイン=Character Design
 	馬越嘉彦=Yoshihiko Umakoshi
 
 	音楽=Music
 	増田俊郎=Toshio Masuda
 
-menu\minigame\mg10\all.arc\ROLL_04.png
+menu\minigame\mg10\all.arc\ROLL_04.png#done
 	音声録音監督=Voice Recording Supervisor
 	たなかかずや=Kazuya Tanaka
 
 	メインシナリオ=Main Scenario
 	桑畑絹子=Kinuko Kuwahata
 
-menu\minigame\mg10\all.arc\ROLL_05.png
+menu\minigame\mg10\all.arc\ROLL_05.png#done
 	キャスト=Cast
 
 	ギンコ=Ginko
@@ -251,7 +251,7 @@ menu\minigame\mg10\all.arc\ROLL_05.png
 	声=Narrator
 	土井美加=Mika Doi
 
-menu\minigame\mg10\all.arc\ROLL_06.png
+menu\minigame\mg10\all.arc\ROLL_06.png#done
 	開発ディレクター=Development Director
 	手島 大=Hiroshi Teshima
 
@@ -261,7 +261,7 @@ menu\minigame\mg10\all.arc\ROLL_06.png
 	テクニカルディレクター=Technical Director
 	橋谷利幸=Toshiyuki Hashitani
 
-menu\minigame\mg10\all.arc\ROLL_07.png
+menu\minigame\mg10\all.arc\ROLL_07.png#done
 	メインプログラム=Main Programming
 	西野浩三=Kouzou Nishino
 
@@ -274,7 +274,7 @@ menu\minigame\mg10\all.arc\ROLL_07.png
 	プログラム協力=Programming Support
 	ソシオ・アートロジック=Socio Art Logic
 
-menu\minigame\mg10\all.arc\ROLL_08.png
+menu\minigame\mg10\all.arc\ROLL_08.png#done
 	原画=Original Artwork
 	大友健一=Kenichi Ootomo
 	岩崎 誠=Makoto Iwasaki
@@ -289,7 +289,7 @@ menu\minigame\mg10\all.arc\ROLL_08.png
 	原動画協力=Animation Support
 	エム・クリエイト=M-CREATE
 
-menu\minigame\mg10\all.arc\ROLL_09.png
+menu\minigame\mg10\all.arc\ROLL_09.png#done
 	美術監督=Art Director
 	西 俊樹 (KUSANAGI)=Toshiki Nishi (KUSANAGI)
 
@@ -309,14 +309,14 @@ menu\minigame\mg10\all.arc\ROLL_09.png
 	近藤敬康=Tatsuyuki Kondo
 	GREEN
 
-menu\minigame\mg10\all.arc\ROLL_10.png
+menu\minigame\mg10\all.arc\ROLL_10.png#done
 	3DCG監督=3D CG Director
 	中本尊司=Takashi Nakamoto
 
 	3DCG
 	水野亮=Ryo Mizuno
 
-menu\minigame\mg10\all.arc\ROLL_11.png
+menu\minigame\mg10\all.arc\ROLL_11.png#done
 	2DCG監督 色彩設計=2D CG Color Design
 	見城加奈子=Kanako Mishiro
 
@@ -325,14 +325,14 @@ menu\minigame\mg10\all.arc\ROLL_11.png
 	宮負香織=Kaori Miyaoi
 	松前 エ=Takumi Matsumae
 
-menu\minigame\mg10\all.arc\ROLL_12.png
+menu\minigame\mg10\all.arc\ROLL_12.png#done
 	システムCG=System CG
 	佐々木一博=Kazuhiro Sasaki
 
 	背景コンバート=Art Conversion
 	門井敏行=Toshiyuki Kadoi
 
-menu\minigame\mg10\all.arc\ROLL_13.png
+menu\minigame\mg10\all.arc\ROLL_13.png#done
 	音楽制作=Music Production
 	渡辺雅之 (POWERBOX)=Masayuki Watanabe (POWERBOX)
 
@@ -345,7 +345,7 @@ menu\minigame\mg10\all.arc\ROLL_13.png
 	音声録音制作進行=Recording Supervisor
 	内村友祐=Yusuke Uchimura
 
-menu\minigame\mg10\all.arc\ROLL_14.png
+menu\minigame\mg10\all.arc\ROLL_14.png#done
 	音響マネージメント=Sound Management
 	岩田吉史=Yoshifumi Iwata
 
@@ -359,7 +359,7 @@ menu\minigame\mg10\all.arc\ROLL_14.png
 	音響制作協力=Sound Production Support
 	キューブ=CUBE
 
-menu\minigame\mg10\all.arc\ROLL_15.png
+menu\minigame\mg10\all.arc\ROLL_15.png#done
 	デバッグ=Debugging
 	ボールトゥウィン=Pole To Win, Inc.
 
@@ -373,7 +373,7 @@ menu\minigame\mg10\all.arc\ROLL_15.png
 	プロモーション=Promotion
 	森 由美=Yumi Mori
 
-menu\minigame\mg10\all.arc\ROLL_16.png
+menu\minigame\mg10\all.arc\ROLL_16.png#done
 	プロデューサー=Producer
 	水谷英之=Hideyuki Mizutani
 	石綿春也=Haruya Ishiwata
@@ -381,7 +381,7 @@ menu\minigame\mg10\all.arc\ROLL_16.png
 	エグゼクティブプロデューサー=Executive Producer
 	和田康宏=Yasuhiro Wada
 
-menu\minigame\mg10\all.arc\ROLL_17.png
+menu\minigame\mg10\all.arc\ROLL_17.png#done
 	協力=Cooperation
 	宮崎孝士=Koushi Miyazaki
 	講談社 月刊 「アフタヌーン」 編集=Editor, Monthly Afternoon
@@ -390,15 +390,15 @@ menu\minigame\mg10\all.arc\ROLL_17.png
 	吉田彩 (アートランド)=Aya Yoshida (ARTLAND)
 	FONTWORKS
 
-menu\minigame\mg10\all.arc\ROLL_18.png
+menu\minigame\mg10\all.arc\ROLL_18.png#done
 	開発協力=Development Cooperation
 	TENKY
 
-menu\minigame\mg10\all.arc\ROLL_19.png
+menu\minigame\mg10\all.arc\ROLL_19.png#patch credits tbd
 	発売元=Published by
 	マーベラスエンターテイメント=Marvelous Entertainment
 
-menu\minigame\mg10\all.arc\ROLL_20.png
+menu\minigame\mg10\all.arc\ROLL_20.png#logo tbd
 	Logo
 	©漆原友紀/講談社 「蟲師｣製作委員会=Yuki Urushibara/Kodansha - Mushishi Production Committee
 	©2008 Marvelous Entertainment Inc.
@@ -410,6 +410,6 @@ menu\title\all.arc\BG01_00.png
 menu\title\all.arc\TITLEBG_LOGO.png
 	as above
 
-menu\title\all.arc\TITLEBG_MARUC.png
+menu\title\all.arc\TITLEBG_MARUC.png#done
 	©漆原友紀/講談社 「蟲師｣製作委員会=Yuki Urushibara/Kodansha - Mushishi Production Committee
 	©2008 Marvelous Entertainment Inc.
