@@ -166,7 +166,7 @@ menu\common\time_03_128.arc\TIME_03.png#done
 menu\common\time_03_256.arc\TIME_03.png#done
 	same as above
 
-menu\entry\bg.arc\bg02_00.png
+menu\entry\bg.arc\bg02_00.png#done
         主人公設定=Character Creation (ith: doubt all that would fit so shorten to just "character" i guess?)
 
 menu\entry\cmd_02_01_128.arc\CMD_02_01.png#done
@@ -176,7 +176,7 @@ menu\entry\cmd_02_01_128.arc\CMD_02_01.png#done
 menu\entry\cmd_02_01_256.arc\CMD_02_01.png#done
 	same as above
 
-menu\jitaku\bg.arc\BG07_00.png
+menu\jitaku\bg.arc\BG07_00.png#done
 	自宅一覧=Home Menu
 
 menu\jitaku\musi_01.arc\MUSI_01.png#done
@@ -191,10 +191,10 @@ menu\jitaku\musi_03.arc\MUSI_03.png#done
 menu\jitaku\musi_04.arc\MUSI_04.png#done
 	Numbers 97-127
 
-menu\karibusa\bg.arc\BG07_00.png
+menu\karibusa\bg.arc\BG07_00.png#done
 	狩房文庫=Karibusa Library (ith: could maybe be shortened to just library?)
 
-menu\kibako\bg.arc\BG05_00.png
+menu\kibako\bg.arc\BG05_00.png#done
 	木箱一覧=Pack Menu (ith: "pack" because "wooden box" doesn't flow very well lol)
 
 menu\kibako\mapNo_01.arc\MAPNO_01.png#done
@@ -398,16 +398,16 @@ menu\minigame\mg10\all.arc\ROLL_19.png#patch credits tbd
 	発売元=Published by
 	マーベラスエンターテイメント=Marvelous Entertainment
 
-menu\minigame\mg10\all.arc\ROLL_20.png#logo tbd
+menu\minigame\mg10\all.arc\ROLL_20.png#done
 	Logo
 	©漆原友紀/講談社 「蟲師｣製作委員会=Yuki Urushibara/Kodansha - Mushishi Production Committee
 	©2008 Marvelous Entertainment Inc.
 
-menu\title\all.arc\BG01_00.png
+menu\title\all.arc\BG01_00.png#done
 	蟲師=Mushishi – should I edit this or just leave it? (ith: up to you)
 	天降る里=Amefuru Sato (ith: many ways to translate this... upon further research, my initial translation of "the village that fell from heaven" might not be entirely correct (oops). it's actually more like "the village where the sky falls")
 
-menu\title\all.arc\TITLEBG_LOGO.png
+menu\title\all.arc\TITLEBG_LOGO.png#turns out this is quite the complex image. Not sure if I’ll be able to edit it.
 	as above
 
 menu\title\all.arc\TITLEBG_MARUC.png#done
