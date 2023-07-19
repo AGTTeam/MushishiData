@@ -67,7 +67,7 @@ map\catch\all.arc\CTC_CMD_01.png#done
 	終了=End
 	消す=Del
 
-map\icon\iteminfo_01.arc\ITEMINFO_01.png
+map\icon\iteminfo_01.arc\ITEMINFO_01.png#done
 	薬草・青根=Green Root
 	薬草・赤根=Red Roots
 	薬草・黄根=Yellow Root
