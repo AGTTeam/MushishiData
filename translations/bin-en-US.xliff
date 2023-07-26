@@ -2,14 +2,6 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file xml:space="preserve" original="bin" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="867392" xml:space="preserve" approved="no">
-        <source>七</source>
-        <target state="translated">7</target>
-      </trans-unit>
-      <trans-unit id="867396" xml:space="preserve" approved="no">
-        <source>二</source>
-        <target state="translated">2</target>
-      </trans-unit>
       <trans-unit id="867400" xml:space="preserve" approved="no">
         <source>池</source>
         <target state="translated">Pond</target>
@@ -30,14 +22,6 @@
         <source>昼</source>
         <target state="translated">Day</target>
       </trans-unit>
-      <trans-unit id="867420" xml:space="preserve" approved="no">
-        <source>四</source>
-        <target state="translated">4</target>
-      </trans-unit>
-      <trans-unit id="867424" xml:space="preserve" approved="no">
-        <source>九</source>
-        <target state="translated">9</target>
-      </trans-unit>
       <trans-unit id="867428" xml:space="preserve" approved="no">
         <source>沼</source>
         <target state="translated">Swamp</target>
@@ -45,14 +29,6 @@
       <trans-unit id="867432" xml:space="preserve" approved="no">
         <source>田</source>
         <target state="translated">Fields</target>
-      </trans-unit>
-      <trans-unit id="867436" xml:space="preserve" approved="no">
-        <source>〇</source>
-        <target state="translated">0</target>
-      </trans-unit>
-      <trans-unit id="867440" xml:space="preserve" approved="no">
-        <source>八</source>
-        <target state="translated">8</target>
       </trans-unit>
       <trans-unit id="867444" xml:space="preserve" approved="no">
         <source>丘</source>
@@ -62,25 +38,9 @@
         <source>夜</source>
         <target state="translated">Night</target>
       </trans-unit>
-      <trans-unit id="867452" xml:space="preserve" approved="no">
-        <source>一</source>
-        <target state="translated">1</target>
-      </trans-unit>
-      <trans-unit id="867456" xml:space="preserve" approved="no">
-        <source>三</source>
-        <target state="translated">3</target>
-      </trans-unit>
       <trans-unit id="867460" xml:space="preserve" approved="no">
         <source>森</source>
         <target state="translated">Forest</target>
-      </trans-unit>
-      <trans-unit id="867464" xml:space="preserve" approved="no">
-        <source>五</source>
-        <target state="translated">5</target>
-      </trans-unit>
-      <trans-unit id="867468" xml:space="preserve" approved="no">
-        <source>六</source>
-        <target state="translated">6</target>
       </trans-unit>
       <trans-unit id="867572" xml:space="preserve" approved="no">
         <source>大豆</source>
@@ -804,11 +764,11 @@
       </trans-unit>
       <trans-unit id="885832" xml:space="preserve" approved="no">
         <source>●発見者|　・</source>
-        <target state="translated">●Discovered by|　・</target>
+        <target state="translated">●Discovered by|      ・</target>
       </trans-unit>
       <trans-unit id="885848" xml:space="preserve" approved="no">
         <source>●蟲の名前|　・</source>
-        <target state="translated">●Mushi Name|　・</target>
+        <target state="translated">●Mushi Name|      ・</target>
       </trans-unit>
       <trans-unit id="885864" xml:space="preserve" approved="no">
         <source>未記入</source>
@@ -816,11 +776,11 @@
       </trans-unit>
       <trans-unit id="885872" xml:space="preserve" approved="no">
         <source>●棲息場所|　・</source>
-        <target state="translated">●Habitat|　・</target>
+        <target state="translated">●Habitat|      ・</target>
       </trans-unit>
       <trans-unit id="885896" xml:space="preserve" approved="no">
         <source>●出没時間帯|　・</source>
-        <target state="translated">●Haunting Time|　・</target>
+        <target state="translated">●Haunting Time|      ・</target>
       </trans-unit>
       <trans-unit id="885924" xml:space="preserve" approved="no">
         <source>蟲の名前</source>
@@ -840,7 +800,7 @@
       </trans-unit>
       <trans-unit id="886016" xml:space="preserve" approved="no">
         <source>●虚繭でヤクノに報告|　・</source>
-        <target state="translated">●Report to Yakuno|　・</target>
+        <target state="translated">●Report to Yakuno|      ・</target>
       </trans-unit>
       <trans-unit id="886044" xml:space="preserve" approved="no">
         <source>ヤクノ返答済み</source>
@@ -924,7 +884,7 @@
       </trans-unit>
       <trans-unit id="890336" xml:space="preserve" approved="no">
         <source>名前　</source>
-        <target state="translated">Name:　</target>
+        <target state="translated">Name: </target>
       </trans-unit>
       <trans-unit id="890344" xml:space="preserve" approved="no">
         <source>名前の入力</source>
