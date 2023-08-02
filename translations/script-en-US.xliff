@@ -9986,9 +9986,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="280" xml:space="preserve">
+      <trans-unit id="280" xml:space="preserve" approved="no">
         <source>（うわー|とても綺麗）</source>
-        <target/>
+        <target state="translated">(Wow! It's so pretty!)</target>
       </trans-unit>
     </body>
   </file>

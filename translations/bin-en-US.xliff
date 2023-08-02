@@ -220,7 +220,7 @@
       </trans-unit>
       <trans-unit id="870516" xml:space="preserve" approved="no">
         <source>腰痛の薬</source>
-        <target state="translated">Back Medicine</target>
+        <target state="translated">Pain Medicine</target>
       </trans-unit>
       <trans-unit id="870528" xml:space="preserve" approved="no">
         <source>『野Б』</source>
@@ -412,7 +412,7 @@
       </trans-unit>
       <trans-unit id="872592" xml:space="preserve" approved="no">
         <source>台詞語尾異常</source>
-        <target state="translated">Abnormal Inflection</target>
+        <target state="translated">Abnormal Stutter</target>
       </trans-unit>
       <trans-unit id="872608" xml:space="preserve" approved="no">
         <source>台詞振動異常</source>
@@ -718,9 +718,9 @@
         <source>タッチペンで蟲ピンを|タッチして陰火を|三〇匹捕らえましょう</source>
         <target/>
       </trans-unit>
-      <trans-unit id="879828" xml:space="preserve">
+      <trans-unit id="879828" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|紙に書かれた丸を|塗りつぶしましょう</source>
-        <target/>
+        <target state="translated">Use the stylus to|fill in the circle</target>
       </trans-unit>
       <trans-unit id="879892" xml:space="preserve" approved="no">
         <source>タッチペンで|覗き穴をスライドして|動かして|蟲を見つけましょう</source>
@@ -776,7 +776,7 @@
       </trans-unit>
       <trans-unit id="885872" xml:space="preserve" approved="no">
         <source>●棲息場所|　・</source>
-        <target state="translated">●Habitat|      ・</target>
+        <target state="translated">●Dwelling Place|      ・</target>
       </trans-unit>
       <trans-unit id="885896" xml:space="preserve" approved="no">
         <source>●出没時間帯|　・</source>
@@ -788,7 +788,7 @@
       </trans-unit>
       <trans-unit id="885936" xml:space="preserve" approved="no">
         <source>棲息場所</source>
-        <target state="translated">Habitat</target>
+        <target state="translated">Dwelling Place</target>
       </trans-unit>
       <trans-unit id="885948" xml:space="preserve" approved="no">
         <source>出没時間帯</source>
@@ -830,9 +830,9 @@
         <source>蟲の図解描画</source>
         <target state="translated">Mushi Illustration</target>
       </trans-unit>
-      <trans-unit id="886260" xml:space="preserve">
+      <trans-unit id="886260" xml:space="preserve" approved="no">
         <source>読みたい調書を|選んでください</source>
-        <target/>
+        <target state="translated">Choose the record|you want to read</target>
       </trans-unit>
       <trans-unit id="886292" xml:space="preserve" approved="no">
         <source>緑の盃について</source>
@@ -896,7 +896,7 @@
       </trans-unit>
       <trans-unit id="891020" xml:space="preserve" approved="no">
         <source>タッチペンで|赤い文章を|タッチしましょう</source>
-        <target state="translated">Use the stylus|to touch the|red text</target>
+        <target state="translated">Use the stylus to|touch the red text</target>
       </trans-unit>
       <trans-unit id="891180" xml:space="preserve" approved="no">
         <source>「……描くとこ|見ちゃだめだよ」</source>
@@ -954,9 +954,9 @@
         <source>・服用する</source>
         <target state="translated">・Take</target>
       </trans-unit>
-      <trans-unit id="892372" xml:space="preserve">
+      <trans-unit id="892372" xml:space="preserve" approved="no">
         <source>|の治療ができました</source>
-        <target/>
+        <target state="translated">|successfully cured</target>
       </trans-unit>
       <trans-unit id="892392" xml:space="preserve" approved="no">
         <source>特に効果は|ありませんでした</source>
@@ -1090,9 +1090,9 @@
         <source>の設定に失敗しました。|</source>
         <target/>
       </trans-unit>
-      <trans-unit id="899772" xml:space="preserve">
+      <trans-unit id="899772" xml:space="preserve" approved="no">
         <source>十字キー左を押しながらＡボタンで|「上質な蟲ピン」と「蟲封じの薬」を|持った状態になる</source>
-        <target/>
+        <target state="translated">Hold left on the D-pad|and press A to equip|the Fine Mushi Pin|and Mushi Inhibitor</target>
       </trans-unit>
       <trans-unit id="900028" xml:space="preserve" approved="no">
         <source>蟲の採取</source>
