@@ -13686,9 +13686,9 @@
         <source>「ここで野宿をする」が選ばれた</source>
         <target state="translated">"Set up camp" was chosen</target>
       </trans-unit>
-      <trans-unit id="1644" xml:space="preserve">
+      <trans-unit id="1644" xml:space="preserve" approved="no">
         <source>（このところ、|不穏な雰囲気だから|やっぱり家に帰って寝よう）</source>
-        <target/>
+        <target state="translated">(Things have been so unsettling recently that I'd rather sleep at home.)</target>
       </trans-unit>
       <trans-unit id="1708" xml:space="preserve">
         <source>（今は、|ギンコさんが来ているから|やっぱり家に帰って寝よう）</source>
@@ -13766,9 +13766,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="408" xml:space="preserve">
+      <trans-unit id="408" xml:space="preserve" approved="no">
         <source>（わっ、夜になってる……）</source>
-        <target/>
+        <target state="translated">(Wow, it became night…)</target>
       </trans-unit>
     </body>
   </file>
