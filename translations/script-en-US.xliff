@@ -1004,47 +1004,47 @@
       </trans-unit>
       <trans-unit id="3088" xml:space="preserve" approved="no">
         <source>じゃがいも|をもらいました！</source>
-        <target state="translated">I got some potatoes!</target>
+        <target state="translated">&gt;&gt;I got some potatoes!</target>
       </trans-unit>
       <trans-unit id="3120" xml:space="preserve" approved="no">
         <source>さつまいも|をもらいました！</source>
-        <target state="translated">I got a sweet potato!</target>
+        <target state="translated">&gt;&gt;I got a sweet potato!</target>
       </trans-unit>
       <trans-unit id="3152" xml:space="preserve" approved="no">
         <source>里芋|をもらいました！</source>
-        <target state="translated">I got some taro!</target>
+        <target state="translated">&gt;&gt;I got some taro!</target>
       </trans-unit>
       <trans-unit id="3176" xml:space="preserve" approved="no">
         <source>にんじん|をもらいました！</source>
-        <target state="translated">I got some carrots!</target>
+        <target state="translated">&gt;&gt;I got some carrots!</target>
       </trans-unit>
       <trans-unit id="3204" xml:space="preserve" approved="no">
         <source>大根|をもらいました！</source>
-        <target state="translated">I got a daikon!</target>
+        <target state="translated">&gt;&gt;I got a daikon!</target>
       </trans-unit>
       <trans-unit id="3228" xml:space="preserve" approved="no">
         <source>なす|をもらいました！</source>
-        <target state="translated">I got an eggplant!</target>
+        <target state="translated">&gt;&gt;I got an eggplant!</target>
       </trans-unit>
       <trans-unit id="3252" xml:space="preserve" approved="no">
         <source>きゅうり|をもらいました！</source>
-        <target state="translated">I got some cucumbers!</target>
+        <target state="translated">&gt;&gt;I got some cucumbers!</target>
       </trans-unit>
       <trans-unit id="3280" xml:space="preserve" approved="no">
         <source>枝豆|をもらいました！</source>
-        <target state="translated">I got some edamame!</target>
+        <target state="translated">&gt;&gt;I got some edamame!</target>
       </trans-unit>
       <trans-unit id="3304" xml:space="preserve" approved="no">
         <source>大豆|をもらいました！</source>
-        <target state="translated">I got some soybeans!</target>
+        <target state="translated">&gt;&gt;I got some soybeans!</target>
       </trans-unit>
       <trans-unit id="3328" xml:space="preserve" approved="no">
         <source>納豆|をもらいました！</source>
-        <target state="translated">I got some natto!</target>
+        <target state="translated">&gt;&gt;I got some natto!</target>
       </trans-unit>
       <trans-unit id="3352" xml:space="preserve" approved="no">
         <source>栗|をもらいました！</source>
-        <target state="translated">I got some chestnuts!</target>
+        <target state="translated">&gt;&gt;I got some chestnuts!</target>
       </trans-unit>
       <trans-unit id="3376" xml:space="preserve" approved="no">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -6054,9 +6054,9 @@
         <source>そうだね。大したもんじゃ|ないが、これ受け取ってくれよ。|本当にありがとう</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2020" xml:space="preserve">
+      <trans-unit id="2020" xml:space="preserve" approved="no">
         <source>じゃがいも|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some potatoes!</target>
       </trans-unit>
       <trans-unit id="2052" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -6186,9 +6186,9 @@
         <source>助かるよ、ありがとう。|さあ、これを受け取っておくれ。|お礼だよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1524" xml:space="preserve">
+      <trans-unit id="1524" xml:space="preserve" approved="no">
         <source>さつまいも|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a sweet potato!</target>
       </trans-unit>
       <trans-unit id="1556" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -6322,9 +6322,9 @@
         <source>ありがたい、助かったよ。|そうだ、これをやるよ。|礼だ。受け取ってくれ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1304" xml:space="preserve">
+      <trans-unit id="1304" xml:space="preserve" approved="no">
         <source>里芋|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some taro!</target>
       </trans-unit>
       <trans-unit id="1328" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -6562,9 +6562,9 @@
         <source>本当、助かったよ。|これはお礼だ。|もらっておくれ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1536" xml:space="preserve">
+      <trans-unit id="1536" xml:space="preserve" approved="no">
         <source>にんじん|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some carrots!</target>
       </trans-unit>
       <trans-unit id="1564" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -6694,9 +6694,9 @@
         <source>ありがとう。|よかったら、これ持ってって。|お礼だよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1296" xml:space="preserve">
+      <trans-unit id="1296" xml:space="preserve" approved="no">
         <source>大根|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a radish!</target>
       </trans-unit>
       <trans-unit id="1320" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -6866,9 +6866,9 @@
         <source>と、|その前にお前に礼をせんとな。|こいつを貰ってくれ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1404" xml:space="preserve">
+      <trans-unit id="1404" xml:space="preserve" approved="no">
         <source>なす|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got an eggplant!</target>
       </trans-unit>
       <trans-unit id="1428" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -7006,9 +7006,9 @@
         <source>助かったよ。|これは礼だ。|受け取ってくれ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1236" xml:space="preserve">
+      <trans-unit id="1236" xml:space="preserve" approved="no">
         <source>きゅうり|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some cucumbers!</target>
       </trans-unit>
       <trans-unit id="1264" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -7182,9 +7182,9 @@
         <source>ありがとー</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2348" xml:space="preserve">
+      <trans-unit id="2348" xml:space="preserve" approved="no">
         <source>枝豆|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some edamame!</target>
       </trans-unit>
       <trans-unit id="2372" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -7334,9 +7334,9 @@
         <source>ありがとう。|これ、持っていって。|お礼だよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1228" xml:space="preserve">
+      <trans-unit id="1228" xml:space="preserve" approved="no">
         <source>大豆|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some soybeans!</target>
       </trans-unit>
       <trans-unit id="1252" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいだから|気持ちだけ頂くね</source>
@@ -7550,9 +7550,9 @@
         <source>助かったよ。|これ、受け取っておくれ。|お礼だよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2508" xml:space="preserve">
+      <trans-unit id="2508" xml:space="preserve" approved="no">
         <source>栗|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a chestnut!</target>
       </trans-unit>
       <trans-unit id="2532" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -7726,9 +7726,9 @@
         <source>そうだ、これもらってくれよ。|大したもんじゃないが|お礼だよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1520" xml:space="preserve">
+      <trans-unit id="1520" xml:space="preserve" approved="no">
         <source>じゃがいも|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some potatoes!</target>
       </trans-unit>
       <trans-unit id="1564" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -7882,9 +7882,9 @@
         <source>ありがとう！|お礼にこれ、あげるね</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2300" xml:space="preserve">
+      <trans-unit id="2300" xml:space="preserve" approved="no">
         <source>栗|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a chestnut!</target>
       </trans-unit>
       <trans-unit id="2324" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいだから|気持ちだけ頂くね</source>
@@ -7894,9 +7894,9 @@
   </file>
   <file xml:space="preserve" original="SCS13_01_00.arc/SCS13_01_00.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="552" xml:space="preserve">
+      <trans-unit id="552" xml:space="preserve" approved="no">
         <source>大根|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a radish!</target>
       </trans-unit>
       <trans-unit id="588" xml:space="preserve">
         <source>[name]</source>
@@ -8034,9 +8034,9 @@
         <source>いやあ、助かったよ。|ありがとう。これは礼だ。|受け取ってくれ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1252" xml:space="preserve">
+      <trans-unit id="1252" xml:space="preserve" approved="no">
         <source>なす|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got an eggplant!</target>
       </trans-unit>
       <trans-unit id="1276" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -8378,9 +8378,9 @@
         <source>お礼にこれ、あげるね。|おいしいよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1040" xml:space="preserve">
+      <trans-unit id="1040" xml:space="preserve" approved="no">
         <source>野いちご|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some strawberries!</target>
       </trans-unit>
       <trans-unit id="1080" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいだから|気持ちだけ頂くね</source>
@@ -8554,9 +8554,9 @@
         <source>ありがとう、助かったよ。|お礼にこれ、もらってくれよ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="3400" xml:space="preserve">
+      <trans-unit id="3400" xml:space="preserve" approved="no">
         <source>きゅうり|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some cucumbers!</target>
       </trans-unit>
       <trans-unit id="3428" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいなので|お気持ちだけ頂きます</source>
@@ -9654,9 +9654,9 @@
         <source>みんなとても喜んでいたぞ。|礼を受け取ったから、|貰ってくれ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="872" xml:space="preserve">
+      <trans-unit id="872" xml:space="preserve" approved="no">
         <source>なす|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got an eggplant!</target>
       </trans-unit>
       <trans-unit id="908" xml:space="preserve">
         <source>[name]</source>
@@ -9762,9 +9762,9 @@
         <source>お弁当届けてくれて|ありがとうね。|これ、とっといておくれ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="744" xml:space="preserve">
+      <trans-unit id="744" xml:space="preserve" approved="no">
         <source>大豆|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some soybeans!</target>
       </trans-unit>
       <trans-unit id="780" xml:space="preserve">
         <source>[name]</source>
@@ -9914,9 +9914,9 @@
         <source>あ、これ！　ありがとう。|そうだ、|お礼にこれをあげるね</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1144" xml:space="preserve">
+      <trans-unit id="1144" xml:space="preserve" approved="no">
         <source>山桃|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got some yamamomo!</target>
       </trans-unit>
       <trans-unit id="1180" xml:space="preserve">
         <source>あっ、|今持ち物がいっぱいだから|気持ちだけ頂くね</source>
@@ -10374,9 +10374,9 @@
         <source>あ、そうだ。|お前にこれをやるよ。|役に立つと良いが</source>
         <target/>
       </trans-unit>
-      <trans-unit id="12144" xml:space="preserve">
+      <trans-unit id="12144" xml:space="preserve" approved="no">
         <source>上質なわらじ|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a pair of fine sandals!</target>
       </trans-unit>
       <trans-unit id="12176" xml:space="preserve">
         <source>ありがとう</source>
@@ -10410,9 +10410,9 @@
   </file>
   <file xml:space="preserve" original="SCS48_02_00.arc/SCS48_02_00.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="2804" xml:space="preserve">
+      <trans-unit id="2804" xml:space="preserve" approved="no">
         <source>ギンコの声</source>
-        <target/>
+        <target state="translated">Ginko's voice</target>
       </trans-unit>
       <trans-unit id="2816" xml:space="preserve">
         <source>よう</source>
@@ -10462,9 +10462,9 @@
         <source>と、そうだ。|これやるよ。|ま、大したもんじゃないがな</source>
         <target/>
       </trans-unit>
-      <trans-unit id="3224" xml:space="preserve">
+      <trans-unit id="3224" xml:space="preserve" approved="no">
         <source>上質な釣り竿|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a fine fishing rod!</target>
       </trans-unit>
       <trans-unit id="3268" xml:space="preserve">
         <source>ありがとうございます</source>
@@ -11146,9 +11146,9 @@
         <source>と、そうだ。これやるよ。|手伝ってくれた礼だ。|ま、大したもんじゃないがな</source>
         <target/>
       </trans-unit>
-      <trans-unit id="4548" xml:space="preserve">
+      <trans-unit id="4548" xml:space="preserve" approved="no">
         <source>上質な蟲ピン|をもらいました！</source>
-        <target/>
+        <target state="translated">&gt;&gt;I got a fine mushi pin!</target>
       </trans-unit>
       <trans-unit id="4580" xml:space="preserve">
         <source>ありがとうございます</source>
