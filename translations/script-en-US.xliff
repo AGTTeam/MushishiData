@@ -382,45 +382,45 @@
         <source>Ｍ０１＿２８　帷蟲降下、ＥＮＤ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="21772" xml:space="preserve">
+      <trans-unit id="21772" xml:space="preserve" approved="no">
         <source>Ｓ０１＿１　依頼：移動方向異常</source>
-        <target/>
+        <target state="translated">S01_01　Request: Abnormal Direction</target>
       </trans-unit>
-      <trans-unit id="21804" xml:space="preserve">
+      <trans-unit id="21804" xml:space="preserve" approved="no">
         <source>Ｓ０１＿３　発見：移動方向異常</source>
-        <target/>
+        <target state="translated">S01_03　Discover: Abnormal Direction</target>
       </trans-unit>
-      <trans-unit id="21860" xml:space="preserve">
+      <trans-unit id="21860" xml:space="preserve" approved="no">
         <source>Ｓ０１＿５　感染：移動方向異常</source>
-        <target/>
+        <target state="translated">S01_05　Infection: Abnormal Direction</target>
       </trans-unit>
-      <trans-unit id="21892" xml:space="preserve">
+      <trans-unit id="21892" xml:space="preserve" approved="no">
         <source>Ｓ０１＿７　治療：移動方向異常</source>
-        <target/>
+        <target state="translated">S_01_7　Treatment: Abnormal Direction</target>
       </trans-unit>
-      <trans-unit id="21948" xml:space="preserve">
+      <trans-unit id="21948" xml:space="preserve" approved="no">
         <source>Ｓ０２＿１　依頼：移動速度異常</source>
-        <target/>
+        <target state="translated">S02_1　Request: Abnormal Speed</target>
       </trans-unit>
-      <trans-unit id="21980" xml:space="preserve">
+      <trans-unit id="21980" xml:space="preserve" approved="no">
         <source>Ｓ０２＿３　感染：移動速度異常</source>
-        <target/>
+        <target state="translated">S02_3　Infection: Abnormal Speed</target>
       </trans-unit>
-      <trans-unit id="22036" xml:space="preserve">
+      <trans-unit id="22036" xml:space="preserve" approved="no">
         <source>Ｓ０２＿５　治療：移動速度異常</source>
-        <target/>
+        <target state="translated">S02_5　Treatment: Abnormal Speed</target>
       </trans-unit>
-      <trans-unit id="22068" xml:space="preserve">
+      <trans-unit id="22068" xml:space="preserve" approved="no">
         <source>Ｓ０３＿１　依頼：視界異常</source>
-        <target/>
+        <target state="translated">S03_1　Request: Abnormal Vision</target>
       </trans-unit>
-      <trans-unit id="22120" xml:space="preserve">
+      <trans-unit id="22120" xml:space="preserve" approved="no">
         <source>Ｓ０３＿３　感染：視界異常</source>
-        <target/>
+        <target state="translated">S03_3　Infection: Abnormal Vision</target>
       </trans-unit>
-      <trans-unit id="22148" xml:space="preserve">
+      <trans-unit id="22148" xml:space="preserve" approved="no">
         <source>Ｓ０３＿５　治療：視界異常</source>
-        <target/>
+        <target state="translated">S03_5　Treatment: Abnormal Vision</target>
       </trans-unit>
       <trans-unit id="22200" xml:space="preserve">
         <source>Ｓ０４＿１　依頼：時間経過異常</source>
@@ -438,17 +438,17 @@
         <source>Ｓ０４＿６　治療：時間経過異常</source>
         <target/>
       </trans-unit>
-      <trans-unit id="22376" xml:space="preserve">
+      <trans-unit id="22376" xml:space="preserve" approved="no">
         <source>Ｓ０５＿１　依頼：睡眠異常</source>
-        <target/>
+        <target state="translated">S05_1　Request: Abnormal Sleep</target>
       </trans-unit>
-      <trans-unit id="22404" xml:space="preserve">
+      <trans-unit id="22404" xml:space="preserve" approved="no">
         <source>Ｓ０５＿３　感染：睡眠異常</source>
-        <target/>
+        <target state="translated">S05_3　Infection: Abnormal Sleep</target>
       </trans-unit>
-      <trans-unit id="22456" xml:space="preserve">
+      <trans-unit id="22456" xml:space="preserve" approved="no">
         <source>Ｓ０５＿５　治療：睡眠異常</source>
-        <target/>
+        <target state="translated">S05_5　Treatment: Abnormal Sleep</target>
       </trans-unit>
       <trans-unit id="22484" xml:space="preserve">
         <source>Ｓ０６＿１　依頼：生活時間異常</source>

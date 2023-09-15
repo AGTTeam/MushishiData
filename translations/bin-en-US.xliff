@@ -416,7 +416,7 @@
       </trans-unit>
       <trans-unit id="872608" xml:space="preserve" approved="no">
         <source>台詞振動異常</source>
-        <target state="translated">Abnormal Tone</target>
+        <target state="translated">Abnormal Voice</target>
       </trans-unit>
       <trans-unit id="872624" xml:space="preserve" approved="no">
         <source>上質な蟲ピン</source>
@@ -1076,7 +1076,7 @@
       </trans-unit>
       <trans-unit id="894344" xml:space="preserve" approved="no">
         <source>村長：台詞振動異常</source>
-        <target state="translated">Village Chief: Abnormal Tone</target>
+        <target state="translated">Village Chief: Abnormal Voice</target>
       </trans-unit>
       <trans-unit id="894468" xml:space="preserve">
         <source>初期化されていません|</source>
