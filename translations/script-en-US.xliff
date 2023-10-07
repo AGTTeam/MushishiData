@@ -1088,7 +1088,7 @@
       </trans-unit>
       <trans-unit id="3008" xml:space="preserve" approved="no">
         <source>こんにちは|がんばってますね</source>
-        <target state="translated">Hello. Keep up the good work!</target>
+        <target state="translated">Keep up the good work!</target>
       </trans-unit>
       <trans-unit id="3052" xml:space="preserve" approved="no">
         <source>どうしたんだその声。|大丈夫か？</source>
@@ -1420,11 +1420,11 @@
       </trans-unit>
       <trans-unit id="1656" xml:space="preserve" approved="no">
         <source>[name]兄ちゃん、|いっしょに遊ぼー</source>
-        <target state="translated">[name], let's play!</target>
+        <target state="translated">[name], let's pway!</target>
       </trans-unit>
       <trans-unit id="1692" xml:space="preserve" approved="no">
         <source>[name]姉ちゃん、|いっしょに遊ぼー</source>
-        <target state="translated">[name], let's play!</target>
+        <target state="translated">[name], let's pway!</target>
       </trans-unit>
       <trans-unit id="1740" xml:space="preserve" approved="no">
         <source>村の少年２</source>
@@ -4338,9 +4338,9 @@
         <source>だが、運よく、知り合いの蟲師が|里の近くにいるらしい。|その者にこの件を|託すことにした」</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2440" xml:space="preserve">
+      <trans-unit id="2440" xml:space="preserve" approved="no">
         <source>……とにかく、|その人を待つしかないな……</source>
-        <target/>
+        <target state="translated">…I guess I have no choice but to wait for that person to arrive…</target>
       </trans-unit>
     </body>
   </file>
@@ -4416,7 +4416,7 @@
       </trans-unit>
       <trans-unit id="576" xml:space="preserve" approved="no">
         <source>（&lt;c red&gt;蟲煙草&lt;/c&gt;の作り方か。|あまり作ったことないから、|処方箋を確認しておこう）</source>
-        <target state="translated">(How to make &lt;c red&gt;mushi tobacco&lt;/c&gt;? I haven't made it that often, so I'll have to check the prescription.) #this may or may not fit in the text box. will have to find out when i get to this point in the game</target>
+        <target state="translated">(How to make &lt;c red&gt;mushi tobacco&lt;/c&gt;? I haven't made it that often, so I'll have to check the prescription.)</target>
       </trans-unit>
     </body>
   </file>
