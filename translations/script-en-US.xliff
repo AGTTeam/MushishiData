@@ -3268,11 +3268,11 @@
       </trans-unit>
       <trans-unit id="3704" xml:space="preserve" approved="no">
         <source>お前、名も知らずに|ここまで来たのか？|まったく、先が思いやられるわ</source>
-        <target state="translated">You…came all this way without even knowing his name? Good grief. I'm concerned for the future generation…</target>
+        <target state="translated">You…came all this way without even knowing his name? Good grief. I'm concerned for your future…</target>
       </trans-unit>
-      <trans-unit id="3784" xml:space="preserve">
+      <trans-unit id="3784" xml:space="preserve" approved="no">
         <source>……すみません……</source>
-        <target/>
+        <target state="translated">…Please excuse me…</target>
       </trans-unit>
       <trans-unit id="3804" xml:space="preserve">
         <source>蟲師になって間もないそうだな</source>
@@ -4226,9 +4226,9 @@
         <source>おや……</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2312" xml:space="preserve">
+      <trans-unit id="2312" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="2324" xml:space="preserve">
         <source>……？|この感覚はなんだろう？</source>
@@ -4290,9 +4290,9 @@
         <source>……わからないや……|はーあ……</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2476" xml:space="preserve">
+      <trans-unit id="2476" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="2488" xml:space="preserve">
         <source>「里でおかしなことが|起き始めている。|こんなことは初めてだ……」</source>
@@ -5050,9 +5050,9 @@
         <source>うん、|光の当たり具合によって、|すごくきれいに光るんだ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="5536" xml:space="preserve">
+      <trans-unit id="5536" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="5548" xml:space="preserve">
         <source>ちょっとこいつを|削ってもいいか？</source>
@@ -5226,9 +5226,9 @@
         <source>ギンコ</source>
         <target state="translated">Ginko</target>
       </trans-unit>
-      <trans-unit id="22232" xml:space="preserve">
+      <trans-unit id="22232" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="22256" xml:space="preserve">
         <source>あの蟲の弱点がわかったって、|本当？</source>
@@ -7074,9 +7074,9 @@
         <source>少女２</source>
         <target state="translated">Girl 2</target>
       </trans-unit>
-      <trans-unit id="1084" xml:space="preserve">
+      <trans-unit id="1084" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="1096" xml:space="preserve" approved="no">
         <source>少年２</source>
@@ -7386,9 +7386,9 @@
         <source>村の女３</source>
         <target state="translated">Village Woman 3</target>
       </trans-unit>
-      <trans-unit id="1064" xml:space="preserve">
+      <trans-unit id="1064" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="1088" xml:space="preserve" approved="no">
         <source>村の男３</source>
@@ -7430,9 +7430,9 @@
         <source>村の女３</source>
         <target state="translated">Village Woman 3</target>
       </trans-unit>
-      <trans-unit id="940" xml:space="preserve">
+      <trans-unit id="940" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="964" xml:space="preserve" approved="no">
         <source>村の男３</source>
@@ -7514,9 +7514,9 @@
         <source>村の女３</source>
         <target state="translated">Village Woman 3</target>
       </trans-unit>
-      <trans-unit id="2152" xml:space="preserve">
+      <trans-unit id="2152" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="2176" xml:space="preserve">
         <source>どうだ？　聞こえるか？</source>
@@ -7526,9 +7526,9 @@
         <source>もう少し、|待ってみて下さい</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2244" xml:space="preserve">
+      <trans-unit id="2244" xml:space="preserve" approved="no">
         <source>…………ん？</source>
-        <target/>
+        <target state="translated">…Hm?</target>
       </trans-unit>
       <trans-unit id="2272" xml:space="preserve">
         <source>どうした？</source>
@@ -7598,9 +7598,9 @@
         <source>少年２</source>
         <target state="translated">Boy 2</target>
       </trans-unit>
-      <trans-unit id="1028" xml:space="preserve">
+      <trans-unit id="1028" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="1052" xml:space="preserve">
         <source>いつから、こういう状態に？</source>
@@ -7646,9 +7646,9 @@
         <source>少年２</source>
         <target state="translated">Boy 2</target>
       </trans-unit>
-      <trans-unit id="756" xml:space="preserve">
+      <trans-unit id="756" xml:space="preserve" approved="no">
         <source>…………</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="780" xml:space="preserve">
         <source>[name]</source>
