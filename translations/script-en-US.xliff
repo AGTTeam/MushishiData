@@ -3376,11 +3376,11 @@
       </trans-unit>
       <trans-unit id="1568" xml:space="preserve" approved="no">
         <source>いえ、そんな……|僕なんか全然まだまだで……</source>
-        <target state="translated">No, not at all…I still have a long way to go…</target>
+        <target state="translated">I dunno about that… I still have a long way to go…</target>
       </trans-unit>
       <trans-unit id="1616" xml:space="preserve" approved="no">
         <source>いえ、そんな……|私なんか全然まだまだで……</source>
-        <target state="translated">No, not at all…I still have a long way to go…</target>
+        <target state="translated">I dunno about that… I still have a long way to go…</target>
       </trans-unit>
       <trans-unit id="1664" xml:space="preserve">
         <source>慢心せず、|日々精進を重ねることは|殊勝な心がけだ</source>
@@ -3506,17 +3506,17 @@
         <source>え？</source>
         <target state="translated">Huh?</target>
       </trans-unit>
-      <trans-unit id="5036" xml:space="preserve">
+      <trans-unit id="5036" xml:space="preserve" approved="no">
         <source>蟲を屠（ほふ）ることを|辛く感じることもあるのだろう</source>
-        <target/>
+        <target state="translated">I'm sure there are times you feel bad about killing mushi.</target>
       </trans-unit>
-      <trans-unit id="5092" xml:space="preserve">
+      <trans-unit id="5092" xml:space="preserve" approved="no">
         <source>……本当を言うと、|ちょっと辛いです</source>
-        <target/>
+        <target state="translated">…To be honest, yeah, I do.</target>
       </trans-unit>
-      <trans-unit id="5132" xml:space="preserve">
+      <trans-unit id="5132" xml:space="preserve" approved="no">
         <source>でも、人が生きるためには、|仕方がないこともあるから……</source>
-        <target/>
+        <target state="translated">But sometimes it's the only way to keep people safe.</target>
       </trans-unit>
       <trans-unit id="5192" xml:space="preserve" approved="no">
         <source>私と同じだな</source>
@@ -3562,13 +3562,13 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1916" xml:space="preserve">
+      <trans-unit id="1916" xml:space="preserve" approved="no">
         <source>ん？　あ、淡幽さんだ……</source>
-        <target/>
+        <target state="translated">Hm? Ah, it's Miss Tanyuu…</target>
       </trans-unit>
-      <trans-unit id="1956" xml:space="preserve">
+      <trans-unit id="1956" xml:space="preserve" approved="no">
         <source>あのー……</source>
-        <target/>
+        <target state="translated">Ummm…</target>
       </trans-unit>
       <trans-unit id="1980" xml:space="preserve" approved="no">
         <source>淡幽</source>
@@ -3606,33 +3606,33 @@
         <source>この先に、|お前の村があるのだな</source>
         <target/>
       </trans-unit>
-      <trans-unit id="2232" xml:space="preserve">
+      <trans-unit id="2232" xml:space="preserve" approved="no">
         <source>どんな所だ？</source>
-        <target/>
+        <target state="translated">What's it like?</target>
       </trans-unit>
-      <trans-unit id="2248" xml:space="preserve">
+      <trans-unit id="2248" xml:space="preserve" approved="no">
         <source>小さな村です。|周りを山に囲まれていて、|田畑があって</source>
-        <target/>
+        <target state="translated">It's a small village, surrounded by mountains, with plenty of farmland.</target>
       </trans-unit>
-      <trans-unit id="2304" xml:space="preserve">
+      <trans-unit id="2304" xml:space="preserve" approved="no">
         <source>珍しいものは何もないですよ。|あ、でも光脈筋だから、|他より実りは豊からしくて……</source>
-        <target/>
+        <target state="translated">It's not too special. Ah, but it sits on top of a light vein, so the land is very fertile…</target>
       </trans-unit>
-      <trans-unit id="2388" xml:space="preserve">
+      <trans-unit id="2388" xml:space="preserve" approved="no">
         <source>よその人から見たら|変わったものもあるのかな？</source>
-        <target/>
+        <target state="translated">I wonder if it might seem strange from an outsider's perspective?</target>
       </trans-unit>
-      <trans-unit id="2436" xml:space="preserve">
+      <trans-unit id="2436" xml:space="preserve" approved="no">
         <source>そうか</source>
-        <target/>
+        <target state="translated">I see.</target>
       </trans-unit>
       <trans-unit id="2456" xml:space="preserve" approved="no">
         <source>…………</source>
         <target state="translated">…</target>
       </trans-unit>
-      <trans-unit id="2468" xml:space="preserve">
+      <trans-unit id="2468" xml:space="preserve" approved="no">
         <source>（そうか。|淡幽さんは自由に遠くへ|行くことは出来ないんだ……）</source>
-        <target/>
+        <target state="translated">(Miss Tanyuu must not really be able to go anywhere, huh…)</target>
       </trans-unit>
       <trans-unit id="2532" xml:space="preserve">
         <source>今日も文庫を|読みに来たのだろう</source>
