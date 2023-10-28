@@ -1198,9 +1198,9 @@
         <source>村の女２</source>
         <target state="translated">Village Woman 2</target>
       </trans-unit>
-      <trans-unit id="2804" xml:space="preserve">
+      <trans-unit id="2804" xml:space="preserve" approved="no">
         <source>稲がいきなり成長するなんて|不気味だよ……</source>
-        <target/>
+        <target state="translated">It's kind of creepy how quickly the rice is growing…</target>
       </trans-unit>
       <trans-unit id="2848" xml:space="preserve" approved="no">
         <source>ふうー|おたがい、精がでるねえ</source>
