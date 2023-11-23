@@ -3444,7 +3444,7 @@
       </trans-unit>
       <trans-unit id="4432" xml:space="preserve" approved="no">
         <source>（墨色のあざ。これが……）</source>
-        <target state="translated">(An ink-colored birthmark. This is…)</target>
+        <target state="translated">(An ink-colored birthmark. That must be…)</target>
       </trans-unit>
       <trans-unit id="4460" xml:space="preserve" approved="no">
         <source>禁種の蟲を封じた跡だ</source>
@@ -3462,29 +3462,29 @@
         <source>はい。あれは……</source>
         <target state="translated">Okay. Well…</target>
       </trans-unit>
-      <trans-unit id="4584" xml:space="preserve">
+      <trans-unit id="4584" xml:space="preserve" approved="no">
         <source>僕は、集落で起こった|蟲垂衣と呼ばれる現象について|話をした</source>
-        <target/>
+        <target state="translated">And so, I told her about the mushi veil phenomenon that occurred in the village. #not sure how this is formatted in-game, will have to find out</target>
       </trans-unit>
-      <trans-unit id="4644" xml:space="preserve">
+      <trans-unit id="4644" xml:space="preserve" approved="no">
         <source>私は、集落で起こった|蟲垂衣と呼ばれる現象について|話をした</source>
-        <target/>
+        <target state="translated">And so, I told her about the mushi veil phenomenon that occurred in the village. #ditto</target>
       </trans-unit>
-      <trans-unit id="4716" xml:space="preserve">
+      <trans-unit id="4716" xml:space="preserve" approved="no">
         <source>……そうか。では、|里人は全員無事だったのだな</source>
-        <target/>
+        <target state="translated">…I see. So the villagers were safe in the end.</target>
       </trans-unit>
-      <trans-unit id="4764" xml:space="preserve">
+      <trans-unit id="4764" xml:space="preserve" approved="no">
         <source>はい。|ギンコさんのおかげです</source>
-        <target/>
+        <target state="translated">All thanks to Ginko.</target>
       </trans-unit>
-      <trans-unit id="4796" xml:space="preserve">
+      <trans-unit id="4796" xml:space="preserve" approved="no">
         <source>僕はたいしたことは|できませんでしたが</source>
-        <target/>
+        <target state="translated">I couldn't really do much.</target>
       </trans-unit>
-      <trans-unit id="4836" xml:space="preserve">
+      <trans-unit id="4836" xml:space="preserve" approved="no">
         <source>私はたいしたことは|できませんでしたが</source>
-        <target/>
+        <target state="translated">I couldn't really do much.</target>
       </trans-unit>
       <trans-unit id="4876" xml:space="preserve">
         <source>お前という生き残りが|いたから、新しい里人らも|助かったのだろう</source>
