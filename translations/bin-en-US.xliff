@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="872292" xml:space="preserve" approved="no">
         <source>蟲封じの薬</source>
-        <target state="translated">Mushi Inhibitor</target>
+        <target state="translated">Mushi Suppressant</target>
       </trans-unit>
       <trans-unit id="872304" xml:space="preserve" approved="no">
         <source>『神の筆』</source>
@@ -1092,7 +1092,7 @@
       </trans-unit>
       <trans-unit id="899772" xml:space="preserve" approved="no">
         <source>十字キー左を押しながらＡボタンで|「上質な蟲ピン」と「蟲封じの薬」を|持った状態になる</source>
-        <target state="translated">Hold left on the D-pad|and press A to equip|the Fine Mushi Pin|and Mushi Inhibitor</target>
+        <target state="translated">Hold left on the D-pad|and press A to equip|the Fine Mushi Pin|and Mushi Suppressant</target>
       </trans-unit>
       <trans-unit id="900028" xml:space="preserve" approved="no">
         <source>蟲の採取</source>
