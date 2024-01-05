@@ -10378,9 +10378,9 @@
         <source>上質なわらじ|をもらいました！</source>
         <target state="translated">&gt;&gt;I got a pair of fine sandals!</target>
       </trans-unit>
-      <trans-unit id="12176" xml:space="preserve">
+      <trans-unit id="12176" xml:space="preserve" approved="no">
         <source>ありがとう</source>
-        <target/>
+        <target state="translated">Thanks!</target>
       </trans-unit>
       <trans-unit id="12188" xml:space="preserve">
         <source>それじゃ、元気でね</source>
@@ -10414,9 +10414,9 @@
         <source>ギンコの声</source>
         <target state="translated">Ginko's voice</target>
       </trans-unit>
-      <trans-unit id="2816" xml:space="preserve">
+      <trans-unit id="2816" xml:space="preserve" approved="no">
         <source>よう</source>
-        <target/>
+        <target state="translated">Hey.</target>
       </trans-unit>
       <trans-unit id="2836" xml:space="preserve">
         <source>[name]</source>
@@ -10466,9 +10466,9 @@
         <source>上質な釣り竿|をもらいました！</source>
         <target state="translated">&gt;&gt;I got a fine fishing rod!</target>
       </trans-unit>
-      <trans-unit id="3268" xml:space="preserve">
+      <trans-unit id="3268" xml:space="preserve" approved="no">
         <source>ありがとうございます</source>
-        <target/>
+        <target state="translated">Thank you very much!</target>
       </trans-unit>
       <trans-unit id="3292" xml:space="preserve">
         <source>しばらくはゆっくり|できるんですか？</source>
@@ -10530,9 +10530,9 @@
   </file>
   <file xml:space="preserve" original="SCS49_01_00.arc/SCS49_01_00.BIN" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="108" xml:space="preserve">
+      <trans-unit id="108" xml:space="preserve" approved="no">
         <source>手紙</source>
-        <target/>
+        <target state="translated">Letter</target>
       </trans-unit>
       <trans-unit id="116" xml:space="preserve">
         <source>お前が|送ってくれた調書の|＜自分任意蟲名＞は|「空吹」という蟲だ。|木に咲く花のような|形をしていて、蝶の姿|にも変わるらしい。|こいつがいるという|ことは、近くで|「春まがい」って|現象が発生してるの|かもしれん。|「空吹」は、冬眠中の|動植物の活動を促して|春と錯覚させるものだ|と聞いている。|俺は実物を知らないん|で詳しいことは書けな|いがとにかく近寄らな|いようにすることだ|　　　　　ヤクノ</source>
