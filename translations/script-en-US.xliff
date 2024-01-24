@@ -10554,9 +10554,9 @@
         <source>（森に向かっているの？）</source>
         <target/>
       </trans-unit>
-      <trans-unit id="1456" xml:space="preserve">
+      <trans-unit id="1456" xml:space="preserve" approved="no">
         <source>（……なんだろう？|甘い匂いがする……）</source>
-        <target/>
+        <target state="translated">(…What is that? There's a sweet smell in the air…)</target>
       </trans-unit>
     </body>
   </file>
@@ -10578,9 +10578,9 @@
         <source>いたっ</source>
         <target/>
       </trans-unit>
-      <trans-unit id="656" xml:space="preserve">
+      <trans-unit id="656" xml:space="preserve" approved="no">
         <source>（匂いが強くなってきた……）</source>
-        <target/>
+        <target state="translated">(The smell is getting stronger…)</target>
       </trans-unit>
       <trans-unit id="700" xml:space="preserve">
         <source>（あれは……）</source>
@@ -10594,17 +10594,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="428" xml:space="preserve">
+      <trans-unit id="428" xml:space="preserve" approved="no">
         <source>（……すごい！|これが「春まがい」なのか？）</source>
-        <target/>
+        <target state="translated">(…Amazing! Is this "Harumagai"?)</target>
       </trans-unit>
-      <trans-unit id="476" xml:space="preserve">
+      <trans-unit id="476" xml:space="preserve" approved="no">
         <source>（……すごい！|これが「春まがい」なの？）</source>
-        <target/>
+        <target state="translated">(…Amazing! Is this "Harumagai"?)</target>
       </trans-unit>
-      <trans-unit id="520" xml:space="preserve">
+      <trans-unit id="520" xml:space="preserve" approved="no">
         <source>（草が生い茂って、|花もこんなにたくさん……）</source>
-        <target/>
+        <target state="translated">(The grass is so lush, and there are so many flowers…)</target>
       </trans-unit>
     </body>
   </file>
@@ -10614,17 +10614,17 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="448" xml:space="preserve">
+      <trans-unit id="448" xml:space="preserve" approved="no">
         <source>（わぁ、こっちには|山菜もたくさんある）</source>
-        <target/>
+        <target state="translated">(Wow, there are lots of vegetables growing here.)</target>
       </trans-unit>
-      <trans-unit id="504" xml:space="preserve">
+      <trans-unit id="504" xml:space="preserve" approved="no">
         <source>（少し摘んでいっても、|大丈夫だよな……）</source>
-        <target/>
+        <target state="translated">(It should be okay if I take just a few…)</target>
       </trans-unit>
-      <trans-unit id="548" xml:space="preserve">
+      <trans-unit id="548" xml:space="preserve" approved="no">
         <source>（少し摘んでいっても、|大丈夫だよね……）</source>
-        <target/>
+        <target state="translated">(It should be okay if I take just a few…)</target>
       </trans-unit>
     </body>
   </file>
@@ -10634,37 +10634,37 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="4524" xml:space="preserve">
+      <trans-unit id="4524" xml:space="preserve" approved="no">
         <source>（この辺りは年中雪の中なのに、|春そのものだ。なんだか鮮やか|過ぎて眩しいくらいだな）</source>
-        <target/>
+        <target state="translated">(It's always snowing here, but it really seems like spring. It's so vibrant that it's dazzling!)</target>
       </trans-unit>
-      <trans-unit id="4612" xml:space="preserve">
+      <trans-unit id="4612" xml:space="preserve" approved="no">
         <source>（この辺りは年中雪の中なのに、|春そのものだ。なんだか鮮やか|過ぎて眩しいくらい）</source>
-        <target/>
+        <target state="translated">(It's always snowing here, but it really seems like spring. It's so vibrant that it's dazzling!)</target>
       </trans-unit>
-      <trans-unit id="4708" xml:space="preserve">
+      <trans-unit id="4708" xml:space="preserve" approved="no">
         <source>（……ん？|匂いが変わったような……）</source>
-        <target/>
+        <target state="translated">(…Hm? The smell changed…)</target>
       </trans-unit>
       <trans-unit id="4748" xml:space="preserve">
         <source>（あれ、寒くなってきた。|急になんで……）</source>
         <target/>
       </trans-unit>
-      <trans-unit id="4804" xml:space="preserve">
+      <trans-unit id="4804" xml:space="preserve" approved="no">
         <source>（！　やまねだ。|眠ってるみたいだけど……）</source>
-        <target/>
+        <target state="translated">(…! It's a dormouse. It seems to be asleep though…)</target>
       </trans-unit>
-      <trans-unit id="4852" xml:space="preserve">
+      <trans-unit id="4852" xml:space="preserve" approved="no">
         <source>（う……、|体が重くなってきた……）</source>
-        <target/>
+        <target state="translated">(Ugh… My body feels like it's getting heavier…)</target>
       </trans-unit>
-      <trans-unit id="4892" xml:space="preserve">
+      <trans-unit id="4892" xml:space="preserve" approved="no">
         <source>あ、あれ？|なんだか眠く……</source>
-        <target/>
+        <target state="translated">Wha…what's going on? I'm so sleepy…</target>
       </trans-unit>
-      <trans-unit id="4924" xml:space="preserve">
+      <trans-unit id="4924" xml:space="preserve" approved="no">
         <source>……</source>
-        <target/>
+        <target state="translated">…</target>
       </trans-unit>
       <trans-unit id="4932" xml:space="preserve">
         <source>……あれ、|何だろうこの匂い……</source>
@@ -10674,13 +10674,13 @@
         <source>ギンコ</source>
         <target state="translated">Ginko</target>
       </trans-unit>
-      <trans-unit id="4976" xml:space="preserve">
+      <trans-unit id="4976" xml:space="preserve" approved="no">
         <source>お、目が覚めたようだな</source>
-        <target/>
+        <target state="translated">Oh, you're awake.</target>
       </trans-unit>
-      <trans-unit id="5020" xml:space="preserve">
+      <trans-unit id="5020" xml:space="preserve" approved="no">
         <source>あれ……|ギンコさんどうしてここに</source>
-        <target/>
+        <target state="translated">Huh…? Ginko? What are you doing here?</target>
       </trans-unit>
       <trans-unit id="5056" xml:space="preserve">
         <source>ヤクノから|文があってな</source>
