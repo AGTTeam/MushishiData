@@ -10666,9 +10666,9 @@
         <source>……</source>
         <target state="translated">…</target>
       </trans-unit>
-      <trans-unit id="4932" xml:space="preserve">
+      <trans-unit id="4932" xml:space="preserve" approved="no">
         <source>……あれ、|何だろうこの匂い……</source>
-        <target/>
+        <target state="translated">…What's that smell…?</target>
       </trans-unit>
       <trans-unit id="4968" xml:space="preserve" approved="no">
         <source>ギンコ</source>
@@ -10722,17 +10722,17 @@
         <source>ヤクノにも|近づくなっていわれたのに、|つい……</source>
         <target state="translated">Yakuno told me to stay away from it, but I…</target>
       </trans-unit>
-      <trans-unit id="5520" xml:space="preserve">
+      <trans-unit id="5520" xml:space="preserve" approved="no">
         <source>あの「空吹」って蟲。|蝶みたいで、きれいで……</source>
-        <target/>
+        <target state="translated">That mushi is called "Usobuki". It looks just like a butterfly, and it's very pretty…</target>
       </trans-unit>
-      <trans-unit id="5580" xml:space="preserve">
+      <trans-unit id="5580" xml:space="preserve" approved="no">
         <source>だが、|その姿に油断しちゃならん</source>
-        <target/>
+        <target state="translated">But you can't let your guard down around it.</target>
       </trans-unit>
-      <trans-unit id="5616" xml:space="preserve">
+      <trans-unit id="5616" xml:space="preserve" approved="no">
         <source>「空吹」は特殊な匂いを出して、|冬眠中の動物や植物の活動を|促す</source>
-        <target/>
+        <target state="translated">The Usobuki emits a special scent to encourage hibernating plants and animals to become active.</target>
       </trans-unit>
       <trans-unit id="5680" xml:space="preserve">
         <source>そしておびき出した動物の|精気を吸う。吸われたものは|春まで眠り続けるんだ</source>
