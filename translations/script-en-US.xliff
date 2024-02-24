@@ -3724,7 +3724,7 @@
       </trans-unit>
       <trans-unit id="11184" xml:space="preserve" approved="no">
         <source>前に来たのは半年も前だっけ？|今度はどのくらいいられるの？</source>
-        <target state="translated">It's been half a year since your last visit, right? How long will you be staying?</target>
+        <target state="translated">It's been half a year since your last visit, right? How long will you be staying this time?</target>
       </trans-unit>
       <trans-unit id="11244" xml:space="preserve" approved="no">
         <source>十日ほどかね。|今んとこ、呼ばれてる|仕事もないしな</source>
@@ -10422,25 +10422,25 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="2844" xml:space="preserve">
+      <trans-unit id="2844" xml:space="preserve" approved="no">
         <source>あ、ギンコさん</source>
-        <target/>
+        <target state="translated">Ginko!</target>
       </trans-unit>
       <trans-unit id="2872" xml:space="preserve" approved="no">
         <source>ギンコ</source>
         <target state="translated">Ginko</target>
       </trans-unit>
-      <trans-unit id="2880" xml:space="preserve">
+      <trans-unit id="2880" xml:space="preserve" approved="no">
         <source>元気そうだな</source>
-        <target/>
+        <target state="translated">You seem to be doing alright.</target>
       </trans-unit>
-      <trans-unit id="2908" xml:space="preserve">
+      <trans-unit id="2908" xml:space="preserve" approved="no">
         <source>はい、おかげさまで</source>
-        <target/>
+        <target state="translated">Yep! All thanks to you, of course.</target>
       </trans-unit>
-      <trans-unit id="2928" xml:space="preserve">
+      <trans-unit id="2928" xml:space="preserve" approved="no">
         <source>はい、これ頼まれていた|&lt;c red&gt;「蟲煙草」&lt;/c&gt;です</source>
-        <target/>
+        <target state="translated">Here's the &lt;c red&gt;mushi tobacco&lt;/c&gt; you asked for.</target>
       </trans-unit>
       <trans-unit id="2980" xml:space="preserve">
         <source>おお、すまんな。|前に、お前のくれた&lt;c red&gt;蟲煙草&lt;/c&gt;が|よく効いたのを思い出してな</source>
@@ -10454,13 +10454,13 @@
         <source>そうですか？|こんな事だったら|いつでも言って下さい</source>
         <target/>
       </trans-unit>
-      <trans-unit id="3152" xml:space="preserve">
+      <trans-unit id="3152" xml:space="preserve" approved="no">
         <source>ああ、助かるよ</source>
-        <target/>
+        <target state="translated">Ahhh, you're a lifesaver.</target>
       </trans-unit>
-      <trans-unit id="3168" xml:space="preserve">
+      <trans-unit id="3168" xml:space="preserve" approved="no">
         <source>と、そうだ。|これやるよ。|ま、大したもんじゃないがな</source>
-        <target/>
+        <target state="translated">Oh, right. Here, take this. It's nothing special, but…</target>
       </trans-unit>
       <trans-unit id="3224" xml:space="preserve" approved="no">
         <source>上質な釣り竿|をもらいました！</source>
@@ -10470,61 +10470,61 @@
         <source>ありがとうございます</source>
         <target state="translated">Thank you very much!</target>
       </trans-unit>
-      <trans-unit id="3292" xml:space="preserve">
+      <trans-unit id="3292" xml:space="preserve" approved="no">
         <source>しばらくはゆっくり|できるんですか？</source>
-        <target/>
+        <target state="translated">Why don't you take a little break?</target>
       </trans-unit>
-      <trans-unit id="3332" xml:space="preserve">
+      <trans-unit id="3332" xml:space="preserve" approved="no">
         <source>すまんな、|先を急いでいる途中なんだ。|それじゃ</source>
-        <target/>
+        <target state="translated">Sorry, but I'm in a bit of a hurry. See ya.</target>
       </trans-unit>
-      <trans-unit id="3380" xml:space="preserve">
+      <trans-unit id="3380" xml:space="preserve" approved="no">
         <source>はい。お元気で</source>
-        <target/>
+        <target state="translated">Okay, take care!</target>
       </trans-unit>
-      <trans-unit id="3408" xml:space="preserve">
+      <trans-unit id="3408" xml:space="preserve" approved="no">
         <source>あの……実はまだ|&lt;c red&gt;「蟲煙草」&lt;/c&gt;できてないんです</source>
-        <target/>
+        <target state="translated">Um…I'm afraid I wasn't able to make the &lt;c red&gt;mushi tobacco&lt;/c&gt; on time…</target>
       </trans-unit>
-      <trans-unit id="3476" xml:space="preserve">
+      <trans-unit id="3476" xml:space="preserve" approved="no">
         <source>ああ、そうか</source>
-        <target/>
+        <target state="translated">Ah, I see.</target>
       </trans-unit>
-      <trans-unit id="3492" xml:space="preserve">
+      <trans-unit id="3492" xml:space="preserve" approved="no">
         <source>すみません……</source>
-        <target/>
+        <target state="translated">Sorry…</target>
       </trans-unit>
-      <trans-unit id="3508" xml:space="preserve">
+      <trans-unit id="3508" xml:space="preserve" approved="no">
         <source>いや、急な話だったし、|気にすんな</source>
-        <target/>
+        <target state="translated">Nah, don't worry about it. It was a sudden request.</target>
       </trans-unit>
-      <trans-unit id="3544" xml:space="preserve">
+      <trans-unit id="3544" xml:space="preserve" approved="no">
         <source>あとしばらく待ってくれたら|できると思うんですが</source>
-        <target/>
+        <target state="translated">If you can wait for a bit, I might be able to get it done.</target>
       </trans-unit>
-      <trans-unit id="3596" xml:space="preserve">
+      <trans-unit id="3596" xml:space="preserve" approved="no">
         <source>すまんな、|先を急いでいる途中なんだ</source>
-        <target/>
+        <target state="translated">I can't, I'm in a hurry.</target>
       </trans-unit>
-      <trans-unit id="3636" xml:space="preserve">
+      <trans-unit id="3636" xml:space="preserve" approved="no">
         <source>そうでしたか……</source>
-        <target/>
+        <target state="translated">Really? Oh…</target>
       </trans-unit>
-      <trans-unit id="3656" xml:space="preserve">
+      <trans-unit id="3656" xml:space="preserve" approved="no">
         <source>まだちょっと残りがあるし、|どうにかなるだろ。新しいのは|この先でなんとかするさ</source>
-        <target/>
+        <target state="translated">I can make do with what I have left. I'll figure the rest out later.</target>
       </trans-unit>
-      <trans-unit id="3736" xml:space="preserve">
+      <trans-unit id="3736" xml:space="preserve" approved="no">
         <source>なにかあったら、|また言って下さい</source>
-        <target/>
+        <target state="translated">Please let me know if you need anything else.</target>
       </trans-unit>
-      <trans-unit id="3772" xml:space="preserve">
+      <trans-unit id="3772" xml:space="preserve" approved="no">
         <source>おう、それじゃ</source>
-        <target/>
+        <target state="translated">Okay, then. See ya.</target>
       </trans-unit>
-      <trans-unit id="3788" xml:space="preserve">
+      <trans-unit id="3788" xml:space="preserve" approved="no">
         <source>お元気で……</source>
-        <target/>
+        <target state="translated">Take care…</target>
       </trans-unit>
     </body>
   </file>
@@ -10682,9 +10682,9 @@
         <source>あれ……|ギンコさんどうしてここに</source>
         <target state="translated">Huh…? Ginko? What are you doing here?</target>
       </trans-unit>
-      <trans-unit id="5056" xml:space="preserve">
+      <trans-unit id="5056" xml:space="preserve" approved="no">
         <source>ヤクノから|文があってな</source>
-        <target/>
+        <target state="translated">Yakuno sent me a letter.</target>
       </trans-unit>
       <trans-unit id="5084" xml:space="preserve">
         <source>「空吹」と「春まがい」に|ついて教えてくれと</source>
