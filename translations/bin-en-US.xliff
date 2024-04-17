@@ -260,7 +260,7 @@
       </trans-unit>
       <trans-unit id="871956" xml:space="preserve" approved="no">
         <source>じゃがいも</source>
-        <target state="translated">Potatos</target>
+        <target state="translated">Potatoes</target>
       </trans-unit>
       <trans-unit id="871968" xml:space="preserve" approved="no">
         <source>さつまいも</source>
@@ -736,11 +736,11 @@
       </trans-unit>
       <trans-unit id="880576" xml:space="preserve" approved="no">
         <source>データを書けませんで|した。電源を切って|カードを差し込み直し|てください</source>
-        <target state="translated">Failed to write data.|Turn off the power|and reinsert the|game card</target>
+        <target state="translated">Failed to write data.|Turn off the power|and reinsert the|game card.</target>
       </trans-unit>
       <trans-unit id="880648" xml:space="preserve" approved="no">
         <source>データを読めませんで|した。電源を切って|カードを差し込み直し|てください</source>
-        <target state="translated">Failed to read data.|Turn off the power|and reinsert the|game card</target>
+        <target state="translated">Failed to read data.|Turn off the power|and reinsert the|game card.</target>
       </trans-unit>
       <trans-unit id="880868" xml:space="preserve" approved="no">
         <source>タッチペンで障子を|タッチして、あけた穴|からしんらの持つ筆を|覗き見しましょう</source>
@@ -824,7 +824,7 @@
       </trans-unit>
       <trans-unit id="886132" xml:space="preserve" approved="no">
         <source>この蟲の記録は|未記入の箇所があるため|報告できません</source>
-        <target state="translated">This mushi record|cannot be reported|because it is incomplete</target>
+        <target state="translated">This mushi record|cannot be reported|as it is incomplete</target>
       </trans-unit>
       <trans-unit id="886188" xml:space="preserve" approved="no">
         <source>蟲の図解描画</source>
@@ -880,7 +880,7 @@
       </trans-unit>
       <trans-unit id="890292" xml:space="preserve" approved="no">
         <source>記録しています|電源を切らないで|下さい</source>
-        <target state="translated">Do not turn off the|game while it is|saving</target>
+        <target state="translated">Do not turn off the|power while the|game is being saved</target>
       </trans-unit>
       <trans-unit id="890336" xml:space="preserve" approved="no">
         <source>名前　</source>
@@ -1040,7 +1040,7 @@
       </trans-unit>
       <trans-unit id="893072" xml:space="preserve" approved="no">
         <source>称号</source>
-        <target state="translated">Title</target>
+        <target state="translated">Rank</target>
       </trans-unit>
       <trans-unit id="893080" xml:space="preserve" approved="no">
         <source>身体の状態</source>
