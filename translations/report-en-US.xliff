@@ -414,25 +414,25 @@
   </file>
   <file xml:space="preserve" original="letter/109.arc/109.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi136]|だが|狭く暗い場所を好むも|ので　時々人間の耳の|奥に巣食ってしまうこ|とがある|極小さな蟲の集まりな|んだが　それらが耳の|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi136],|is one that likes|small, dark places|and can sometimes|burrow into|people's ears.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|中で動けば人にとって|はひどい雑音になる|その治療に有効な薬が|ある　処方箋を一緒に|送ったから作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|When they move|around, it makes a|horrible sound to|the affected.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="letter/110.arc/110.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi137]|だが|山中に棲む蟲で　音を|吸収する性質を持って|いる|これが生物の耳に寄生|すると　その者が聞く|はずの音まで吸収し|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi137],|absorbs sound.|When it gets into a|living creature's|ear, it absorbs the|sounds they would|have heard, causing|deafness.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|その生物は耳が聞こえ|ない状態になるという|わけだ|その治療に必要な|処方箋を一緒に送った|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>

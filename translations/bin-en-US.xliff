@@ -252,7 +252,7 @@
       </trans-unit>
       <trans-unit id="871932" xml:space="preserve" approved="no">
         <source>立派な蟲師</source>
-        <target state="translated">Splendid Mushishi</target>
+        <target state="translated">Master</target>
       </trans-unit>
       <trans-unit id="871944" xml:space="preserve" approved="no">
         <source>ふきのとう</source>
@@ -388,7 +388,7 @@
       </trans-unit>
       <trans-unit id="872496" xml:space="preserve" approved="no">
         <source>噂の新参蟲師</source>
-        <target state="translated">Rumored Mushishi</target>
+        <target state="translated">Adept</target>
       </trans-unit>
       <trans-unit id="872512" xml:space="preserve" approved="no">
         <source>移動方向異常</source>
@@ -460,15 +460,15 @@
       </trans-unit>
       <trans-unit id="872832" xml:space="preserve" approved="no">
         <source>殊勝な新参蟲師</source>
-        <target state="translated">Auspicious Mushishi</target>
+        <target state="translated">Intermediate</target>
       </trans-unit>
       <trans-unit id="872848" xml:space="preserve" approved="no">
         <source>期待の新参蟲師</source>
-        <target state="translated">Promising Mushishi</target>
+        <target state="translated">Adept</target>
       </trans-unit>
       <trans-unit id="872864" xml:space="preserve" approved="no">
         <source>有名な新参蟲師</source>
-        <target state="translated">Famous Mushishi</target>
+        <target state="translated">Expert</target>
       </trans-unit>
       <trans-unit id="872880" xml:space="preserve">
         <source>食欲促進の焚薬</source>
@@ -520,11 +520,11 @@
       </trans-unit>
       <trans-unit id="873396" xml:space="preserve" approved="no">
         <source>しがない新参蟲師</source>
-        <target state="translated">Humble Mushishi</target>
+        <target state="translated">Novice</target>
       </trans-unit>
       <trans-unit id="873416" xml:space="preserve" approved="no">
         <source>一般的な新参蟲師</source>
-        <target state="translated">Average Mushishi</target>
+        <target state="translated">Intermediate</target>
       </trans-unit>
       <trans-unit id="873436" xml:space="preserve">
         <source>抗時間鈍化の飲薬</source>
@@ -588,23 +588,23 @@
       </trans-unit>
       <trans-unit id="873816" xml:space="preserve" approved="no">
         <source>なりたての新参蟲師</source>
-        <target state="translated">New Mushishi</target>
+        <target state="translated">Novice</target>
       </trans-unit>
       <trans-unit id="873836" xml:space="preserve" approved="no">
         <source>かけだしの新参蟲師</source>
-        <target state="translated">Novice Mushishi</target>
+        <target state="translated">Novice</target>
       </trans-unit>
       <trans-unit id="873856" xml:space="preserve" approved="no">
         <source>そこそこの新参蟲師</source>
-        <target state="translated">Modest Mushishi</target>
+        <target state="translated">Apprentice</target>
       </trans-unit>
       <trans-unit id="873876" xml:space="preserve" approved="no">
         <source>まあまあな新参蟲師</source>
-        <target state="translated">So-so Mushishi</target>
+        <target state="translated">Apprentice</target>
       </trans-unit>
       <trans-unit id="873896" xml:space="preserve" approved="no">
         <source>名の知れた新参蟲師</source>
-        <target state="translated">Reputed Mushishi</target>
+        <target state="translated">Expert</target>
       </trans-unit>
       <trans-unit id="873916" xml:space="preserve" approved="no">
         <source>手紙の名前未定１０</source>
@@ -1040,7 +1040,7 @@
       </trans-unit>
       <trans-unit id="893072" xml:space="preserve" approved="no">
         <source>称号</source>
-        <target state="translated">Rank</target>
+        <target state="translated">Mushishi Rank</target>
       </trans-unit>
       <trans-unit id="893080" xml:space="preserve" approved="no">
         <source>身体の状態</source>
