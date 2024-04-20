@@ -438,49 +438,49 @@
   </file>
   <file xml:space="preserve" original="letter/111.arc/111.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi138]|だが|人の咽（のど）に付着|すると　器官に何らか|の影響を与え　声を出|せなくさせる蟲だ|治療に必要な処方箋を|一緒に送ったから|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi138],|can have an unusual|effect on the organs.|If it gets into a|person's throat, it|can block their vocal|chords, stopping|them from speaking.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="letter/112.arc/112.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi139]|だが|生き物の手や足に|寄生する蟲だ|神経に影響をあたえ|歩行を困難にさせる|その治療に必要な|処方箋も一緒に送った|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi139],|is a parasite which|infects the hands|and feet of living|creatures, affecting|their nerves and|making it difficult|for them to walk.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="letter/113.arc/113.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi140]|だが|通常は空中を漂って|いて　まれに生物の|口内に付着する|その時　舌が何らかの|反応を起こして|語尾に妙な言葉が|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi140],|usually floats|around in the air.|In the rare event it|gets into a person's|mouth, it reacts|with the tongue,|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|付くようになるらしい|治療に必要な処方箋を|一緒に送ったから|作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|causing strange|words to be formed.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="letter/114.arc/114.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi141]|だが|水辺に棲む蟲で　|人がこれの混じった|水を飲むとのどに蟲が|付着し　何らかの作用|でその人の声を変える|ようだ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi141],|usually lives near|water. If swallowed,|it may attach itself|to the throat,|causing strange|changes to the voice|of the infected.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|その治療に必要な|処方箋も一緒に送った|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -514,25 +514,25 @@
   </file>
   <file xml:space="preserve" original="letter/144.arc/144.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi143]|だが|暗闇で発光する性質を|持つ蟲だ　|例えば　人がこの蟲を|踏みつけておくと　夜|歩く時　足跡が光って|見える　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi143],|glows in the dark.|Say, for example,|if someone were to|step on it, their|footsteps would|begin to glow at|night.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|道に目印をつけたい時|なんかに重宝するもの|だ　この蟲を払いたい|場合は　蟲払いの薬を|使うといい　|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|It could be useful|for marking a path.|But, if you want|to get rid of them,|Mushi Repellent|should work.||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="letter/145.arc/145.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi142]|だが　|「山彦蟲」と呼ばれる|モノだろう　|その名の通り　山彦と|同じように人の声を|返す習性を持つ　|しかし　山彦が起こる|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi142],|is called a|"Yamabiko", or|"Echo Mushi". As|the name suggests,|it has a habit of|repeating voices|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|はずがない場所で声が|返ってきたり　|叫んだ言葉とは全く|違う言葉が返って|きたりもする　|特に害はないはずだか|ら　そのままにしてお|いていいだろう　|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|However, there have|been times when it's|returned words|completely different|to what was said.|It shouldn't cause|any harm though,|so you can leave|it as is.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
