@@ -538,13 +538,13 @@
   </file>
   <file xml:space="preserve" original="letter/146.arc/146.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|ちょっと面白い蟲が|手に入ったんで送るよ|同封した種のような|モノがそれだ　|土の中に埋めると　|植物と同じように育つ　|普通の植物と違うのは　|花の部分が灯火の|ように光ることだ　|「花行燈|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|I came across an|interesting mushi|that I wanted to|share with you.|It looks like a seed,|and if you bury it|in soil, a flower will|grow. But unlike a|normal plant, the|flower lights up.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|　（はなあんどん）」|などと呼ばれている　|夜に見ると　なかなか|綺麗だぞ　|家の前に植えておけば　|帰りが夜遅くなった時|に目印になっていいか|もしれんな　|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|It's called a|"Hanaandon".|If you plant it in|front of your house,|you could use it as|a landmark to help|you find your way|at night.||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -562,25 +562,25 @@
   </file>
   <file xml:space="preserve" original="letter/148.arc/148.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|所用でそっちの集落を|通り過ぎるんだが　|そろそろ手持ちの|「蟲煙草」が切れそう|なんでよかったら|「蟲煙草」を作って|おいてくれないか|あと数日で集落に|たどり着けると思う|　　　　　　ギンコ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|I will be passing|through your village|soon on business,|but my Mushi|Tobacco supply is|getting low. I would|be grateful if you|could make up some|more for me.|Ginko|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
   <file xml:space="preserve" original="letter/149.arc/149.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi032]|だが|「空吹」という蟲だ　|木に咲く花のような|形をしていて　蝶の姿|にも変わるらしい　|こいつがいるという|ことは　近くで|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi032],|is called a "Usobuki".|It can change its|shape from a flower|bud into a butterfly.|Where it is present,|you may see a|"Harumagai" nearby.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|「春まがい」って|現象が発生してるの|かもしれん　|「空吹」は　|冬眠中の動植物の活動|を促して春と錯覚させ|るものだと聞いている　|俺は実物を知らないん|で詳しいことは書けな|いがとにかく近寄らな|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|This phenomenon|is reportedly|caused when the|Usobuki stimulates|plants and animals|to come out of|hibernation early,|creating the illusion|that it is spring.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|いようにすることだ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|I have never seen|it myself, so I don't|know the full details,|but I would advise|you not to get too|close to it.|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
