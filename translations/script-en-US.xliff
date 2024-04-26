@@ -28,15 +28,15 @@
       </trans-unit>
       <trans-unit id="10352" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０３　村人達の点描１</source>
-        <target state="translated">M01_03　Pointillism of the villagers 1</target>
+        <target state="translated">M01_03　Outline of the villagers 1</target>
       </trans-unit>
       <trans-unit id="10384" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０４　村人達の点描２</source>
-        <target state="translated">M01_04　Pointillism of the villagers 2</target>
+        <target state="translated">M01_04　Outline of the villagers 2</target>
       </trans-unit>
       <trans-unit id="10440" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０５　村人達の点描３</source>
-        <target state="translated">M01_05　Pointillism of the villagers 3</target>
+        <target state="translated">M01_05　Outline of the villagers 3</target>
       </trans-unit>
       <trans-unit id="10472" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０６　動物、虫がいなくなる</source>
@@ -90,9 +90,9 @@
         <source>Ｍ０１＿２２　洞の中で、昼</source>
         <target state="translated">M01_22　In the cave, day</target>
       </trans-unit>
-      <trans-unit id="11048" xml:space="preserve">
+      <trans-unit id="11048" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２３　洞の中で、夜出直し</source>
-        <target/>
+        <target state="translated">M01_23　Return to cave at night</target>
       </trans-unit>
       <trans-unit id="11084" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２４　ギンコと里の状況</source>
@@ -132,15 +132,15 @@
       </trans-unit>
       <trans-unit id="11456" xml:space="preserve" approved="no">
         <source>Ｓ０４＿０１　依頼：時間経過異常</source>
-        <target state="needs-translation">S04_01　Request:</target>
+        <target state="translated">S04_01　Request: Abnormal Body Clock</target>
       </trans-unit>
       <trans-unit id="11516" xml:space="preserve" approved="no">
         <source>Ｓ０６＿０１　依頼：生活時間異常</source>
-        <target state="needs-translation">S06_01　Request:</target>
+        <target state="translated">S06_01　Request: Abnormal Waking Hours</target>
       </trans-unit>
       <trans-unit id="11552" xml:space="preserve" approved="no">
         <source>Ｓ１０＿０１　依頼：無音異常</source>
-        <target state="translated">S10_01　Request: Abnormal Silence</target>
+        <target state="translated">S10_01　Request: Abnormal Deafness</target>
       </trans-unit>
       <trans-unit id="11608" xml:space="preserve" approved="no">
         <source>Ｓ１１＿０１　依頼：会話異常</source>
@@ -148,11 +148,11 @@
       </trans-unit>
       <trans-unit id="11640" xml:space="preserve" approved="no">
         <source>Ｓ１２＿０３　感染：移動過程異常</source>
-        <target state="needs-translation">S12_03　Infection:</target>
+        <target state="translated">S12_03　Infection: Difficulty Moving</target>
       </trans-unit>
       <trans-unit id="11700" xml:space="preserve" approved="no">
         <source>Ｓ１２＿０５　治療：移動過程異常</source>
-        <target state="needs-translation">S12_05　Treatment:</target>
+        <target state="translated">S12_05　Treatment: Difficulty Moving</target>
       </trans-unit>
       <trans-unit id="11736" xml:space="preserve" approved="no">
         <source>Ｓ１５＿０２　ヌシ登場</source>
@@ -282,105 +282,105 @@
         <source>次へ</source>
         <target state="translated">Next</target>
       </trans-unit>
-      <trans-unit id="20716" xml:space="preserve">
+      <trans-unit id="20716" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０１　導入、ヤクノ登場</source>
-        <target/>
+        <target state="translated">M01_01　Introduction, Yakuno appears#dupes CM002_01</target>
       </trans-unit>
-      <trans-unit id="20748" xml:space="preserve">
+      <trans-unit id="20748" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０２　本編スタート</source>
-        <target/>
+        <target state="translated">M01_02　Main story start</target>
       </trans-unit>
-      <trans-unit id="20800" xml:space="preserve">
+      <trans-unit id="20800" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０３　村人達の点描１</source>
-        <target/>
+        <target state="translated">M01_03　Outline of the villagers 1</target>
       </trans-unit>
-      <trans-unit id="20832" xml:space="preserve">
+      <trans-unit id="20832" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０４　村人達の点描２</source>
-        <target/>
+        <target state="translated">M01_04　Outline of the villagers 2</target>
       </trans-unit>
-      <trans-unit id="20888" xml:space="preserve">
+      <trans-unit id="20888" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０５　村人達の点描３</source>
-        <target/>
+        <target state="translated">M01_05　Outline of the villagers 3</target>
       </trans-unit>
-      <trans-unit id="20920" xml:space="preserve">
+      <trans-unit id="20920" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０６　動物、虫がいなくなる</source>
-        <target/>
+        <target state="translated">M01_06　Animals and insects disappear</target>
       </trans-unit>
-      <trans-unit id="20980" xml:space="preserve">
+      <trans-unit id="20980" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０７　村長と帷の影</source>
-        <target/>
+        <target state="translated">M01_07　The village chief and the shadow of the veil</target>
       </trans-unit>
-      <trans-unit id="21008" xml:space="preserve">
+      <trans-unit id="21008" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０８　村人達の噂</source>
-        <target/>
+        <target state="translated">M01_08　Villagers' rumors</target>
       </trans-unit>
-      <trans-unit id="21060" xml:space="preserve">
+      <trans-unit id="21060" xml:space="preserve" approved="no">
         <source>Ｍ０１＿０９　ヤクノに手紙を出す</source>
-        <target/>
+        <target state="translated">M01_09　Send a letter to Yakuno</target>
       </trans-unit>
-      <trans-unit id="21096" xml:space="preserve">
+      <trans-unit id="21096" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１０　ヤクノから手紙が届く</source>
-        <target/>
+        <target state="translated">M01_10　Receive a letter from Yakuno</target>
       </trans-unit>
-      <trans-unit id="21156" xml:space="preserve">
+      <trans-unit id="21156" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１１　ギンコ登場</source>
-        <target/>
+        <target state="translated">M01_11　Ginko appears</target>
       </trans-unit>
-      <trans-unit id="21184" xml:space="preserve">
+      <trans-unit id="21184" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１３　蟲煙草（再確認）</source>
-        <target/>
+        <target state="translated">M01_13　Mushi tobacco (double check)</target>
       </trans-unit>
-      <trans-unit id="21240" xml:space="preserve">
+      <trans-unit id="21240" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１４　蟲煙草渡す、コウキ</source>
-        <target/>
+        <target state="translated">M01_14　Give mushi tobacco, Kouki</target>
       </trans-unit>
-      <trans-unit id="21276" xml:space="preserve">
+      <trans-unit id="21276" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１７　光脈について</source>
-        <target/>
+        <target state="translated">M01_17　About the Light Vein</target>
       </trans-unit>
-      <trans-unit id="21328" xml:space="preserve">
+      <trans-unit id="21328" xml:space="preserve" approved="no">
         <source>Ｍ０１＿１８　過去の回想</source>
-        <target/>
+        <target state="translated">M01_18　Recalling the past</target>
       </trans-unit>
-      <trans-unit id="21356" xml:space="preserve">
+      <trans-unit id="21356" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２０　洞（再確認）</source>
-        <target/>
+        <target state="translated">M01_20　Cave (double check)</target>
       </trans-unit>
-      <trans-unit id="21408" xml:space="preserve">
+      <trans-unit id="21408" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２１　洞への道を思い出す</source>
-        <target/>
+        <target state="translated">M01_21　Remember path to cave</target>
       </trans-unit>
-      <trans-unit id="21444" xml:space="preserve">
+      <trans-unit id="21444" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２２　洞の中で、昼</source>
-        <target/>
+        <target state="translated">M01_22　In the cave, day</target>
       </trans-unit>
-      <trans-unit id="21496" xml:space="preserve">
+      <trans-unit id="21496" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２３　洞の中で、夜出直し</source>
-        <target/>
+        <target state="translated">M01_23　Return to cave at night</target>
       </trans-unit>
-      <trans-unit id="21532" xml:space="preserve">
+      <trans-unit id="21532" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２４　ギンコと里の状況</source>
-        <target/>
+        <target state="translated">M01_24　Ginko and the village situation</target>
       </trans-unit>
-      <trans-unit id="21588" xml:space="preserve">
+      <trans-unit id="21588" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２５　里の状況：山中</source>
-        <target/>
+        <target state="translated">M01_25　Village situation: In the mountains</target>
       </trans-unit>
-      <trans-unit id="21620" xml:space="preserve">
+      <trans-unit id="21620" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２６　里の状況：田んぼ</source>
-        <target/>
+        <target state="translated">M01_26　Village situation: Rice field</target>
       </trans-unit>
       <trans-unit id="21676" xml:space="preserve" approved="no">
         <source>おしまい</source>
         <target state="translated">End</target>
       </trans-unit>
-      <trans-unit id="21688" xml:space="preserve">
+      <trans-unit id="21688" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２７　里の状況：鶏</source>
-        <target/>
+        <target state="translated">M01_27　Village situation: Chicken</target>
       </trans-unit>
-      <trans-unit id="21716" xml:space="preserve">
+      <trans-unit id="21716" xml:space="preserve" approved="no">
         <source>Ｍ０１＿２８　帷蟲降下、ＥＮＤ</source>
-        <target/>
+        <target state="translated">M01_28　Mushi veil descent, END</target>
       </trans-unit>
       <trans-unit id="21772" xml:space="preserve" approved="no">
         <source>Ｓ０１＿１　依頼：移動方向異常</source>
@@ -422,21 +422,21 @@
         <source>Ｓ０３＿５　治療：視界異常</source>
         <target state="translated">S03_5　Treatment: Abnormal Vision</target>
       </trans-unit>
-      <trans-unit id="22200" xml:space="preserve">
+      <trans-unit id="22200" xml:space="preserve" approved="no">
         <source>Ｓ０４＿１　依頼：時間経過異常</source>
-        <target/>
+        <target state="translated">S04_1　Request: Abnormal Body Clock</target>
       </trans-unit>
-      <trans-unit id="22232" xml:space="preserve">
+      <trans-unit id="22232" xml:space="preserve" approved="no">
         <source>Ｓ０４＿２　診察：時間経過異常</source>
-        <target/>
+        <target state="translated">S04_2　Examination: Abnormal Body Clock</target>
       </trans-unit>
-      <trans-unit id="22288" xml:space="preserve">
+      <trans-unit id="22288" xml:space="preserve" approved="no">
         <source>Ｓ０４＿４　感染：時間経過異常</source>
-        <target/>
+        <target state="translated">S04_4　Infection: Abnormal Body Clock</target>
       </trans-unit>
-      <trans-unit id="22320" xml:space="preserve">
+      <trans-unit id="22320" xml:space="preserve" approved="no">
         <source>Ｓ０４＿６　治療：時間経過異常</source>
-        <target/>
+        <target state="translated">S04_6　Treatment: Abnormal Body Clock</target>
       </trans-unit>
       <trans-unit id="22376" xml:space="preserve" approved="no">
         <source>Ｓ０５＿１　依頼：睡眠異常</source>
@@ -450,265 +450,265 @@
         <source>Ｓ０５＿５　治療：睡眠異常</source>
         <target state="translated">S05_5　Treatment: Abnormal Sleep</target>
       </trans-unit>
-      <trans-unit id="22484" xml:space="preserve">
+      <trans-unit id="22484" xml:space="preserve" approved="no">
         <source>Ｓ０６＿１　依頼：生活時間異常</source>
-        <target/>
+        <target state="translated">S06_1　Request: Abnormal Waking Hours</target>
       </trans-unit>
-      <trans-unit id="22540" xml:space="preserve">
+      <trans-unit id="22540" xml:space="preserve" approved="no">
         <source>Ｓ０６＿３　診察：生活時間異常</source>
-        <target/>
+        <target state="translated">S06_3　Examination: Abnormal Waking Hours</target>
       </trans-unit>
-      <trans-unit id="22572" xml:space="preserve">
+      <trans-unit id="22572" xml:space="preserve" approved="no">
         <source>Ｓ０６＿５　感染：生活時間異常</source>
-        <target/>
+        <target state="translated">S06_5　Infection: Abnormal Waking Hours</target>
       </trans-unit>
-      <trans-unit id="22628" xml:space="preserve">
+      <trans-unit id="22628" xml:space="preserve" approved="no">
         <source>Ｓ０６＿７　治療：生活時間異常</source>
-        <target/>
+        <target state="translated">S06_5　Treatment: Abnormal Waking Hours</target>
       </trans-unit>
-      <trans-unit id="22660" xml:space="preserve">
+      <trans-unit id="22660" xml:space="preserve" approved="no">
         <source>Ｓ０７＿１　依頼：空腹異常</source>
-        <target/>
+        <target state="translated">S07_1　Request: Abnormal Hunger</target>
       </trans-unit>
-      <trans-unit id="22712" xml:space="preserve">
+      <trans-unit id="22712" xml:space="preserve" approved="no">
         <source>Ｓ０７＿３　感染：空腹異常</source>
-        <target/>
+        <target state="translated">S07_3　Infection: Abnormal Hunger</target>
       </trans-unit>
-      <trans-unit id="22740" xml:space="preserve">
+      <trans-unit id="22740" xml:space="preserve" approved="no">
         <source>Ｓ０７＿５　治療：空腹異常</source>
-        <target/>
+        <target state="translated">S07_5　Treatment: Abnormal Hunger</target>
       </trans-unit>
-      <trans-unit id="22792" xml:space="preserve">
+      <trans-unit id="22792" xml:space="preserve" approved="no">
         <source>Ｓ０８＿１　依頼：食欲異常</source>
-        <target/>
+        <target state="translated">S08_1　Request: No Appetite</target>
       </trans-unit>
-      <trans-unit id="22820" xml:space="preserve">
+      <trans-unit id="22820" xml:space="preserve" approved="no">
         <source>Ｓ０８＿３　感染：食欲異常</source>
-        <target/>
+        <target state="translated">S08_3　Infection: No Appetite</target>
       </trans-unit>
-      <trans-unit id="22872" xml:space="preserve">
+      <trans-unit id="22872" xml:space="preserve" approved="no">
         <source>Ｓ０８＿５　治療：食欲異常</source>
-        <target/>
+        <target state="translated">S08_1　Treatment: No Appetite</target>
       </trans-unit>
-      <trans-unit id="22900" xml:space="preserve">
+      <trans-unit id="22900" xml:space="preserve" approved="no">
         <source>Ｓ０９＿１　依頼：雑音異常</source>
-        <target/>
+        <target state="translated">S09_1　Request: Tinnitus</target>
       </trans-unit>
-      <trans-unit id="22952" xml:space="preserve">
+      <trans-unit id="22952" xml:space="preserve" approved="no">
         <source>Ｓ０９＿３　感染：雑音異常</source>
-        <target/>
+        <target state="translated">S09_3　Infection: Tinnitus</target>
       </trans-unit>
-      <trans-unit id="22980" xml:space="preserve">
+      <trans-unit id="22980" xml:space="preserve" approved="no">
         <source>Ｓ０９＿５　治療：雑音異常</source>
-        <target/>
+        <target state="translated">S09_5　Treatment: Tinnitus</target>
       </trans-unit>
-      <trans-unit id="23032" xml:space="preserve">
+      <trans-unit id="23032" xml:space="preserve" approved="no">
         <source>Ｓ１０＿１　依頼：無音異常</source>
-        <target/>
+        <target state="translated">S10_1　Request: Abnormal Deafness</target>
       </trans-unit>
-      <trans-unit id="23060" xml:space="preserve">
+      <trans-unit id="23060" xml:space="preserve" approved="no">
         <source>Ｓ１０＿２　診察：無音異常</source>
-        <target/>
+        <target state="translated">S10_2　Examination: Abnormal Deafness</target>
       </trans-unit>
-      <trans-unit id="23112" xml:space="preserve">
+      <trans-unit id="23112" xml:space="preserve" approved="no">
         <source>Ｓ１０＿４　感染：無音異常</source>
-        <target/>
+        <target state="translated">S10_4　Infection: Abnormal Deafness</target>
       </trans-unit>
-      <trans-unit id="23140" xml:space="preserve">
+      <trans-unit id="23140" xml:space="preserve" approved="no">
         <source>Ｓ１０＿６　治療：無音異常</source>
-        <target/>
+        <target state="translated">S10_6　Treatment: Abnormal Deafness</target>
       </trans-unit>
-      <trans-unit id="23192" xml:space="preserve">
+      <trans-unit id="23192" xml:space="preserve" approved="no">
         <source>Ｓ１１＿１　依頼：会話異常</source>
-        <target/>
+        <target state="translated">S11_1　Request: Abnormal Speech</target>
       </trans-unit>
-      <trans-unit id="23220" xml:space="preserve">
+      <trans-unit id="23220" xml:space="preserve" approved="no">
         <source>Ｓ１１＿２　診察：会話異常</source>
-        <target/>
+        <target state="translated">S11_2　Examination: Abnormal Speech</target>
       </trans-unit>
-      <trans-unit id="23272" xml:space="preserve">
+      <trans-unit id="23272" xml:space="preserve" approved="no">
         <source>Ｓ１１＿４　感染：会話異常</source>
-        <target/>
+        <target state="translated">S11_4　Infection: Abnormal Speech</target>
       </trans-unit>
-      <trans-unit id="23300" xml:space="preserve">
+      <trans-unit id="23300" xml:space="preserve" approved="no">
         <source>Ｓ１１＿６　治療：会話異常</source>
-        <target/>
+        <target state="translated">S11_6　Treatment: Abnormal Speech</target>
       </trans-unit>
-      <trans-unit id="23352" xml:space="preserve">
+      <trans-unit id="23352" xml:space="preserve" approved="no">
         <source>Ｓ１２＿１　依頼：移動過程異常</source>
-        <target/>
+        <target state="translated">S12_1　Request: Difficulty Moving</target>
       </trans-unit>
-      <trans-unit id="23384" xml:space="preserve">
+      <trans-unit id="23384" xml:space="preserve" approved="no">
         <source>Ｓ１２＿３　感染：移動過程異常</source>
-        <target/>
+        <target state="translated">S12_3　Infection: Difficulty Moving</target>
       </trans-unit>
-      <trans-unit id="23440" xml:space="preserve">
+      <trans-unit id="23440" xml:space="preserve" approved="no">
         <source>Ｓ１２＿５　治療：移動過程異常</source>
-        <target/>
+        <target state="translated">S12_5　Treatment: Difficulty Moving</target>
       </trans-unit>
-      <trans-unit id="23472" xml:space="preserve">
+      <trans-unit id="23472" xml:space="preserve" approved="no">
         <source>Ｓ１３＿１　ボツ　欠番</source>
-        <target/>
+        <target state="translated">S13_1 DELETED</target>
       </trans-unit>
-      <trans-unit id="23508" xml:space="preserve">
+      <trans-unit id="23508" xml:space="preserve" approved="no">
         <source>Ｓ１４＿１　依頼：台詞振動異常</source>
-        <target/>
+        <target state="translated">S14_1　Request: Abnormal Enunciation</target>
       </trans-unit>
-      <trans-unit id="23540" xml:space="preserve">
+      <trans-unit id="23540" xml:space="preserve" approved="no">
         <source>Ｓ１４＿３　感染：台詞振動異常</source>
-        <target/>
+        <target state="translated">S14_3　Infection: Abnormal Enunciation</target>
       </trans-unit>
-      <trans-unit id="23596" xml:space="preserve">
+      <trans-unit id="23596" xml:space="preserve" approved="no">
         <source>Ｓ１４＿５　治療：台詞振動異常</source>
-        <target/>
+        <target state="translated">S14_5　Treatment: Abnormal Enunciation</target>
       </trans-unit>
-      <trans-unit id="23628" xml:space="preserve">
+      <trans-unit id="23628" xml:space="preserve" approved="no">
         <source>Ｓ１５＿１　ヌシ？を見たらしい</source>
-        <target/>
+        <target state="translated">S15_2　Guardian Spirit sighted?</target>
       </trans-unit>
-      <trans-unit id="23684" xml:space="preserve">
+      <trans-unit id="23684" xml:space="preserve" approved="no">
         <source>Ｓ１５＿２　ヌシ登場</source>
-        <target/>
+        <target state="translated">S15_2　Guardian Spirit appears</target>
       </trans-unit>
-      <trans-unit id="23708" xml:space="preserve">
+      <trans-unit id="23708" xml:space="preserve" approved="no">
         <source>Ｓ１５＿３　ヌシを見た報告</source>
-        <target/>
+        <target state="translated">S15_3　Guardian Spirit report</target>
       </trans-unit>
-      <trans-unit id="23760" xml:space="preserve">
+      <trans-unit id="23760" xml:space="preserve" approved="no">
         <source>Ｓ１６＿１　変わった虹を見たらしい</source>
-        <target/>
+        <target state="translated">S16_1　Strange Rainbow sighting</target>
       </trans-unit>
-      <trans-unit id="23796" xml:space="preserve">
+      <trans-unit id="23796" xml:space="preserve" approved="no">
         <source>Ｓ１６＿２　雨（虹蛇前ふり）</source>
-        <target/>
+        <target state="translated">S16_2　Rain (Kouda Prelude)</target>
       </trans-unit>
-      <trans-unit id="23852" xml:space="preserve">
+      <trans-unit id="23852" xml:space="preserve" approved="no">
         <source>Ｓ１６＿３　虹蛇</source>
-        <target/>
+        <target state="translated">S16_3　Kouda</target>
       </trans-unit>
-      <trans-unit id="23872" xml:space="preserve">
+      <trans-unit id="23872" xml:space="preserve" approved="no">
         <source>Ｓ１６＿４　虹蛇を見た報告</source>
-        <target/>
+        <target state="translated">S16_3　Kouda report</target>
       </trans-unit>
-      <trans-unit id="23924" xml:space="preserve">
+      <trans-unit id="23924" xml:space="preserve" approved="no">
         <source>Ｓ１７＿１　依頼：猫を探せ</source>
-        <target/>
+        <target state="translated">S17_1　Request: Missing Cat</target>
       </trans-unit>
-      <trans-unit id="23952" xml:space="preserve">
+      <trans-unit id="23952" xml:space="preserve" approved="no">
         <source>Ｓ１７＿２　発見：猫を探せ</source>
-        <target/>
+        <target state="translated">S17_2　Discovery: Missing Cat</target>
       </trans-unit>
-      <trans-unit id="24004" xml:space="preserve">
+      <trans-unit id="24004" xml:space="preserve" approved="no">
         <source>Ｓ１７＿３　治療１：猫を探せ</source>
-        <target/>
+        <target state="translated">S17_3　Treatment 1: Missing Cat</target>
       </trans-unit>
-      <trans-unit id="24036" xml:space="preserve">
+      <trans-unit id="24036" xml:space="preserve" approved="no">
         <source>Ｓ１７＿４　治療２：猫を探せ</source>
-        <target/>
+        <target state="translated">S17_4　Treatment 2: Missing Cat</target>
       </trans-unit>
-      <trans-unit id="24092" xml:space="preserve">
+      <trans-unit id="24092" xml:space="preserve" approved="no">
         <source>Ｓ１７＿５　終了：猫を探せ</source>
-        <target/>
+        <target state="translated">S17_5　End: Missing Cat</target>
       </trans-unit>
-      <trans-unit id="24120" xml:space="preserve">
+      <trans-unit id="24120" xml:space="preserve" approved="no">
         <source>Ｓ１８＿１　依頼：屋根の上の蟲</source>
-        <target/>
+        <target state="translated">S18_1　Request: Mushi on roof</target>
       </trans-unit>
-      <trans-unit id="24176" xml:space="preserve">
+      <trans-unit id="24176" xml:space="preserve" approved="no">
         <source>Ｓ１８＿３　発見：屋根の上の蟲</source>
-        <target/>
+        <target state="translated">S18_3　Discovery: Mushi on roof</target>
       </trans-unit>
-      <trans-unit id="24208" xml:space="preserve">
+      <trans-unit id="24208" xml:space="preserve" approved="no">
         <source>Ｓ１８＿４　思案：屋根の上の蟲</source>
-        <target/>
+        <target state="translated">S18_3　Thoughts: Mushi on roof</target>
       </trans-unit>
-      <trans-unit id="24264" xml:space="preserve">
+      <trans-unit id="24264" xml:space="preserve" approved="no">
         <source>Ｓ１８＿５　ヒント：屋根の上の蟲</source>
-        <target/>
+        <target state="translated">S18_5　Hint: Mushi on roof</target>
       </trans-unit>
-      <trans-unit id="24300" xml:space="preserve">
+      <trans-unit id="24300" xml:space="preserve" approved="no">
         <source>Ｓ１８＿６　解決：屋根の上の蟲</source>
-        <target/>
+        <target state="translated">S18_6　Solution: Mushi on roof</target>
       </trans-unit>
-      <trans-unit id="24356" xml:space="preserve">
+      <trans-unit id="24356" xml:space="preserve" approved="no">
         <source>Ｓ１９＿１　依頼：家族１と食事</source>
-        <target/>
+        <target state="translated">S19_1　Request: Family 1 meal</target>
       </trans-unit>
-      <trans-unit id="24388" xml:space="preserve">
+      <trans-unit id="24388" xml:space="preserve" approved="no">
         <source>Ｓ１９＿２　受渡：家族１と食事</source>
-        <target/>
+        <target state="translated">S19_2　Delivery: Family 1 meal</target>
       </trans-unit>
-      <trans-unit id="24444" xml:space="preserve">
+      <trans-unit id="24444" xml:space="preserve" approved="no">
         <source>Ｓ１９＿３　終了：家族１と食事</source>
-        <target/>
+        <target state="translated">S19_3　End: Family 1 meal</target>
       </trans-unit>
-      <trans-unit id="24476" xml:space="preserve">
+      <trans-unit id="24476" xml:space="preserve" approved="no">
         <source>Ｓ１９＿４　終了：家族１と食事別Ｖｅｒ</source>
-        <target/>
+        <target state="translated">S19_4　End: Family 1 meal other version</target>
       </trans-unit>
-      <trans-unit id="24540" xml:space="preserve">
+      <trans-unit id="24540" xml:space="preserve" approved="no">
         <source>Ｓ２０＿１　依頼：家族２と食事</source>
-        <target/>
+        <target state="translated">S20_1　Request: Family 2 meal</target>
       </trans-unit>
-      <trans-unit id="24572" xml:space="preserve">
+      <trans-unit id="24572" xml:space="preserve" approved="no">
         <source>Ｓ２０＿２　受渡：家族２と食事</source>
-        <target/>
+        <target state="translated">S20_2　Delivery: Family 2 meal</target>
       </trans-unit>
-      <trans-unit id="24628" xml:space="preserve">
+      <trans-unit id="24628" xml:space="preserve" approved="no">
         <source>Ｓ２０＿３　終了：家族２と食事</source>
-        <target/>
+        <target state="translated">S20_3　End: Family 2 meal</target>
       </trans-unit>
-      <trans-unit id="24660" xml:space="preserve">
+      <trans-unit id="24660" xml:space="preserve" approved="no">
         <source>Ｓ２０＿４　終了：家族２と食事別Ｖｅｒ</source>
-        <target/>
+        <target state="translated">S20_4　End: Family 2 meal other version</target>
       </trans-unit>
-      <trans-unit id="24724" xml:space="preserve">
+      <trans-unit id="24724" xml:space="preserve" approved="no">
         <source>Ｓ２１＿１　依頼：家族３と食事</source>
-        <target/>
+        <target state="translated">S21_1　Request: Family 3 meal</target>
       </trans-unit>
-      <trans-unit id="24756" xml:space="preserve">
+      <trans-unit id="24756" xml:space="preserve" approved="no">
         <source>Ｓ２１＿２　受渡：家族３と食事</source>
-        <target/>
+        <target state="translated">S21_2　Delivery: Family 3 meal</target>
       </trans-unit>
-      <trans-unit id="24812" xml:space="preserve">
+      <trans-unit id="24812" xml:space="preserve" approved="no">
         <source>Ｓ２１＿３　終了：家族３と食事</source>
-        <target/>
+        <target state="translated">S21_3　End: Family 3 meal</target>
       </trans-unit>
-      <trans-unit id="24844" xml:space="preserve">
+      <trans-unit id="24844" xml:space="preserve" approved="no">
         <source>Ｓ２１＿４　終了：家族３と食事別Ｖｅｒ</source>
-        <target/>
+        <target state="translated">S21_4　End: Family 3 meal other version</target>
       </trans-unit>
-      <trans-unit id="24908" xml:space="preserve">
+      <trans-unit id="24908" xml:space="preserve" approved="no">
         <source>Ｓ２２＿１　依頼：野いちご</source>
-        <target/>
+        <target state="translated">S22_1　Request: Strawberries</target>
       </trans-unit>
-      <trans-unit id="24936" xml:space="preserve">
+      <trans-unit id="24936" xml:space="preserve" approved="no">
         <source>Ｓ２２＿２　終了：野いちご</source>
-        <target/>
+        <target state="translated">S22_2　End: Strawberries</target>
       </trans-unit>
-      <trans-unit id="24988" xml:space="preserve">
+      <trans-unit id="24988" xml:space="preserve" approved="no">
         <source>Ｓ２３＿１　依頼：隣の里に薬を</source>
-        <target/>
+        <target state="needs-translation">S23_1　Request: Neighbour's Medicine</target>
       </trans-unit>
-      <trans-unit id="25020" xml:space="preserve">
+      <trans-unit id="25020" xml:space="preserve" approved="no">
         <source>Ｓ２３＿２　受渡：隣の里に薬を</source>
-        <target/>
+        <target state="translated">S23_2　Delivery: Neighbour's Medicine</target>
       </trans-unit>
-      <trans-unit id="25076" xml:space="preserve">
+      <trans-unit id="25076" xml:space="preserve" approved="no">
         <source>Ｓ２３＿４　終了：隣の里に薬を</source>
-        <target/>
+        <target state="translated">S23_4　End: Neighbour's Medicine</target>
       </trans-unit>
-      <trans-unit id="25108" xml:space="preserve">
+      <trans-unit id="25108" xml:space="preserve" approved="no">
         <source>Ｓ２４＿１　依頼：お弁当</source>
-        <target/>
+        <target state="translated">S24_1　Request: Bento</target>
       </trans-unit>
-      <trans-unit id="25160" xml:space="preserve">
+      <trans-unit id="25160" xml:space="preserve" approved="no">
         <source>Ｓ２４＿２　受渡：お弁当</source>
-        <target/>
+        <target state="translated">S24_2　Delivery: Bento</target>
       </trans-unit>
-      <trans-unit id="25188" xml:space="preserve">
+      <trans-unit id="25188" xml:space="preserve" approved="no">
         <source>Ｓ２４＿３　終了：お弁当</source>
-        <target/>
+        <target state="translated">S24_3　End: Bento</target>
       </trans-unit>
       <trans-unit id="25240" xml:space="preserve" approved="no">
         <source>Ｓ２５＿１　依頼：おはじき</source>
@@ -802,13 +802,13 @@
         <source>Ｓ４９＿４　春まがいに遭遇３</source>
         <target state="translated">S49_4　Encounter with Harumagai 3</target>
       </trans-unit>
-      <trans-unit id="26140" xml:space="preserve">
+      <trans-unit id="26140" xml:space="preserve" approved="no">
         <source>Ｓ４９＿５　欠番（フラグ立て用）</source>
-        <target/>
+        <target state="translated">S49_5　Missing Number (Sets game flag)</target>
       </trans-unit>
-      <trans-unit id="26188" xml:space="preserve">
+      <trans-unit id="26188" xml:space="preserve" approved="no">
         <source>Ｓ４９＿６　春まがいで倒れる</source>
-        <target/>
+        <target state="translated">S49_6 Faint due to Harumagai</target>
       </trans-unit>
       <trans-unit id="26220" xml:space="preserve" approved="no">
         <source>Ｓ５０＿１　開始：ギンコ蟲調査</source>
