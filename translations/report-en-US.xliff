@@ -564,7 +564,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|所用でそっちの集落を|通り過ぎるんだが　|そろそろ手持ちの|「蟲煙草」が切れそう|なんでよかったら|「蟲煙草」を作って|おいてくれないか|あと数日で集落に|たどり着けると思う|　　　　　　ギンコ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I will be passing|through your village|soon on business,|but my Mushi|Tobacco supply is|getting low. I would|be grateful if you|could make up some|more for me.|Ginko|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I will be passing|through your village|soon on business,|but my mushi|tobacco supply is|getting low. I would|be grateful if you|could make some|more for me.|Ginko|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>

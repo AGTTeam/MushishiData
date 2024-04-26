@@ -464,7 +464,7 @@
       </trans-unit>
       <trans-unit id="22628" xml:space="preserve" approved="no">
         <source>Ｓ０６＿７　治療：生活時間異常</source>
-        <target state="translated">S06_5　Treatment: Abnormal Waking Hours</target>
+        <target state="translated">S06_7　Treatment: Abnormal Waking Hours</target>
       </trans-unit>
       <trans-unit id="22660" xml:space="preserve" approved="no">
         <source>Ｓ０７＿１　依頼：空腹異常</source>
@@ -564,7 +564,7 @@
       </trans-unit>
       <trans-unit id="23628" xml:space="preserve" approved="no">
         <source>Ｓ１５＿１　ヌシ？を見たらしい</source>
-        <target state="translated">S15_2　Guardian Spirit sighted?</target>
+        <target state="translated">S15_1　Guardian Spirit sighted?</target>
       </trans-unit>
       <trans-unit id="23684" xml:space="preserve" approved="no">
         <source>Ｓ１５＿２　ヌシ登場</source>
@@ -588,7 +588,7 @@
       </trans-unit>
       <trans-unit id="23872" xml:space="preserve" approved="no">
         <source>Ｓ１６＿４　虹蛇を見た報告</source>
-        <target state="translated">S16_3　Kouda report</target>
+        <target state="translated">S16_4　Kouda report</target>
       </trans-unit>
       <trans-unit id="23924" xml:space="preserve" approved="no">
         <source>Ｓ１７＿１　依頼：猫を探せ</source>
@@ -620,7 +620,7 @@
       </trans-unit>
       <trans-unit id="24208" xml:space="preserve" approved="no">
         <source>Ｓ１８＿４　思案：屋根の上の蟲</source>
-        <target state="translated">S18_3　Thoughts: Mushi on roof</target>
+        <target state="translated">S18_4　Thoughts: Mushi on roof</target>
       </trans-unit>
       <trans-unit id="24264" xml:space="preserve" approved="no">
         <source>Ｓ１８＿５　ヒント：屋根の上の蟲</source>
