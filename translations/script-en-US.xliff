@@ -1248,7 +1248,7 @@
       </trans-unit>
       <trans-unit id="1388" xml:space="preserve" approved="no">
         <source>里の様子がおかしいから|しばらく、家でおとなしく|してなさいって……</source>
-        <target state="translated">My mum said that there's something weird going on in the village, so I need to stay at home.</target>
+        <target state="translated">My mum said that there's something weird going on in the village, so I need to stay home.</target>
       </trans-unit>
       <trans-unit id="1456" xml:space="preserve">
         <source>[name]</source>
@@ -1320,7 +1320,7 @@
       </trans-unit>
       <trans-unit id="1416" xml:space="preserve" approved="no">
         <source>最近、里の様子が変だから、|家で留守番してろって……</source>
-        <target state="translated">Weird things have been going on lately, so we're staying here to protect the house.</target>
+        <target state="translated">A lot of weird stuff's been going on lately, so we're staying here to protect the house.</target>
       </trans-unit>
       <trans-unit id="1472" xml:space="preserve">
         <source>[name]</source>
@@ -1360,7 +1360,7 @@
       </trans-unit>
       <trans-unit id="2276" xml:space="preserve" approved="no">
         <source>この頃、里の様子が|おかしいから|家の中にいなさいって……</source>
-        <target state="translated">So many strange things have been happening lately, so I'm not supposed to leave the house…</target>
+        <target state="translated">So many weird things have been happening lately, so I'm not supposed to leave the house…</target>
       </trans-unit>
       <trans-unit id="2336" xml:space="preserve">
         <source>[name]</source>
@@ -4084,7 +4084,7 @@
       </trans-unit>
       <trans-unit id="872" xml:space="preserve" approved="no">
         <source>妙だねえ</source>
-        <target state="translated">It's strange, isn't it?</target>
+        <target state="translated">That's right. Talk about strange.</target>
       </trans-unit>
     </body>
   </file>
@@ -4168,7 +4168,7 @@
       </trans-unit>
       <trans-unit id="1460" xml:space="preserve" approved="no">
         <source>このごろ獣の姿を見なくなった</source>
-        <target state="translated">Come to think of it, I've not seen many animals around lately.</target>
+        <target state="translated">Come to think of it, I've not seen many animals lately.</target>
       </trans-unit>
       <trans-unit id="1492" xml:space="preserve" approved="no">
         <source>昆虫まで消え始めてる……</source>
@@ -4180,7 +4180,7 @@
       </trans-unit>
       <trans-unit id="1612" xml:space="preserve" approved="no">
         <source>なんとなく地震やなんかとは|違う気がする。|蟲、だろうか……</source>
-        <target state="translated">But I get the feeling this is something different.|Could it be to do with the mushi?</target>
+        <target state="translated">But I get the feeling this is something different. Could it be to do with the mushi?</target>
       </trans-unit>
     </body>
   </file>
@@ -9674,25 +9674,25 @@
         <source>村の女３</source>
         <target state="translated">Village Woman 3</target>
       </trans-unit>
-      <trans-unit id="1336" xml:space="preserve">
+      <trans-unit id="1336" xml:space="preserve" approved="no">
         <source>旦那は、今日は溜め池の方に|行ってるから</source>
-        <target/>
+        <target state="translated">My husband should be somewhere by the pond.</target>
       </trans-unit>
-      <trans-unit id="1380" xml:space="preserve">
+      <trans-unit id="1380" xml:space="preserve" approved="no">
         <source>もしお昼過ぎても見つからない|ようだったら、お弁当|好きに食べちゃっていいよ</source>
-        <target/>
+        <target state="translated">If you don't manage to find him before lunch, feel free to eat the bento yourself.</target>
       </trans-unit>
-      <trans-unit id="1456" xml:space="preserve">
+      <trans-unit id="1456" xml:space="preserve" approved="no">
         <source>もったいないからね</source>
-        <target/>
+        <target state="translated">It'd be a waste otherwise.</target>
       </trans-unit>
       <trans-unit id="1476" xml:space="preserve">
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1484" xml:space="preserve">
+      <trans-unit id="1484" xml:space="preserve" approved="no">
         <source>わかりました。|いってきます</source>
-        <target/>
+        <target state="translated">Got it.|I'll be off then!</target>
       </trans-unit>
       <trans-unit id="1528" xml:space="preserve" approved="no">
         <source>旦那がお弁当を持ってくのを|忘れたんだよ</source>
@@ -9712,7 +9712,7 @@
       </trans-unit>
       <trans-unit id="1684" xml:space="preserve" approved="no">
         <source>悪いけどお願いしようかねえ。|旦那は、今日は溜め池の方に|行ってるんだけど、</source>
-        <target state="translated">That would be a great help! He should be somewhere by the pond.</target>
+        <target state="translated">That would be a great help!|He should be somewhere by the pond.</target>
       </trans-unit>
       <trans-unit id="1760" xml:space="preserve" approved="no">
         <source>もしお昼過ぎても見つからない|ようだったら、|好きに食べちゃっていいよ</source>
@@ -9832,7 +9832,7 @@
       </trans-unit>
       <trans-unit id="772" xml:space="preserve" approved="no">
         <source>（でも、持ち物がいっぱいで|もう持てないや。|元に戻しておこう）</source>
-        <target state="translated">(Hmmm, but I don't have any more room for it in my pack. I'll put it back for now.)</target>
+        <target state="translated">(Hmmm, but I don't have any more room for it in my pack.|I'll put it back for now.)</target>
       </trans-unit>
     </body>
   </file>
@@ -9852,7 +9852,7 @@
       </trans-unit>
       <trans-unit id="772" xml:space="preserve" approved="no">
         <source>（でも、持ち物がいっぱいで|もう持てないや。|元に戻しておこう）</source>
-        <target state="translated">(Hmmm, but I don't have any more room for it in my pack. I'll put it back for now.)</target>
+        <target state="translated">(Hmmm, but I don't have any more room for it in my pack.|I'll put it back for now.)</target>
       </trans-unit>
     </body>
   </file>
@@ -9872,7 +9872,7 @@
       </trans-unit>
       <trans-unit id="772" xml:space="preserve" approved="no">
         <source>（でも、持ち物がいっぱいで|もう持てないや。|元に戻しておこう）</source>
-        <target state="translated">(Hmmm, but I don't have any more room for it in my pack. I'll put it back for now.)</target>
+        <target state="translated">(Hmmm, but I don't have any more room for it in my pack.|I'll put it back for now.)</target>
       </trans-unit>
     </body>
   </file>
@@ -9892,7 +9892,7 @@
       </trans-unit>
       <trans-unit id="772" xml:space="preserve" approved="no">
         <source>（でも、持ち物がいっぱいで|もう持てないや。|元に戻しておこう）</source>
-        <target state="translated">(Hmmm, but I don't have any more room for it in my pack. I'll put it back for now.)</target>
+        <target state="translated">(Hmmm, but I don't have any more room for it in my pack.|I'll put it back for now.)</target>
       </trans-unit>
     </body>
   </file>
@@ -9952,7 +9952,7 @@
       </trans-unit>
       <trans-unit id="580" xml:space="preserve" approved="no">
         <source>これだけ探して|見つからないんじゃ|しょうがないよね。諦めるよ</source>
-        <target state="translated">If you still can't find it after searching everywhere for it, then maybe it's a lost cause after all. I give up...</target>
+        <target state="translated">If you still can't find it after searching everywhere, then I guess it's a lost cause after all.</target>
       </trans-unit>
       <trans-unit id="656" xml:space="preserve" approved="no">
         <source>今まで探してくれて|ありがとう</source>
