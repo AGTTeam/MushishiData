@@ -4190,53 +4190,53 @@
         <source>村長</source>
         <target state="translated">Village Chief</target>
       </trans-unit>
-      <trans-unit id="1972" xml:space="preserve">
+      <trans-unit id="1972" xml:space="preserve" approved="no">
         <source>日は出ておるというのに、|こんなに暗いとは……|どういうことだ？</source>
-        <target/>
+        <target state="translated">The sun is out, but it's so dark... What's going on?</target>
       </trans-unit>
       <trans-unit id="2048" xml:space="preserve">
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="2056" xml:space="preserve">
+      <trans-unit id="2056" xml:space="preserve" approved="no">
         <source>（……？|この感覚はなんだろう？）</source>
-        <target/>
+        <target state="translated">(What is this feeling?)</target>
       </trans-unit>
-      <trans-unit id="2092" xml:space="preserve">
+      <trans-unit id="2092" xml:space="preserve" approved="no">
         <source>（ずっと昔に、|今と同じような光景を|見たような気がする……）</source>
-        <target/>
+        <target state="translated">(I feel like I've seen this before...)</target>
       </trans-unit>
-      <trans-unit id="2156" xml:space="preserve">
+      <trans-unit id="2156" xml:space="preserve" approved="no">
         <source>腰痛の薬です。|だいぶ良くなったようですが、|一応置いてきます</source>
-        <target/>
+        <target state="translated">I've brought some more back pain medicine, if you need it.</target>
       </trans-unit>
-      <trans-unit id="2220" xml:space="preserve">
+      <trans-unit id="2220" xml:space="preserve" approved="no">
         <source>いや、助かるよ</source>
-        <target/>
+        <target state="translated">Ah, thank you.</target>
       </trans-unit>
-      <trans-unit id="2248" xml:space="preserve">
+      <trans-unit id="2248" xml:space="preserve" approved="no">
         <source>……？</source>
-        <target/>
+        <target state="translated">...?</target>
       </trans-unit>
-      <trans-unit id="2256" xml:space="preserve">
+      <trans-unit id="2256" xml:space="preserve" approved="no">
         <source>雲が出てきたか……</source>
-        <target/>
+        <target state="translated">Why'd it get so dark?</target>
       </trans-unit>
-      <trans-unit id="2288" xml:space="preserve">
+      <trans-unit id="2288" xml:space="preserve" approved="no">
         <source>おや……</source>
-        <target/>
+        <target state="translated">Hm...?</target>
       </trans-unit>
       <trans-unit id="2312" xml:space="preserve" approved="no">
         <source>…………</source>
         <target state="translated">…</target>
       </trans-unit>
-      <trans-unit id="2324" xml:space="preserve">
+      <trans-unit id="2324" xml:space="preserve" approved="no">
         <source>……？|この感覚はなんだろう？</source>
-        <target/>
+        <target state="translated">What is this feeling?</target>
       </trans-unit>
-      <trans-unit id="2356" xml:space="preserve">
+      <trans-unit id="2356" xml:space="preserve" approved="no">
         <source>ずっと昔に、|今と同じような光景を|見たような気がする……</source>
-        <target/>
+        <target state="translated">I feel like I've seen this before…</target>
       </trans-unit>
     </body>
   </file>
@@ -4246,33 +4246,33 @@
         <source>村の男Ｄ</source>
         <target state="translated">Village Man D</target>
       </trans-unit>
-      <trans-unit id="840" xml:space="preserve">
+      <trans-unit id="840" xml:space="preserve" approved="no">
         <source>一体、なんなんだ？</source>
-        <target/>
+        <target state="translated">What in the world is going on?</target>
       </trans-unit>
       <trans-unit id="872" xml:space="preserve" approved="no">
         <source>村の男Ｅ</source>
         <target state="translated">Village Man E</target>
       </trans-unit>
-      <trans-unit id="884" xml:space="preserve">
+      <trans-unit id="884" xml:space="preserve" approved="no">
         <source>近頃妙なことばかり続く。|こりゃあ、天変地異の|前触れじゃなかろうか</source>
-        <target/>
+        <target state="translated">Strange things have been happening non-stop. Could it be an omen that disaster is on its way?</target>
       </trans-unit>
       <trans-unit id="964" xml:space="preserve" approved="no">
         <source>村の女Ｄ</source>
         <target state="translated">Village Woman D</target>
       </trans-unit>
-      <trans-unit id="976" xml:space="preserve">
+      <trans-unit id="976" xml:space="preserve" approved="no">
         <source>いやだ、|恐ろしいこと言わないで|おくれよ</source>
-        <target/>
+        <target state="translated">Oh, please don't say such terrible things.</target>
       </trans-unit>
       <trans-unit id="1032" xml:space="preserve">
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1040" xml:space="preserve">
+      <trans-unit id="1040" xml:space="preserve" approved="no">
         <source>天変地異……</source>
-        <target/>
+        <target state="translated">Disaster…</target>
       </trans-unit>
     </body>
   </file>
@@ -4282,21 +4282,21 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="2348" xml:space="preserve">
+      <trans-unit id="2348" xml:space="preserve" approved="no">
         <source>今回の現象と蟲は関係がある。|それは間違いない気が|するんだけど……</source>
-        <target/>
+        <target state="translated">All of these strange events must be connected to a mushi somehow.</target>
       </trans-unit>
-      <trans-unit id="2428" xml:space="preserve">
+      <trans-unit id="2428" xml:space="preserve" approved="no">
         <source>……わからないや……|はーあ……</source>
-        <target/>
+        <target state="translated">But how? I just don't get it.</target>
       </trans-unit>
       <trans-unit id="2476" xml:space="preserve" approved="no">
         <source>…………</source>
         <target state="translated">…</target>
       </trans-unit>
-      <trans-unit id="2488" xml:space="preserve">
+      <trans-unit id="2488" xml:space="preserve" approved="no">
         <source>「里でおかしなことが|起き始めている。|こんなことは初めてだ……」</source>
-        <target/>
+        <target state="translated">"Strange things have started happening in the village. I've never seen anything like it before..."</target>
       </trans-unit>
       <trans-unit id="2580" xml:space="preserve" approved="no">
         <source>ヤクノ</source>
@@ -4310,33 +4310,33 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1880" xml:space="preserve">
+      <trans-unit id="1880" xml:space="preserve" approved="no">
         <source>あ、来た</source>
-        <target/>
+        <target state="translated">Ah, it's here.</target>
       </trans-unit>
-      <trans-unit id="1904" xml:space="preserve">
+      <trans-unit id="1904" xml:space="preserve" approved="no">
         <source>「手紙を読んで驚いている。|あまり脅すようなことは|言いたくないが……」</source>
-        <target/>
+        <target state="translated">"I don't wish to alarm you, but I was quite shocked when I read through your letter."</target>
       </trans-unit>
       <trans-unit id="1976" xml:space="preserve" approved="no">
         <source>ヤクノの声</source>
         <target state="translated">Yakuno's voice</target>
       </trans-unit>
-      <trans-unit id="1988" xml:space="preserve">
+      <trans-unit id="1988" xml:space="preserve" approved="no">
         <source>「手紙にあったいくつかの|現象は、あの天災の前触れと|される現象と、よく似ている。|だとしたら、早すぎる。|蟲師の間の通説では、|あの蟲は二十年おきに現れ|天災を起こすと|いわれているんだ」</source>
-        <target/>
+        <target state="translated">&gt;&gt;"Some of the strange events you mentioned are similar to those said to be the harbingers of disaster. But it seems too soon. As far as we Mushishi are aware, that mushi only appears once every twenty years."</target>
       </trans-unit>
       <trans-unit id="2188" xml:space="preserve" approved="no">
         <source>あの蟲……？</source>
         <target state="translated">That mushi...?</target>
       </trans-unit>
-      <trans-unit id="2204" xml:space="preserve">
+      <trans-unit id="2204" xml:space="preserve" approved="no">
         <source>「だが、わずか十年で、|同じ場所で天災が|起ころうとしている。|すぐに駆けつけたいが、|ここから里は遠く、|今すぐ動ける状態でもない</source>
-        <target/>
+        <target state="translated">&gt;&gt;"Yet in just ten years, another disaster may happen in the same place... If I could, I'd come to you right away, but I'm far from the village and still have things to attend to here.</target>
       </trans-unit>
-      <trans-unit id="2336" xml:space="preserve">
+      <trans-unit id="2336" xml:space="preserve" approved="no">
         <source>だが、運よく、知り合いの蟲師が|里の近くにいるらしい。|その者にこの件を|託すことにした」</source>
-        <target/>
+        <target state="translated">&gt;&gt;Fortunately, however, a Mushishi I know happens to be nearby. I have entrusted this matter to them."</target>
       </trans-unit>
       <trans-unit id="2440" xml:space="preserve" approved="no">
         <source>……とにかく、|その人を待つしかないな……</source>
