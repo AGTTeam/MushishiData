@@ -4528,7 +4528,7 @@
       </trans-unit>
       <trans-unit id="7440" xml:space="preserve" approved="no">
         <source>話を聞いた限り、|&lt;c green&gt;「蟲垂衣（ムシノタレギヌ）」&lt;/c&gt;|と呼ばれる現象と一致するな</source>
-        <target state="translated">Based off of what I'm hearing, this seems consistent with the &lt;c green&gt;"Mushinotareginu"&lt;/c&gt; phenomenon.</target>
+        <target state="needs-translation">Based off of what I'm hearing, this seems consistent with the &lt;c green&gt;"Mushinotareginu"&lt;/c&gt; phenomenon.#too long</target>
       </trans-unit>
       <trans-unit id="7528" xml:space="preserve" approved="no">
         <source>&lt;c green&gt;「蟲垂衣」&lt;/c&gt;……</source>
