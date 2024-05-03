@@ -4284,11 +4284,11 @@
       </trans-unit>
       <trans-unit id="2348" xml:space="preserve" approved="no">
         <source>今回の現象と蟲は関係がある。|それは間違いない気が|するんだけど……</source>
-        <target state="translated">All of these strange events must be connected to a mushi somehow.</target>
+        <target state="translated">All of these strange events must be connected to a mushi somehow…</target>
       </trans-unit>
       <trans-unit id="2428" xml:space="preserve" approved="no">
         <source>……わからないや……|はーあ……</source>
-        <target state="translated">But how? I just don't get it.</target>
+        <target state="translated">...But how...? I just don't understand... Haaah…</target>
       </trans-unit>
       <trans-unit id="2476" xml:space="preserve" approved="no">
         <source>…………</source>
@@ -4460,7 +4460,7 @@
       </trans-unit>
       <trans-unit id="600" xml:space="preserve" approved="no">
         <source>おお、これだこれだ</source>
-        <target state="translated">Oh, this is just what I need!</target>
+        <target state="translated">Ah, perfect.</target>
       </trans-unit>
     </body>
   </file>
@@ -4526,17 +4526,17 @@
         <source>なるほど……</source>
         <target state="translated">I see…</target>
       </trans-unit>
-      <trans-unit id="7440" xml:space="preserve">
+      <trans-unit id="7440" xml:space="preserve" approved="no">
         <source>話を聞いた限り、|&lt;c green&gt;「蟲垂衣（ムシノタレギヌ）」&lt;/c&gt;|と呼ばれる現象と一致するな</source>
-        <target/>
+        <target state="translated">Based off of what I'm hearing, this seems consistent with the &lt;c green&gt;"Mushinotareginu"&lt;/c&gt; phenomenon.</target>
       </trans-unit>
-      <trans-unit id="7528" xml:space="preserve">
+      <trans-unit id="7528" xml:space="preserve" approved="no">
         <source>&lt;c green&gt;「蟲垂衣」&lt;/c&gt;……</source>
-        <target/>
+        <target state="translated">&lt;c green&gt;"Mushinotareginu"&lt;/c&gt;…</target>
       </trans-unit>
-      <trans-unit id="7560" xml:space="preserve">
+      <trans-unit id="7560" xml:space="preserve" approved="no">
         <source>この現象を起こす蟲は|&lt;c green&gt;「トバリムシ」「フロシキムシ」&lt;/c&gt;|なんて呼ばれている</source>
-        <target/>
+        <target state="translated">This phenomenon is caused by mushi known as &lt;c green&gt;"Tobarimushi"&lt;/c&gt; and &lt;c green&gt;"Furoshikimushi"&lt;/c&gt;.</target>
       </trans-unit>
       <trans-unit id="7648" xml:space="preserve" approved="no">
         <source>ひとたび現れると、人に対し甚|大な被害を及ぼす蟲だが、くわ|しいことはよくわかっていない</source>
@@ -4552,11 +4552,11 @@
       </trans-unit>
       <trans-unit id="7840" xml:space="preserve" approved="no">
         <source>無色透明って事なのか。|そもそも実体がないのか……</source>
-        <target state="translated">Do you mean that they're transparent? Or that they have no actual form at all?</target>
+        <target state="translated">It could be that they're transparent, or that they have no physical form.</target>
       </trans-unit>
       <trans-unit id="7892" xml:space="preserve" approved="no">
         <source>ともかく、非常に人の目に|見えにくい性質を持っている</source>
-        <target state="translated">All we know is that something about them makes almost invisible to the human eye.</target>
+        <target state="translated">All we know is that something about them makes them almost invisible to the human eye.</target>
       </trans-unit>
       <trans-unit id="7948" xml:space="preserve" approved="no">
         <source>妖質を持つ者にすら、|ほとんど見えないらしい。|そのため記録がほとんどない</source>
@@ -4580,7 +4580,7 @@
       </trans-unit>
       <trans-unit id="8272" xml:space="preserve" approved="no">
         <source>――といったところだ</source>
-        <target state="translated">--That's all that I know about them.</target>
+        <target state="translated">--That's everything I know about them.</target>
       </trans-unit>
       <trans-unit id="8308" xml:space="preserve" approved="no">
         <source>人間は……死に絶え……</source>
@@ -4588,7 +4588,7 @@
       </trans-unit>
       <trans-unit id="8332" xml:space="preserve" approved="no">
         <source>……ヤクノの予想通り、十年前に|この里で起きた天災ってのも、|同じ現象によるものだろう</source>
-        <target state="translated">...As Yakuno suggested, the disaster that occurred here ten years ago was likely caused by them.</target>
+        <target state="translated">As Yakuno said, the disaster that occurred here ten years ago was likely caused by them.</target>
       </trans-unit>
       <trans-unit id="8420" xml:space="preserve" approved="no">
         <source>じゃあ……また……|みんな死んでしまうの？</source>
@@ -4610,13 +4610,13 @@
         <source>俺たちに見えない蟲を、|どうやって見つけ出すかだ</source>
         <target state="translated">But how does one find a mushi that can't be seen...</target>
       </trans-unit>
-      <trans-unit id="8644" xml:space="preserve">
+      <trans-unit id="8644" xml:space="preserve" approved="no">
         <source>あ。そのトバリムシは、|もう他の蟲を|喰い始めてるんだよね</source>
-        <target/>
+        <target state="translated">Ah! This Tobarimushi has already started eating other mushi, right?</target>
       </trans-unit>
-      <trans-unit id="8704" xml:space="preserve">
+      <trans-unit id="8704" xml:space="preserve" approved="no">
         <source>あ。そのトバリムシは、|もう他の蟲を|食べ始めてるんだよね</source>
-        <target/>
+        <target state="translated">Ah! This Tobarimushi has already started eating other mushi, right?</target>
       </trans-unit>
       <trans-unit id="8764" xml:space="preserve" approved="no">
         <source>ということは、|すでに力を|蓄え始めてるはずで……</source>
@@ -4626,17 +4626,17 @@
         <source>力を蓄えた蟲は、人の目に|見えやすくなるって話、|聞いたことがある</source>
         <target state="translated">I've heard that mushi which have built up their strength are more visible to the human eye.</target>
       </trans-unit>
-      <trans-unit id="8884" xml:space="preserve">
+      <trans-unit id="8884" xml:space="preserve" approved="no">
         <source>今なら方法が|あるかもしれない……</source>
-        <target/>
+        <target state="translated">Maybe now we might be able to see it.</target>
       </trans-unit>
       <trans-unit id="8920" xml:space="preserve" approved="no">
         <source>一理あるな。それと、|あれの力を借りればなんとか|なるかもしれん</source>
-        <target state="translated">You make a good point. And, if we use the power of that...</target>
+        <target state="translated">You make a good point. And, if we use the power of this...</target>
       </trans-unit>
       <trans-unit id="8984" xml:space="preserve" approved="no">
         <source>……コウキ？</source>
-        <target state="translated">...Kouki?</target>
+        <target state="translated">That's...Kouki?</target>
       </trans-unit>
       <trans-unit id="9012" xml:space="preserve" approved="no">
         <source>こいつを飲むと|見えやすくなるって|説もあってな</source>
@@ -4652,7 +4652,7 @@
       </trans-unit>
       <trans-unit id="9104" xml:space="preserve" approved="no">
         <source>っ……。|払うとか、|そんなもんじゃねえなあ</source>
-        <target state="translated">Well, they weren't joking about that...</target>
+        <target state="translated">Well, they weren't kidding about that...</target>
       </trans-unit>
     </body>
   </file>
@@ -4668,7 +4668,7 @@
       </trans-unit>
       <trans-unit id="584" xml:space="preserve" approved="no">
         <source>なに？|地面の下が光ってる……</source>
-        <target state="translated">What is it?|There's something glowing under the ground…</target>
+        <target state="translated">What is this?|There's something glowing under the ground…</target>
       </trans-unit>
       <trans-unit id="628" xml:space="preserve" approved="no">
         <source>ギンコ</source>
@@ -13740,7 +13740,7 @@
       </trans-unit>
       <trans-unit id="3044" xml:space="preserve" approved="no">
         <source>（はぁ……|ちゃんと食べないと……）</source>
-        <target state="translated">(Haaa... I need to remember to eat...)</target>
+        <target state="translated">(Haaah... I need to remember to eat...)</target>
       </trans-unit>
       <trans-unit id="3096" xml:space="preserve" approved="no">
         <source>（そろそろ寄り合いが|始まる時間だ）</source>
