@@ -4536,7 +4536,7 @@
       </trans-unit>
       <trans-unit id="7560" xml:space="preserve" approved="no">
         <source>この現象を起こす蟲は|&lt;c green&gt;「トバリムシ」「フロシキムシ」&lt;/c&gt;|なんて呼ばれている</source>
-        <target state="translated">This phenomenon is caused by mushi known as &lt;c green&gt;"Tobarimushi"&lt;/c&gt; and &lt;c green&gt;"Furoshikimushi"&lt;/c&gt;.</target>
+        <target state="translated">This phenomenon is caused by a mushi known as &lt;c green&gt;"Tobarimushi"&lt;/c&gt; or &lt;c green&gt;"Furoshikimushi"&lt;/c&gt;.</target>
       </trans-unit>
       <trans-unit id="7648" xml:space="preserve" approved="no">
         <source>ひとたび現れると、人に対し甚|大な被害を及ぼす蟲だが、くわ|しいことはよくわかっていない</source>
@@ -4892,11 +4892,11 @@
       </trans-unit>
       <trans-unit id="13896" xml:space="preserve" approved="no">
         <source>きれいだねえ……</source>
-        <target state="translated">It's so beautiful…</target>
+        <target state="translated">They're so beautiful…</target>
       </trans-unit>
       <trans-unit id="13916" xml:space="preserve" approved="no">
         <source>でも、他のみんなには|見えないんだ……</source>
-        <target state="translated">But, no one else can see it…</target>
+        <target state="translated">But, no one else can see them…</target>
       </trans-unit>
       <trans-unit id="13956" xml:space="preserve" approved="no">
         <source>みんな、僕のことおかしいって|言うんだ。|うそつきだって……</source>
@@ -4940,7 +4940,7 @@
       </trans-unit>
       <trans-unit id="14468" xml:space="preserve" approved="no">
         <source>この後まもなく、|姉さんは亡くなってしまった――</source>
-        <target state="translated">&gt;&gt;My sister passed away shortly after.</target>
+        <target state="translated">&gt;&gt;My sister passed away|shortly after that.</target>
       </trans-unit>
       <trans-unit id="14520" xml:space="preserve" approved="no">
         <source>姉さんがいなくなった後も、|僕は一人で洞に行って、|姉さんを思い出していた。|あの天災が起きた時も……</source>
