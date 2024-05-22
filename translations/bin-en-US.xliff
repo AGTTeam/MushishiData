@@ -474,9 +474,9 @@
         <source>食欲促進の焚薬</source>
         <target/>
       </trans-unit>
-      <trans-unit id="872896" xml:space="preserve">
+      <trans-unit id="872896" xml:space="preserve" approved="no">
         <source>視界良好の飲薬</source>
-        <target/>
+        <target state="translated">Eye Drops</target>
       </trans-unit>
       <trans-unit id="872912" xml:space="preserve">
         <source>雑音鎮静の飲薬</source>
