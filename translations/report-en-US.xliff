@@ -2,41 +2,41 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
   <file xml:space="preserve" original="book/01.arc/01.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|旅の蟲師が語りし|「神の筆」について|狩房家当主記す　|　|神の筆を持つ少年あり|との噂あり　かの者が|左手でものの形を象れ|ば　それは既存の生物|ならずとも生命を持つ|とのことなり　人智を|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Brush of God"|　|A rumor had spread|about a boy who|possessed the Brush|of God. Anything|that he drew with|his left hand came|to life, even if it was|not a real being.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|離れし驚異の技なり　|少年は名を五百蔵しん|らといひ　山中の屋敷|にて一人暮らしたると|いふ　或る時　旅の蟲|師この屋敷を訪ね来た|りて調査を申し込みた|るが叶わず　稀なる性|質を世に広めてはなら|ぬとの　祖母の遺言な|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|It is an ability|beyond human|understanding.|The boy's name was|Shinra Ioroi.|One day, a traveling|mushishi visited and|asked to research|his power, but|Shinra refused,|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|り　しんらは蟲師に一|晩の宿を貸したり　久|しく人に会わず話し相|手を欲したようなり　|その夜　蟲師は屋敷内|にて少女の姿なる蟲と|遭遇せり　弱き蟲なれ|ば蟲煙草の煙にて容易|に捕らえり　ヒトが蟲|の性質を持ちしモノと|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|as was the will of his|late grandmother.|However, Shinra|invited the mushishi|to stay the night.|That same evening,|the mushishi|encountered a|mushi in the|shape of a girl.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|思はれり　正体はしん|らの祖母廉子なり　か|つて或る蟲から授かり|し緑の盃を持ちたるな|れど　盃は半欠けなり|蟲の宴に招かれしが宴|は中断されしためなり|その折廉子は二つに分|かれり　半分はヒトと|して生き生涯を終え　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|It was, in fact,|Shinra's grand-|mother, Renzu,|who had once been|invited to drink at a|mushi banquet when|it was interrupted,|breaking her cup,|and splitting her|spirit in two.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|半分はヒトと蟲の中間|のモノとなりて今なお|しんらを見守れり　廉|子の願いはしんらに見|えることなりしが　叶|えるには完全なる蟲と|なりたる他なし　しん|らの力にて盃を復元し|たれば可能なり　しん|らは事のあらましを聞|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|While one half lived|and died as a human,|the other, part-|mushi, watched over|Shinra, but he could|not see her. Shinra|agreed to use his|powers to make her|into a full mushi so|they could meet.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|き　力を貸すこと承諾|せり　&lt;mg 1&gt;まずしんらは庭|の一角にて紙に向かい|筆を握りたり&lt;/mg&gt;　盃の姿|を思い浮かべたれば　|筆先に緑の色にじみ出|たるなり　&lt;mg 2&gt;その緑にて|描かれし盃&lt;/mg&gt;　紙の上に|浮き上がり実体となり|しが　二つに割れ半分|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|First, &lt;mg 1&gt;Shinra needed|to use his brush to|restore the cup.&lt;/mg&gt; As|he pictured it, &lt;mg 2&gt;a|green color oozed|from the tip of his|brush.&lt;/mg&gt; The finished|drawing rose from|the paper and split,|leaving a single half.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|が消えたるなり　間な|く半欠けの緑の盃　ど|こからかより現れり　|二つの欠けら合わさり|て一つの盃となり光酒|が湧き出でたるなり　|廉子それを飲みて真に|蟲となりける　その姿|しんらの眼に映り　つ|ひに二人見えたるなり|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The two halves were|combined to form a|single cup, which|began to overflow|with Kouki. Renzu|drank from it,|becoming a full|mushi, which|allowed Shinra to|finally see her.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|蟲師よりすすめられ　|祝いの盃にとしんらも|光酒を飲みたれば　途|端に涙溢れり　廉子の|記憶が流れ込みしとの|ことなり　その涙に感|応するごとく盃より光|酒湧き　とめどなく流|れ続けたれば　翌朝そ|の地表は一面苔に覆わ|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The mushishi|suggested that|Shinra should drink|too, in celebration.|As he took a sip,|Renzu's memories|flowed through|him, causing the|boy to burst into|tears.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="8" xml:space="preserve">
+      <trans-unit id="8" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|れたるなり　蟲師は旅|路に戻れり　その懐に|緑の盃ありとのことな|り　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|As if in response,|Kouki continued to|pour from the cup,|saturating the|ground.|The next day, moss|had sprung up in|its place, and the|mushishi had gone,|cup in tow.       -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
