@@ -582,9 +582,9 @@
         <source>里の異変について</source>
         <target/>
       </trans-unit>
-      <trans-unit id="873796" xml:space="preserve">
+      <trans-unit id="873796" xml:space="preserve" approved="no">
         <source>声が|出せなくなる</source>
-        <target/>
+        <target state="translated">Can't speak#used in status menu when affected by a mushi</target>
       </trans-unit>
       <trans-unit id="873816" xml:space="preserve" approved="no">
         <source>なりたての新参蟲師</source>
@@ -610,73 +610,73 @@
         <source>手紙の名前未定１０</source>
         <target state="translated">Untitled Letter 10</target>
       </trans-unit>
-      <trans-unit id="874376" xml:space="preserve">
+      <trans-unit id="874376" xml:space="preserve" approved="no">
         <source>音が|聞こえなくなる</source>
-        <target/>
+        <target state="translated">Can't hear any|sounds</target>
       </trans-unit>
-      <trans-unit id="875076" xml:space="preserve">
+      <trans-unit id="875076" xml:space="preserve" approved="no">
         <source>お腹が|空きやすくなる</source>
-        <target/>
+        <target state="translated">Become hungry|faster</target>
       </trans-unit>
-      <trans-unit id="875100" xml:space="preserve">
+      <trans-unit id="875100" xml:space="preserve" approved="no">
         <source>声が|いがらっぽくなる</source>
-        <target/>
+        <target state="translated">Voice sounds raspy</target>
       </trans-unit>
-      <trans-unit id="875292" xml:space="preserve">
+      <trans-unit id="875292" xml:space="preserve" approved="no">
         <source>食事を|受け付けなくなる</source>
-        <target/>
+        <target state="translated">Can't eat food</target>
       </trans-unit>
-      <trans-unit id="875596" xml:space="preserve">
+      <trans-unit id="875596" xml:space="preserve" approved="no">
         <source>夜になると|すぐに眠くなる</source>
-        <target/>
+        <target state="needs-translation">Fall asleep instantly|at night#check</target>
       </trans-unit>
-      <trans-unit id="875624" xml:space="preserve">
+      <trans-unit id="875624" xml:space="preserve" approved="no">
         <source>雑音が聞こえる|ようになる</source>
-        <target/>
+        <target state="needs-translation">Can hear a strange|noise#check</target>
       </trans-unit>
-      <trans-unit id="875652" xml:space="preserve">
+      <trans-unit id="875652" xml:space="preserve" approved="no">
         <source>蟲採取用の|モデルビュワー</source>
-        <target/>
+        <target state="translated">Mushi Catcher Model Viewer</target>
       </trans-unit>
-      <trans-unit id="875708" xml:space="preserve">
+      <trans-unit id="875708" xml:space="preserve" approved="no">
         <source>歩く際、移動速度が|遅くなる</source>
-        <target/>
+        <target state="translated">Walking speed|reduced</target>
       </trans-unit>
       <trans-unit id="875932" xml:space="preserve" approved="no">
         <source>報告中のため|編集できません</source>
         <target state="translated">Cannot edit while|being reported</target>
       </trans-unit>
-      <trans-unit id="876436" xml:space="preserve">
+      <trans-unit id="876436" xml:space="preserve" approved="no">
         <source>歩く際、頻繁に|転ぶようになる</source>
-        <target/>
+        <target state="translated">Frequently fall over|while walking</target>
       </trans-unit>
-      <trans-unit id="876468" xml:space="preserve">
+      <trans-unit id="876468" xml:space="preserve" approved="no">
         <source>視界がぼやけて|見えるようになる</source>
-        <target/>
+        <target state="translated">Vision is blurred</target>
       </trans-unit>
-      <trans-unit id="876500" xml:space="preserve">
+      <trans-unit id="876500" xml:space="preserve" approved="no">
         <source>目覚める時間が|遅くなってしまう</source>
-        <target/>
+        <target state="translated">Take longer to wake|up from sleep</target>
       </trans-unit>
-      <trans-unit id="876604" xml:space="preserve">
+      <trans-unit id="876604" xml:space="preserve" approved="no">
         <source>マイクに向かって|声を出しましょう</source>
-        <target/>
+        <target state="translated">Speak into the|microphone</target>
       </trans-unit>
-      <trans-unit id="876640" xml:space="preserve">
+      <trans-unit id="876640" xml:space="preserve" approved="no">
         <source>時間の流れが|速く感じる|ようになる</source>
-        <target/>
+        <target state="translated">Time progresses|faster</target>
       </trans-unit>
-      <trans-unit id="878276" xml:space="preserve">
+      <trans-unit id="878276" xml:space="preserve" approved="no">
         <source>夜になると|変わった足跡が|付くようになる</source>
-        <target/>
+        <target state="translated">Footprints glow at|night</target>
       </trans-unit>
       <trans-unit id="878320" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|硯を磨りましょう</source>
         <target state="translated">Slide the stylus|over the inkstone|to polish it</target>
       </trans-unit>
-      <trans-unit id="878540" xml:space="preserve">
+      <trans-unit id="878540" xml:space="preserve" approved="no">
         <source>歩く際、移動方向の|上下左右が|互い違いになる</source>
-        <target/>
+        <target state="translated">Movement direction|is reversed</target>
       </trans-unit>
       <trans-unit id="878588" xml:space="preserve" approved="no">
         <source>タッチペンで|下画面をタッチすると|終了します</source>
@@ -686,9 +686,9 @@
         <source>タッチペンで|蟲（赤い点）を|タッチしましょう</source>
         <target state="translated">Use the stylus|to touch the|mushi (red dot)</target>
       </trans-unit>
-      <trans-unit id="878684" xml:space="preserve">
+      <trans-unit id="878684" xml:space="preserve" approved="no">
         <source>話をする際|会話の語尾に|「ムシシシシ」が|付く</source>
-        <target/>
+        <target state="translated">When speaking, the|word "Mushishishi"|is added to the end|of each sentence.</target>
       </trans-unit>
       <trans-unit id="878732" xml:space="preserve" approved="no">
         <source>タッチペンで|眉間をタッチして|治療をしましょう</source>
