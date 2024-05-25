@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="872720" xml:space="preserve" approved="no">
         <source>滋養強壮の薬</source>
-        <target state="translated">Nourishing Medicine</target>
+        <target state="translated">Nutrient Powder#Nourishing Medicine was too long</target>
       </trans-unit>
       <trans-unit id="872736" xml:space="preserve" approved="no">
         <source>『阿』『А』</source>
@@ -456,7 +456,7 @@
       </trans-unit>
       <trans-unit id="872816" xml:space="preserve" approved="no">
         <source>蟲煙草作成願い</source>
-        <target state="translated">Mushi Tobacco Request</target>
+        <target state="translated">Supply Request</target>
       </trans-unit>
       <trans-unit id="872832" xml:space="preserve" approved="no">
         <source>殊勝な新参蟲師</source>
