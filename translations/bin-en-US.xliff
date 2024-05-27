@@ -530,9 +530,9 @@
         <source>抗時間鈍化の飲薬</source>
         <target/>
       </trans-unit>
-      <trans-unit id="873456" xml:space="preserve">
+      <trans-unit id="873456" xml:space="preserve" approved="no">
         <source>抗空腹異常の飲薬</source>
-        <target/>
+        <target state="translated">Anti-Hunger Pills#stop abnormally hungry state</target>
       </trans-unit>
       <trans-unit id="873476" xml:space="preserve" approved="no">
         <source>抗移動鈍化の塗薬</source>
@@ -698,9 +698,9 @@
         <source>タッチペンで|網をタッチして|蟲を捕まえましょう</source>
         <target state="translated">Touch the net|with the stylus|to catch the mushi</target>
       </trans-unit>
-      <trans-unit id="878828" xml:space="preserve">
+      <trans-unit id="878828" xml:space="preserve" approved="no">
         <source>タッチペンで|耳をタッチし続けて|音を聞きましょう</source>
-        <target/>
+        <target state="translated">Use the stylus to|press down on the|ear until you hear|a sound</target>
       </trans-unit>
       <trans-unit id="878880" xml:space="preserve" approved="no">
         <source>タッチペンで|タッチして|Аの中から|阿を探しましょう</source>

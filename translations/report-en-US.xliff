@@ -42,37 +42,37 @@
   </file>
   <file xml:space="preserve" original="book/02.arc/02.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|旅の蟲師が語りし|「阿」「А」について|狩房家当主記す　|　|雪深き里に奇妙なる病|広まれり　物音一つな|き雪の晩　村人の多く|片耳が聞こえぬように|なりたり　医師も首を|ひねるばかりなり　村|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Ah" "Un"|　|In a small, remote|village, a strange|disease was running|rampant. On snowy|nights, when sound|was absent, many of|the villagers became|deaf in one ear.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|長の白沢なる者　もし|や異形のものの仕業で|はと思ひて　或る旅の|蟲師に依頼せり　蟲師|来たりて病みし者診れ|ば　その耳の奥にАと|呼ばれし音を喰いたる|蟲寄生せり　塩水を流|し込みたれば　たちま|ち溶け出でり　ただ一|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The head of the|village, Shirasawa,|called for a mushishi|to examine those|afflicted. He found|that a sound-eating|mushi called Un|was living in their|ears, and removed|it with salt water.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|人特別の患者あり　村|長の孫にて真火といふ|幼児なり　両耳が聞こ|えず額に四本の角生え|たり　やや大なる角二|つに小さき角二つなり|通常の音聞こえず　聞|いたことなき音絶え間|なく聞こえり　音は角|から入りたるといふ　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|But one patient was|different. It was|Shirasawa's grand-|son, Maho. He was|deaf in both ears,|and had four horns|on his forehead.|Through his horns,|he could hear|strange noises-|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|これは阿による仕業な|り　Аと共に動き　А|の作りし無音を喰う蟲|なり　&lt;mg 3&gt;阿は左巻き&lt;/mg&gt;　А|は右巻き　見境なく音|を拾う蟲なれば　真火|が聞きし音の多くは様|々な蟲の声と思はれり|一つ一つのつぶやきは|微小なれど　蟲は無数|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|the voices of|countless mushi.|This was the work|of the Ah, which|are partners to the|Un, and &lt;mg 3&gt;curl in the|opposite direction.&lt;/mg&gt;|The Ah eat the|silence created|by the Un.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|に存在せり　真火の母|もまた同じ病にて死に|たるとのことなり　そ|の末期の姿哀れなり　|それまで眠れぬほどに|聞こえし音が　ある時|ふつりと途切れ　まも|なく身まかれり　死の|間近　しきりに耳を塞|いでいたといふ　奇妙|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Maho's mother had|the same disease.|She often covered|her ears. Shortly|before her death,|the noises which|had been keeping|her awake at night|for so long abruptly|vanished.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|なり　真火は亡き母を|真似て耳を塞ぎたれば|母と同様に角が生えた|りといふ　阿は珍しき|蟲なりて対処法は伝わ|らず　なれど同じ環境|での症例なれば　どこ|かに処置法の鍵ありと|て　蟲師は思案せり　|やがて思い当たりし阿|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Maho explained that|his horns had grown|when he covered his|ears in imitation of|his late mother. The|Ah was a rare mushi,|so there were no|record of how to|treat it. But, the|mushishi realized|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|の弱点は「他の生物の|生きたる音」なり　&lt;mg 4&gt;耳|に手を当てたれば小さ|き耳鳴りのような音聞|こえり&lt;/mg&gt;　腕の筋肉の運|動せし音といふ　つま|り生きたる音なり　真|火の母それに気付き耳|を塞げど　衰え進み手|遅れなり　真火にも耳|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|the Ah's weakness|was &lt;mg 4&gt;"the noise other|creatures make as|they live".&lt;/mg&gt; When one|covers their ears,|they can hear the|sound of their own|body. Maho's mother|had realized this too,|albeit too late.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|を塞がせたれば　阿は|溶け出でたり　額より|角が落ち　両耳は聞こ|えたり　蟲師は小さき|角二つを真火に渡し　|残りの二つ報酬として|貰ひて　雪深い里を後|にせり　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|When Maho covered|his ears and listened|to the sound, the Ah|in his ears melted|and his horns fell|off, restoring his|normal hearing.|The mushishi kept|two of the horns as|payment.          　　-FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
