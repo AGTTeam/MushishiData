@@ -78,37 +78,37 @@
   </file>
   <file xml:space="preserve" original="book/03.arc/03.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|旅の蟲師が語りし　|或る島の「生き神信仰」|について|狩房家当主記す|　|旅の蟲師　ナギといふ|少年の招きで生き神信|仰のある島に向かえり|海の流れ激しく大潮の|日しか船を出せぬ絶海|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Ikigami Faith"|　|At the request of a|boy called Nagi, a|mushishi traveled|to a remote island,|accessible only at|spring tide. There,|the people revered|a "Living God".|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|の孤島なり　生き神と|は当主の一族より代々|現れたる奇跡の人なり|今の生き神は当主の娘|であこやといふ　ナギ|はこの娘を救わんとせ|り　生き神は言葉も通|じず心も失きように見|えたり　夜になれば白|髪の老人と化し　呼吸|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|These "living gods"|were special people|from the bloodline|of the head of the|island. The current|god was the head's|daughter, a young|girl called Akoya,|whom Nagi wished|to save.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|が止まり死にたりし後|鼻より強き香り出でた|り　それを吸えば病も|心の苦しみも消えたる|といふ　生き神は翌朝|には元の姿に戻れり　|当主は生き神の威光に|て栄えたる一族なり　|島民は収穫を生き神に|貢ぎたり　また他にも|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Though others with|similar symptoms|appeared, they were|quarantined on the|cape. Having people|worship Akoya was|more profitable for|the village head,|who had lied about|her healing powers.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|生き神と同じ有様の者|が数人ありて岬に隔離|されり　されどナギは|当主の話を偶然聞きて|真実を知りぬ　生き神|に病を治す力なく全て|は暗示なりといふ　島|民をだましたるなり　|蟲師はナギの手引きに|て当主の家に忍び込み|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|When Nagi learned|of this deception,|he knew he had to|act. In secret, he|took the mushishi|to Akoya. After|examining her, the|mushishi found a|small mushi living|in her nasal cavity.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|たり　あこやを診たれ|ば鼻腔に小さき蟲寄生|せり　生き神の素なり|&lt;mg 5&gt;蟲師が眉間に針を刺し|たれば螺旋状の蟲出で|あこや正気に戻りたり&lt;/mg&gt;|されどあこやは不安な|様子なり　生き神であ|りし時は常に心満たさ|れたるといふ　かの蟲|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The mushishi &lt;mg 5&gt;poked|a needle between|Akoya's eyebrows,|extracting the mushi|and returning her to|her senses.&lt;/mg&gt; While|infected, Akoya had|shared the life span|of the mushi, living|each day anew.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|の生涯はおよそ一日　|蟲宿りし人は同調して|老化と再生を繰り返す|なり　その度見るもの|すべて息をのむほど新|しく思えり　また　あ|こやは父よりヒルガオ|に似た花を与えられ生|き神となりたるといふ|大潮の時のみ入れし岬|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Now no longer|under its influence,|she felt uneasy by|the slowness of time.|Her infection had|been caused by a|flower which grew|in a cave that could|only be reached at|low tide. Nagi and|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|の洞に咲く花なり　大|潮の日　ナギと蟲師は|洞にて暗闇に咲く香り|強き花見つけたり　花|芯に蟲の巣あり　そこ|に当主現れナギ達を殺|さんとするが　真実を|知りし島の者達に襲わ|れ命を絶たるる　あこ|やは父の死を嘆き花を|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|the mushishi went to|investigate, but they|were followed. The|villagers learned the|truth, and murdered|the village head.|Akoya mourned for|her father, and once|again smelled the|flower, irreversibly|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|吸いたり　蟲は以前よ|り強く寄生し　取り出|すのは不可能なり　蟲|師は岬の人々をすべて|治療せり　なれどいず|れ幾人かは花を吸いた|ると思われり　人によ|りてはそれが幸福とな|りぬ　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|lodging the mushi|inside her. The|mushishi treated|the rest of the|infected, knowing|that some may not|be appreciative,|and choose to smell|the flowers again.|                                  -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
