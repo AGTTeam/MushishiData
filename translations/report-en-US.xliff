@@ -528,7 +528,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi142]|だが　|「山彦蟲」と呼ばれる|モノだろう　|その名の通り　山彦と|同じように人の声を|返す習性を持つ　|しかし　山彦が起こる|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi142],|is called a|"Yamabiko", or|"Echo Mushi". As|the name suggests,|it has a habit of|repeating voices|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi142],|is called a|"Yamabiko", or|"Echo Mushi". As|the name suggests,|it has a habit of|repeating voices.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|はずがない場所で声が|返ってきたり　|叫んだ言葉とは全く|違う言葉が返って|きたりもする　|特に害はないはずだか|ら　そのままにしてお|いていいだろう　|　　　　　　ヤクノ　|&lt;/page&gt;</source>
@@ -580,7 +580,7 @@
       </trans-unit>
       <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|いようにすることだ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I have never seen|it myself, so I don't|know the full details,|but I would advise|you not to get too|close to it.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I have never seen|it myself, so I don't|know the full details,|but I would advise|you not to get too|close to it.||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
