@@ -154,37 +154,37 @@
   </file>
   <file xml:space="preserve" original="book/05.arc/05.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|旅の蟲師が語りし|「雲喰み」について|狩房家当主記す　|　|海岸の村の医家より文|あり　村の子が三人　|蟲のためと思はれし病|に罹りたるとの事なり|この医家は蟲師とは旧|知の仲なり　好事家に|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Kumohami"|　|On the coast lived|an odd doctor who|enjoyed collecting|unusual items. One|day, three children|snuck into his store-|house, and found a|beautiful inkstone.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|て珍品を集めるを趣味|とし　殊に蟲に関わる|品多し　それらは家の|蔵に保管せり　ある時|子供らが蔵に忍び込み|一つの硯を悪戯に磨り|て　その晩より体温が|ひどく下がり体が衰弱|したるといふ事なり　|この硯は雲喰みと呼ば|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|They decided to|polish the inkstone,|but became ill soon|after. The doctor|sent for his friend|who was a mushishi.|He discovered the|children had been|infected with a mushi|called a Kumohami.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|るる蟲の成れの果てな|り　本来は入道雲の如|き形にて　空気中の水|や氷を食い雪や霰にし|て降らしたるが　雲な|き時期が続けば小さく|しぼみ　地表に降りて|自らを凍らせ仮死状態|となりたり　そのまま|何万と時が経て石とな|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The Kumohami's|true form was that|of a cloud which|feeds on moisture|in the atmosphere.|In the absence of|food, it had fallen|to the ground and|become as hard as|stone.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|り　硯となりたるモノ|なり　水を与えられれ|ば再生し　それを吸い|込みし人は病となりぬ|銘を頼りに訪ねし　硯|の作り手はたがねとい|ふ女なり　その家は高|地にあり　かつて婚約|者がこの硯を使いし後|命を落としたるといひ|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|When the stone came|into contact with|water, the mushi re-|generated, causing|those who breathed|it in to become ill.|The mushishi left|to track down the| inkstone's creator,|Tagane.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|以来　硯を作ること絶|ちたるといふ　その後|硯は行方知れずとなり|て「あの硯により　人|また死にたり」との噂|のみ聞こえり　蟲師は|対処法を思い当たり　|急ぎ海辺の村に向かえ|り　たがねは自身の手|で硯を消さねばと蟲師|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Tagane had given|up her craft after|realizing the stone's|lethal powers.|Her story gave the|mushishi an idea. He|rushed back to the|village, and Tagane|followed, hoping to|destroy the inkstone.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|に同行せり　村に着く|なり　蟲師は子供らを|連れ山を登りぬ　雲の|浮かぶ辺りまで来たれ|ば　子供らの口より雲|喰み出でて天へと昇り|たり　雲喰みは　そも|そも雲と同じ空気の層|で生きたるモノなれば|吸い寄せられるためな|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Once they arrived,|the mushishi led the|children high into|the mountains. The|low air pressure|drew the Kumohami|out of their bodies|and into the sky.|The children soon|recovered.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|り　また　たがねが無|事なるは高地に住みた|るためなり　子供らは|たちまち回復せり　た|がねも安堵し山を下り|て後　硯に残りし蟲も|開放したるなり　&lt;mg 7&gt;浜に|て硯を磨りたれば雲喰|みは天へ昇りたり&lt;/mg&gt;　村|には霰が降りて家々の|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Back at sea level,|&lt;mg 7&gt;Tagane polished the|inkstone, releasing|the remaining mushi.&lt;/mg&gt;|The Kumohami rose|into the sky and|feasted, causing hail|to rain down on the|village and damage|several houses.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|屋根瓦は壊れたるが　|たがねはすべて弁償せ|んといふ　また硯を作|れば可能なりと蟲師は|いひ　たがねもまた心|決めたるようなり　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Tagane said she'd|find a way to pay|for the damage. The|mushishi suggested|she returned to|making inkstones.|After some thought,|she agreed, with|a newfound deter-|mination.             -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
