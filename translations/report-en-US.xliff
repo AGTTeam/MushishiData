@@ -190,37 +190,37 @@
   </file>
   <file xml:space="preserve" original="book/06.arc/06.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|旅の蟲師が語りし|「虚繭」に関わる事柄|について　|狩房家当主記す　|　|旅の途上　虚繭に文が|届きしが千切れてあり|読めず　近頃まともに|届かぬようにて替え時|と思われり　更に今日|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Uromayu"|　|While traveling, a|mushishi can send|and receive letters|through an Uro|Cocoon. Over time,|they wear out and|need to be replaced.||&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|は宛先の異なる文が迷|い込みたり　差出人は|兎澤綺　若き娘にて山|中に住まい虚繭を管理|したるウロ守なり　蟲|師は虚繭を替えんと綺|を訪ねしが　何より綺|自身のことが気がかり|なり　紛れし手紙は　|綺が姉の緒に宛てたる|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|One day, a mushishi|received a letter not|meant for him. It|was written by Aya,|the caretaker of the|cocoons, to her twin|sister, Ito, who had|been missing for five|years. Worried, the|mushishi visited Aya.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|ものなり　仲良き双子|の姉妹なれど　緒は五|年前より行方知れずと|なりたり　ウロ守とは|兎澤家に代々続く仕事|なり　綺と緒は十の頃|より山へ入り　先代の|ウロ守なる老人に虚繭|の扱い方を教わりたる|といふ　虚繭は　元は|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|At ten years old,|Aya and Ito became|apprentice care-|takers, learning|how to handle the|Uro mushi.|The Uro nest in|enclosed spaces,|such as empty silk|worm cocoons.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|空の玉繭にて　ウロな|る蟲の巣なり　玉繭を|ほぐし二つの繭にした|れば　ウロはこの間を|行き来したるなり　旅|歩く蟲師がその習性を|利用し　文のやり取り|に使いしものなり　重|宝なれど　ウロは現世|に風穴を空けてまわる|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|When one nests in a|double cocoon, it|can be unraveled|and made into two.|The trapped mushi|can then only travel|between the two|cocoons. Mushishi|utilize this fact to|exchange letters.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|恐ろしき蟲ともいへり|巣を持たぬウロは密室|にわき出でり　そうと|知らずウロが在る部屋|の戸を開けたれば　逃|げ出すウロと共に虚穴|に取り込まれたるなり|虚穴とは広大無辺な迷|路なり　迷い込みし者|は彷徨うばかりにて　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Though useful, the|Uro are a fearsome|mushi who tear|holes in the world.|If one accidentally|opens an enclosed|space where the|Uro lurk, they may|be sucked into the|Uro passageway.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|外より救い出す手立て|もなし　綺と緒も重々|用心せしものの　ある|日　綺の小さき誤りが|元で緒は消えたり　ウ|ロと共に虚穴に取り込|まれしものなり　綺は|強く悔やみ　必ずや緒|を連れ戻さんと誓ふ　|五年が経ち　先代もす|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Those who enter the|maze-like passage-|way are lost to the|outside world. Aya|and Ito were very|careful, but one day,|Aya made a mistake,|and Ito was swept|away. Aya was filled|with deep remorse.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|でに身まかれり　綺は|今も緒を探すことをや|めずにあり　されど帰|らぬ者に心を囚われる|は良きことでなし　己|の心に生まれし空洞を|彷徨ふといへり　蟲師|は諦めるべしと　&lt;mg 8&gt;綺に|虚穴の一端を見せり&lt;/mg&gt;　|綺は　虚穴の暗くあま|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Five years on, she|continued to look for|her lost sister. The|mushishi, concerned|that Aya would be|consumed by her|grief, &lt;mg 8&gt;took her into|the Uro passageway|so she could see it|for herself.&lt;/mg&gt;|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|りに深き様を目にし　|ただ運を天にまかすよ|りなきと得心せり　こ|の後も　綺は山中にて|独りウロ守を続けてい|るといふ　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|After seeing the|dark and twisted|caves, Aya had no|choice but to accept|the likelihood that|she would never see|her sister again. She|returned to her|work, alone.|                                  -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -420,7 +420,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|中で動けば人にとって|はひどい雑音になる|その治療に有効な薬が|ある　処方箋を一緒に|送ったから作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|When they move|around, it makes a|horrible sound to|the affected.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|When they move|around, it makes a|horrible sound to|the host.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>

@@ -972,7 +972,7 @@
       </trans-unit>
       <trans-unit id="2868" xml:space="preserve" approved="no">
         <source>こんにちは</source>
-        <target state="translated">Hello (temp 6)</target>
+        <target state="translated">Hello.#temp 6, is actually used when speaking to chief after helping him</target>
       </trans-unit>
       <trans-unit id="2880" xml:space="preserve" approved="no">
         <source>村長</source>
@@ -980,7 +980,7 @@
       </trans-unit>
       <trans-unit id="2888" xml:space="preserve" approved="no">
         <source>わしのせいで|不便をかけるね……</source>
-        <target state="translated">Sorry for all the trouble…</target>
+        <target state="translated">Sorry for causing you trouble…</target>
       </trans-unit>
       <trans-unit id="2924" xml:space="preserve" approved="no">
         <source>&lt;c red&gt;腰痛の薬&lt;/c&gt;を|持ってきてくれたのかい</source>
@@ -1156,7 +1156,7 @@
       </trans-unit>
       <trans-unit id="1708" xml:space="preserve" approved="no">
         <source>はっはっはっ|どうしたんだ|おかしな声だな</source>
-        <target state="translated">Hahaha, what a strange voice.</target>
+        <target state="translated">Hahaha, what happened? Your voice sounds so strange.</target>
       </trans-unit>
       <trans-unit id="1752" xml:space="preserve" approved="no">
         <source>ああ、|今年も無事に収穫できると|いいんだがな</source>
@@ -6220,7 +6220,7 @@
       </trans-unit>
       <trans-unit id="996" xml:space="preserve" approved="no">
         <source>まずはくわしい話を聞かせて|下さい。なぜこうなったのか、|思い当たることはありますか？</source>
-        <target state="translated">First, I need you to tell me everything. Do you have any idea why this may have happened?</target>
+        <target state="translated">First, I need you to tell me everything. Do you have any idea what may have caused it?</target>
       </trans-unit>
       <trans-unit id="1084" xml:space="preserve" approved="no">
         <source>朝早くに|沼に釣りに行こうとしたんだが、</source>
@@ -6624,7 +6624,7 @@
       </trans-unit>
       <trans-unit id="544" xml:space="preserve" approved="no">
         <source>今は大事はないけど、|なんだか不安だねえ。|調べてもらえるとありがたいよ</source>
-        <target state="translated">I can live with being sleepy, but I won't say it doesn't concern me. I'd be grateful if you could look into it.</target>
+        <target state="translated">I can live with being sleepy, but I won't say it doesn't concern me.</target>
       </trans-unit>
       <trans-unit id="628" xml:space="preserve">
         <source>[name]</source>
@@ -7220,7 +7220,7 @@
       </trans-unit>
       <trans-unit id="1508" xml:space="preserve" approved="no">
         <source>昨日、この子と山に山菜採りに|いったんだけど、|なかなか見つからなくてね</source>
-        <target state="translated">Yesterday, we went to the mountain together to get vegetables, but we couldn't see any.</target>
+        <target state="translated">Yesterday, we went to the mountain to gather vegetables, but we couldn't see any.</target>
       </trans-unit>
       <trans-unit id="1580" xml:space="preserve" approved="no">
         <source>どんどん登っていくうちに|雪が積もり始める所まで|来たのよ</source>
@@ -7328,11 +7328,11 @@
       </trans-unit>
       <trans-unit id="1148" xml:space="preserve" approved="no">
         <source>もう大丈夫なはずだよ</source>
-        <target state="translated">I'm all better now.</target>
+        <target state="translated">You should be okay now.</target>
       </trans-unit>
       <trans-unit id="1184" xml:space="preserve" approved="no">
         <source>ありがとう。|これ、持っていって。|お礼だよ</source>
-        <target state="translated">Thank you. Here, please take this as payment.</target>
+        <target state="translated">Thanks a lot! Here, I want you to have these. It's my way of saying thanks.</target>
       </trans-unit>
       <trans-unit id="1228" xml:space="preserve" approved="no">
         <source>大豆|をもらいました！</source>
@@ -7928,7 +7928,7 @@
       </trans-unit>
       <trans-unit id="1096" xml:space="preserve" approved="no">
         <source>おかしな声だろう？　急に|こんな風になってしまってな。|なんとかならんかのう</source>
-        <target state="translated">It's weird, isn't it? It suddenly started to sound like this... I can't take it.</target>
+        <target state="translated">It's weird, isn't it? It suddenly started to sound like this...|I can't take it.</target>
       </trans-unit>
       <trans-unit id="1172" xml:space="preserve" approved="no">
         <source>僕でわかることなら……。|まずは、くわしい話を|聞かせてもらえますか</source>
@@ -7956,7 +7956,7 @@
       </trans-unit>
       <trans-unit id="1528" xml:space="preserve" approved="no">
         <source>すまんが、頼んだよ</source>
-        <target state="translated">Thanks.</target>
+        <target state="translated">I'm counting on you.</target>
       </trans-unit>
     </body>
   </file>
@@ -8400,7 +8400,7 @@
       </trans-unit>
       <trans-unit id="800" xml:space="preserve" approved="no">
         <source>なんかこう、疲れてる感じなん|だよ。食欲はあるんだけど、|体が妙にだるくてねぇ</source>
-        <target state="translated">We're just all so tired... Everyone's still eating fine, but nothing's shaking this weary feeling.</target>
+        <target state="translated">We're all so tired... Everyone's still eating fine, but nothing's shaking this weary feeling.</target>
       </trans-unit>
       <trans-unit id="892" xml:space="preserve">
         <source>[name]</source>

@@ -476,11 +476,11 @@
       </trans-unit>
       <trans-unit id="872896" xml:space="preserve" approved="no">
         <source>視界良好の飲薬</source>
-        <target state="translated">Eye Drops</target>
+        <target state="translated">Sight Restorer</target>
       </trans-unit>
-      <trans-unit id="872912" xml:space="preserve">
+      <trans-unit id="872912" xml:space="preserve" approved="no">
         <source>雑音鎮静の飲薬</source>
-        <target/>
+        <target state="translated">Noise Silencer#stops strange noise</target>
       </trans-unit>
       <trans-unit id="872928" xml:space="preserve">
         <source>発声喚起の飲薬</source>
@@ -494,9 +494,9 @@
         <source>覚醒促進の塗薬</source>
         <target/>
       </trans-unit>
-      <trans-unit id="872976" xml:space="preserve">
+      <trans-unit id="872976" xml:space="preserve" approved="no">
         <source>声震鎮静の塗薬</source>
-        <target/>
+        <target state="translated">Raspy Voice Salve</target>
       </trans-unit>
       <trans-unit id="872992" xml:space="preserve">
         <source>無音除去の塗薬</source>
@@ -506,9 +506,9 @@
         <source>転倒防止の焚薬</source>
         <target state="translated">Balance Medicine#stops falls</target>
       </trans-unit>
-      <trans-unit id="873024" xml:space="preserve">
+      <trans-unit id="873024" xml:space="preserve" approved="no">
         <source>眠気除去の焚薬</source>
-        <target/>
+        <target state="translated">Drowsy Deterrent#stops instant tiredness at night</target>
       </trans-unit>
       <trans-unit id="873040" xml:space="preserve" approved="no">
         <source>『生き神信仰』</source>
@@ -532,7 +532,7 @@
       </trans-unit>
       <trans-unit id="873456" xml:space="preserve" approved="no">
         <source>抗空腹異常の飲薬</source>
-        <target state="translated">Anti-Hunger Pills#stop abnormally hungry state</target>
+        <target state="translated">Hunger Blocker#stop abnormally hungry state</target>
       </trans-unit>
       <trans-unit id="873476" xml:space="preserve" approved="no">
         <source>抗移動鈍化の塗薬</source>
@@ -628,11 +628,11 @@
       </trans-unit>
       <trans-unit id="875596" xml:space="preserve" approved="no">
         <source>夜になると|すぐに眠くなる</source>
-        <target state="needs-translation">Fall asleep instantly|at night#check</target>
+        <target state="translated">Feel tired as soon|as night falls</target>
       </trans-unit>
       <trans-unit id="875624" xml:space="preserve" approved="no">
         <source>雑音が聞こえる|ようになる</source>
-        <target state="needs-translation">Can hear a strange|noise#check</target>
+        <target state="translated">Can hear a strange|noise</target>
       </trans-unit>
       <trans-unit id="875652" xml:space="preserve" approved="no">
         <source>蟲採取用の|モデルビュワー</source>
@@ -652,7 +652,7 @@
       </trans-unit>
       <trans-unit id="876468" xml:space="preserve" approved="no">
         <source>視界がぼやけて|見えるようになる</source>
-        <target state="translated">Vision is blurred</target>
+        <target state="translated">Vision is impaired</target>
       </trans-unit>
       <trans-unit id="876500" xml:space="preserve" approved="no">
         <source>目覚める時間が|遅くなってしまう</source>
@@ -706,9 +706,9 @@
         <source>タッチペンで|タッチして|Аの中から|阿を探しましょう</source>
         <target state="translated">Use the stylus|to find the Ah|among the Un</target>
       </trans-unit>
-      <trans-unit id="878932" xml:space="preserve">
+      <trans-unit id="878932" xml:space="preserve" approved="no">
         <source>タッチペンで方角を|タッチして虚穴の中を|歩きましょう</source>
-        <target/>
+        <target state="translated">Touch the directions|with the stylus to|move around the|passageway</target>
       </trans-unit>
       <trans-unit id="878988" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|蟲の輪郭を綺麗に|なぞりましょう</source>
