@@ -114,41 +114,41 @@
   </file>
   <file xml:space="preserve" original="book/04.arc/04.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|旅の蟲師が語りし|「野Б」について|狩房家当主記す　|　|とある蟲師　雪の峠を|越え山に囲まれし町に|来たり　辺りを見れば|到る所にБが付着せり|家々の壁や柱　往来　|果ては人にまで及びた|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Yasabi"|　|One day, a traveling|mushishi stumbled|on a strange village|in the mountains.|The village and its|inhabitants were|all covered in rust.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|り　奇怪なる光景なれ|ど人には見えず　これ|は野Бといふ蟲なり　|本来は山中に棲み生物|の死骸を分解したる蟲|なりしが　人に付けば|皮膚は固くなり手足も|不自由となりぬ　人々|は　しげといふ娘が生|まれてより　この奇病|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|But, they couldn't|see it. The cause|was the "Yasabi"|mushi which lived|in the mountains. It|normally feeds on|dead animals, but|when attached to the|living, it can cause|limb impairments.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|が広がりたると噂せり|娘は固く口を閉ざすば|かりなり　皆は疑念を|抱き　しげを冷遇せり|隔てなく接するは　海|辺の村より来たるテツ|といふ若者のみなり　|蟲師はしげに協力を依|頼せり　しげは病を治|せるならばと　ようや|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The mushishi told|Shige he could help|cure the villagers.|Shige finally opened|up, explaining that|whenever she spoke,|rust would appear.|Her voice was hoarse|from yelling in hope|of stifling the rust.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|く口を開く　曰く　幼|き頃より声を出す度に|Бが湧き　やがて町中|に蔓延したといふ　そ|の声は太くかすれたれ|ど　甘く渋みのある残|響を持つ不可思議な声|なり　しげは声を潰さ|んと叫び　この声にな|りしが　尚もБは湧き|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|It transpired that|Shige's voice was|similar to the sound|made by the Yasabi,|who mistook it for|food and gathered|in the village. With|nothing to eat, they|attached onto living|beings instead.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|たるといふ　それは　|しげの声が野Бの発せ|し音と極似したるため|なり　餌ありと誤解せ|し野Бが集まりしが　|町には喰うべきものな|く生きしものにまで付|きたるなり　野Бを町|より払う術一つあり　|山々にしげの声を谺さ|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|In order to drive the|Yasabi out of the|village, the mushishi|wanted to make|Shige's voice echo|down the mountains|from the pass where|there was a sea|breeze, as the Yasabi|don't like salty air.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|せれば野Бは山へと散|りたるはずなり　但し|それを行うは海を背に|した峠に限られり　野|Бが潮気を嫌うためな|り　しげは　その後は|町を出たること覚悟せ|り　テツに礼の手紙を|出したれば　不幸にも|町の者の目に触れ　人|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|As Shige prepared|to leave the village,|she wrote a letter|of thanks to Tetsu,|explaining why she|never spoke. The|villagers saw the|letter and stormed|her house in an|angry mob.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|々しげの家に押し寄せ|たり　|「ハナスト　オマエモ|ヤマイニナル」との文|ありて　やはりしげが|元凶と責めたるなり　|蟲師はしげとテツを峠|へ逃がし　皆をなだめ|た後　二人を追ひ行け|ば　しげの声　山々に|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The mushishi helped|Shige and Tetsu|escape to the|mountain pass.|Once he had calmed|the villagers down,|he rushed to catch|up with the pair, and|heard Shige's voice|echoing all around.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|谺したるを聞く　声を|辿りて　谷に落ちたる|二人見つけたり　怪我|せしテツを救わんと　|&lt;mg 6&gt;しげは叫びたるなり&lt;/mg&gt;　|二人を救いて町に戻ら|ば　野Бの数減りて病|の者は回復せり　図ら|ずも蟲師の思惑通りと|なれり　この後　しげ|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Following the voice,|he found that they'd|fallen down a valley.|&lt;mg 6&gt;Shige had cried out|in order to save the|injured Tetsu, |unintentionally ful-|filling the mushishi's|plan&lt;/mg&gt; and scattering|the Yasabi.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="8" xml:space="preserve">
+      <trans-unit id="8" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|はテツの故郷に移住せ|り　海辺なれば　しげ|も平穏に暮らしたると|いふ　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The villagers who|were infected also|recovered. After|that, Shige moved to|Tetsu's hometown|by the sea where|she was able to talk|and live in peace.||                                     -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
