@@ -226,37 +226,37 @@
   </file>
   <file xml:space="preserve" original="book/07.arc/07.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|旅の蟲師が語りし|「陰火」について|狩房家当主記す　|　|新種の蟲現れしと聞き|蟲師がその里を訪ねた|れば　見たことなき草|が生い茂りたり　この|草が新種らしき蟲なり|二月前　畑にせんと拓|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Kagebi"||Hearing that a new|species of mushi|had appeared, a|mushishi went to|investigate. He|found an odd weed|growing all around|the village.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|きし原に現れ　瞬く間|に山中に広がり　毒を|吐きて山の木を枯らし|たるといふ　里には若|き女の蟲師あり　名を|野萩といふ　草は人の|住みたる処まで迫りた|るとて　野萩は里人を|守らんと山ごと焼き払|うを決めたり　蟲師は|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The weed had spread|quickly through the|mountains, killing|the other plant life.|Yahagi, a young|mushishi who lived|in the village,|planned to burn the|mountain to protect|the villagers.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|異を唱えり　山を焼く|代償は大きく　正体不|明の蟲にて影響は如何|ばかりか知れず　人を|集め確実に抜きたるべ|きといふ　しかし里の|者らは聞く耳を持たず|山に火を放ちたり　つ|ひに蟲を絶てりと思い|し時　陰火が出現せり|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The other mushishi|disagreed, saying it|was too risky, but|the villagers would|not listen and set|fire to the mountain.|The blazed killed|the weeds, however|from their ashes,|Kagebi appeared.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|陰火の中にヒダネあり|ヒトの熱を吸ひ生きる|蟲なり　あの草はヒダ|ネの幼生にて　火を得|る事で陰火となりたる|なり　野萩はヒダネな|れば対処するは可能な|りといふ　一年後　蟲|師は里を再訪せり　草|は絶たれり　されど陰|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Inside each Kagebi|is a mushi called a|Hidane which feeds|on human heat. The|odd weeds were the|Hidane's larval form,|rather than a new|species of mushi.|Yahagi believes she|can deal with them.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|火の害を受けし者多く|七人が死にたり　陰火|は　数は減れど今も在|りて　時折その姿見ゆ|また書物になきヒダネ|の生態も判明せり　充|分に熱を吸ひ寿命を全|うせしヒダネの骸より|あの草が芽を出したる|といふ　野萩自身によ|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|One year later, the|mushishi returned to|the village. Though|the number of Kagebi|had decreased, many|were still suffering|its effects. This|included Yahagi,|who had accidentally|inhaled one.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|りて証明されしことな|り　野萩は山を焼きた|る時　陰火を吸ひ込み|てあり　やがて腑の中|でヒダネが芽を出し　|毒を吐き始めたるなり|野萩は　里を離れ死に|場所を探す所存にて　|その後は旅の蟲師が里|に残りて皆を守られた|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The Hidane inside|her had absorbed|her body heat and|died, and a weed had|grown in its place.|Fearing the worst,|Yahagi asked the|mushishi to protect|the village in her|stead.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|しと願いたり　蟲師は|それを断り　一つ案あ|りとて　&lt;mg 9&gt;まず陰火を捕|らえり&lt;/mg&gt;　あの草を駆除|したるには陰火で焼け|ばよく　陰火を通せし|食物にも同じ効果あり|と思はれり　陰火で焼|きたるものを喰えば腑|は焼けるように痛めど|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|He refused, and|came up with his|own idea. &lt;mg 9&gt;First, they|needed to capture a|Kagebi.&lt;/mg&gt;Then, use|it to burn the weed|by having Yahagi|eat something which|had been cooked|over its flames.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|野萩はこれを試し　焼|けたる草を吐き出せり|かかるに　時をかけ駆|除したればよし　この|後も　野萩は草を吐き|腑を焼き　里を異形の|モノから守りながら生|きたるといふ　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|After Yahagi ate,|she started to cough|up burnt leaves.|Though it would|take more time and|pain to fully destroy|the weed, she was|able to live on, and|continue to protect|the village.          -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>

@@ -714,9 +714,9 @@
         <source>タッチペンで|スライドして|蟲の輪郭を綺麗に|なぞりましょう</source>
         <target state="translated">Use the stylus to|trace the outline|of the mushi|as best as you can</target>
       </trans-unit>
-      <trans-unit id="879048" xml:space="preserve">
+      <trans-unit id="879048" xml:space="preserve" approved="no">
         <source>タッチペンで蟲ピンを|タッチして陰火を|三〇匹捕らえましょう</source>
-        <target/>
+        <target state="translated">Touch the mushi pin|with the stylus to|capture 30 Kagebi</target>
       </trans-unit>
       <trans-unit id="879828" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|紙に書かれた丸を|塗りつぶしましょう</source>
