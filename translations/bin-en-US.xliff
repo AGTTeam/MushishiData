@@ -716,7 +716,7 @@
       </trans-unit>
       <trans-unit id="879048" xml:space="preserve" approved="no">
         <source>タッチペンで蟲ピンを|タッチして陰火を|三〇匹捕らえましょう</source>
-        <target state="translated">Touch the mushi pin|with the stylus to|capture 30 Kagebi</target>
+        <target state="translated">Touch the mushi pin|with the stylus and|capture 30 Kagebi</target>
       </trans-unit>
       <trans-unit id="879828" xml:space="preserve" approved="no">
         <source>タッチペンで|スライドして|紙に書かれた丸を|塗りつぶしましょう</source>
