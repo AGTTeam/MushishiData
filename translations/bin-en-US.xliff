@@ -470,9 +470,9 @@
         <source>有名な新参蟲師</source>
         <target state="translated">Expert</target>
       </trans-unit>
-      <trans-unit id="872880" xml:space="preserve">
+      <trans-unit id="872880" xml:space="preserve" approved="no">
         <source>食欲促進の焚薬</source>
-        <target/>
+        <target state="translated">Appetite Increaser</target>
       </trans-unit>
       <trans-unit id="872896" xml:space="preserve" approved="no">
         <source>視界良好の飲薬</source>
@@ -482,9 +482,9 @@
         <source>雑音鎮静の飲薬</source>
         <target state="translated">Noise Silencer#stops strange noise</target>
       </trans-unit>
-      <trans-unit id="872928" xml:space="preserve">
+      <trans-unit id="872928" xml:space="preserve" approved="no">
         <source>発声喚起の飲薬</source>
-        <target/>
+        <target state="translated">Speech Stimulant#cures can't speak</target>
       </trans-unit>
       <trans-unit id="872944" xml:space="preserve">
         <source>平衡保持の塗薬</source>
@@ -498,9 +498,9 @@
         <source>声震鎮静の塗薬</source>
         <target state="translated">Raspy Voice Salve</target>
       </trans-unit>
-      <trans-unit id="872992" xml:space="preserve">
+      <trans-unit id="872992" xml:space="preserve" approved="no">
         <source>無音除去の塗薬</source>
-        <target/>
+        <target state="translated">Hearing Restorer#stops deafness</target>
       </trans-unit>
       <trans-unit id="873008" xml:space="preserve" approved="no">
         <source>転倒防止の焚薬</source>

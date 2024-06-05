@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|当然　体は衰弱してい|くので危険だ|治療に必要な処方箋を|一緒に送ったから|作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;While the mushi is|not dangerous, it|is not good for a|person not to eat.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|Yakuno&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|While the mushi is|not dangerous, it|is not good for a|person not to eat.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
