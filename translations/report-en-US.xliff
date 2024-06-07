@@ -262,41 +262,41 @@
   </file>
   <file xml:space="preserve" original="book/08.arc/08.TXT" source-language="ja" target-language="en">
     <body>
-      <trans-unit id="0" xml:space="preserve">
+      <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|或る若き蟲師が語りし|「蟲垂衣」について|狩房家当主記す　|　|この者は蟲師となりて|間もなき者にて　名を|[name]といふ|故郷は光脈筋にあり蟲|の多き土地なり　十年|前には天災ありて　里|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|"Mushinotareginu"| |This is a tale told by|[name],|recorded by the|fourth scribe of the|Karibusa Family.|[name]'s|home sits on top|of a light vein.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="1" xml:space="preserve">
+      <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|人らが一斉に死に絶え|し所といふ　|[name]は　その|折のただ一人の生き残|りなり　天災の後　他|所より人々が移り住み　|今は新しき集落となり|ぬといふ　|かかる或る日　空より|鳥の死骸落ちたる事あ|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Ten years ago, a|disaster befell the|village, leaving|[name] as|the only survivor.|Over time, new|people came to live|there. However one|day, birds started|falling from the sky.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="2" xml:space="preserve">
+      <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|り　これを端に次々と|異変が起きたるやうな|りたり　山では獣らが|姿を消し　一方で草木|は異様な程に繁殖せり　|これらは山頂より起こ|りて下方に広まりたる|とて　更に奇妙なり　|人々は天変地異の前触|れなりしかと噂せり　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|This was the start of|a series of strange|incidents. Animals|began disappearing|from the mountain,|while plants grew|in unusual ways.|The villagers were|worried that it was|a bad omen.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="3" xml:space="preserve">
+      <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|事実　十年前の天災の|前触れと似ており　由|由しき事態といへり　|[name]は　この|地に来たる旅の蟲師の|力を借り　対処せんと|奔走せり　蟲師はこの|異変を蟲垂衣なる現象|なりといふ　これを起|こしたるは　帷蟲など|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|They were, in fact,|similar to the events|which preceded the|disaster ten years|ago. Fortunately, a|traveling mushishi|heard the news and|came to help. He|explained about the|Mushinotareginu.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="4" xml:space="preserve">
+      <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|と呼ばれし蟲と伝われ|り　十年前に天災を起|こせしモノと同じなり　|形状は巨大なる布の如|し　光脈筋を移動し大|量の蟲を喰いたるとの|ことなり　また　そこ|に居た人間や動物は死|に絶へ　植物は異様に|育てりといふ　ただし|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|It is a phenomenon|caused by the|Tobarimushi. Cloth-|like in shape, they|move along the light|veins eating vast|amounts of mushi,|causing the deaths|of animals and odd|behavior in plants.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="5" xml:space="preserve">
+      <trans-unit id="5" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|謎の多き蟲にて払う術|は伝わらず　|かの蟲はすでに里を覆|い　降下しながら蟲を|喰いつくさんとせしも|のと思われり　|[name]は蟲師と|共に調査せしが　手立|てはつかめず焦るばか|りなり　帷蟲はいよい|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The mushi had made|its way through the|mountains and was|heading for the|village, but there|was no known way|to banish it. Any|investigation|attempts proved|to be fruitless.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="6" xml:space="preserve">
+      <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|よ里の底に寄りて猶予|なき頃　ようやく帷蟲|の弱点を掴めり　あれ|には表裏ありとて　日|に当たりし側が表で　|里に向きし側は裏なり　|裏は敏感な性質なれば　|光を受け付けず　これ|を使えばよしと　まず|里の者らを集め池に入|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|However, at the|critical moment, the|mushishi realized|the Tobarimushi's|weakness. One side|of the mushi faces|the sun, while the|other, which faces|downwards, is|sensitive to light.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="7" xml:space="preserve">
+      <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|らせたるなり　水面の|光を利用せり　果たし|て帷蟲は池を避け　人|々は無事なり　食事を|終えたる帷蟲は　いず|こかへ去りたるなり　|この出来事の後　|&lt;mg 10&gt;[name]は蟲師と|なりて里を守らんと心|決めたるといふ&lt;/mg&gt;　|&lt;/page&gt;</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|The mushishi had|everyone gather|in the pond, which|reflected the sun's|light. As the Tobari-|mushi descended, it|avoided the pond,|sparing the|villager's lives.|&lt;/page&gt;</target>
       </trans-unit>
-      <trans-unit id="8" xml:space="preserve">
+      <trans-unit id="8" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target/>
+        <target state="translated">&lt;page&gt;|Following this|incident,|&lt;mg 10&gt;[name]|decided to become|Mushishi to protect|the village.&lt;/mg&gt;||||-FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>

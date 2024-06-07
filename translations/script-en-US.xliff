@@ -778,17 +778,17 @@
         <source>Ｓ４７＿３　寄り合い：開始</source>
         <target state="translated">S47_3　Village assembly: Start</target>
       </trans-unit>
-      <trans-unit id="25900" xml:space="preserve">
+      <trans-unit id="25900" xml:space="preserve" approved="no">
         <source>Ｓ４８＿１　欠番（虚繭で起動）</source>
-        <target/>
+        <target state="translated">S48_1 Missing Number (via letter)</target>
       </trans-unit>
       <trans-unit id="25944" xml:space="preserve" approved="no">
         <source>Ｓ４８＿２　ギンコ、蟲煙草受取</source>
         <target state="translated">S48_2　Ginko, mushi tobacco receipt</target>
       </trans-unit>
-      <trans-unit id="25976" xml:space="preserve">
+      <trans-unit id="25976" xml:space="preserve" approved="no">
         <source>Ｓ４９＿１　欠番（虚繭で起動）</source>
-        <target/>
+        <target state="translated">S49_1 Missing Number (via letter)</target>
       </trans-unit>
       <trans-unit id="26020" xml:space="preserve" approved="no">
         <source>Ｓ４９＿２　春まがいに遭遇１</source>
@@ -5102,13 +5102,13 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="1212" xml:space="preserve">
+      <trans-unit id="1212" xml:space="preserve" approved="no">
         <source>はい</source>
-        <target/>
+        <target state="translated">Right.</target>
       </trans-unit>
-      <trans-unit id="1232" xml:space="preserve">
+      <trans-unit id="1232" xml:space="preserve" approved="no">
         <source>悪い兆しだ。とにかく急ごう</source>
-        <target/>
+        <target state="translated">Things don't look good. Let's hurry.#didn't see this in game, but I assume it's Ginko</target>
       </trans-unit>
       <trans-unit id="1272" xml:space="preserve" approved="no">
         <source>今は、里の隅々まで歩き回って|手がかりをつかまないと</source>
@@ -10026,113 +10026,113 @@
         <source>ヤクノ</source>
         <target state="translated">Yakuno</target>
       </trans-unit>
-      <trans-unit id="3432" xml:space="preserve">
+      <trans-unit id="3432" xml:space="preserve" approved="no">
         <source>よお</source>
-        <target/>
+        <target state="translated">Hey.</target>
       </trans-unit>
       <trans-unit id="3452" xml:space="preserve">
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="3460" xml:space="preserve">
+      <trans-unit id="3460" xml:space="preserve" approved="no">
         <source>あ、ヤクノ！</source>
-        <target/>
+        <target state="translated">Ah, Yakuno!</target>
       </trans-unit>
-      <trans-unit id="3488" xml:space="preserve">
+      <trans-unit id="3488" xml:space="preserve" approved="no">
         <source>元気だったか</source>
-        <target/>
+        <target state="translated">How are you?</target>
       </trans-unit>
-      <trans-unit id="3516" xml:space="preserve">
+      <trans-unit id="3516" xml:space="preserve" approved="no">
         <source>うん。仕事は片付いたの？</source>
-        <target/>
+        <target state="translated">I'm good. Were you able to help with the request?</target>
       </trans-unit>
-      <trans-unit id="3556" xml:space="preserve">
+      <trans-unit id="3556" xml:space="preserve" approved="no">
         <source>ああ、なんとかな。|しかし、またすぐに新しい|仕事が入ってな</source>
-        <target/>
+        <target state="translated">Well, more or less. I got another job straight after though.</target>
       </trans-unit>
-      <trans-unit id="3628" xml:space="preserve">
+      <trans-unit id="3628" xml:space="preserve" approved="no">
         <source>その依頼先に|向かう途中なんだが、</source>
-        <target/>
+        <target state="translated">I'm on my way there now, but since I was in the area,</target>
       </trans-unit>
-      <trans-unit id="3664" xml:space="preserve">
+      <trans-unit id="3664" xml:space="preserve" approved="no">
         <source>この近くを通ったんで、|ちょっと一休みさせて|もらいにきたよ</source>
-        <target/>
+        <target state="translated">I thought I'd come say hello first and take a little break.</target>
       </trans-unit>
-      <trans-unit id="3724" xml:space="preserve">
+      <trans-unit id="3724" xml:space="preserve" approved="no">
         <source>そっか。疲れてるでしょ。|中に入って休んでよ</source>
-        <target/>
+        <target state="translated">You must be tired. Please come in.</target>
       </trans-unit>
-      <trans-unit id="3780" xml:space="preserve">
+      <trans-unit id="3780" xml:space="preserve" approved="no">
         <source>見た限り、|里は平穏なようだな</source>
-        <target/>
+        <target state="translated">The village seems quite peaceful from the looks of things.</target>
       </trans-unit>
-      <trans-unit id="3812" xml:space="preserve">
+      <trans-unit id="3812" xml:space="preserve" approved="no">
         <source>うん。|山にも動物が|戻り始めているよ</source>
-        <target/>
+        <target state="translated">It is. The animals are starting to return to the mountain too.</target>
       </trans-unit>
-      <trans-unit id="3864" xml:space="preserve">
+      <trans-unit id="3864" xml:space="preserve" approved="no">
         <source>それにしても、また”あれ”が|来るとは思いもよらなかったな。|それも、こんなにも早く……</source>
-        <target/>
+        <target state="translated">I wasn't expecting "that" to come back. Never mind so soon…</target>
       </trans-unit>
-      <trans-unit id="3964" xml:space="preserve">
+      <trans-unit id="3964" xml:space="preserve" approved="no">
         <source>うん……。|でも、村の人達には大きな|被害は出なくてよかった</source>
-        <target/>
+        <target state="translated">Yeah... But thankfully, the village didn't suffer too much damage.</target>
       </trans-unit>
-      <trans-unit id="4024" xml:space="preserve">
+      <trans-unit id="4024" xml:space="preserve" approved="no">
         <source>ギンコさんのおかげだよ</source>
-        <target/>
+        <target state="translated">It's all thanks to Ginko.</target>
       </trans-unit>
-      <trans-unit id="4048" xml:space="preserve">
+      <trans-unit id="4048" xml:space="preserve" approved="no">
         <source>そうだな。|だが、お前もよくやった|ようじゃないか</source>
-        <target/>
+        <target state="translated">Right. But you played a big role in it too.</target>
       </trans-unit>
-      <trans-unit id="4100" xml:space="preserve">
+      <trans-unit id="4100" xml:space="preserve" approved="no">
         <source>ギンコからの文にも、|お前がいてくれたおかげで|助かったと書いてあったぞ</source>
-        <target/>
+        <target state="translated">In the letter Ginko wrote to me, he said he'd never have managed it without you.</target>
       </trans-unit>
-      <trans-unit id="4172" xml:space="preserve">
+      <trans-unit id="4172" xml:space="preserve" approved="no">
         <source>そうなのかなあ？</source>
-        <target/>
+        <target state="translated">Is that right?</target>
       </trans-unit>
-      <trans-unit id="4192" xml:space="preserve">
+      <trans-unit id="4192" xml:space="preserve" approved="no">
         <source>いずれにしろ、|無事で何よりだ</source>
-        <target/>
+        <target state="translated">In any case, I'm glad you're all right.</target>
       </trans-unit>
-      <trans-unit id="4224" xml:space="preserve">
+      <trans-unit id="4224" xml:space="preserve" approved="no">
         <source>そうそう、|さっき村の者に聞いたが、|今夜寄り合いがあるそうだな</source>
-        <target/>
+        <target state="translated">Oh right, I just heard from the villagers that they're holding an assembly tonight.</target>
       </trans-unit>
-      <trans-unit id="4288" xml:space="preserve">
+      <trans-unit id="4288" xml:space="preserve" approved="no">
         <source>俺も参加させて|もらう事にしたよ</source>
-        <target/>
+        <target state="translated">I was thinking about joining them.</target>
       </trans-unit>
-      <trans-unit id="4324" xml:space="preserve">
+      <trans-unit id="4324" xml:space="preserve" approved="no">
         <source>そういや、お前は寄り合いに|出た事はなかったな</source>
-        <target/>
+        <target state="translated">Come to think of it, you've never been to one, have you?</target>
       </trans-unit>
-      <trans-unit id="4372" xml:space="preserve">
+      <trans-unit id="4372" xml:space="preserve" approved="no">
         <source>うん。|あれは大人の人達が|集まるものだし……</source>
-        <target/>
+        <target state="translated">No. That's for the grown ups to talk…</target>
       </trans-unit>
-      <trans-unit id="4420" xml:space="preserve">
+      <trans-unit id="4420" xml:space="preserve" approved="no">
         <source>そろそろ顔を出しても|いい頃じゃないか</source>
-        <target/>
+        <target state="translated">Well, isn't it about time you joined in?</target>
       </trans-unit>
-      <trans-unit id="4460" xml:space="preserve">
+      <trans-unit id="4460" xml:space="preserve" approved="no">
         <source>なに、寄り合いといっても|真面目な話は最初だけで、</source>
-        <target/>
+        <target state="translated">They only talk about serious stuff at the start, anyway.</target>
       </trans-unit>
-      <trans-unit id="4512" xml:space="preserve">
+      <trans-unit id="4512" xml:space="preserve" approved="no">
         <source>あとはみんなで|与太話して騒ぐだけさ</source>
-        <target/>
+        <target state="translated">After that, everyone just starts gossiping and complaining.</target>
       </trans-unit>
-      <trans-unit id="4552" xml:space="preserve">
+      <trans-unit id="4552" xml:space="preserve" approved="no">
         <source>蟲師にとっちゃ|いい情報収集にもなるぞ</source>
-        <target/>
+        <target state="translated">Plus, as a mushishi, it's a good opportunity to gather information.</target>
       </trans-unit>
-      <trans-unit id="4592" xml:space="preserve">
+      <trans-unit id="4592" xml:space="preserve" approved="no">
         <source>そうか……。|じゃあ、ちょっと顔を|出してみようかな</source>
-        <target/>
+        <target state="translated">I see... Well, I guess I could join for a bit.</target>
       </trans-unit>
     </body>
   </file>
@@ -10142,21 +10142,21 @@
         <source>ヤクノ</source>
         <target state="translated">Yakuno</target>
       </trans-unit>
-      <trans-unit id="696" xml:space="preserve">
+      <trans-unit id="696" xml:space="preserve" approved="no">
         <source>寄り合いが始まるのは、|月が出てからだ</source>
-        <target/>
+        <target state="translated">The assembly will start once the sun has set.</target>
       </trans-unit>
-      <trans-unit id="736" xml:space="preserve">
+      <trans-unit id="736" xml:space="preserve" approved="no">
         <source>なんだか眠くなってきたよ。|やっぱり疲れていたようだな。|少し昼寝しとくか</source>
-        <target/>
+        <target state="translated">I'm getting sleepy. I guess I am tired after all. Maybe I'll take a little nap...</target>
       </trans-unit>
-      <trans-unit id="812" xml:space="preserve">
+      <trans-unit id="812" xml:space="preserve" approved="no">
         <source>このところ、ギンコには世話に|なりっぱなしだなあ。|今度会ったら礼を言わんとな</source>
-        <target/>
+        <target state="translated">Ginko's done a lot for me lately. I'll have to thank him the next time I see him.</target>
       </trans-unit>
-      <trans-unit id="892" xml:space="preserve">
+      <trans-unit id="892" xml:space="preserve" approved="no">
         <source>この里は心が休まるな。|俺にとっちゃ故郷じゃないん|だが、なんだか落ち着くよ</source>
-        <target/>
+        <target state="translated">I feel at peace whenever I'm in this village. It's not my home, but I can be myself here.</target>
       </trans-unit>
     </body>
   </file>
@@ -10166,213 +10166,213 @@
         <source>ヤクノ</source>
         <target state="translated">Yakuno</target>
       </trans-unit>
-      <trans-unit id="9700" xml:space="preserve">
+      <trans-unit id="9700" xml:space="preserve" approved="no">
         <source>こんばんは。|お邪魔しに来ました</source>
-        <target/>
+        <target state="translated">Evening. I'm here for the assembly.</target>
       </trans-unit>
       <trans-unit id="9748" xml:space="preserve" approved="no">
         <source>村長</source>
         <target state="translated">Village Chief</target>
       </trans-unit>
-      <trans-unit id="9756" xml:space="preserve">
+      <trans-unit id="9756" xml:space="preserve" approved="no">
         <source>おや、|ヤクノさん。|いらしてたんですね</source>
-        <target/>
+        <target state="translated">Oh, Yakuno. Good to see you.</target>
       </trans-unit>
       <trans-unit id="9808" xml:space="preserve">
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="9816" xml:space="preserve">
+      <trans-unit id="9816" xml:space="preserve" approved="no">
         <source>こんばんは</source>
-        <target/>
+        <target state="translated">Good evening.</target>
       </trans-unit>
-      <trans-unit id="9840" xml:space="preserve">
+      <trans-unit id="9840" xml:space="preserve" approved="no">
         <source>おお、お前も来たか。|みんなそろっておるぞ。|さあ、上がりなされ</source>
-        <target/>
+        <target state="translated">Oh, you're here too? Everyone is gathered inside. Come in, come in.</target>
       </trans-unit>
       <trans-unit id="9952" xml:space="preserve" approved="no">
         <source>村の男３</source>
         <target state="translated">Village Man 3</target>
       </trans-unit>
-      <trans-unit id="9964" xml:space="preserve">
+      <trans-unit id="9964" xml:space="preserve" approved="no">
         <source>おう、来たか</source>
-        <target/>
+        <target state="translated">Glad you made it!</target>
       </trans-unit>
       <trans-unit id="9980" xml:space="preserve" approved="no">
         <source>村の男２</source>
         <target state="translated">Village Man 2</target>
       </trans-unit>
-      <trans-unit id="9992" xml:space="preserve">
+      <trans-unit id="9992" xml:space="preserve" approved="no">
         <source>今日はご馳走があるぞ</source>
-        <target/>
+        <target state="translated">This looks to be quite the feast!</target>
       </trans-unit>
-      <trans-unit id="10028" xml:space="preserve">
+      <trans-unit id="10028" xml:space="preserve" approved="no">
         <source>なかなか豪勢だな</source>
-        <target/>
+        <target state="translated">What an incredible spread...</target>
       </trans-unit>
       <trans-unit id="10060" xml:space="preserve" approved="no">
         <source>村の男１</source>
         <target state="translated">Village Man 1</target>
       </trans-unit>
-      <trans-unit id="10072" xml:space="preserve">
+      <trans-unit id="10072" xml:space="preserve" approved="no">
         <source>皆で持ち寄ったもんだ。|さあ、遠慮せんで食え</source>
-        <target/>
+        <target state="translated">Everyone brought a dish.|Don't be shy, dig in!</target>
       </trans-unit>
-      <trans-unit id="10120" xml:space="preserve">
+      <trans-unit id="10120" xml:space="preserve" approved="no">
         <source>あの、少しですが|僕も持ってきました。|草団子です</source>
-        <target/>
+        <target state="translated">Ah, I brought something too. Here, these are Kusa Dango.</target>
       </trans-unit>
-      <trans-unit id="10172" xml:space="preserve">
+      <trans-unit id="10172" xml:space="preserve" approved="no">
         <source>あの、少しですが|私も持ってきました。|草団子です</source>
-        <target/>
+        <target state="translated">Ah, I brought something too. Here, these are Kusa Dango.</target>
       </trans-unit>
-      <trans-unit id="10236" xml:space="preserve">
+      <trans-unit id="10236" xml:space="preserve" approved="no">
         <source>お、うまそうだな。|いただくよ</source>
-        <target/>
+        <target state="translated">Oh, those look good. Don't mind if I do!</target>
       </trans-unit>
-      <trans-unit id="10280" xml:space="preserve">
+      <trans-unit id="10280" xml:space="preserve" approved="no">
         <source>――そしたら、|目の前にドサーッと|鳥が落ちてきてさあ</source>
-        <target/>
+        <target state="translated">--And then a bird just dropped out of the sky right in front of me.</target>
       </trans-unit>
-      <trans-unit id="10348" xml:space="preserve">
+      <trans-unit id="10348" xml:space="preserve" approved="no">
         <source>そりゃあ、たまげるな</source>
-        <target/>
+        <target state="translated">That must have been a shock.</target>
       </trans-unit>
-      <trans-unit id="10372" xml:space="preserve">
+      <trans-unit id="10372" xml:space="preserve" approved="no">
         <source>本当、ちょっと前まで|妙なことが続いたよなあ。|近頃ようやく落ち着いたが</source>
-        <target/>
+        <target state="translated">Things really were crazy back then, huh. Everything seems to be calming down now though.</target>
       </trans-unit>
-      <trans-unit id="10444" xml:space="preserve">
+      <trans-unit id="10444" xml:space="preserve" approved="no">
         <source>この団子、お前が作ったのか？</source>
-        <target/>
+        <target state="translated">Hey, did you make these dango?</target>
       </trans-unit>
-      <trans-unit id="10476" xml:space="preserve">
+      <trans-unit id="10476" xml:space="preserve" approved="no">
         <source>はい</source>
-        <target/>
+        <target state="translated">I did.</target>
       </trans-unit>
-      <trans-unit id="10496" xml:space="preserve">
+      <trans-unit id="10496" xml:space="preserve" approved="no">
         <source>なかなかうまいぞ</source>
-        <target/>
+        <target state="translated">They're pretty good.</target>
       </trans-unit>
-      <trans-unit id="10516" xml:space="preserve">
+      <trans-unit id="10516" xml:space="preserve" approved="no">
         <source>そうですか、よかった</source>
-        <target/>
+        <target state="translated">I'm glad you like them!</target>
       </trans-unit>
-      <trans-unit id="10540" xml:space="preserve">
+      <trans-unit id="10540" xml:space="preserve" approved="no">
         <source>お前は本当に器用だなあ。|今度うちのカミさんにも|作り方を教えてやってくれよ</source>
-        <target/>
+        <target state="translated">You've got a lot of skills. Teach my wife how to make them next time.</target>
       </trans-unit>
-      <trans-unit id="10628" xml:space="preserve">
+      <trans-unit id="10628" xml:space="preserve" approved="no">
         <source>あははは。|きっと奥さんが作った方が、|ずっとおいしいですよ</source>
-        <target/>
+        <target state="translated">Ha ha ha. I'm sure your wife could make them even better than I can.</target>
       </trans-unit>
-      <trans-unit id="10688" xml:space="preserve">
+      <trans-unit id="10688" xml:space="preserve" approved="no">
         <source>旅の身だってのに、|参加させてもらえて、|ありがたいです</source>
-        <target/>
+        <target state="translated">Thank you for letting me join you, even though I'm not part of the village.</target>
       </trans-unit>
-      <trans-unit id="10744" xml:space="preserve">
+      <trans-unit id="10744" xml:space="preserve" approved="no">
         <source>いや、お前さんは、わしらより|先にここに住んでおった。|遠慮などする事はない</source>
-        <target/>
+        <target state="translated">Nonsense, you lived here before any of us, didn't you? Don't be a stranger.</target>
       </trans-unit>
-      <trans-unit id="10820" xml:space="preserve">
+      <trans-unit id="10820" xml:space="preserve" approved="no">
         <source>相変わらず|あちこち歩いてんだろ。|大変だなあ</source>
-        <target/>
+        <target state="translated">You're still traveling around all over, aren't you? It must be tough.</target>
       </trans-unit>
-      <trans-unit id="10868" xml:space="preserve">
+      <trans-unit id="10868" xml:space="preserve" approved="no">
         <source>まあ、そういう生業でな。|性にも合ってるんで、|苦にはならんよ</source>
-        <target/>
+        <target state="translated">Well, that's just part of the job. I don't mind it.</target>
       </trans-unit>
-      <trans-unit id="10932" xml:space="preserve">
+      <trans-unit id="10932" xml:space="preserve" approved="no">
         <source>最近は|どんな所に行ったんだい？|なんか面白い話はないかね</source>
-        <target/>
+        <target state="translated">Where have you been recently? Any interesting stories?</target>
       </trans-unit>
-      <trans-unit id="10992" xml:space="preserve">
+      <trans-unit id="10992" xml:space="preserve" approved="no">
         <source>そうだなあ。|ちょっと前に行った、|海辺の里での事なんだが……</source>
-        <target/>
+        <target state="translated">Let's see. I was in a seaside village a while back…</target>
       </trans-unit>
-      <trans-unit id="11056" xml:space="preserve">
+      <trans-unit id="11056" xml:space="preserve" approved="no">
         <source>ちょっと体が|熱（ほて）ってきたな。|外に出よう</source>
-        <target/>
+        <target state="translated">(It's a bit warm in here. I think I'll go get some air.)</target>
       </trans-unit>
-      <trans-unit id="11104" xml:space="preserve">
+      <trans-unit id="11104" xml:space="preserve" approved="no">
         <source>ちょっと体が|熱（ほて）ってきたみたい。|外に出よう</source>
-        <target/>
+        <target state="translated">(It's a bit warm in here. I think I'll go get some air.)</target>
       </trans-unit>
-      <trans-unit id="11164" xml:space="preserve">
+      <trans-unit id="11164" xml:space="preserve" approved="no">
         <source>ふう、夜風が気持ちいいな</source>
-        <target/>
+        <target state="translated">Ah, that breeze feels nice...</target>
       </trans-unit>
-      <trans-unit id="11192" xml:space="preserve">
+      <trans-unit id="11192" xml:space="preserve" approved="no">
         <source>ああ、お前か。|どうした？|もう飽きちまったのか？</source>
-        <target/>
+        <target state="translated">Oh, what are you doing out here? Are you bored already?</target>
       </trans-unit>
-      <trans-unit id="11256" xml:space="preserve">
+      <trans-unit id="11256" xml:space="preserve" approved="no">
         <source>そうじゃないけど、ちょっと|風にあたりたくなったんだ。|人の熱気のせいかな</source>
-        <target/>
+        <target state="translated">No, I just wanted a bit of fresh air.</target>
       </trans-unit>
-      <trans-unit id="11332" xml:space="preserve">
+      <trans-unit id="11332" xml:space="preserve" approved="no">
         <source>そうじゃないけど、ちょっと|風にあたりたくなったの。|人の熱気のせいかな</source>
-        <target/>
+        <target state="translated">No, I just wanted a bit of fresh air.</target>
       </trans-unit>
-      <trans-unit id="11404" xml:space="preserve">
+      <trans-unit id="11404" xml:space="preserve" approved="no">
         <source>そうか。俺もだ</source>
-        <target/>
+        <target state="translated">Yeah, me too.</target>
       </trans-unit>
-      <trans-unit id="11420" xml:space="preserve">
+      <trans-unit id="11420" xml:space="preserve" approved="no">
         <source>星がきれいだ。|明日は晴れるな</source>
-        <target/>
+        <target state="translated">The stars sure are bright tonight. It'll be sunny tomorrow.</target>
       </trans-unit>
-      <trans-unit id="11452" xml:space="preserve">
+      <trans-unit id="11452" xml:space="preserve" approved="no">
         <source>うん。|……夜が明けたら|すぐに発つんだよね</source>
-        <target/>
+        <target state="translated">Yeah.|...You'll be leaving when the dawn comes, won't you?</target>
       </trans-unit>
-      <trans-unit id="11508" xml:space="preserve">
+      <trans-unit id="11508" xml:space="preserve" approved="no">
         <source>ああ。|なんだかんだで、|このところ忙しくてな</source>
-        <target/>
+        <target state="translated">That's right. Things have been really busy lately.</target>
       </trans-unit>
-      <trans-unit id="11568" xml:space="preserve">
+      <trans-unit id="11568" xml:space="preserve" approved="no">
         <source>そっか……</source>
-        <target/>
+        <target state="translated">I see…</target>
       </trans-unit>
-      <trans-unit id="11580" xml:space="preserve">
+      <trans-unit id="11580" xml:space="preserve" approved="no">
         <source>もし、何かあったら、|虚繭で連絡してくれ</source>
-        <target/>
+        <target state="translated">If you need anything, you can always send me a letter.</target>
       </trans-unit>
-      <trans-unit id="11624" xml:space="preserve">
+      <trans-unit id="11624" xml:space="preserve" approved="no">
         <source>この里は、光脈筋にある分、|豊かだが弊害もある</source>
-        <target/>
+        <target state="translated">Thanks to the light veins, this land is very fertile, but it also has its downsides.</target>
       </trans-unit>
-      <trans-unit id="11672" xml:space="preserve">
+      <trans-unit id="11672" xml:space="preserve" approved="no">
         <source>蟲垂衣のような事は、|そうそう無いだろうが、|油断は禁物だ</source>
-        <target/>
+        <target state="translated">I don't expect something like the Mushinotareginu to happen again, but you can never be too careful.</target>
       </trans-unit>
-      <trans-unit id="11732" xml:space="preserve">
+      <trans-unit id="11732" xml:space="preserve" approved="no">
         <source>とはいえ、|この里には立派な蟲師がいるし、|これからは安心だろうがな</source>
-        <target/>
+        <target state="translated">Though, this village does have a fine mushishi, so I'm sure things'll be alright.</target>
       </trans-unit>
-      <trans-unit id="11812" xml:space="preserve">
+      <trans-unit id="11812" xml:space="preserve" approved="no">
         <source>え、僕の事？|まだ、|わからないことばかりだよ</source>
-        <target/>
+        <target state="translated">You mean...me? There's still a lot I don't know.</target>
       </trans-unit>
-      <trans-unit id="11860" xml:space="preserve">
+      <trans-unit id="11860" xml:space="preserve" approved="no">
         <source>え、私の事？|まだ、|わからないことばかりだよ</source>
-        <target/>
+        <target state="translated">You mean...me? There's still a lot I don't know.</target>
       </trans-unit>
-      <trans-unit id="11920" xml:space="preserve">
+      <trans-unit id="11920" xml:space="preserve" approved="no">
         <source>僕は、この里しか知らないし、|もっと勉強しなきゃ|いけないよね</source>
-        <target/>
+        <target state="translated">I only know about the mushi in this village. I need to keep working hard.</target>
       </trans-unit>
-      <trans-unit id="11984" xml:space="preserve">
+      <trans-unit id="11984" xml:space="preserve" approved="no">
         <source>私は、この里しか知らないし、|もっと勉強しなきゃ|いけないよね</source>
-        <target/>
+        <target state="translated">I only know about the mushi in this village. I need to keep working hard.</target>
       </trans-unit>
-      <trans-unit id="12048" xml:space="preserve">
+      <trans-unit id="12048" xml:space="preserve" approved="no">
         <source>ま、焦らずとも|だんだん身についていくさ</source>
-        <target/>
+        <target state="translated">Well, no one expects you to become an expert all at once. Take it slow, and I'm sure you'll get there.</target>
       </trans-unit>
-      <trans-unit id="12092" xml:space="preserve">
+      <trans-unit id="12092" xml:space="preserve" approved="no">
         <source>あ、そうだ。|お前にこれをやるよ。|役に立つと良いが</source>
-        <target/>
+        <target state="translated">Oh, that's right. I've got something for you. I hope they'll be useful.</target>
       </trans-unit>
       <trans-unit id="12144" xml:space="preserve" approved="no">
         <source>上質なわらじ|をもらいました！</source>
@@ -10382,17 +10382,17 @@
         <source>ありがとう</source>
         <target state="translated">Thanks!</target>
       </trans-unit>
-      <trans-unit id="12188" xml:space="preserve">
+      <trans-unit id="12188" xml:space="preserve" approved="no">
         <source>それじゃ、元気でね</source>
-        <target/>
+        <target state="translated">Safe travels!</target>
       </trans-unit>
-      <trans-unit id="12208" xml:space="preserve">
+      <trans-unit id="12208" xml:space="preserve" approved="no">
         <source>ああ。|また、お前の顔を見にくるよ。|じゃあな</source>
-        <target/>
+        <target state="translated">Yeah. I'll come back and visit soon.|See ya.</target>
       </trans-unit>
-      <trans-unit id="12256" xml:space="preserve">
+      <trans-unit id="12256" xml:space="preserve" approved="no">
         <source>日が昇り始めると共に、|ヤクノは里を後にした</source>
-        <target/>
+        <target state="translated">&gt;&gt;As the sun began to rise, Yakuno disappeared into the horizon.</target>
       </trans-unit>
     </body>
   </file>
