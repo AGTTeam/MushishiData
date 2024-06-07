@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="872328" xml:space="preserve" approved="no">
         <source>『蟲垂衣』</source>
-        <target state="translated">"Mushi Veil"</target>
+        <target state="translated">"Mushinotareginu"</target>
       </trans-unit>
       <trans-unit id="872496" xml:space="preserve" approved="no">
         <source>噂の新参蟲師</source>
@@ -472,11 +472,11 @@
       </trans-unit>
       <trans-unit id="872880" xml:space="preserve" approved="no">
         <source>食欲促進の焚薬</source>
-        <target state="translated">Appetite Increaser</target>
+        <target state="translated">Appetite Increaser#cures can't eat</target>
       </trans-unit>
       <trans-unit id="872896" xml:space="preserve" approved="no">
         <source>視界良好の飲薬</source>
-        <target state="translated">Sight Restorer</target>
+        <target state="translated">Sight Restorer#cures pixelated vision</target>
       </trans-unit>
       <trans-unit id="872912" xml:space="preserve" approved="no">
         <source>雑音鎮静の飲薬</source>
@@ -486,17 +486,17 @@
         <source>発声喚起の飲薬</source>
         <target state="translated">Speech Stimulant#cures can't speak</target>
       </trans-unit>
-      <trans-unit id="872944" xml:space="preserve">
+      <trans-unit id="872944" xml:space="preserve" approved="no">
         <source>平衡保持の塗薬</source>
-        <target/>
+        <target state="translated">Locomotion Salve#cures inverted walking direction</target>
       </trans-unit>
-      <trans-unit id="872960" xml:space="preserve">
+      <trans-unit id="872960" xml:space="preserve" approved="no">
         <source>覚醒促進の塗薬</source>
-        <target/>
+        <target state="translated">Wakening Salve#cures nocturnal sleep pattern</target>
       </trans-unit>
       <trans-unit id="872976" xml:space="preserve" approved="no">
         <source>声震鎮静の塗薬</source>
-        <target state="translated">Raspy Voice Salve</target>
+        <target state="translated">Raspy Voice Salve#cures funny-sounding voice</target>
       </trans-unit>
       <trans-unit id="872992" xml:space="preserve" approved="no">
         <source>無音除去の塗薬</source>
@@ -526,9 +526,9 @@
         <source>一般的な新参蟲師</source>
         <target state="translated">Intermediate</target>
       </trans-unit>
-      <trans-unit id="873436" xml:space="preserve">
+      <trans-unit id="873436" xml:space="preserve" approved="no">
         <source>抗時間鈍化の飲薬</source>
-        <target/>
+        <target state="translated">Circadian Reset#cures time moving faster</target>
       </trans-unit>
       <trans-unit id="873456" xml:space="preserve" approved="no">
         <source>抗空腹異常の飲薬</source>
@@ -656,7 +656,7 @@
       </trans-unit>
       <trans-unit id="876500" xml:space="preserve" approved="no">
         <source>目覚める時間が|遅くなってしまう</source>
-        <target state="translated">Take longer to wake|up from sleep</target>
+        <target state="translated">Only active at night</target>
       </trans-unit>
       <trans-unit id="876604" xml:space="preserve" approved="no">
         <source>マイクに向かって|声を出しましょう</source>
