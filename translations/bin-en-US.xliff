@@ -398,17 +398,17 @@
         <source>移動速度異常</source>
         <target state="translated">Abnormal Speed</target>
       </trans-unit>
-      <trans-unit id="872544" xml:space="preserve">
+      <trans-unit id="872544" xml:space="preserve" approved="no">
         <source>時間経過異常</source>
-        <target/>
+        <target state="translated">Abnormal Time Progression</target>
       </trans-unit>
-      <trans-unit id="872560" xml:space="preserve">
+      <trans-unit id="872560" xml:space="preserve" approved="no">
         <source>生活時間異常</source>
-        <target/>
+        <target state="translated">Abnormal Waking Hours</target>
       </trans-unit>
-      <trans-unit id="872576" xml:space="preserve">
+      <trans-unit id="872576" xml:space="preserve" approved="no">
         <source>移動過程異常</source>
-        <target/>
+        <target state="translated">Abnormal Movement</target>
       </trans-unit>
       <trans-unit id="872592" xml:space="preserve" approved="no">
         <source>台詞語尾異常</source>
@@ -956,7 +956,7 @@
       </trans-unit>
       <trans-unit id="892372" xml:space="preserve" approved="no">
         <source>|の治療ができました</source>
-        <target state="needs-translation">|successfully cured#used when healing self of status effects. It shows as "Mushi X|successfully cured" which sounds a little strange, though I can't think of a better translation rn</target>
+        <target state="translated">|successfully purged</target>
       </trans-unit>
       <trans-unit id="892392" xml:space="preserve" approved="no">
         <source>特に効果は|ありませんでした</source>
