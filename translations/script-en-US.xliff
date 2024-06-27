@@ -5056,7 +5056,7 @@
       </trans-unit>
       <trans-unit id="5548" xml:space="preserve" approved="no">
         <source>ちょっとこいつを|削ってもいいか？</source>
-        <target state="translated">Do you mind if I cut this piece off?</target>
+        <target state="translated">Do you mind if I take a piece?</target>
       </trans-unit>
       <trans-unit id="5584" xml:space="preserve" approved="no">
         <source>かまわないけど……</source>
@@ -5108,7 +5108,7 @@
       </trans-unit>
       <trans-unit id="1232" xml:space="preserve" approved="no">
         <source>悪い兆しだ。とにかく急ごう</source>
-        <target state="translated">Things don't look good. Let's hurry.#didn't see this in game, but I assume it's Ginko</target>
+        <target state="translated">This is bad. We need to hurry.#didn't see this in game, but I assume it's Ginko</target>
       </trans-unit>
       <trans-unit id="1272" xml:space="preserve" approved="no">
         <source>今は、里の隅々まで歩き回って|手がかりをつかまないと</source>
@@ -5192,11 +5192,11 @@
       </trans-unit>
       <trans-unit id="1380" xml:space="preserve" approved="no">
         <source>ああ、|ニワトリが死んじまったんだ</source>
-        <target state="needs-translation">Our rooster's died.#Not sure if there's any sounds in game which tell you if it was a rooster or chicken(s)</target>
+        <target state="translated">Ah, our chickens died.#Not sure if there's any sounds in game which tell you if it was a rooster or hen(s)</target>
       </trans-unit>
       <trans-unit id="1416" xml:space="preserve" approved="no">
         <source>昨日辺りから、|なんか様子がおかしいとは|思ったんだけどねえ……</source>
-        <target state="translated">I thought it didn't seem like itself yesterday…</target>
+        <target state="translated">I thought they seemed off yesterday…</target>
       </trans-unit>
       <trans-unit id="1492" xml:space="preserve" approved="no">
         <source>ギンコ</source>
@@ -5328,7 +5328,7 @@
       </trans-unit>
       <trans-unit id="23356" xml:space="preserve" approved="no">
         <source>はあ？</source>
-        <target state="translated">Hah!?</target>
+        <target state="translated">Huh!?</target>
       </trans-unit>
       <trans-unit id="23364" xml:space="preserve" approved="no">
         <source>おいおい、なんだってんだ</source>
@@ -5348,7 +5348,7 @@
       </trans-unit>
       <trans-unit id="23536" xml:space="preserve" approved="no">
         <source>ここにいないと|蟲の影響で死んじまう。|早いとこ池に入ってくれ</source>
-        <target state="translated">If you stay here, you'll die because of the mushi. You need to get into the pond.</target>
+        <target state="translated">If you stay here, you'll die because of the mushi. You need to get in the pond.</target>
       </trans-unit>
       <trans-unit id="23624" xml:space="preserve" approved="no">
         <source>蟲？</source>
@@ -5364,7 +5364,7 @@
       </trans-unit>
       <trans-unit id="23724" xml:space="preserve" approved="no">
         <source>まあ、いいから。急いでくれ</source>
-        <target state="translated">That doesn't matter.|Quickly now.</target>
+        <target state="translated">That doesn't matter.|Now hurry.</target>
       </trans-unit>
       <trans-unit id="23764" xml:space="preserve" approved="no">
         <source>みんな、|この人の言うことをきいて。|きっと、助かるから……</source>
@@ -5484,7 +5484,7 @@
       </trans-unit>
       <trans-unit id="24828" xml:space="preserve" approved="no">
         <source>えー？|ぼんやりじゃなくって|キラキラしてるよ</source>
-        <target state="translated">Huuh? It's not faint, it's really sparkly!</target>
+        <target state="translated">Huuuh? It's not faint, it's really sparkly!</target>
       </trans-unit>
       <trans-unit id="24888" xml:space="preserve" approved="no">
         <source>村の女の子</source>
@@ -11294,9 +11294,9 @@
         <source>[name]</source>
         <target>[name]</target>
       </trans-unit>
-      <trans-unit id="240" xml:space="preserve">
+      <trans-unit id="240" xml:space="preserve" approved="no">
         <source>（うわっ、|雪玉が転がってきた）</source>
-        <target/>
+        <target state="translated">(Woah, a snowball!)#unsure if single or plural. idk where this is triggered, but probably on the mountain?</target>
       </trans-unit>
     </body>
   </file>
