@@ -680,7 +680,7 @@
       </trans-unit>
       <trans-unit id="878588" xml:space="preserve" approved="no">
         <source>タッチペンで|下画面をタッチすると|終了します</source>
-        <target state="translated">Touch the|bottom screen|with the stylus|to quit</target>
+        <target state="translated">Touch the bottom|screen with the|stylus to quit</target>
       </trans-unit>
       <trans-unit id="878636" xml:space="preserve" approved="no">
         <source>タッチペンで|蟲（赤い点）を|タッチしましょう</source>
