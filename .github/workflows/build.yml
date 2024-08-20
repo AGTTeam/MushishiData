@@ -12,7 +12,7 @@ jobs:
     outputs:
       should_run: ${{ steps.should_run.outputs.should_run }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Print latest_commit
         run: echo ${{ github.sha }}
       - id: should_run
@@ -27,23 +27,23 @@ jobs:
     if: ${{ needs.check_date.outputs.should_run != 'false' }}
     steps:
       - name: Checkout tool
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           repository: Illidanz/MushishiTranslation
           token: ${{ secrets.GH_PAT }}
       - name: Install Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: "pipenv"
       - name: Install pipenv
         run: python -m pip install --upgrade pipenv wheel
       - name: Checkout data
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
           path: MushishiData
       - name: Download data
-        uses: suisei-cn/actions-download-file@v1.3.0
+        uses: suisei-cn/actions-download-file@v1.6.0
         with:
           url: ${{ secrets.URL_DATA }}
       - name: Extract data
@@ -60,19 +60,19 @@ jobs:
       - name: Repack
         run: pipenv run python tool.py repack
       - name: Upload patch
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: patch.xdelta
           path: MushishiData/patch.xdelta
           retention-days: 7
       - name: Check patch existence
         id: check_patch
-        uses: andstor/file-existence-action@v2
+        uses: andstor/file-existence-action@v3
         with:
           files: "MushishiData/patch.xdelta"
       - name: Webhook
         if: ${{ steps.check_patch.outputs.files_exists == 'true' }}
-        uses: tsickert/discord-webhook@v5.3.0
+        uses: tsickert/discord-webhook@v6.0.0
         with:
           webhook-url: ${{ secrets.WEBHOOK_URL }}
           content: "A new nightly patch is available for testing! ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
