@@ -1064,7 +1064,7 @@
       </trans-unit>
       <trans-unit id="3540" xml:space="preserve" approved="no">
         <source>よかったらまた|&lt;c red&gt;腰痛の薬&lt;/c&gt;を|作ってくれないかい</source>
-        <target state="translated">If you don't mind, could you make some more &lt;c red&gt;medicine for my back pain&lt;/c&gt;?</target>
+        <target state="translated">If you don't mind, could you make some more &lt;c red&gt;Lumbago Medicine&lt;/c&gt; for my back pain?</target>
       </trans-unit>
       <trans-unit id="3600" xml:space="preserve" approved="no">
         <source>はい、わかりました</source>
@@ -1160,7 +1160,7 @@
       </trans-unit>
       <trans-unit id="1752" xml:space="preserve" approved="no">
         <source>ああ、|今年も無事に収穫できると|いいんだがな</source>
-        <target state="translated">Ah, I hope we'll have another successful harvest this year.</target>
+        <target state="translated">Yeah, I hope we'll have another successful harvest this year.</target>
       </trans-unit>
       <trans-unit id="1800" xml:space="preserve" approved="no">
         <source>夕飯も食べたし|今日はもう寝るだけだ</source>
@@ -1180,7 +1180,7 @@
       </trans-unit>
       <trans-unit id="2648" xml:space="preserve" approved="no">
         <source>今日も１日|仕事がんばらないとね</source>
-        <target state="translated">I have to work hard all day today.</target>
+        <target state="translated">I've got to keep working hard, as always!</target>
       </trans-unit>
       <trans-unit id="2684" xml:space="preserve" approved="no">
         <source>夕飯は、|何を作ろうかねぇ</source>
@@ -1268,11 +1268,11 @@
       </trans-unit>
       <trans-unit id="1548" xml:space="preserve" approved="no">
         <source>[name]お兄ちゃんは|釣りのやり方は知ってる？</source>
-        <target state="translated">[name], do you know how to fish?</target>
+        <target state="translated">[name], do you know how|to fish?</target>
       </trans-unit>
       <trans-unit id="1596" xml:space="preserve" approved="no">
         <source>[name]お姉ちゃんは|釣りのやり方は知ってる？</source>
-        <target state="translated">[name], do you know how to fish?</target>
+        <target state="translated">[name], do you know how|to fish?</target>
       </trans-unit>
       <trans-unit id="1644" xml:space="preserve" approved="no">
         <source>「うん、知ってる」</source>
@@ -1288,7 +1288,7 @@
       </trans-unit>
       <trans-unit id="1724" xml:space="preserve" approved="no">
         <source>滝壺や川、沼とかに近づいて|釣り竿を振った後</source>
-        <target state="translated">Approach a body of water - like a waterfall basin, river, or swamp - and cast your lure.</target>
+        <target state="translated">Approach a body of water - like the waterfall basin, river, or swamp - and cast your lure.</target>
       </trans-unit>
       <trans-unit id="1772" xml:space="preserve" approved="no">
         <source>少し待つと|魚がかかるから</source>
@@ -3688,11 +3688,11 @@
       </trans-unit>
       <trans-unit id="10948" xml:space="preserve" approved="no">
         <source>……と、ごめんよ</source>
-        <target state="translated">Don't mind me...</target>
+        <target state="translated">I only need to collect a little bit...</target>
       </trans-unit>
       <trans-unit id="10968" xml:space="preserve" approved="no">
         <source>……と、ごめんね</source>
-        <target state="translated">Pardon me...</target>
+        <target state="translated">I only need to collect a little bit...</target>
       </trans-unit>
       <trans-unit id="11000" xml:space="preserve" approved="no">
         <source>あ……</source>
@@ -3832,7 +3832,7 @@
       </trans-unit>
       <trans-unit id="12924" xml:space="preserve" approved="no">
         <source>この地には|恩恵があるからな……</source>
-        <target state="translated">This land is a blessing…</target>
+        <target state="translated">This land is blessed, after all…</target>
       </trans-unit>
       <trans-unit id="12960" xml:space="preserve" approved="no">
         <source>とはいえ、それに甘える|ばかりではいい里にならん。|村の者たちが努力した結果さ</source>
@@ -3916,7 +3916,7 @@
       </trans-unit>
       <trans-unit id="13648" xml:space="preserve" approved="no">
         <source>わかった……</source>
-        <target state="translated">Understood…</target>
+        <target state="translated">Alright…</target>
       </trans-unit>
       <trans-unit id="13664" xml:space="preserve" approved="no">
         <source>それじゃ、|さっそく蟲の採取に|いこうかな</source>
@@ -5760,7 +5760,7 @@
       </trans-unit>
       <trans-unit id="280" xml:space="preserve" approved="no">
         <source>闇の底を流れるは　光の河&lt;wait 5500&gt;|光の河に流れるは　命の水&lt;wait 6000&gt;|命の水がもたらすは豊饒の土地</source>
-        <target state="translated">&gt;&gt;Flowing in the deepest darkness|is the River of Light.&lt;wait 4000&gt;|Flowing in the River of Light|is the Water of Life.&lt;wait 4000&gt;|The Water of Life|brings fertility to the land.</target>
+        <target state="translated">&gt;&gt;Flowing in the deepest darkness&lt;wait 2500&gt;|is the River of Light.&lt;wait 3500&gt;|Flowing in the River of Light&lt;wait 2250&gt;|is the Water of Life.&lt;wait 3000&gt;|The Water of Life&lt;wait 2000&gt;|brings fertility to the land.</target>
       </trans-unit>
       <trans-unit id="384" xml:space="preserve" approved="no">
         <source>草の青　清らな水　命の芽吹き</source>
@@ -5768,7 +5768,7 @@
       </trans-unit>
       <trans-unit id="416" xml:space="preserve" approved="no">
         <source>されど　それらはやがて&lt;wait 2500&gt;|天の帷（あまのとばり）に隠される</source>
-        <target state="translated">&gt;&gt;But, eventually,&lt;wait 2500&gt;|that will all be hidden|by the veil of Heaven</target>
+        <target state="translated">&gt;&gt;But, eventually,&lt;wait 2500&gt;|that will all be hidden|by the veil of Heaven.</target>
       </trans-unit>
     </body>
   </file>
@@ -10096,11 +10096,11 @@
       </trans-unit>
       <trans-unit id="4192" xml:space="preserve" approved="no">
         <source>いずれにしろ、|無事で何よりだ</source>
-        <target state="translated">In any case, I'm glad you're all right.</target>
+        <target state="translated">In any case, I'm glad you're alright.</target>
       </trans-unit>
       <trans-unit id="4224" xml:space="preserve" approved="no">
         <source>そうそう、|さっき村の者に聞いたが、|今夜寄り合いがあるそうだな</source>
-        <target state="translated">Oh right, I just heard from the villagers that they're holding an assembly tonight.</target>
+        <target state="translated">Oh yeah, I just heard from the villagers that they're holding an assembly tonight.</target>
       </trans-unit>
       <trans-unit id="4288" xml:space="preserve" approved="no">
         <source>俺も参加させて|もらう事にしたよ</source>
@@ -12428,491 +12428,491 @@
       </trans-unit>
       <trans-unit id="6624" xml:space="preserve" approved="no">
         <source>[mushi001]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi001]</target>
+        <target state="translated">You failed to catch|[mushi001]</target>
       </trans-unit>
       <trans-unit id="6660" xml:space="preserve" approved="no">
         <source>[mushi002]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi002]</target>
+        <target state="translated">You failed to catch|[mushi002]</target>
       </trans-unit>
       <trans-unit id="6696" xml:space="preserve" approved="no">
         <source>[mushi003]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi003]</target>
+        <target state="translated">You failed to catch|[mushi003]</target>
       </trans-unit>
       <trans-unit id="6732" xml:space="preserve" approved="no">
         <source>[mushi004]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi004]</target>
+        <target state="translated">You failed to catch|[mushi004]</target>
       </trans-unit>
       <trans-unit id="6768" xml:space="preserve" approved="no">
         <source>[mushi005]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi005]</target>
+        <target state="translated">You failed to catch|[mushi005]</target>
       </trans-unit>
       <trans-unit id="6804" xml:space="preserve" approved="no">
         <source>[mushi006]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi006]</target>
+        <target state="translated">You failed to catch|[mushi006]</target>
       </trans-unit>
       <trans-unit id="6840" xml:space="preserve" approved="no">
         <source>[mushi007]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi007]</target>
+        <target state="translated">You failed to catch|[mushi007]</target>
       </trans-unit>
       <trans-unit id="6876" xml:space="preserve" approved="no">
         <source>[mushi008]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi008]</target>
+        <target state="translated">You failed to catch|[mushi008]</target>
       </trans-unit>
       <trans-unit id="6912" xml:space="preserve" approved="no">
         <source>[mushi009]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi009]</target>
+        <target state="translated">You failed to catch|[mushi009]</target>
       </trans-unit>
       <trans-unit id="6948" xml:space="preserve" approved="no">
         <source>[mushi010]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi010]</target>
+        <target state="translated">You failed to catch|[mushi010]</target>
       </trans-unit>
       <trans-unit id="6984" xml:space="preserve" approved="no">
         <source>[mushi011]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi011]</target>
+        <target state="translated">You failed to catch|[mushi011]</target>
       </trans-unit>
       <trans-unit id="7020" xml:space="preserve" approved="no">
         <source>[mushi012]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi012]</target>
+        <target state="translated">You failed to catch|[mushi012]</target>
       </trans-unit>
       <trans-unit id="7056" xml:space="preserve" approved="no">
         <source>[mushi013]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi013]</target>
+        <target state="translated">You failed to catch|[mushi013]</target>
       </trans-unit>
       <trans-unit id="7092" xml:space="preserve" approved="no">
         <source>[mushi014]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi014]</target>
+        <target state="translated">You failed to catch|[mushi014]</target>
       </trans-unit>
       <trans-unit id="7128" xml:space="preserve" approved="no">
         <source>[mushi015]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi015]</target>
+        <target state="translated">You failed to catch|[mushi015]</target>
       </trans-unit>
       <trans-unit id="7164" xml:space="preserve" approved="no">
         <source>[mushi016]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi016]</target>
+        <target state="translated">You failed to catch|[mushi016]</target>
       </trans-unit>
       <trans-unit id="7200" xml:space="preserve" approved="no">
         <source>[mushi017]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi017]</target>
+        <target state="translated">You failed to catch|[mushi017]</target>
       </trans-unit>
       <trans-unit id="7236" xml:space="preserve" approved="no">
         <source>[mushi018]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi018]</target>
+        <target state="translated">You failed to catch|[mushi018]</target>
       </trans-unit>
       <trans-unit id="7272" xml:space="preserve" approved="no">
         <source>[mushi019]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi019]</target>
+        <target state="translated">You failed to catch|[mushi019]</target>
       </trans-unit>
       <trans-unit id="7308" xml:space="preserve" approved="no">
         <source>[mushi020]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi020]</target>
+        <target state="translated">You failed to catch|[mushi020]</target>
       </trans-unit>
       <trans-unit id="7344" xml:space="preserve" approved="no">
         <source>[mushi021]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi021]</target>
+        <target state="translated">You failed to catch|[mushi021]</target>
       </trans-unit>
       <trans-unit id="7380" xml:space="preserve" approved="no">
         <source>[mushi022]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi022]</target>
+        <target state="translated">You failed to catch|[mushi022]</target>
       </trans-unit>
       <trans-unit id="7416" xml:space="preserve" approved="no">
         <source>[mushi023]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi023]</target>
+        <target state="translated">You failed to catch|[mushi023]</target>
       </trans-unit>
       <trans-unit id="7452" xml:space="preserve" approved="no">
         <source>[mushi024]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi024]</target>
+        <target state="translated">You failed to catch|[mushi024]</target>
       </trans-unit>
       <trans-unit id="7488" xml:space="preserve" approved="no">
         <source>[mushi025]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi025]</target>
+        <target state="translated">You failed to catch|[mushi025]</target>
       </trans-unit>
       <trans-unit id="7524" xml:space="preserve" approved="no">
         <source>[mushi026]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi026]</target>
+        <target state="translated">You failed to catch|[mushi026]</target>
       </trans-unit>
       <trans-unit id="7560" xml:space="preserve" approved="no">
         <source>[mushi027]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi027]</target>
+        <target state="translated">You failed to catch|[mushi027]</target>
       </trans-unit>
       <trans-unit id="7596" xml:space="preserve" approved="no">
         <source>[mushi028]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi028]</target>
+        <target state="translated">You failed to catch|[mushi028]</target>
       </trans-unit>
       <trans-unit id="7632" xml:space="preserve" approved="no">
         <source>[mushi029]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi029]</target>
+        <target state="translated">You failed to catch|[mushi029]</target>
       </trans-unit>
       <trans-unit id="7668" xml:space="preserve" approved="no">
         <source>[mushi030]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi030]</target>
+        <target state="translated">You failed to catch|[mushi030]</target>
       </trans-unit>
       <trans-unit id="7704" xml:space="preserve" approved="no">
         <source>[mushi031]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi031]</target>
+        <target state="translated">You failed to catch|[mushi031]</target>
       </trans-unit>
       <trans-unit id="7740" xml:space="preserve" approved="no">
         <source>[mushi032]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi032]</target>
+        <target state="translated">You failed to catch|[mushi032]</target>
       </trans-unit>
       <trans-unit id="7776" xml:space="preserve" approved="no">
         <source>[mushi033]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi033]</target>
+        <target state="translated">You failed to catch|[mushi033]</target>
       </trans-unit>
       <trans-unit id="7812" xml:space="preserve" approved="no">
         <source>[mushi034]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi034]</target>
+        <target state="translated">You failed to catch|[mushi034]</target>
       </trans-unit>
       <trans-unit id="7848" xml:space="preserve" approved="no">
         <source>[mushi035]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi035]</target>
+        <target state="translated">You failed to catch|[mushi035]</target>
       </trans-unit>
       <trans-unit id="7884" xml:space="preserve" approved="no">
         <source>[mushi036]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi036]</target>
+        <target state="translated">You failed to catch|[mushi036]</target>
       </trans-unit>
       <trans-unit id="7920" xml:space="preserve" approved="no">
         <source>[mushi037]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi037]</target>
+        <target state="translated">You failed to catch|[mushi037]</target>
       </trans-unit>
       <trans-unit id="7956" xml:space="preserve" approved="no">
         <source>[mushi038]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi038]</target>
+        <target state="translated">You failed to catch|[mushi038]</target>
       </trans-unit>
       <trans-unit id="7992" xml:space="preserve" approved="no">
         <source>[mushi039]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi039]</target>
+        <target state="translated">You failed to catch|[mushi039]</target>
       </trans-unit>
       <trans-unit id="8028" xml:space="preserve" approved="no">
         <source>[mushi040]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi040]</target>
+        <target state="translated">You failed to catch|[mushi040]</target>
       </trans-unit>
       <trans-unit id="8064" xml:space="preserve" approved="no">
         <source>[mushi041]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi041]</target>
+        <target state="translated">You failed to catch|[mushi041]</target>
       </trans-unit>
       <trans-unit id="8100" xml:space="preserve" approved="no">
         <source>[mushi042]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi042]</target>
+        <target state="translated">You failed to catch|[mushi042]</target>
       </trans-unit>
       <trans-unit id="8136" xml:space="preserve" approved="no">
         <source>[mushi043]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi043]</target>
+        <target state="translated">You failed to catch|[mushi043]</target>
       </trans-unit>
       <trans-unit id="8172" xml:space="preserve" approved="no">
         <source>[mushi044]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi044]</target>
+        <target state="translated">You failed to catch|[mushi044]</target>
       </trans-unit>
       <trans-unit id="8208" xml:space="preserve" approved="no">
         <source>[mushi045]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi045]</target>
+        <target state="translated">You failed to catch|[mushi045]</target>
       </trans-unit>
       <trans-unit id="8244" xml:space="preserve" approved="no">
         <source>[mushi046]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi046]</target>
+        <target state="translated">You failed to catch|[mushi046]</target>
       </trans-unit>
       <trans-unit id="8280" xml:space="preserve" approved="no">
         <source>[mushi047]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi047]</target>
+        <target state="translated">You failed to catch|[mushi047]</target>
       </trans-unit>
       <trans-unit id="8316" xml:space="preserve" approved="no">
         <source>[mushi048]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi048]</target>
+        <target state="translated">You failed to catch|[mushi048]</target>
       </trans-unit>
       <trans-unit id="8352" xml:space="preserve" approved="no">
         <source>[mushi049]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi049]</target>
+        <target state="translated">You failed to catch|[mushi049]</target>
       </trans-unit>
       <trans-unit id="8388" xml:space="preserve" approved="no">
         <source>[mushi050]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi050]</target>
+        <target state="translated">You failed to catch|[mushi050]</target>
       </trans-unit>
       <trans-unit id="8424" xml:space="preserve" approved="no">
         <source>[mushi051]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi051]</target>
+        <target state="translated">You failed to catch|[mushi051]</target>
       </trans-unit>
       <trans-unit id="8460" xml:space="preserve" approved="no">
         <source>[mushi052]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi052]</target>
+        <target state="translated">You failed to catch|[mushi052]</target>
       </trans-unit>
       <trans-unit id="8496" xml:space="preserve" approved="no">
         <source>[mushi053]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi053]</target>
+        <target state="translated">You failed to catch|[mushi053]</target>
       </trans-unit>
       <trans-unit id="8532" xml:space="preserve" approved="no">
         <source>[mushi054]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi054]</target>
+        <target state="translated">You failed to catch|[mushi054]</target>
       </trans-unit>
       <trans-unit id="8568" xml:space="preserve" approved="no">
         <source>[mushi055]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi055]</target>
+        <target state="translated">You failed to catch|[mushi055]</target>
       </trans-unit>
       <trans-unit id="8604" xml:space="preserve" approved="no">
         <source>[mushi056]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi056]</target>
+        <target state="translated">You failed to catch|[mushi056]</target>
       </trans-unit>
       <trans-unit id="8640" xml:space="preserve" approved="no">
         <source>[mushi057]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi057]</target>
+        <target state="translated">You failed to catch|[mushi057]</target>
       </trans-unit>
       <trans-unit id="8676" xml:space="preserve" approved="no">
         <source>[mushi058]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi058]</target>
+        <target state="translated">You failed to catch|[mushi058]</target>
       </trans-unit>
       <trans-unit id="8712" xml:space="preserve" approved="no">
         <source>[mushi059]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi059]</target>
+        <target state="translated">You failed to catch|[mushi059]</target>
       </trans-unit>
       <trans-unit id="8748" xml:space="preserve" approved="no">
         <source>[mushi060]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi060]</target>
+        <target state="translated">You failed to catch|[mushi060]</target>
       </trans-unit>
       <trans-unit id="8784" xml:space="preserve" approved="no">
         <source>[mushi061]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi061]</target>
+        <target state="translated">You failed to catch|[mushi061]</target>
       </trans-unit>
       <trans-unit id="8820" xml:space="preserve" approved="no">
         <source>[mushi062]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi062]</target>
+        <target state="translated">You failed to catch|[mushi062]</target>
       </trans-unit>
       <trans-unit id="8856" xml:space="preserve" approved="no">
         <source>[mushi063]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi063]</target>
+        <target state="translated">You failed to catch|[mushi063]</target>
       </trans-unit>
       <trans-unit id="8892" xml:space="preserve" approved="no">
         <source>[mushi064]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi064]</target>
+        <target state="translated">You failed to catch|[mushi064]</target>
       </trans-unit>
       <trans-unit id="8928" xml:space="preserve" approved="no">
         <source>[mushi065]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi065]</target>
+        <target state="translated">You failed to catch|[mushi065]</target>
       </trans-unit>
       <trans-unit id="8964" xml:space="preserve" approved="no">
         <source>[mushi066]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi066]</target>
+        <target state="translated">You failed to catch|[mushi066]</target>
       </trans-unit>
       <trans-unit id="9000" xml:space="preserve" approved="no">
         <source>[mushi067]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi067]</target>
+        <target state="translated">You failed to catch|[mushi067]</target>
       </trans-unit>
       <trans-unit id="9036" xml:space="preserve" approved="no">
         <source>[mushi068]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi068]</target>
+        <target state="translated">You failed to catch|[mushi068]</target>
       </trans-unit>
       <trans-unit id="9072" xml:space="preserve" approved="no">
         <source>[mushi069]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi069]</target>
+        <target state="translated">You failed to catch|[mushi069]</target>
       </trans-unit>
       <trans-unit id="9108" xml:space="preserve" approved="no">
         <source>[mushi070]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi070]</target>
+        <target state="translated">You failed to catch|[mushi070]</target>
       </trans-unit>
       <trans-unit id="9144" xml:space="preserve" approved="no">
         <source>[mushi071]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi071]</target>
+        <target state="translated">You failed to catch|[mushi071]</target>
       </trans-unit>
       <trans-unit id="9180" xml:space="preserve" approved="no">
         <source>[mushi072]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi072]</target>
+        <target state="translated">You failed to catch|[mushi072]</target>
       </trans-unit>
       <trans-unit id="9216" xml:space="preserve" approved="no">
         <source>[mushi073]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi073]</target>
+        <target state="translated">You failed to catch|[mushi073]</target>
       </trans-unit>
       <trans-unit id="9252" xml:space="preserve" approved="no">
         <source>[mushi074]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi074]</target>
+        <target state="translated">You failed to catch|[mushi074]</target>
       </trans-unit>
       <trans-unit id="9288" xml:space="preserve" approved="no">
         <source>[mushi075]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi075]</target>
+        <target state="translated">You failed to catch|[mushi075]</target>
       </trans-unit>
       <trans-unit id="9324" xml:space="preserve" approved="no">
         <source>[mushi076]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi076]</target>
+        <target state="translated">You failed to catch|[mushi076]</target>
       </trans-unit>
       <trans-unit id="9360" xml:space="preserve" approved="no">
         <source>[mushi077]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi077]</target>
+        <target state="translated">You failed to catch|[mushi077]</target>
       </trans-unit>
       <trans-unit id="9396" xml:space="preserve" approved="no">
         <source>[mushi078]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi078]</target>
+        <target state="translated">You failed to catch|[mushi078]</target>
       </trans-unit>
       <trans-unit id="9432" xml:space="preserve" approved="no">
         <source>[mushi079]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi079]</target>
+        <target state="translated">You failed to catch|[mushi079]</target>
       </trans-unit>
       <trans-unit id="9468" xml:space="preserve" approved="no">
         <source>[mushi080]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi080]</target>
+        <target state="translated">You failed to catch|[mushi080]</target>
       </trans-unit>
       <trans-unit id="9504" xml:space="preserve" approved="no">
         <source>[mushi081]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi081]</target>
+        <target state="translated">You failed to catch|[mushi081]</target>
       </trans-unit>
       <trans-unit id="9540" xml:space="preserve" approved="no">
         <source>[mushi082]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi082]</target>
+        <target state="translated">You failed to catch|[mushi082]</target>
       </trans-unit>
       <trans-unit id="9576" xml:space="preserve" approved="no">
         <source>[mushi083]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi083]</target>
+        <target state="translated">You failed to catch|[mushi083]</target>
       </trans-unit>
       <trans-unit id="9612" xml:space="preserve" approved="no">
         <source>[mushi084]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi084]</target>
+        <target state="translated">You failed to catch|[mushi084]</target>
       </trans-unit>
       <trans-unit id="9648" xml:space="preserve" approved="no">
         <source>[mushi085]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi085]</target>
+        <target state="translated">You failed to catch|[mushi085]</target>
       </trans-unit>
       <trans-unit id="9684" xml:space="preserve" approved="no">
         <source>[mushi086]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi086]</target>
+        <target state="translated">You failed to catch|[mushi086]</target>
       </trans-unit>
       <trans-unit id="9720" xml:space="preserve" approved="no">
         <source>[mushi087]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi087]</target>
+        <target state="translated">You failed to catch|[mushi087]</target>
       </trans-unit>
       <trans-unit id="9756" xml:space="preserve" approved="no">
         <source>[mushi088]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi088]</target>
+        <target state="translated">You failed to catch|[mushi088]</target>
       </trans-unit>
       <trans-unit id="9792" xml:space="preserve" approved="no">
         <source>[mushi089]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi089]</target>
+        <target state="translated">You failed to catch|[mushi089]</target>
       </trans-unit>
       <trans-unit id="9828" xml:space="preserve" approved="no">
         <source>[mushi090]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi090]</target>
+        <target state="translated">You failed to catch|[mushi090]</target>
       </trans-unit>
       <trans-unit id="9864" xml:space="preserve" approved="no">
         <source>[mushi091]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi091]</target>
+        <target state="translated">You failed to catch|[mushi091]</target>
       </trans-unit>
       <trans-unit id="9900" xml:space="preserve" approved="no">
         <source>[mushi092]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi092]</target>
+        <target state="translated">You failed to catch|[mushi092]</target>
       </trans-unit>
       <trans-unit id="9936" xml:space="preserve" approved="no">
         <source>[mushi093]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi093]</target>
+        <target state="translated">You failed to catch|[mushi093]</target>
       </trans-unit>
       <trans-unit id="9972" xml:space="preserve" approved="no">
         <source>[mushi094]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi094]</target>
+        <target state="translated">You failed to catch|[mushi094]</target>
       </trans-unit>
       <trans-unit id="10008" xml:space="preserve" approved="no">
         <source>[mushi095]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi095]</target>
+        <target state="translated">You failed to catch|[mushi095]</target>
       </trans-unit>
       <trans-unit id="10044" xml:space="preserve" approved="no">
         <source>[mushi096]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi096]</target>
+        <target state="translated">You failed to catch|[mushi096]</target>
       </trans-unit>
       <trans-unit id="10080" xml:space="preserve" approved="no">
         <source>[mushi097]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi097]</target>
+        <target state="translated">You failed to catch|[mushi097]</target>
       </trans-unit>
       <trans-unit id="10116" xml:space="preserve" approved="no">
         <source>[mushi098]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi098]</target>
+        <target state="translated">You failed to catch|[mushi098]</target>
       </trans-unit>
       <trans-unit id="10152" xml:space="preserve" approved="no">
         <source>[mushi099]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi099]</target>
+        <target state="translated">You failed to catch|[mushi099]</target>
       </trans-unit>
       <trans-unit id="10188" xml:space="preserve" approved="no">
         <source>[mushi100]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi100]</target>
+        <target state="translated">You failed to catch|[mushi100]</target>
       </trans-unit>
       <trans-unit id="10224" xml:space="preserve" approved="no">
         <source>[mushi101]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi101]</target>
+        <target state="translated">You failed to catch|[mushi101]</target>
       </trans-unit>
       <trans-unit id="10260" xml:space="preserve" approved="no">
         <source>[mushi102]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi102]</target>
+        <target state="translated">You failed to catch|[mushi102]</target>
       </trans-unit>
       <trans-unit id="10296" xml:space="preserve" approved="no">
         <source>[mushi103]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi103]</target>
+        <target state="translated">You failed to catch|[mushi103]</target>
       </trans-unit>
       <trans-unit id="10332" xml:space="preserve" approved="no">
         <source>[mushi104]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi104]</target>
+        <target state="translated">You failed to catch|[mushi104]</target>
       </trans-unit>
       <trans-unit id="10368" xml:space="preserve" approved="no">
         <source>[mushi105]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi105]</target>
+        <target state="translated">You failed to catch|[mushi105]</target>
       </trans-unit>
       <trans-unit id="10404" xml:space="preserve" approved="no">
         <source>[mushi106]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi106]</target>
+        <target state="translated">You failed to catch|[mushi106]</target>
       </trans-unit>
       <trans-unit id="10440" xml:space="preserve" approved="no">
         <source>[mushi107]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi107]</target>
+        <target state="translated">You failed to catch|[mushi107]</target>
       </trans-unit>
       <trans-unit id="10476" xml:space="preserve" approved="no">
         <source>[mushi108]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi108]</target>
+        <target state="translated">You failed to catch|[mushi108]</target>
       </trans-unit>
       <trans-unit id="10512" xml:space="preserve" approved="no">
         <source>[mushi109]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi109]</target>
+        <target state="translated">You failed to catch|[mushi109]</target>
       </trans-unit>
       <trans-unit id="10548" xml:space="preserve" approved="no">
         <source>[mushi110]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi110]</target>
+        <target state="translated">You failed to catch|[mushi110]</target>
       </trans-unit>
       <trans-unit id="10584" xml:space="preserve" approved="no">
         <source>[mushi111]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi111]</target>
+        <target state="translated">You failed to catch|[mushi111]</target>
       </trans-unit>
       <trans-unit id="10620" xml:space="preserve" approved="no">
         <source>[mushi112]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi112]</target>
+        <target state="translated">You failed to catch|[mushi112]</target>
       </trans-unit>
       <trans-unit id="10656" xml:space="preserve" approved="no">
         <source>[mushi113]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi113]</target>
+        <target state="translated">You failed to catch|[mushi113]</target>
       </trans-unit>
       <trans-unit id="10692" xml:space="preserve" approved="no">
         <source>[mushi114]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi114]</target>
+        <target state="translated">You failed to catch|[mushi114]</target>
       </trans-unit>
       <trans-unit id="10728" xml:space="preserve" approved="no">
         <source>[mushi115]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi115]</target>
+        <target state="translated">You failed to catch|[mushi115]</target>
       </trans-unit>
       <trans-unit id="10764" xml:space="preserve" approved="no">
         <source>[mushi116]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi116]</target>
+        <target state="translated">You failed to catch|[mushi116]</target>
       </trans-unit>
       <trans-unit id="10800" xml:space="preserve" approved="no">
         <source>[mushi117]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi117]</target>
+        <target state="translated">You failed to catch|[mushi117]</target>
       </trans-unit>
       <trans-unit id="10836" xml:space="preserve" approved="no">
         <source>[mushi118]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi118]</target>
+        <target state="translated">You failed to catch|[mushi118]</target>
       </trans-unit>
       <trans-unit id="10872" xml:space="preserve" approved="no">
         <source>[mushi119]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi119]</target>
+        <target state="translated">You failed to catch|[mushi119]</target>
       </trans-unit>
       <trans-unit id="10908" xml:space="preserve" approved="no">
         <source>[mushi120]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi120]</target>
+        <target state="translated">You failed to catch|[mushi120]</target>
       </trans-unit>
       <trans-unit id="10944" xml:space="preserve" approved="no">
         <source>[mushi121]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi121]</target>
+        <target state="translated">You failed to catch|[mushi121]</target>
       </trans-unit>
       <trans-unit id="10980" xml:space="preserve" approved="no">
         <source>[mushi122]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi122]</target>
+        <target state="translated">You failed to catch|[mushi122]</target>
       </trans-unit>
       <trans-unit id="11016" xml:space="preserve" approved="no">
         <source>[mushi123]|の採取に失敗しました</source>
@@ -12920,103 +12920,103 @@
       </trans-unit>
       <trans-unit id="11052" xml:space="preserve" approved="no">
         <source>[mushi124]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi124]</target>
+        <target state="translated">You failed to catch|[mushi124]</target>
       </trans-unit>
       <trans-unit id="11088" xml:space="preserve" approved="no">
         <source>[mushi125]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi125]</target>
+        <target state="translated">You failed to catch|[mushi125]</target>
       </trans-unit>
       <trans-unit id="11124" xml:space="preserve" approved="no">
         <source>[mushi126]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi126]</target>
+        <target state="translated">You failed to catch|[mushi126]</target>
       </trans-unit>
       <trans-unit id="11160" xml:space="preserve" approved="no">
         <source>[mushi127]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi127]</target>
+        <target state="translated">You failed to catch|[mushi127]</target>
       </trans-unit>
       <trans-unit id="11196" xml:space="preserve" approved="no">
         <source>[mushi128]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi128]</target>
+        <target state="translated">You failed to catch|[mushi128]</target>
       </trans-unit>
       <trans-unit id="11232" xml:space="preserve" approved="no">
         <source>[mushi129]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi129]</target>
+        <target state="translated">You failed to catch|[mushi129]</target>
       </trans-unit>
       <trans-unit id="11268" xml:space="preserve" approved="no">
         <source>[mushi130]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi130]</target>
+        <target state="translated">You failed to catch|[mushi130]</target>
       </trans-unit>
       <trans-unit id="11304" xml:space="preserve" approved="no">
         <source>[mushi131]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi131]</target>
+        <target state="translated">You failed to catch|[mushi131]</target>
       </trans-unit>
       <trans-unit id="11340" xml:space="preserve" approved="no">
         <source>[mushi132]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi132]</target>
+        <target state="translated">You failed to catch|[mushi132]</target>
       </trans-unit>
       <trans-unit id="11376" xml:space="preserve" approved="no">
         <source>[mushi133]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi133]</target>
+        <target state="translated">You failed to catch|[mushi133]</target>
       </trans-unit>
       <trans-unit id="11412" xml:space="preserve" approved="no">
         <source>[mushi134]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi134]</target>
+        <target state="translated">You failed to catch|[mushi134]</target>
       </trans-unit>
       <trans-unit id="11448" xml:space="preserve" approved="no">
         <source>[mushi135]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi135]</target>
+        <target state="translated">You failed to catch|[mushi135]</target>
       </trans-unit>
       <trans-unit id="11484" xml:space="preserve" approved="no">
         <source>[mushi136]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi136]</target>
+        <target state="translated">You failed to catch|[mushi136]</target>
       </trans-unit>
       <trans-unit id="11520" xml:space="preserve" approved="no">
         <source>[mushi137]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi137]</target>
+        <target state="translated">You failed to catch|[mushi137]</target>
       </trans-unit>
       <trans-unit id="11556" xml:space="preserve" approved="no">
         <source>[mushi138]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi138]</target>
+        <target state="translated">You failed to catch|[mushi138]</target>
       </trans-unit>
       <trans-unit id="11592" xml:space="preserve" approved="no">
         <source>[mushi139]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi139]</target>
+        <target state="translated">You failed to catch|[mushi139]</target>
       </trans-unit>
       <trans-unit id="11628" xml:space="preserve" approved="no">
         <source>[mushi140]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi140]</target>
+        <target state="translated">You failed to catch|[mushi140]</target>
       </trans-unit>
       <trans-unit id="11664" xml:space="preserve" approved="no">
         <source>[mushi141]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi141]</target>
+        <target state="translated">You failed to catch|[mushi141]</target>
       </trans-unit>
       <trans-unit id="11700" xml:space="preserve" approved="no">
         <source>[mushi142]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi142]</target>
+        <target state="translated">You failed to catch|[mushi142]</target>
       </trans-unit>
       <trans-unit id="11736" xml:space="preserve" approved="no">
         <source>[mushi143]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi143]</target>
+        <target state="translated">You failed to catch|[mushi143]</target>
       </trans-unit>
       <trans-unit id="11772" xml:space="preserve" approved="no">
         <source>[mushi144]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi144]</target>
+        <target state="translated">You failed to catch|[mushi144]</target>
       </trans-unit>
       <trans-unit id="11808" xml:space="preserve" approved="no">
         <source>[mushi145]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi145]</target>
+        <target state="translated">You failed to catch|[mushi145]</target>
       </trans-unit>
       <trans-unit id="11844" xml:space="preserve" approved="no">
         <source>[mushi146]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi146]</target>
+        <target state="translated">You failed to catch|[mushi146]</target>
       </trans-unit>
       <trans-unit id="11880" xml:space="preserve" approved="no">
         <source>[mushi147]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi147]</target>
+        <target state="translated">You failed to catch|[mushi147]</target>
       </trans-unit>
       <trans-unit id="11916" xml:space="preserve" approved="no">
         <source>[mushi148]|の採取に失敗しました</source>
-        <target state="translated">You failed to catch [mushi148]</target>
+        <target state="translated">You failed to catch|[mushi148]</target>
       </trans-unit>
       <trans-unit id="11964" xml:space="preserve">
         <source>[name]</source>
@@ -13036,595 +13036,595 @@
       </trans-unit>
       <trans-unit id="6120" xml:space="preserve" approved="no">
         <source>[mushi001]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi001], but your mushi jar is full</target>
+        <target state="translated">You found [mushi001],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6176" xml:space="preserve" approved="no">
         <source>[mushi002]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi002], but your mushi jar is full</target>
+        <target state="translated">You found [mushi002],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6232" xml:space="preserve" approved="no">
         <source>[mushi003]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi003], but your mushi jar is full</target>
+        <target state="translated">You found [mushi003],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6288" xml:space="preserve" approved="no">
         <source>[mushi004]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi004], but your mushi jar is full</target>
+        <target state="translated">You found [mushi004],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6344" xml:space="preserve" approved="no">
         <source>[mushi005]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi005], but your mushi jar is full</target>
+        <target state="translated">You found [mushi005],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6400" xml:space="preserve" approved="no">
         <source>[mushi006]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi006], but your mushi jar is full</target>
+        <target state="translated">You found [mushi006],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6456" xml:space="preserve" approved="no">
         <source>[mushi007]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi007], but your mushi jar is full</target>
+        <target state="translated">You found [mushi007],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6512" xml:space="preserve" approved="no">
         <source>[mushi008]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi008], but your mushi jar is full</target>
+        <target state="translated">You found [mushi008],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6568" xml:space="preserve" approved="no">
         <source>[mushi009]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi009], but your mushi jar is full</target>
+        <target state="translated">You found [mushi009],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6624" xml:space="preserve" approved="no">
         <source>[mushi010]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi010], but your mushi jar is full</target>
+        <target state="translated">You found [mushi010],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6680" xml:space="preserve" approved="no">
         <source>[mushi011]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi011], but your mushi jar is full</target>
+        <target state="translated">You found [mushi011],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6736" xml:space="preserve" approved="no">
         <source>[mushi012]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi012], but your mushi jar is full</target>
+        <target state="translated">You found [mushi012],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6792" xml:space="preserve" approved="no">
         <source>[mushi013]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi013], but your mushi jar is full</target>
+        <target state="translated">You found [mushi013],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6848" xml:space="preserve" approved="no">
         <source>[mushi014]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi014], but your mushi jar is full</target>
+        <target state="translated">You found [mushi014],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6904" xml:space="preserve" approved="no">
         <source>[mushi015]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi015], but your mushi jar is full</target>
+        <target state="translated">You found [mushi015],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="6960" xml:space="preserve" approved="no">
         <source>[mushi016]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi016], but your mushi jar is full</target>
+        <target state="translated">You found [mushi016],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7016" xml:space="preserve" approved="no">
         <source>[mushi017]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi017], but your mushi jar is full</target>
+        <target state="translated">You found [mushi017],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7072" xml:space="preserve" approved="no">
         <source>[mushi018]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi018], but your mushi jar is full</target>
+        <target state="translated">You found [mushi018],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7128" xml:space="preserve" approved="no">
         <source>[mushi019]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi019], but your mushi jar is full</target>
+        <target state="translated">You found [mushi019],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7184" xml:space="preserve" approved="no">
         <source>[mushi020]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi020], but your mushi jar is full</target>
+        <target state="translated">You found [mushi020],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7240" xml:space="preserve" approved="no">
         <source>[mushi021]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi021], but your mushi jar is full</target>
+        <target state="translated">You found [mushi021],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7296" xml:space="preserve" approved="no">
         <source>[mushi022]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi022], but your mushi jar is full</target>
+        <target state="translated">You found [mushi022],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7352" xml:space="preserve" approved="no">
         <source>[mushi023]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi023], but your mushi jar is full</target>
+        <target state="translated">You found [mushi023],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7408" xml:space="preserve" approved="no">
         <source>[mushi024]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi024], but your mushi jar is full</target>
+        <target state="translated">You found [mushi024],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7464" xml:space="preserve" approved="no">
         <source>[mushi025]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi025], but your mushi jar is full</target>
+        <target state="translated">You found [mushi025],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7520" xml:space="preserve" approved="no">
         <source>[mushi026]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi026], but your mushi jar is full</target>
+        <target state="translated">You found [mushi026],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7576" xml:space="preserve" approved="no">
         <source>[mushi027]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi027], but your mushi jar is full</target>
+        <target state="translated">You found [mushi027],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7632" xml:space="preserve" approved="no">
         <source>[mushi028]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi028], but your mushi jar is full</target>
+        <target state="translated">You found [mushi028],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7688" xml:space="preserve" approved="no">
         <source>[mushi029]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi029], but your mushi jar is full</target>
+        <target state="translated">You found [mushi029],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7744" xml:space="preserve" approved="no">
         <source>[mushi030]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi030], but your mushi jar is full</target>
+        <target state="translated">You found [mushi030],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7800" xml:space="preserve" approved="no">
         <source>[mushi031]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi031], but your mushi jar is full</target>
+        <target state="translated">You found [mushi031],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7856" xml:space="preserve" approved="no">
         <source>[mushi032]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi032], but your mushi jar is full</target>
+        <target state="translated">You found [mushi032],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7912" xml:space="preserve" approved="no">
         <source>[mushi033]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi033], but your mushi jar is full</target>
+        <target state="translated">You found [mushi033],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="7968" xml:space="preserve" approved="no">
         <source>[mushi034]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi034], but your mushi jar is full</target>
+        <target state="translated">You found [mushi034],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8024" xml:space="preserve" approved="no">
         <source>[mushi035]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi035], but your mushi jar is full</target>
+        <target state="translated">You found [mushi035],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8080" xml:space="preserve" approved="no">
         <source>[mushi036]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi036], but your mushi jar is full</target>
+        <target state="translated">You found [mushi036],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8136" xml:space="preserve" approved="no">
         <source>[mushi037]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi037], but your mushi jar is full</target>
+        <target state="translated">You found [mushi037],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8192" xml:space="preserve" approved="no">
         <source>[mushi038]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi038], but your mushi jar is full</target>
+        <target state="translated">You found [mushi038],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8248" xml:space="preserve" approved="no">
         <source>[mushi039]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi039], but your mushi jar is full</target>
+        <target state="translated">You found [mushi039],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8304" xml:space="preserve" approved="no">
         <source>[mushi040]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi040], but your mushi jar is full</target>
+        <target state="translated">You found [mushi040],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8360" xml:space="preserve" approved="no">
         <source>[mushi041]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi041], but your mushi jar is full</target>
+        <target state="translated">You found [mushi041],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8416" xml:space="preserve" approved="no">
         <source>[mushi042]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi042], but your mushi jar is full</target>
+        <target state="translated">You found [mushi042],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8472" xml:space="preserve" approved="no">
         <source>[mushi043]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi043], but your mushi jar is full</target>
+        <target state="translated">You found [mushi043],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8528" xml:space="preserve" approved="no">
         <source>[mushi044]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi044], but your mushi jar is full</target>
+        <target state="translated">You found [mushi044],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8584" xml:space="preserve" approved="no">
         <source>[mushi045]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi045], but your mushi jar is full</target>
+        <target state="translated">You found [mushi045],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8640" xml:space="preserve" approved="no">
         <source>[mushi046]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi046], but your mushi jar is full</target>
+        <target state="translated">You found [mushi046],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8696" xml:space="preserve" approved="no">
         <source>[mushi047]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi047], but your mushi jar is full</target>
+        <target state="translated">You found [mushi047],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8752" xml:space="preserve" approved="no">
         <source>[mushi048]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi048], but your mushi jar is full</target>
+        <target state="translated">You found [mushi048],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8808" xml:space="preserve" approved="no">
         <source>[mushi049]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi049], but your mushi jar is full</target>
+        <target state="translated">You found [mushi049],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8864" xml:space="preserve" approved="no">
         <source>[mushi050]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi050], but your mushi jar is full</target>
+        <target state="translated">You found [mushi050],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8920" xml:space="preserve" approved="no">
         <source>[mushi051]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi051], but your mushi jar is full</target>
+        <target state="translated">You found [mushi051],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="8976" xml:space="preserve" approved="no">
         <source>[mushi052]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi052], but your mushi jar is full</target>
+        <target state="translated">You found [mushi052],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9032" xml:space="preserve" approved="no">
         <source>[mushi053]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi053], but your mushi jar is full</target>
+        <target state="translated">You found [mushi053],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9088" xml:space="preserve" approved="no">
         <source>[mushi054]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi054], but your mushi jar is full</target>
+        <target state="translated">You found [mushi054],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9144" xml:space="preserve" approved="no">
         <source>[mushi055]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi055], but your mushi jar is full</target>
+        <target state="translated">You found [mushi055],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9200" xml:space="preserve" approved="no">
         <source>[mushi056]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi056], but your mushi jar is full</target>
+        <target state="translated">You found [mushi056],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9256" xml:space="preserve" approved="no">
         <source>[mushi057]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi057], but your mushi jar is full</target>
+        <target state="translated">You found [mushi057],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9312" xml:space="preserve" approved="no">
         <source>[mushi058]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi058], but your mushi jar is full</target>
+        <target state="translated">You found [mushi058],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9368" xml:space="preserve" approved="no">
         <source>[mushi059]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi059], but your mushi jar is full</target>
+        <target state="translated">You found [mushi059],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9424" xml:space="preserve" approved="no">
         <source>[mushi060]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi060], but your mushi jar is full</target>
+        <target state="translated">You found [mushi060],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9480" xml:space="preserve" approved="no">
         <source>[mushi061]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi061], but your mushi jar is full</target>
+        <target state="translated">You found [mushi061],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9536" xml:space="preserve" approved="no">
         <source>[mushi062]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi062], but your mushi jar is full</target>
+        <target state="translated">You found [mushi062],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9592" xml:space="preserve" approved="no">
         <source>[mushi063]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi063]], but your mushi jar is full</target>
+        <target state="translated">You found [mushi063]],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9648" xml:space="preserve" approved="no">
         <source>[mushi064]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi064], but your mushi jar is full</target>
+        <target state="translated">You found [mushi064],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9704" xml:space="preserve" approved="no">
         <source>[mushi065]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi065], but your mushi jar is full</target>
+        <target state="translated">You found [mushi065],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9760" xml:space="preserve" approved="no">
         <source>[mushi066]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi066], but your mushi jar is full</target>
+        <target state="translated">You found [mushi066],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9816" xml:space="preserve" approved="no">
         <source>[mushi067]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi067], but your mushi jar is full</target>
+        <target state="translated">You found [mushi067],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9872" xml:space="preserve" approved="no">
         <source>[mushi068]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi068], but your mushi jar is full</target>
+        <target state="translated">You found [mushi068],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9928" xml:space="preserve" approved="no">
         <source>[mushi069]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi069], but your mushi jar is full</target>
+        <target state="translated">You found [mushi069],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="9984" xml:space="preserve" approved="no">
         <source>[mushi070]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi070], but your mushi jar is full</target>
+        <target state="translated">You found [mushi070],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10040" xml:space="preserve" approved="no">
         <source>[mushi071]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi071], but your mushi jar is full</target>
+        <target state="translated">You found [mushi071],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10096" xml:space="preserve" approved="no">
         <source>[mushi072]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi072], but your mushi jar is full</target>
+        <target state="translated">You found [mushi072],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10152" xml:space="preserve" approved="no">
         <source>[mushi073]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi073], but your mushi jar is full</target>
+        <target state="translated">You found [mushi073],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10208" xml:space="preserve" approved="no">
         <source>[mushi074]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi074], but your mushi jar is full</target>
+        <target state="translated">You found [mushi074],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10264" xml:space="preserve" approved="no">
         <source>[mushi075]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi075], but your mushi jar is full</target>
+        <target state="translated">You found [mushi075],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10320" xml:space="preserve" approved="no">
         <source>[mushi076]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi076], but your mushi jar is full</target>
+        <target state="translated">You found [mushi076],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10376" xml:space="preserve" approved="no">
         <source>[mushi077]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi077], but your mushi jar is full</target>
+        <target state="translated">You found [mushi077],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10432" xml:space="preserve" approved="no">
         <source>[mushi078]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi078], but your mushi jar is full</target>
+        <target state="translated">You found [mushi078],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10488" xml:space="preserve" approved="no">
         <source>[mushi079]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi079], but your mushi jar is full</target>
+        <target state="translated">You found [mushi079],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10544" xml:space="preserve" approved="no">
         <source>[mushi080]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi080], but your mushi jar is full</target>
+        <target state="translated">You found [mushi080],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10600" xml:space="preserve" approved="no">
         <source>[mushi081]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi081], but your mushi jar is full</target>
+        <target state="translated">You found [mushi081],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10656" xml:space="preserve" approved="no">
         <source>[mushi082]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi082], but your mushi jar is full</target>
+        <target state="translated">You found [mushi082],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10712" xml:space="preserve" approved="no">
         <source>[mushi083]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi083], but your mushi jar is full</target>
+        <target state="translated">You found [mushi083],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10768" xml:space="preserve" approved="no">
         <source>[mushi084]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi084], but your mushi jar is full</target>
+        <target state="translated">You found [mushi084],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10824" xml:space="preserve" approved="no">
         <source>[mushi085]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi085], but your mushi jar is full</target>
+        <target state="translated">You found [mushi085],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10880" xml:space="preserve" approved="no">
         <source>[mushi086]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi086], but your mushi jar is full</target>
+        <target state="translated">You found [mushi086],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10936" xml:space="preserve" approved="no">
         <source>[mushi087]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi087], but your mushi jar is full</target>
+        <target state="translated">You found [mushi087],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="10992" xml:space="preserve" approved="no">
         <source>[mushi088]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi088], but your mushi jar is full</target>
+        <target state="translated">You found [mushi088],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11048" xml:space="preserve" approved="no">
         <source>[mushi089]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi089], but your mushi jar is full</target>
+        <target state="translated">You found [mushi089],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11104" xml:space="preserve" approved="no">
         <source>[mushi090]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi090], but your mushi jar is full</target>
+        <target state="translated">You found [mushi090],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11160" xml:space="preserve" approved="no">
         <source>[mushi091]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi091], but your mushi jar is full</target>
+        <target state="translated">You found [mushi091],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11216" xml:space="preserve" approved="no">
         <source>[mushi092]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi092], but your mushi jar is full</target>
+        <target state="translated">You found [mushi092],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11272" xml:space="preserve" approved="no">
         <source>[mushi093]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi093], but your mushi jar is full</target>
+        <target state="translated">You found [mushi093],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11328" xml:space="preserve" approved="no">
         <source>[mushi094]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi094], but your mushi jar is full</target>
+        <target state="translated">You found [mushi094],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11384" xml:space="preserve" approved="no">
         <source>[mushi095]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi095], but your mushi jar is full</target>
+        <target state="translated">You found [mushi095],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11440" xml:space="preserve" approved="no">
         <source>[mushi096]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi096], but your mushi jar is full</target>
+        <target state="translated">You found [mushi096],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11496" xml:space="preserve" approved="no">
         <source>[mushi097]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi097], but your mushi jar is full</target>
+        <target state="translated">You found [mushi097],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11552" xml:space="preserve" approved="no">
         <source>[mushi098]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi098], but your mushi jar is full</target>
+        <target state="translated">You found [mushi098],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11608" xml:space="preserve" approved="no">
         <source>[mushi099]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi099], but your mushi jar is full</target>
+        <target state="translated">You found [mushi099],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11664" xml:space="preserve" approved="no">
         <source>[mushi100]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi100], but your mushi jar is full</target>
+        <target state="translated">You found [mushi100],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11720" xml:space="preserve" approved="no">
         <source>[mushi101]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi101], but your mushi jar is full</target>
+        <target state="translated">You found [mushi101],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11776" xml:space="preserve" approved="no">
         <source>[mushi102]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi102], but your mushi jar is full</target>
+        <target state="translated">You found [mushi102],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11832" xml:space="preserve" approved="no">
         <source>[mushi103]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi103], but your mushi jar is full</target>
+        <target state="translated">You found [mushi103],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11888" xml:space="preserve" approved="no">
         <source>[mushi104]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi104], but your mushi jar is full</target>
+        <target state="translated">You found [mushi104],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="11944" xml:space="preserve" approved="no">
         <source>[mushi105]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi105], but your mushi jar is full</target>
+        <target state="translated">You found [mushi105],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12000" xml:space="preserve" approved="no">
         <source>[mushi106]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi106], but your mushi jar is full</target>
+        <target state="translated">You found [mushi106],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12056" xml:space="preserve" approved="no">
         <source>[mushi107]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi107], but your mushi jar is full</target>
+        <target state="translated">You found [mushi107],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12112" xml:space="preserve" approved="no">
         <source>[mushi108]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi108], but your mushi jar is full</target>
+        <target state="translated">You found [mushi108],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12168" xml:space="preserve" approved="no">
         <source>[mushi109]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi109], but your mushi jar is full</target>
+        <target state="translated">You found [mushi109],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12224" xml:space="preserve" approved="no">
         <source>[mushi110]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi110], but your mushi jar is full</target>
+        <target state="translated">You found [mushi110],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12280" xml:space="preserve" approved="no">
         <source>[mushi111]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi111], but your mushi jar is full</target>
+        <target state="translated">You found [mushi111],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12336" xml:space="preserve" approved="no">
         <source>[mushi112]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi112], but your mushi jar is full</target>
+        <target state="translated">You found [mushi112],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12392" xml:space="preserve" approved="no">
         <source>[mushi113]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi113], but your mushi jar is full</target>
+        <target state="translated">You found [mushi113],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12448" xml:space="preserve" approved="no">
         <source>[mushi114]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi114], but your mushi jar is full</target>
+        <target state="translated">You found [mushi114],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12504" xml:space="preserve" approved="no">
         <source>[mushi115]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi115], but your mushi jar is full</target>
+        <target state="translated">You found [mushi115],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12560" xml:space="preserve" approved="no">
         <source>[mushi116]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi116], but your mushi jar is full</target>
+        <target state="translated">You found [mushi116],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12616" xml:space="preserve" approved="no">
         <source>[mushi117]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi117], but your mushi jar is full</target>
+        <target state="translated">You found [mushi117],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12672" xml:space="preserve" approved="no">
         <source>[mushi118]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi118], but your mushi jar is full</target>
+        <target state="translated">You found [mushi118],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12728" xml:space="preserve" approved="no">
         <source>[mushi119]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi119], but your mushi jar is full</target>
+        <target state="translated">You found [mushi119],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12784" xml:space="preserve" approved="no">
         <source>[mushi120]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi120], but your mushi jar is full</target>
+        <target state="translated">You found [mushi120],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12840" xml:space="preserve" approved="no">
         <source>[mushi121]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi121], but your mushi jar is full</target>
+        <target state="translated">You found [mushi121],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12896" xml:space="preserve" approved="no">
         <source>[mushi122]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi122], but your mushi jar is full</target>
+        <target state="translated">You found [mushi122],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="12952" xml:space="preserve" approved="no">
         <source>[mushi123]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi123], but your mushi jar is full</target>
+        <target state="translated">You found [mushi123],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13008" xml:space="preserve" approved="no">
         <source>[mushi124]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi124], but your mushi jar is full</target>
+        <target state="translated">You found [mushi124],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13064" xml:space="preserve" approved="no">
         <source>[mushi125]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi125], but your mushi jar is full</target>
+        <target state="translated">You found [mushi125],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13120" xml:space="preserve" approved="no">
         <source>[mushi126]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi126], but your mushi jar is full</target>
+        <target state="translated">You found [mushi126],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13176" xml:space="preserve" approved="no">
         <source>[mushi127]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi127], but your mushi jar is full</target>
+        <target state="translated">You found [mushi127],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13232" xml:space="preserve" approved="no">
         <source>[mushi128]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi128], but your mushi jar is full</target>
+        <target state="translated">You found [mushi128],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13288" xml:space="preserve" approved="no">
         <source>[mushi129]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi129], but your mushi jar is full</target>
+        <target state="translated">You found [mushi129],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13344" xml:space="preserve" approved="no">
         <source>[mushi130]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi130], but your mushi jar is full</target>
+        <target state="translated">You found [mushi130],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13400" xml:space="preserve" approved="no">
         <source>[mushi131]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi131], but your mushi jar is full</target>
+        <target state="translated">You found [mushi131],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13456" xml:space="preserve" approved="no">
         <source>[mushi132]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi132], but your mushi jar is full</target>
+        <target state="translated">You found [mushi132],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13512" xml:space="preserve" approved="no">
         <source>[mushi133]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi133], but your mushi jar is full</target>
+        <target state="translated">You found [mushi133],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13568" xml:space="preserve" approved="no">
         <source>[mushi134]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi134], but your mushi jar is full</target>
+        <target state="translated">You found [mushi134],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13624" xml:space="preserve" approved="no">
         <source>[mushi135]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi135], but your mushi jar is full</target>
+        <target state="translated">You found [mushi135],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13680" xml:space="preserve" approved="no">
         <source>[mushi136]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi136], but your mushi jar is full</target>
+        <target state="translated">You found [mushi136],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13736" xml:space="preserve" approved="no">
         <source>[mushi137]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi137], but your mushi jar is full</target>
+        <target state="translated">You found [mushi137],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13792" xml:space="preserve" approved="no">
         <source>[mushi138]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi138], but your mushi jar is full</target>
+        <target state="translated">You found [mushi138],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13848" xml:space="preserve" approved="no">
         <source>[mushi139]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi139], but your mushi jar is full</target>
+        <target state="translated">You found [mushi139],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13904" xml:space="preserve" approved="no">
         <source>[mushi140]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi140], but your mushi jar is full</target>
+        <target state="translated">You found [mushi140],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="13960" xml:space="preserve" approved="no">
         <source>[mushi141]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi141], but your mushi jar is full</target>
+        <target state="translated">You found [mushi141],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="14016" xml:space="preserve" approved="no">
         <source>[mushi142]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi142], but your mushi jar is full</target>
+        <target state="translated">You found [mushi142],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="14072" xml:space="preserve" approved="no">
         <source>[mushi143]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi143], but your mushi jar is full</target>
+        <target state="translated">You found [mushi143],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="14128" xml:space="preserve" approved="no">
         <source>[mushi144]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi144], but your mushi jar is full</target>
+        <target state="translated">You found [mushi144],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="14184" xml:space="preserve" approved="no">
         <source>[mushi145]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi145], but your mushi jar is full</target>
+        <target state="translated">You found [mushi145],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="14240" xml:space="preserve" approved="no">
         <source>[mushi146]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi146], but your mushi jar is full</target>
+        <target state="translated">You found [mushi146],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="14296" xml:space="preserve" approved="no">
         <source>[mushi147]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi147], but your mushi jar is full</target>
+        <target state="translated">You found [mushi147],|but your mushi jar is full</target>
       </trans-unit>
       <trans-unit id="14352" xml:space="preserve" approved="no">
         <source>[mushi148]|を見つけましたが、|蟲ビンが蟲でいっぱいです</source>
-        <target state="translated">You found [mushi148], but your mushi jar is full</target>
+        <target state="translated">You found [mushi148],|but your mushi jar is full</target>
       </trans-unit>
     </body>
   </file>

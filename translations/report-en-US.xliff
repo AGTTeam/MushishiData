@@ -496,7 +496,7 @@
       </trans-unit>
       <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|もし橋を渡ることが|あったら　絶対に引き|返してはいけない　|戻れば　ニセカズラが|解け　人は谷底へ|落ちてしまうのだ　|くれぐれも気をつける|ことだ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|If you cross it, you|mustn't turn back,|because the|Nisekazura will|unravel and send you|plummeting to the|bottom of the valley.|Be very careful.||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|If you cross it, you|mustn't turn back,|because the|Nisekazura will|unravel and send|you plummeting to|the bottom of the|valley. Be very|careful.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
