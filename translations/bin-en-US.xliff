@@ -956,7 +956,7 @@
       </trans-unit>
       <trans-unit id="892372" xml:space="preserve" approved="no">
         <source>|の治療ができました</source>
-        <target state="translated">|successfully purged</target>
+        <target state="translated">|successfully purged #leave space</target>
       </trans-unit>
       <trans-unit id="892392" xml:space="preserve" approved="no">
         <source>特に効果は|ありませんでした</source>

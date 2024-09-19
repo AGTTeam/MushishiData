@@ -688,7 +688,7 @@
       </trans-unit>
       <trans-unit id="24988" xml:space="preserve" approved="no">
         <source>Ｓ２３＿１　依頼：隣の里に薬を</source>
-        <target state="needs-translation">S23_1　Request: Neighbour's Medicine</target>
+        <target state="translated">S23_1　Request: Neighbor's Medicine</target>
       </trans-unit>
       <trans-unit id="25020" xml:space="preserve" approved="no">
         <source>Ｓ２３＿２　受渡：隣の里に薬を</source>
@@ -5780,7 +5780,7 @@
       </trans-unit>
       <trans-unit id="220" xml:space="preserve" approved="no">
         <source>天をただよう垂衣（たれぎぬ）は&lt;wait 3000&gt;|光の中　影を落とし&lt;wait 3500&gt;|影の中　光を灯す</source>
-        <target state="translated">&gt;&gt;The mushi veil which drifts&lt;wait 3000&gt;|through the sky,&lt;wait 750&gt;|casting shadows in light,&lt;wait 2000&gt;|and light in shadows.</target>
+        <target state="translated">&gt;&gt;The mushi veil which drifts&lt;wait 3000&gt;|through the sky,&lt;wait 2000&gt;|casting shadows in light,&lt;wait 2000&gt;|and light in shadows.</target>
       </trans-unit>
       <trans-unit id="312" xml:space="preserve" approved="no">
         <source>この世の生命（いのち）の&lt;wait 750&gt;|天秤（てんびん）が&lt;wait 2250&gt;|どちらかひとつに傾かぬよう&lt;wait 4000&gt;|足しては引き　引いては足し……</source>
@@ -6940,11 +6940,11 @@
       </trans-unit>
       <trans-unit id="640" xml:space="preserve" approved="no">
         <source>沼に行ってみるか</source>
-        <target state="translated">(I should try the swamp.)</target>
+        <target state="translated">(I should check the swamp.)</target>
       </trans-unit>
       <trans-unit id="660" xml:space="preserve" approved="no">
         <source>沼に行ってみよう</source>
-        <target state="translated">(I should try the swamp.)</target>
+        <target state="translated">(I should check the swamp.)</target>
       </trans-unit>
     </body>
   </file>
@@ -7456,11 +7456,11 @@
       </trans-unit>
       <trans-unit id="1144" xml:space="preserve" approved="no">
         <source>とにかく谷に行ってみるか</source>
-        <target state="translated">(I should try the valley.)</target>
+        <target state="translated">(I should check the valley.)</target>
       </trans-unit>
       <trans-unit id="1172" xml:space="preserve" approved="no">
         <source>とにかく谷に行ってみよう</source>
-        <target state="translated">(I should try the valley.)</target>
+        <target state="translated">(I should check the valley.)</target>
       </trans-unit>
     </body>
   </file>
@@ -7656,11 +7656,11 @@
       </trans-unit>
       <trans-unit id="788" xml:space="preserve" approved="no">
         <source>田を調べてみるか……</source>
-        <target state="translated">(I should try the fields.)</target>
+        <target state="translated">(I should check the fields.)</target>
       </trans-unit>
       <trans-unit id="812" xml:space="preserve" approved="no">
         <source>田を調べてみよう……</source>
-        <target state="translated">(I should try the fields.)</target>
+        <target state="translated">(I should check the fields.)</target>
       </trans-unit>
     </body>
   </file>
@@ -13692,7 +13692,7 @@
       </trans-unit>
       <trans-unit id="1708" xml:space="preserve" approved="no">
         <source>（今は、|ギンコさんが来ているから|やっぱり家に帰って寝よう）</source>
-        <target state="needs-translation">(Ginko is on his way here, so I should make sure I'm available at home.)#this is also used when he's already here, not sure how to express both</target>
+        <target state="translated">(I should make sure I'm available at home.)#this is used both when Ginko is on his way and when he's already there</target>
       </trans-unit>
       <trans-unit id="1772" xml:space="preserve" approved="no">
         <source>（今日は、|ここで野宿をしよう）</source>
@@ -13780,11 +13780,11 @@
       </trans-unit>
       <trans-unit id="388" xml:space="preserve" approved="no">
         <source>（あ、そうだ。|&lt;c red&gt;地図&lt;/c&gt;はセレクトボタンを押すと|見られるんだったな……）</source>
-        <target state="translated">(Ah, right. You can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button...)</target>
+        <target state="translated">(Ah, right. I can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button...)</target>
       </trans-unit>
       <trans-unit id="472" xml:space="preserve" approved="no">
         <source>（あ、そうだ。|&lt;c red&gt;地図&lt;/c&gt;はセレクトボタンを押すと|見られるんだったよね……）</source>
-        <target state="translated">(Ah, right. You can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button...)</target>
+        <target state="translated">(Ah, right. I can check the &lt;c red&gt;map&lt;/c&gt; by pressing the SELECT button...)</target>
       </trans-unit>
     </body>
   </file>
@@ -13796,15 +13796,15 @@
       </trans-unit>
       <trans-unit id="500" xml:space="preserve" approved="no">
         <source>（&lt;c red&gt;狩房文庫&lt;/c&gt;に行ってみようかな|確か、タイトルから|行けるんだったよな……）</source>
-        <target state="translated">(I'm pretty sure you can access the &lt;c red&gt;Karibusa library&lt;/c&gt; from the title screen...)#sleep after clearing before visiting the library to see</target>
+        <target state="translated">(Oh yeah, I can now visit the &lt;c red&gt;Karibusa library&lt;/c&gt; from the title screen...)#sleep after clearing before visiting the library to see</target>
       </trans-unit>
       <trans-unit id="588" xml:space="preserve" approved="no">
         <source>（タイトルへ戻る前に|ちゃんと日記をつけて|おこう……）</source>
-        <target state="translated">(It's important to remember to save the game before returning to the title screen...)</target>
+        <target state="translated">(I'd better remember to save my progress before returning to the title screen...)</target>
       </trans-unit>
       <trans-unit id="644" xml:space="preserve" approved="no">
         <source>（&lt;c red&gt;狩房文庫&lt;/c&gt;に行ってみようかな|確か、タイトルから|行けるんだったよね……）</source>
-        <target state="translated">(I'm pretty sure you can access the &lt;c red&gt;Karibusa library&lt;/c&gt; from the title screen...)</target>
+        <target state="translated">(Oh yeah, I can now visit the &lt;c red&gt;Karibusa library&lt;/c&gt; from the title screen...)</target>
       </trans-unit>
     </body>
   </file>
