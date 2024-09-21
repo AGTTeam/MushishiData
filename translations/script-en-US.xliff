@@ -6320,7 +6320,7 @@
       </trans-unit>
       <trans-unit id="1232" xml:space="preserve" approved="no">
         <source>ありがたい、助かったよ。|そうだ、これをやるよ。|礼だ。受け取ってくれ</source>
-        <target state="translated">Thanks, you've really helped me out. Oh right, here. Please take this as thanks.</target>
+        <target state="translated">Thanks, you've really helped me out. I know... Here, please take this as thanks!</target>
       </trans-unit>
       <trans-unit id="1304" xml:space="preserve" approved="no">
         <source>里芋|をもらいました！</source>
@@ -7368,7 +7368,7 @@
       </trans-unit>
       <trans-unit id="1396" xml:space="preserve" approved="no">
         <source>力になれるかどうか、|わかりませんが……。とにかく、|奥さんに会ってみます</source>
-        <target state="translated">I don't know if there's anything I can do, but I'll try my best. I'll drop by soon.</target>
+        <target state="translated">I don't know if there's anything|I can do, but I'll try my best. I'll drop by soon.</target>
       </trans-unit>
     </body>
   </file>
@@ -7408,7 +7408,7 @@
       </trans-unit>
       <trans-unit id="1260" xml:space="preserve" approved="no">
         <source>で、戻ってきたらこの有様だ。|本人もなんでこうなったか|わからんようだが、</source>
-        <target state="translated">But, when she came back, she was like this. She doesn't seem to know what happened.</target>
+        <target state="translated">But, when she came back, she was like this. She doesn't seem to know what caused it.</target>
       </trans-unit>
       <trans-unit id="1336" xml:space="preserve" approved="no">
         <source>なにせこっちの声は|聞こえんから、|まともに話も出来なくてなあ</source>
@@ -7544,11 +7544,11 @@
       </trans-unit>
       <trans-unit id="2396" xml:space="preserve" approved="no">
         <source>はあー、よかったあ。|お前のおかげだ。ありがとう</source>
-        <target state="translated">Phew... There's a relief. Thanks for your help.</target>
+        <target state="translated">Phew... That's a relief. Thanks for your help.</target>
       </trans-unit>
       <trans-unit id="2460" xml:space="preserve" approved="no">
         <source>助かったよ。|これ、受け取っておくれ。|お礼だよ</source>
-        <target state="translated">Yes, thank you. Please take this with you.</target>
+        <target state="translated">Yes, thank you. Please take these with you.</target>
       </trans-unit>
       <trans-unit id="2508" xml:space="preserve" approved="no">
         <source>栗|をもらいました！</source>
@@ -7704,7 +7704,7 @@
       </trans-unit>
       <trans-unit id="1300" xml:space="preserve" approved="no">
         <source>ありがとう。|さ、飲んでみな</source>
-        <target state="translated">Thank you. Here, open up now.</target>
+        <target state="translated">Thank you.|Here, open up wide.</target>
       </trans-unit>
       <trans-unit id="1344" xml:space="preserve" approved="no">
         <source>少年２</source>
@@ -8136,7 +8136,7 @@
       </trans-unit>
       <trans-unit id="1548" xml:space="preserve" approved="no">
         <source>だろ？　とはいえ、昔の話だし、|本当かどうかはわからんがな。|はっはっは</source>
-        <target state="translated">Isn't it just? Though, it is an old story, so who knows if it's really true. Ha ha ha!</target>
+        <target state="translated">Isn't it just? Though, it is an old story, so who knows if it's really true. Hahaha!</target>
       </trans-unit>
       <trans-unit id="1632" xml:space="preserve" approved="no">
         <source>ははは……</source>
@@ -8220,7 +8220,7 @@
       </trans-unit>
       <trans-unit id="1216" xml:space="preserve" approved="no">
         <source>おう、気をつけるよ。|ま、見つけられたらの話だがな</source>
-        <target state="translated">Right, I'll be careful. But first I need to find one, I guess! Ha ha.</target>
+        <target state="translated">Right, I'll be careful. But first I need to find one, I guess! Haha.</target>
       </trans-unit>
     </body>
   </file>
@@ -8504,7 +8504,7 @@
       </trans-unit>
       <trans-unit id="400" xml:space="preserve" approved="no">
         <source>ん？|囲炉裏か……|煙が屋根まで登っている</source>
-        <target state="translated">Hm? Of course, the fireplace. The smoke rises to the roof.</target>
+        <target state="translated">Hm? Of course, the fireplace! The smoke rises to the roof.</target>
       </trans-unit>
     </body>
   </file>
@@ -8516,7 +8516,7 @@
       </trans-unit>
       <trans-unit id="2892" xml:space="preserve" approved="no">
         <source>ん？|囲炉裏か……|煙が屋根まで登っている</source>
-        <target state="translated">Hm? Of course, the fireplace. The smoke rises to the roof.</target>
+        <target state="translated">Hm? Of course, the fireplace! The smoke rises to the roof.</target>
       </trans-unit>
       <trans-unit id="2948" xml:space="preserve" approved="no">
         <source>そうだ、|この囲炉裏に薬を混ぜて、</source>
@@ -9224,11 +9224,11 @@
       </trans-unit>
       <trans-unit id="4608" xml:space="preserve" approved="no">
         <source>ええ、まあ。|でも、僕もどこでもいけるって|わけじゃなくて、</source>
-        <target state="translated">Ha ha. That doesn't mean I can go anywhere I want, though.</target>
+        <target state="translated">Haha. That doesn't mean I can go anywhere I want, though.</target>
       </trans-unit>
       <trans-unit id="4668" xml:space="preserve" approved="no">
         <source>ええ、まあ。|でも、私もどこでもいけるって|わけじゃなくて、</source>
-        <target state="translated">Ha ha. That doesn't mean I can go anywhere I want, though.</target>
+        <target state="translated">Haha. That doesn't mean I can go anywhere I want, though.</target>
       </trans-unit>
       <trans-unit id="4728" xml:space="preserve" approved="no">
         <source>危険で入れない所も|たくさんあります</source>
@@ -9268,7 +9268,7 @@
       </trans-unit>
       <trans-unit id="5248" xml:space="preserve" approved="no">
         <source>ふーん、そっかあ</source>
-        <target state="translated">Huh...</target>
+        <target state="translated">I see...</target>
       </trans-unit>
       <trans-unit id="5268" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
@@ -9360,11 +9360,11 @@
       </trans-unit>
       <trans-unit id="5144" xml:space="preserve" approved="no">
         <source>ええ、まあ。|でも、僕もどこでもいけるって|わけじゃなくて、</source>
-        <target state="translated">Ha ha. That doesn't mean I can go anywhere I want, though.</target>
+        <target state="translated">Haha. That doesn't mean I can go anywhere I want, though.</target>
       </trans-unit>
       <trans-unit id="5204" xml:space="preserve" approved="no">
         <source>ええ、まあ。|でも、私もどこでもいけるって|わけじゃなくて、</source>
-        <target state="translated">Ha ha. That doesn't mean I can go anywhere I want, though.</target>
+        <target state="translated">Haha. That doesn't mean I can go anywhere I want, though.</target>
       </trans-unit>
       <trans-unit id="5264" xml:space="preserve" approved="no">
         <source>危険で入れない所も|たくさんあります</source>
@@ -9404,7 +9404,7 @@
       </trans-unit>
       <trans-unit id="5792" xml:space="preserve" approved="no">
         <source>ふーん、そっかあ</source>
-        <target state="translated">Huh...</target>
+        <target state="translated">I see...</target>
       </trans-unit>
       <trans-unit id="5812" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
@@ -9588,7 +9588,7 @@
       </trans-unit>
       <trans-unit id="1388" xml:space="preserve" approved="no">
         <source>ああ。それに&lt;c red&gt;気付けの薬&lt;/c&gt;やら、|&lt;c red&gt;滋養強壮の薬&lt;/c&gt;やら</source>
-        <target state="translated">Yeah, and if you can make &lt;c red&gt;Energy Medicine&lt;/c&gt; and &lt;c red&gt;Nutrient Powder&lt;/c&gt;,</target>
+        <target state="translated">Yeah, and if you could also make &lt;c red&gt;Energy Medicine&lt;/c&gt; and &lt;c red&gt;Nutrient Powder&lt;/c&gt;,</target>
       </trans-unit>
       <trans-unit id="1460" xml:space="preserve" approved="no">
         <source>そういうのがあるだけで、|みんな助かると思うんだよ</source>
@@ -10264,7 +10264,7 @@
       </trans-unit>
       <trans-unit id="10628" xml:space="preserve" approved="no">
         <source>あははは。|きっと奥さんが作った方が、|ずっとおいしいですよ</source>
-        <target state="translated">Ha ha ha. I'm sure your wife could make them even better than I can.</target>
+        <target state="translated">Haha. I'm sure your wife could make them even better than I can.</target>
       </trans-unit>
       <trans-unit id="10688" xml:space="preserve" approved="no">
         <source>旅の身だってのに、|参加させてもらえて、|ありがたいです</source>

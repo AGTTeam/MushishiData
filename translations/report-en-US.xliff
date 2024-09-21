@@ -504,11 +504,11 @@
     <body>
       <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi126]|だが　|滝壺付近から全て|いなくなった後　|夕方に滝壷に行って|みるといい　|もともとそこに棲んで|いる別の蟲が　滝を|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi126],|reminded me of|something. Once|the area around the|waterfall is clear|of other mushi, you|should return there|in the evening.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi126],|reminded me of|something. In the|evening, once the|area around the|waterfall is clear|of other mushi, you|should return there.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|昇っていくはずだ　|なかなか見ものだぞ　|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|The mushi that|inhabits the waterfall|will emerge, and you|should be able to see|it rising from the|waterfall.|It's quite a sight!||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|The mushi that|inhabits the waterfall|will emerge, and you|should be able to see|them rising up the|stream. It's quite a|sight!|||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
