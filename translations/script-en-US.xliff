@@ -1132,7 +1132,7 @@
       </trans-unit>
       <trans-unit id="1652" xml:space="preserve" approved="no">
         <source>お前も早く帰って|ちゃんと寝るんだぞ</source>
-        <target state="translated">You should get home too so you can get some good sleep.</target>
+        <target state="translated">You should head home too so you can get some sleep.</target>
       </trans-unit>
     </body>
   </file>
@@ -6052,7 +6052,7 @@
       </trans-unit>
       <trans-unit id="1944" xml:space="preserve" approved="no">
         <source>そうだね。大したもんじゃ|ないが、これ受け取ってくれよ。|本当にありがとう</source>
-        <target state="translated">It's not much, but please take this.</target>
+        <target state="translated">It's not much, but please take these.</target>
       </trans-unit>
       <trans-unit id="2020" xml:space="preserve" approved="no">
         <source>じゃがいも|をもらいました！</source>
@@ -6512,7 +6512,7 @@
       </trans-unit>
       <trans-unit id="768" xml:space="preserve" approved="no">
         <source>周りのすべてが、目まぐるしく|動いているように感じる。|魚も、鳥も、風景までも……</source>
-        <target state="translated">Everything around me feels like it's moving at a dizzying pace. The fish, the birds, even the scenery…</target>
+        <target state="translated">It feels like everything is moving at a dizzying pace. The fish, the birds, even the scenery…</target>
       </trans-unit>
       <trans-unit id="852" xml:space="preserve" approved="no">
         <source>これが時間の流れ方が変わる、|ということか</source>
@@ -6556,7 +6556,7 @@
       </trans-unit>
       <trans-unit id="1432" xml:space="preserve" approved="no">
         <source>やれやれ、安心だな。|お前のおかげだよ</source>
-        <target state="translated">Whew, what a relief! I can't thank you enough.</target>
+        <target state="translated">Phew, what a relief! I can't thank you enough.</target>
       </trans-unit>
       <trans-unit id="1484" xml:space="preserve" approved="no">
         <source>本当、助かったよ。|これはお礼だ。|もらっておくれ</source>
@@ -6796,7 +6796,7 @@
       </trans-unit>
       <trans-unit id="468" xml:space="preserve" approved="no">
         <source>やっぱりお天道様を拝まんのは|具合が悪いねえ。|よろしく頼むよ</source>
-        <target state="translated">I'd hate if I could never see the sun again. I need your help.</target>
+        <target state="translated">I'd hate it if I could never see the sun again. I need your help.</target>
       </trans-unit>
       <trans-unit id="544" xml:space="preserve">
         <source>[name]</source>
@@ -6804,7 +6804,7 @@
       </trans-unit>
       <trans-unit id="552" xml:space="preserve" approved="no">
         <source>竹林を調べてみよう</source>
-        <target state="translated">(I should take a look around the bamboo groves.)</target>
+        <target state="translated">(I should take a look around the bamboo grove.)</target>
       </trans-unit>
     </body>
   </file>
@@ -6820,11 +6820,11 @@
       </trans-unit>
       <trans-unit id="644" xml:space="preserve" approved="no">
         <source>今は何もないけど、明日、|目が覚めればわかるかな。|とりあえず、</source>
-        <target state="translated">I guess I'll find out depending on what time I wake up tomorrow. But, for now...</target>
+        <target state="translated">I guess I'll find out depending on what time I wake up tomorrow.</target>
       </trans-unit>
       <trans-unit id="720" xml:space="preserve" approved="no">
         <source>この蟲の記録をつけて|ヤクノに|送っておこうか</source>
-        <target state="translated">I should make a record of this mushi and send it to Yakuno.#dupe</target>
+        <target state="translated">For now, I should make a record of this mushi and send it to Yakuno.#dupe</target>
       </trans-unit>
     </body>
   </file>
@@ -7160,7 +7160,7 @@
       </trans-unit>
       <trans-unit id="2136" xml:space="preserve" approved="no">
         <source>……そろそろ|効いてきたんじゃないかな？</source>
-        <target state="translated">...It should be starting to kick in by now.</target>
+        <target state="translated">...It should be starting to kick in now.</target>
       </trans-unit>
       <trans-unit id="2180" xml:space="preserve" approved="no">
         <source>そうだ、イチゴがあったな。|ほら、食ってみろ</source>
@@ -8476,7 +8476,7 @@
       </trans-unit>
       <trans-unit id="656" xml:space="preserve" approved="no">
         <source>その薬を飲めば、|みんな治るのかい？</source>
-        <target state="translated">So if we take that medicine, everyone will be cured?</target>
+        <target state="translated">So we just need to take that medicine?</target>
       </trans-unit>
       <trans-unit id="696" xml:space="preserve">
         <source>[name]</source>
@@ -8524,11 +8524,11 @@
       </trans-unit>
       <trans-unit id="2984" xml:space="preserve" approved="no">
         <source>煙で屋根を燻してしまえば|蟲も逃げ出すかもしれない。|一気に払えるぞ</source>
-        <target state="translated">The smoke should drive away all of the mushi on the roof.</target>
+        <target state="translated">the smoke should drive away all of the mushi on the roof.</target>
       </trans-unit>
       <trans-unit id="3052" xml:space="preserve" approved="no">
         <source>煙で屋根を燻してしまえば|蟲も逃げ出すかもしれない。|一気に払える</source>
-        <target state="translated">The smoke should drive away all of the mushi on the roof.</target>
+        <target state="translated">the smoke should drive away all of the mushi on the roof.</target>
       </trans-unit>
       <trans-unit id="3132" xml:space="preserve" approved="no">
         <source>やった、|屋根の上の蟲がいなくなったぞ</source>
@@ -8620,7 +8620,7 @@
       </trans-unit>
       <trans-unit id="1200" xml:space="preserve" approved="no">
         <source>ありがとう、助かるよ。|さて、|今晩は山水鍋でも作ろうかね</source>
-        <target state="translated">Thank you, that's great. Maybe I'll cook up a fish stew tonight then!</target>
+        <target state="translated">Thank you, it's great. Maybe I'll cook up a fish stew tonight then!</target>
       </trans-unit>
     </body>
   </file>
@@ -8684,11 +8684,11 @@
       </trans-unit>
       <trans-unit id="4244" xml:space="preserve" approved="no">
         <source>ははは……</source>
-        <target state="translated">Ha ha ha…</target>
+        <target state="translated">Hahaha…</target>
       </trans-unit>
       <trans-unit id="4256" xml:space="preserve" approved="no">
         <source>ねえ、今度一緒に釣りに|行かない？|うまく釣るコツ教えてよ</source>
-        <target state="translated">Hey, why don't we go fishing together next time? You could teach me all of your tricks.</target>
+        <target state="translated">Hey, can we go fishing together next time? You could teach me all of your tricks.</target>
       </trans-unit>
       <trans-unit id="4316" xml:space="preserve" approved="no">
         <source>うん、いいよ</source>
@@ -8696,11 +8696,11 @@
       </trans-unit>
       <trans-unit id="4332" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
-        <target state="translated">Thank you for the food.|Good night.</target>
+        <target state="translated">Thank you for the food.|Goodnight.</target>
       </trans-unit>
       <trans-unit id="4380" xml:space="preserve" approved="no">
         <source>すみません……今は、|身体の状態が良くないので|お気持ちだけ頂きます……</source>
-        <target state="translated">Sorry, I don't feel well today, so I'll have to decline...#I've tried going to dinner with an abnormal state/extreme hunger and can't trigger this line, so it may not be used</target>
+        <target state="translated">Sorry, I don't feel well today, so I'll have to decline...#If infected with Mushi 92 (can't eat food)</target>
       </trans-unit>
       <trans-unit id="4464" xml:space="preserve" approved="no">
         <source>村の女</source>
@@ -8736,7 +8736,7 @@
       </trans-unit>
       <trans-unit id="4148" xml:space="preserve" approved="no">
         <source>ありがとう、助かるよ。|さて、今晩は山水鍋でも|作ろうかね</source>
-        <target state="translated">Thank you, that's great. Maybe I'll cook up a fish stew for tonight then!</target>
+        <target state="translated">Thank you, it's great. Maybe I'll cook up a fish stew for tonight then!</target>
       </trans-unit>
       <trans-unit id="4208" xml:space="preserve" approved="no">
         <source>もしよかったら、|あんたも一緒に食べなよ。|すぐに仕度するからさ</source>
@@ -8792,11 +8792,11 @@
       </trans-unit>
       <trans-unit id="4688" xml:space="preserve" approved="no">
         <source>ははは……</source>
-        <target state="translated">Ha ha ha…</target>
+        <target state="translated">Hahaha…</target>
       </trans-unit>
       <trans-unit id="4700" xml:space="preserve" approved="no">
         <source>ねえ、今度一緒に釣りに|行かない？|うまく釣るコツ教えてよ</source>
-        <target state="translated">Hey, why don't we go fishing together next time? You could teach me all of your tricks.</target>
+        <target state="translated">Hey, can we go fishing together next time? You could teach me all of your tricks.</target>
       </trans-unit>
       <trans-unit id="4760" xml:space="preserve" approved="no">
         <source>うん、いいよ</source>
@@ -8804,7 +8804,7 @@
       </trans-unit>
       <trans-unit id="4776" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
-        <target state="translated">Thank you for the food.|Good night.</target>
+        <target state="translated">Thank you for the food.|Goodnight.</target>
       </trans-unit>
       <trans-unit id="4824" xml:space="preserve" approved="no">
         <source>すみません……今は、|身体の状態が良くないので|お気持ちだけ頂きます……</source>
@@ -8972,11 +8972,11 @@
       </trans-unit>
       <trans-unit id="5768" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
-        <target state="translated">Thank you for the food!|Good night.</target>
+        <target state="translated">Thank you for the food!|Goodnight.</target>
       </trans-unit>
       <trans-unit id="5816" xml:space="preserve" approved="no">
         <source>すみません……今は、|身体の状態が良くないので|お気持ちだけ頂きます……</source>
-        <target state="translated">Sorry, I don't feel well today, so I'll have to decline...#I've tried going to dinner with an abnormal state/extreme hunger and can't trigger this line, so it may not be used</target>
+        <target state="translated">Sorry, I don't feel well today, so I'll have to decline...#If infected with Mushi 92 (can't eat food)</target>
       </trans-unit>
       <trans-unit id="5900" xml:space="preserve" approved="no">
         <source>村の女</source>
@@ -9088,7 +9088,7 @@
       </trans-unit>
       <trans-unit id="5836" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
-        <target state="translated">Thank you for the food!|Good night.</target>
+        <target state="translated">Thank you for the food!|Goodnight.</target>
       </trans-unit>
       <trans-unit id="5884" xml:space="preserve" approved="no">
         <source>すみません……今は、|身体の状態が良くないので|お気持ちだけ頂きます……</source>
@@ -9272,11 +9272,11 @@
       </trans-unit>
       <trans-unit id="5268" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
-        <target state="translated">Thank you for the food.|Good night.</target>
+        <target state="translated">Thank you for the food.|Goodnight.</target>
       </trans-unit>
       <trans-unit id="5304" xml:space="preserve" approved="no">
         <source>すみません……今は、|身体の状態が良くないので|お気持ちだけ頂きます……</source>
-        <target state="translated">Sorry, I don't feel well today, so I'll have to decline...#I've tried going to dinner with an abnormal state/extreme hunger and can't trigger this line, so it may not be used</target>
+        <target state="translated">Sorry, I don't feel well today, so I'll have to decline...#If infected with Mushi 92 (can't eat food)</target>
       </trans-unit>
       <trans-unit id="5388" xml:space="preserve" approved="no">
         <source>村の女</source>
@@ -9408,7 +9408,7 @@
       </trans-unit>
       <trans-unit id="5812" xml:space="preserve" approved="no">
         <source>ごちそうさまでした。|さようなら</source>
-        <target state="translated">Thank you for the food.|Good night.</target>
+        <target state="translated">Thank you for the food.|Goodnight.</target>
       </trans-unit>
       <trans-unit id="5848" xml:space="preserve" approved="no">
         <source>すみません……今は、|身体の状態が良くないので|お気持ちだけ頂きます……</source>

@@ -416,7 +416,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi136]|だが|狭く暗い場所を好むも|ので　時々人間の耳の|奥に巣食ってしまうこ|とがある|極小さな蟲の集まりな|んだが　それらが耳の|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi136],|is one that likes|small, dark places|and can sometimes|burrow into|people's ears.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi136],|is one that likes|small, dark places,|and can sometimes|burrow into|people's ears.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|中で動けば人にとって|はひどい雑音になる|その治療に有効な薬が|ある　処方箋を一緒に|送ったから作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
