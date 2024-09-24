@@ -3224,7 +3224,7 @@
       </trans-unit>
       <trans-unit id="3316" xml:space="preserve" approved="no">
         <source>ふう……|ずいぶん来たけど……</source>
-        <target state="translated">Phew...what a journey…</target>
+        <target state="translated">Phew... What a journey…</target>
       </trans-unit>
       <trans-unit id="3348" xml:space="preserve" approved="no">
         <source>……あれかな……？</source>
@@ -3248,7 +3248,7 @@
       </trans-unit>
       <trans-unit id="3448" xml:space="preserve" approved="no">
         <source>どちらさんだい</source>
-        <target state="translated">Who are you? State your business.</target>
+        <target state="translated">Who are you?|State your business.</target>
       </trans-unit>
       <trans-unit id="3464" xml:space="preserve" approved="no">
         <source>あの、[name]といいます。|こちらで、蟲の記録を|読ませてくれると聞いて……</source>
@@ -6580,7 +6580,7 @@
       </trans-unit>
       <trans-unit id="880" xml:space="preserve" approved="no">
         <source>あ、あんたかい。|ちょうど良いところに|来てくれたね</source>
-        <target state="translated">Oh, it's you. You came at a good time.</target>
+        <target state="translated">Oh, [name].|You came at a good time.</target>
       </trans-unit>
       <trans-unit id="932" xml:space="preserve">
         <source>[name]</source>
@@ -6588,7 +6588,7 @@
       </trans-unit>
       <trans-unit id="940" xml:space="preserve" approved="no">
         <source>どうしました？</source>
-        <target state="translated">What's going on?</target>
+        <target state="translated">What's up?</target>
       </trans-unit>
       <trans-unit id="968" xml:space="preserve" approved="no">
         <source>なんだか最近、|日が沈んだらすぐ眠く|なっちまうんだよねえ</source>
@@ -10480,7 +10480,7 @@
       </trans-unit>
       <trans-unit id="3380" xml:space="preserve" approved="no">
         <source>はい。お元気で</source>
-        <target state="translated">Okay, take care!</target>
+        <target state="translated">I see. Take care!</target>
       </trans-unit>
       <trans-unit id="3408" xml:space="preserve" approved="no">
         <source>あの……実はまだ|&lt;c red&gt;「蟲煙草」&lt;/c&gt;できてないんです</source>
@@ -10500,7 +10500,7 @@
       </trans-unit>
       <trans-unit id="3544" xml:space="preserve" approved="no">
         <source>あとしばらく待ってくれたら|できると思うんですが</source>
-        <target state="translated">If you can wait for a bit, I might be able to get it done.</target>
+        <target state="translated">If you can wait for a bit, I should be able to get it done.</target>
       </trans-unit>
       <trans-unit id="3596" xml:space="preserve" approved="no">
         <source>すまんな、|先を急いでいる途中なんだ</source>
@@ -10520,7 +10520,7 @@
       </trans-unit>
       <trans-unit id="3772" xml:space="preserve" approved="no">
         <source>おう、それじゃ</source>
-        <target state="translated">Okay, then. See ya.</target>
+        <target state="translated">Will do. See ya.</target>
       </trans-unit>
       <trans-unit id="3788" xml:space="preserve" approved="no">
         <source>お元気で……</source>
