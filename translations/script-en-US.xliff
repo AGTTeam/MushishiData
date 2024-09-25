@@ -3380,7 +3380,7 @@
       </trans-unit>
       <trans-unit id="1616" xml:space="preserve" approved="no">
         <source>いえ、そんな……|私なんか全然まだまだで……</source>
-        <target state="translated">I dunno about that... I still have a long way to go…</target>
+        <target state="translated">I don't know about that... I still have a long way to go…</target>
       </trans-unit>
       <trans-unit id="1664" xml:space="preserve" approved="no">
         <source>慢心せず、|日々精進を重ねることは|殊勝な心がけだ</source>
@@ -3452,15 +3452,15 @@
       </trans-unit>
       <trans-unit id="4484" xml:space="preserve" approved="no">
         <source>あ……ごめんなさいっ</source>
-        <target state="translated">Ah...I'm so sorry for staring!</target>
+        <target state="translated">Ah...I'm sorry for staring!</target>
       </trans-unit>
       <trans-unit id="4508" xml:space="preserve" approved="no">
         <source>何、構わぬ。|早速だが、お前の話を|聞かせてくれるか？</source>
-        <target state="translated">It's fine, I don't care. Now, will you tell me your story?</target>
+        <target state="translated">It's fine, I don't mind. Now, will you tell me your story?</target>
       </trans-unit>
       <trans-unit id="4564" xml:space="preserve" approved="no">
         <source>はい。あれは……</source>
-        <target state="translated">Okay. Well…</target>
+        <target state="translated">R-Right. Well…</target>
       </trans-unit>
       <trans-unit id="4584" xml:space="preserve" approved="no">
         <source>僕は、集落で起こった|蟲垂衣と呼ばれる現象について|話をした</source>
@@ -3532,11 +3532,11 @@
       </trans-unit>
       <trans-unit id="5304" xml:space="preserve" approved="no">
         <source>えっ？　……じゃあ……</source>
-        <target state="translated">What? Wait, then…</target>
+        <target state="translated">Really? But, then…</target>
       </trans-unit>
       <trans-unit id="5328" xml:space="preserve" approved="no">
         <source>はははは……気にするな。|こういった話の方が私は好きだ</source>
-        <target state="translated">Hahaha, don't worry about it. I prefer these kinds of stories anyway.</target>
+        <target state="translated">Hahaha, don't worry about it.|I prefer these kinds of stories anyway.</target>
       </trans-unit>
       <trans-unit id="5384" xml:space="preserve" approved="no">
         <source>お嬢さん、そろそろ……</source>
@@ -3584,11 +3584,11 @@
       </trans-unit>
       <trans-unit id="2032" xml:space="preserve" approved="no">
         <source>あれから何か蟲封じに|使えそうな話は出来たのか？</source>
-        <target state="translated">Have you come up with any stories that might be able to help with banishing mushi?</target>
+        <target state="translated">Have you got any new stories that might be able to help with banishing mushi?</target>
       </trans-unit>
       <trans-unit id="2096" xml:space="preserve" approved="no">
         <source>ははは……、|あれから特には何も</source>
-        <target state="translated">Hahaha, no, nothing like that.</target>
+        <target state="translated">Haha, no, nothing like that.</target>
       </trans-unit>
       <trans-unit id="2132" xml:space="preserve" approved="no">
         <source>村が平和だということだろう。|何よりだ</source>
@@ -3600,7 +3600,7 @@
       </trans-unit>
       <trans-unit id="2188" xml:space="preserve" approved="no">
         <source>はい</source>
-        <target state="translated">It sure is.</target>
+        <target state="translated">Yeah...#this line is repeated in answer to both "it's a nice day" and "your village is that way"</target>
       </trans-unit>
       <trans-unit id="2196" xml:space="preserve" approved="no">
         <source>この先に、|お前の村があるのだな</source>
@@ -3616,7 +3616,7 @@
       </trans-unit>
       <trans-unit id="2304" xml:space="preserve" approved="no">
         <source>珍しいものは何もないですよ。|あ、でも光脈筋だから、|他より実りは豊からしくて……</source>
-        <target state="translated">It's not too special. Ah, but it sits on top of a light vein, so the land is very fertile…</target>
+        <target state="translated">It's nothing special. Ah, but it sits on top of a light vein, so the land is very fertile…</target>
       </trans-unit>
       <trans-unit id="2388" xml:space="preserve" approved="no">
         <source>よその人から見たら|変わったものもあるのかな？</source>
@@ -10732,7 +10732,7 @@
       </trans-unit>
       <trans-unit id="5616" xml:space="preserve" approved="no">
         <source>「空吹」は特殊な匂いを出して、|冬眠中の動物や植物の活動を|促す</source>
-        <target state="translated">The Usobuki emits a special scent to encourage hibernating plants and animals to become active.</target>
+        <target state="translated">The Usobuki emits a special scent that makes plants and animals stir from hibernation.</target>
       </trans-unit>
       <trans-unit id="5680" xml:space="preserve" approved="no">
         <source>そしておびき出した動物の|精気を吸う。吸われたものは|春まで眠り続けるんだ</source>
@@ -10744,7 +10744,7 @@
       </trans-unit>
       <trans-unit id="5800" xml:space="preserve" approved="no">
         <source>命までは奪わないが、|周りの人間は|たまったもんじゃない</source>
-        <target state="translated">It won't kill you, but it can cause trouble for the people nearby.</target>
+        <target state="translated">It won't kill you, but it can trouble the people close to you.</target>
       </trans-unit>
       <trans-unit id="5856" xml:space="preserve" approved="no">
         <source>……とはいえ、|俺も偉そうなことは|言えんがな</source>

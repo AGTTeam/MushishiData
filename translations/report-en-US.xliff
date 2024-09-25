@@ -124,11 +124,11 @@
       </trans-unit>
       <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|が広がりたると噂せり|娘は固く口を閉ざすば|かりなり　皆は疑念を|抱き　しげを冷遇せり|隔てなく接するは　海|辺の村より来たるテツ|といふ若者のみなり　|蟲師はしげに協力を依|頼せり　しげは病を治|せるならばと　ようや|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|The mushishi told|Shige he could help|cure the villagers.|Shige finally opened|up, explaining that|whenever she spoke,|rust would appear.|Her voice was hoarse|from yelling in hope|of stifling the rust.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|The villagers blamed|a girl named Shige.|Only Tetsu, a young|man from a seaside|village, treated her|kindly. The mushishi|met with Shige and|learned that when-|ever she spoke,|rust would appear.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|く口を開く　曰く　幼|き頃より声を出す度に|Бが湧き　やがて町中|に蔓延したといふ　そ|の声は太くかすれたれ|ど　甘く渋みのある残|響を持つ不可思議な声|なり　しげは声を潰さ|んと叫び　この声にな|りしが　尚もБは湧き|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|It transpired that|Shige's voice was|similar to the sound|made by the Yasabi,|who mistook it for|food and gathered|in the village. With|nothing to eat, they|attached onto living|beings instead.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|It transpired that|Shige's voice was|similar to the sound|made by the Yasabi,|who expected|food and gathered|in the village. With|nothing to eat, they|attached onto living|beings instead.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|たるといふ　それは　|しげの声が野Бの発せ|し音と極似したるため|なり　餌ありと誤解せ|し野Бが集まりしが　|町には喰うべきものな|く生きしものにまで付|きたるなり　野Бを町|より払う術一つあり　|山々にしげの声を谺さ|&lt;/page&gt;</source>
@@ -144,7 +144,7 @@
       </trans-unit>
       <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|谺したるを聞く　声を|辿りて　谷に落ちたる|二人見つけたり　怪我|せしテツを救わんと　|&lt;mg 6&gt;しげは叫びたるなり&lt;/mg&gt;　|二人を救いて町に戻ら|ば　野Бの数減りて病|の者は回復せり　図ら|ずも蟲師の思惑通りと|なれり　この後　しげ|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|Following the voice,|he found that they'd|fallen down a valley.|&lt;mg 6&gt;Shige had cried out|in order to save the|injured Tetsu, |unintentionally ful-|filling the mushishi's|plan&lt;/mg&gt; and scattering|the Yasabi.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|Following the voice,|he found that they'd|fallen down a valley.|&lt;mg 6&gt;Shige had cried out|in order to save the|injured Tetsu,|unintentionally ful-|filling the mushishi's|plan&lt;/mg&gt; and scattering|the Yasabi.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="8" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|はテツの故郷に移住せ|り　海辺なれば　しげ|も平穏に暮らしたると|いふ　|　　　　　　　　完|&lt;/page&gt;|</source>
@@ -160,7 +160,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|て珍品を集めるを趣味|とし　殊に蟲に関わる|品多し　それらは家の|蔵に保管せり　ある時|子供らが蔵に忍び込み|一つの硯を悪戯に磨り|て　その晩より体温が|ひどく下がり体が衰弱|したるといふ事なり　|この硯は雲喰みと呼ば|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|They decided to|polish the inkstone,|but became ill soon|after. The doctor|sent for his friend|who was a mushishi.|He discovered the|children had been|infected with a mushi|called a Kumohami.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|They decided to|polish the inkstone,|but became ill soon|after. The doctor|sent for his friend|who was a mushishi.|He discovered the|children had been|infected with a mushi|called Kumohami.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|るる蟲の成れの果てな|り　本来は入道雲の如|き形にて　空気中の水|や氷を食い雪や霰にし|て降らしたるが　雲な|き時期が続けば小さく|しぼみ　地表に降りて|自らを凍らせ仮死状態|となりたり　そのまま|何万と時が経て石とな|&lt;/page&gt;</source>
@@ -184,7 +184,7 @@
       </trans-unit>
       <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|屋根瓦は壊れたるが　|たがねはすべて弁償せ|んといふ　また硯を作|れば可能なりと蟲師は|いひ　たがねもまた心|決めたるようなり　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|Tagane said she'd|find a way to pay|for the damage. The|mushishi suggested|she returned to|making inkstones.|After some thought,|she agreed, with|a newfound deter-|mination.             -FIN|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|Tagane said she'd|find a way to pay|for the damage. The|mushishi suggested|she returned to|making inkstones.|After some thought,|she agreed, with|a newfound deter-|mination.              -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -200,7 +200,7 @@
       </trans-unit>
       <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|ものなり　仲良き双子|の姉妹なれど　緒は五|年前より行方知れずと|なりたり　ウロ守とは|兎澤家に代々続く仕事|なり　綺と緒は十の頃|より山へ入り　先代の|ウロ守なる老人に虚繭|の扱い方を教わりたる|といふ　虚繭は　元は|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|At ten years old,|Aya and Ito became|apprentice care-|takers, learning|how to handle the|Uro mushi.|The Uro nest in|enclosed spaces,|such as empty silk|worm cocoons.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|At ten years old, Aya|and Ito had begun|training as care-|takers, learning|how to handle the|Uro mushi.|The Uro nest in|enclosed spaces,|such as empty silk|worm cocoons.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|空の玉繭にて　ウロな|る蟲の巣なり　玉繭を|ほぐし二つの繭にした|れば　ウロはこの間を|行き来したるなり　旅|歩く蟲師がその習性を|利用し　文のやり取り|に使いしものなり　重|宝なれど　ウロは現世|に風穴を空けてまわる|&lt;/page&gt;</source>
@@ -216,11 +216,11 @@
       </trans-unit>
       <trans-unit id="6" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|でに身まかれり　綺は|今も緒を探すことをや|めずにあり　されど帰|らぬ者に心を囚われる|は良きことでなし　己|の心に生まれし空洞を|彷徨ふといへり　蟲師|は諦めるべしと　&lt;mg 8&gt;綺に|虚穴の一端を見せり&lt;/mg&gt;　|綺は　虚穴の暗くあま|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|Five years on, she|continued to look for|her lost sister. The|mushishi, concerned|that Aya would be|consumed by her|grief, &lt;mg 8&gt;took her into|the Uro passageway|so she could see it|for herself.&lt;/mg&gt;|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|Five years on, she|continued to look for|her lost sister. The|mushishi, concerned|that Aya would be|consumed by her|grief, &lt;mg 8&gt;took her into|the Uro passageway&lt;/mg&gt;|so she could see it|for herself.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="7" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|りに深き様を目にし　|ただ運を天にまかすよ|りなきと得心せり　こ|の後も　綺は山中にて|独りウロ守を続けてい|るといふ　|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|After seeing the|dark and twisted|caves, Aya had no|choice but to accept|the likelihood that|she would never see|her sister again. She|returned to her|work, alone.|                                  -FIN|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|After seeing the|dark and twisted|caves, Aya had no|choice but to accept|the likelihood that|she would never see|her sister again. She|returned to her|work, alone.|                                     -FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -240,7 +240,7 @@
       </trans-unit>
       <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|陰火の中にヒダネあり|ヒトの熱を吸ひ生きる|蟲なり　あの草はヒダ|ネの幼生にて　火を得|る事で陰火となりたる|なり　野萩はヒダネな|れば対処するは可能な|りといふ　一年後　蟲|師は里を再訪せり　草|は絶たれり　されど陰|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|Inside each Kagebi|is a mushi called a|Hidane which feeds|on human heat. The|odd weeds were the|Hidane's larval form,|rather than a new|species of mushi.|Yahagi believes she|can deal with them.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|Inside each Kagebi|is a mushi called|Hidane which feeds|on human heat. The|odd weeds were the|Hidane's larval form,|rather than a new|species of mushi.|Yahagi said she'd|deal with them.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="4" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|火の害を受けし者多く|七人が死にたり　陰火|は　数は減れど今も在|りて　時折その姿見ゆ|また書物になきヒダネ|の生態も判明せり　充|分に熱を吸ひ寿命を全|うせしヒダネの骸より|あの草が芽を出したる|といふ　野萩自身によ|&lt;/page&gt;</source>
