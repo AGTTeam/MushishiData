@@ -10584,7 +10584,7 @@
       </trans-unit>
       <trans-unit id="700" xml:space="preserve" approved="no">
         <source>（あれは……）</source>
-        <target state="translated">(That's...)</target>
+        <target state="translated">(Where is it coming from?)</target>
       </trans-unit>
     </body>
   </file>
@@ -10616,7 +10616,7 @@
       </trans-unit>
       <trans-unit id="448" xml:space="preserve" approved="no">
         <source>（わぁ、こっちには|山菜もたくさんある）</source>
-        <target state="translated">(Wow, there are lots of vegetables growing here.)</target>
+        <target state="translated">(Wow, there are lots of edible plants growing here.)#bracken and fuki buds</target>
       </trans-unit>
       <trans-unit id="504" xml:space="preserve" approved="no">
         <source>（少し摘んでいっても、|大丈夫だよな……）</source>
@@ -10636,11 +10636,11 @@
       </trans-unit>
       <trans-unit id="4524" xml:space="preserve" approved="no">
         <source>（この辺りは年中雪の中なのに、|春そのものだ。なんだか鮮やか|過ぎて眩しいくらいだな）</source>
-        <target state="translated">(It's always snowing here, but it really seems like spring. It's so vibrant that it's dazzling!)</target>
+        <target state="translated">(It's usually snowing here, but it really seems like spring. It's so vibrant that it's dazzling!)</target>
       </trans-unit>
       <trans-unit id="4612" xml:space="preserve" approved="no">
         <source>（この辺りは年中雪の中なのに、|春そのものだ。なんだか鮮やか|過ぎて眩しいくらい）</source>
-        <target state="translated">(It's always snowing here, but it really seems like spring. It's so vibrant that it's dazzling!)</target>
+        <target state="translated">(It's usually snowing here, but it really seems like spring. It's so vibrant that it's dazzling!)</target>
       </trans-unit>
       <trans-unit id="4708" xml:space="preserve" approved="no">
         <source>（……ん？|匂いが変わったような……）</source>
