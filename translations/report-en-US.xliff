@@ -572,7 +572,7 @@
     <body>
       <trans-unit id="0" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|お前が送ってくれた|調書の|[mushi032]|だが|「空吹」という蟲だ　|木に咲く花のような|形をしていて　蝶の姿|にも変わるらしい　|こいつがいるという|ことは　近くで|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi032],|is called a "Usobuki".|It can change its|shape from a flower|bud into a butterfly.|Where it is present,|you may see a|"Harumagai" nearby.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|That mushi you|reported,|[mushi032],|is called an "Usobuki".|It can change its|shape from a flower|bud into a butterfly.|Where it is present,|you may see a|"Harumagai" nearby.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|「春まがい」って|現象が発生してるの|かもしれん　|「空吹」は　|冬眠中の動植物の活動|を促して春と錯覚させ|るものだと聞いている　|俺は実物を知らないん|で詳しいことは書けな|いがとにかく近寄らな|&lt;/page&gt;</source>
