@@ -10376,7 +10376,7 @@
       </trans-unit>
       <trans-unit id="12144" xml:space="preserve" approved="no">
         <source>上質なわらじ|をもらいました！</source>
-        <target state="translated">&gt;&gt;I got a pair of fine sandals!</target>
+        <target state="translated">&gt;&gt;I got a pair of speedy sandals!</target>
       </trans-unit>
       <trans-unit id="12176" xml:space="preserve" approved="no">
         <source>ありがとう</source>
@@ -10464,7 +10464,7 @@
       </trans-unit>
       <trans-unit id="3224" xml:space="preserve" approved="no">
         <source>上質な釣り竿|をもらいました！</source>
-        <target state="translated">&gt;&gt;I got a fine fishing rod!</target>
+        <target state="translated">&gt;&gt;I got a strong fishing rod!</target>
       </trans-unit>
       <trans-unit id="3268" xml:space="preserve" approved="no">
         <source>ありがとうございます</source>
@@ -11148,7 +11148,7 @@
       </trans-unit>
       <trans-unit id="4548" xml:space="preserve" approved="no">
         <source>上質な蟲ピン|をもらいました！</source>
-        <target state="translated">&gt;&gt;I got a fine mushi pin!</target>
+        <target state="translated">&gt;&gt;I got a sharp mushi pin!</target>
       </trans-unit>
       <trans-unit id="4580" xml:space="preserve" approved="no">
         <source>ありがとうございます</source>
@@ -11360,11 +11360,11 @@
       </trans-unit>
       <trans-unit id="6180" xml:space="preserve" approved="no">
         <source>上質な蟲ピン|を採取しました</source>
-        <target state="translated">You got a fine mushi pin</target>
+        <target state="translated">You got a sharp mushi pin</target>
       </trans-unit>
       <trans-unit id="6212" xml:space="preserve" approved="no">
         <source>上質な釣り竿|を採取しました</source>
-        <target state="translated">You got a fine fishing rod</target>
+        <target state="translated">You got a strong fishing rod</target>
       </trans-unit>
       <trans-unit id="6244" xml:space="preserve" approved="no">
         <source>わらび|を採取しました</source>
@@ -11584,11 +11584,11 @@
       </trans-unit>
       <trans-unit id="7756" xml:space="preserve" approved="no">
         <source>上質な蟲ピン|を見つけましたが、|持ち物がいっぱいです</source>
-        <target state="translated">You found a fine mushi pin, but your inventory is full</target>
+        <target state="translated">You found a sharp mushi pin, but your inventory is full</target>
       </trans-unit>
       <trans-unit id="7812" xml:space="preserve" approved="no">
         <source>上質な釣り竿|を見つけましたが、|持ち物がいっぱいです</source>
-        <target state="translated">You found a fine fishing rod, but your inventory is full</target>
+        <target state="translated">You found a strong fishing rod, but your inventory is full</target>
       </trans-unit>
       <trans-unit id="7868" xml:space="preserve" approved="no">
         <source>わらび|を見つけましたが、|持ち物がいっぱいです</source>
