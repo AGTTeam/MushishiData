@@ -892,7 +892,7 @@
       </trans-unit>
       <trans-unit id="890356" xml:space="preserve" approved="no">
         <source>主人公の名前を|決めてください</source>
-        <target state="translated">Write a name for|your character</target>
+        <target state="translated">Use the stylus to|write your name</target>
       </trans-unit>
       <trans-unit id="891020" xml:space="preserve" approved="no">
         <source>タッチペンで|赤い文章を|タッチしましょう</source>
@@ -1068,7 +1068,7 @@
       </trans-unit>
       <trans-unit id="893776" xml:space="preserve" approved="no">
         <source>主人公の性別を|選んでください</source>
-        <target state="translated">Select your|character's gender</target>
+        <target state="translated">Select your gender</target>
       </trans-unit>
       <trans-unit id="894188" xml:space="preserve" approved="no">
         <source>マーベラス</source>
