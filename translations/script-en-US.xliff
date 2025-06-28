@@ -5740,7 +5740,7 @@
       </trans-unit>
       <trans-unit id="1888" xml:space="preserve" approved="no">
         <source>（うーん、|こんがらがってきた。|もう一度考え直してみよう）</source>
-        <target state="translated">(Hmmm, I'm getting confused. Let's try this again.)</target>
+        <target state="translated">(Wait, that doesn't seem right… Lemme try that again.)</target>
       </trans-unit>
       <trans-unit id="1960" xml:space="preserve" approved="no">
         <source>あの蟲は、|やっぱり光に、|弱いんじゃ……？</source>
