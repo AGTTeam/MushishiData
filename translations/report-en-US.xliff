@@ -324,7 +324,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -336,7 +336,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -348,7 +348,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|送ったから作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|It is imperative to|treat it as soon as|possible.|I have sent you a|prescription for the|medicine needed,|so please mix some|up.||Yakuno|&lt;/page&gt;|</target>
+        <target state="translated">&lt;page&gt;|It is imperative to|treat it as soon as|possible.|I have sent you a|recipe for the|medicine needed,|so please mix some|up.||Yakuno|&lt;/page&gt;|</target>
       </trans-unit>
     </body>
   </file>
@@ -360,7 +360,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|だろう　|しかし　そのままでは|生活に支障をきたす　|治療に必要な処方箋を|一緒に送ったから　|作ってみろ　|　　　　　　ヤクノ　|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|It is likely to have|an adverse effect on|their lives.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.||Yakuno|&lt;/page&gt;|</target>
+        <target state="translated">&lt;page&gt;|It is likely to have|an adverse effect on|their lives.|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.||Yakuno|&lt;/page&gt;|</target>
       </trans-unit>
     </body>
   </file>
@@ -372,7 +372,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|その影響を|受けたんだろう　|治療に必要な処方箋を|一緒に送ったから　|作ってみろ　|　　　　　　ヤクノ　|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;|</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;|</target>
       </trans-unit>
     </body>
   </file>
@@ -384,7 +384,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|寄生された人間も同じ|ようになるんだろう　|治療に必要な処方箋を|一緒に送ったから　|作ってみろ　|　　　　　　ヤクノ　|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;|</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;|</target>
       </trans-unit>
     </body>
   </file>
@@ -396,7 +396,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|弊害が出る前に治療し|たほうがいいだろう。|必要な処方箋を|一緒に送ったから|作ってみろ。|　　　　　　ヤクノ　|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|It's best to treat|it before it causes|any harm.|I have sent you a|prescription for the|medicine needed,|so please mix some|up.||Yakuno|&lt;/page&gt;|</target>
+        <target state="translated">&lt;page&gt;|It's best to treat|it before it causes|any harm.|I have sent you a|recipe for the|medicine needed,|so please mix some|up.||Yakuno|&lt;/page&gt;|</target>
       </trans-unit>
     </body>
   </file>
@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|当然　体は衰弱してい|くので危険だ|治療に必要な処方箋を|一緒に送ったから|作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|While the mushi is|not dangerous, it|is not good for a|person not to eat.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|While the mushi is|not dangerous, it|is not good for a|person not to eat.|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -420,7 +420,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|中で動けば人にとって|はひどい雑音になる|その治療に有効な薬が|ある　処方箋を一緒に|送ったから作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|When they move|around, it makes a|horrible sound to|the host.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|When they move|around, it makes a|horrible sound to|the host.|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -432,7 +432,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|その生物は耳が聞こえ|ない状態になるという|わけだ|その治療に必要な|処方箋を一緒に送った|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -444,7 +444,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -456,7 +456,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -468,7 +468,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|付くようになるらしい|治療に必要な処方箋を|一緒に送ったから|作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|causing strange|words to be formed.|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|causing strange|words to be formed.|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -480,7 +480,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|その治療に必要な|処方箋も一緒に送った|から作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|I have sent you a|prescription for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|||||Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>

@@ -812,7 +812,7 @@
       </trans-unit>
       <trans-unit id="886076" xml:space="preserve" approved="no">
         <source>未報告</source>
-        <target state="translated">Unreported</target>
+        <target state="translated">Not reported</target>
       </trans-unit>
       <trans-unit id="886084" xml:space="preserve" approved="no">
         <source>報告中です</source>
@@ -972,7 +972,7 @@
       </trans-unit>
       <trans-unit id="892552" xml:space="preserve" approved="no">
         <source>処方箋を選んで|ください</source>
-        <target state="translated">Choose a|prescription</target>
+        <target state="translated">Choose a recipe</target>
       </trans-unit>
       <trans-unit id="892652" xml:space="preserve" approved="no">
         <source>調合</source>

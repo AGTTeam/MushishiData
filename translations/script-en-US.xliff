@@ -3776,7 +3776,7 @@
       </trans-unit>
       <trans-unit id="11800" xml:space="preserve" approved="no">
         <source>この里は大きな天災に襲われた。|天災といっても|地震や水害ではない</source>
-        <target state="translated">&gt;&gt;This village was hit|by a great disaster.|And by disaster,|I don't mean an earthquake|or a flood.</target>
+        <target state="translated">&gt;&gt;This village was hit|by a great disaster.|But it was nothing|like an earthquake|or a flood.</target>
       </trans-unit>
       <trans-unit id="11880" xml:space="preserve" approved="no">
         <source>ある日突然、里の人間が一斉に|死に絶えてしまったんだ。|だけど――なぜかその時、|僕だけが一人、生き残った</source>
@@ -3916,7 +3916,7 @@
       </trans-unit>
       <trans-unit id="13648" xml:space="preserve" approved="no">
         <source>わかった……</source>
-        <target state="translated">Alright…</target>
+        <target state="translated">Well, if you insist…</target>
       </trans-unit>
       <trans-unit id="13664" xml:space="preserve" approved="no">
         <source>それじゃ、|さっそく蟲の採取に|いこうかな</source>
@@ -4296,7 +4296,7 @@
       </trans-unit>
       <trans-unit id="2488" xml:space="preserve" approved="no">
         <source>「里でおかしなことが|起き始めている。|こんなことは初めてだ……」</source>
-        <target state="needs-translation">"Strange things have started happening here. I've never seen anything like it before..."</target>
+        <target state="translated">"Strange things have started happening in the village. I've never seen anything like it..."</target>
       </trans-unit>
       <trans-unit id="2580" xml:space="preserve" approved="no">
         <source>ヤクノ</source>
@@ -4416,7 +4416,7 @@
       </trans-unit>
       <trans-unit id="576" xml:space="preserve" approved="no">
         <source>（&lt;c red&gt;蟲煙草&lt;/c&gt;の作り方か。|あまり作ったことないから、|処方箋を確認しておこう）</source>
-        <target state="translated">(How to make &lt;c red&gt;mushi tobacco&lt;/c&gt;? I haven't made it that often, so I'll have to check the prescription.)</target>
+        <target state="translated">(How to make &lt;c red&gt;mushi tobacco&lt;/c&gt;? I haven't made it that often, so I'll have to check the recipe.)</target>
       </trans-unit>
     </body>
   </file>
@@ -4440,7 +4440,7 @@
       </trans-unit>
       <trans-unit id="588" xml:space="preserve" approved="no">
         <source>（念のため、木箱にしまった|処方箋を確認しておこうかな）</source>
-        <target state="translated">(Just to be sure, I should check the prescription in my pack.)</target>
+        <target state="translated">(Just to be sure, I should check the recipe in my pack.)</target>
       </trans-unit>
     </body>
   </file>
@@ -4580,7 +4580,7 @@
       </trans-unit>
       <trans-unit id="8272" xml:space="preserve" approved="no">
         <source>――といったところだ</source>
-        <target state="translated">--That's everything I know about them.</target>
+        <target state="translated">That's everything I know about them.</target>
       </trans-unit>
       <trans-unit id="8308" xml:space="preserve" approved="no">
         <source>人間は……死に絶え……</source>
@@ -4728,11 +4728,11 @@
       </trans-unit>
       <trans-unit id="11748" xml:space="preserve" approved="no">
         <source>何か手がかりが|つかめるかもしれん</source>
-        <target state="translated">There may be something in there we can use.</target>
+        <target state="translated">Any bit of information will help.</target>
       </trans-unit>
       <trans-unit id="11796" xml:space="preserve" approved="no">
         <source>……話してくれ。|なぜお前だけが助かったのか</source>
-        <target state="translated">Why were you the only survivor?</target>
+        <target state="translated">To start, do you have any idea why you were the only survivor?</target>
       </trans-unit>
       <trans-unit id="11844" xml:space="preserve">
         <source>[name]</source>
@@ -4740,11 +4740,11 @@
       </trans-unit>
       <trans-unit id="11852" xml:space="preserve" approved="no">
         <source>……ごめん。|あの時、僕は小さくて……</source>
-        <target state="translated">...I'm sorry.|I was so young…</target>
+        <target state="translated">...I dunno, I was so young at the time…</target>
       </trans-unit>
       <trans-unit id="11892" xml:space="preserve" approved="no">
         <source>……ごめん。|あの時、私は小さくて……</source>
-        <target state="translated">...I'm sorry.|I was so young…</target>
+        <target state="translated">...I dunno, I was so young at the time…</target>
       </trans-unit>
       <trans-unit id="11932" xml:space="preserve" approved="no">
         <source>自分が何をしていたのか、|はっきり覚えてないんだ</source>
@@ -4764,7 +4764,7 @@
       </trans-unit>
       <trans-unit id="12140" xml:space="preserve" approved="no">
         <source>……そうか。|蟲垂衣の影響を受けたものは|皆死んでいてな</source>
-        <target state="translated">I see...|All those who were affected by the Mushinotareginu died.</target>
+        <target state="translated">I see... All those who were affected by the Mushinotareginu died.</target>
       </trans-unit>
       <trans-unit id="12196" xml:space="preserve" approved="no">
         <source>ただ一人生き残っている、|お前の記憶だけが頼りだ</source>
@@ -4776,7 +4776,7 @@
       </trans-unit>
       <trans-unit id="12328" xml:space="preserve" approved="no">
         <source>うん……。|あ、でも一つだけ……</source>
-        <target state="translated">I will.|Oh, but I do remember one thing…</target>
+        <target state="translated">Ah, actually, there might be something…</target>
       </trans-unit>
       <trans-unit id="12364" xml:space="preserve" approved="no">
         <source>？</source>
@@ -4812,11 +4812,11 @@
       </trans-unit>
       <trans-unit id="12660" xml:space="preserve" approved="no">
         <source>僕には、姉さんがいた。|姉さんは小さな頃から|体が弱くて、|家の中で過ごすことが|多かった……</source>
-        <target state="translated">&gt;&gt;I had an older sister.|She was very frail and spent most of her time at home.</target>
+        <target state="translated">&gt;&gt;I had an older sister.|She was very frail|and spent most of her time at home.</target>
       </trans-unit>
       <trans-unit id="12752" xml:space="preserve" approved="no">
         <source>私には、姉さんがいた。|姉さんは小さな頃から|体が弱くて、|家の中で過ごすことが|多かった……</source>
-        <target state="translated">&gt;&gt;I had an older sister.|She was very frail and spent most of her time at home.</target>
+        <target state="translated">&gt;&gt;I had an older sister.|She was very frail|and spent most of her time at home.</target>
       </trans-unit>
       <trans-unit id="12844" xml:space="preserve" approved="no">
         <source>姉さんも、|僕と同じで蟲の見える|体質だった</source>
@@ -4840,7 +4840,7 @@
       </trans-unit>
       <trans-unit id="13068" xml:space="preserve" approved="no">
         <source>見て、きれいだよ</source>
-        <target state="translated">Look at this mommy, it's so pretty!</target>
+        <target state="translated">Look at this, mommy! It's so pretty!</target>
       </trans-unit>
       <trans-unit id="13100" xml:space="preserve" approved="no">
         <source>やれやれ、うちの子達は|また妙なことばかり言って、|困ったもんだねえ</source>
@@ -4876,7 +4876,7 @@
       </trans-unit>
       <trans-unit id="13500" xml:space="preserve" approved="no">
         <source>今日は天気もよくて|あったかいし、大丈夫よ</source>
-        <target state="translated">It's a lovely warm day. I'll be fine.</target>
+        <target state="translated">It's such a lovely day. I'll be fine.</target>
       </trans-unit>
       <trans-unit id="13544" xml:space="preserve" approved="no">
         <source>ねえ、あそこに行こう</source>
@@ -4884,11 +4884,11 @@
       </trans-unit>
       <trans-unit id="13568" xml:space="preserve" approved="no">
         <source>あの洞穴は、姉さんと僕だけが|知っている秘密の場所だった。|父さんと母さんに知られたら|叱られるとわかっていたけど|……僕は姉さんを喜ばせたくて、|よくこの場所に来た</source>
-        <target state="translated">&gt;&gt;The cave was a secret place that only my sister and I knew.|If our parents ever found out about it, we'd be in so much trouble, but...|It was all worth it|to see my sister smile.</target>
+        <target state="translated">&gt;&gt;The cave was a secret place|that only we knew about.|If our parents ever found out about it, we'd be in so much trouble, but...|It was all worth it|to see my sister smile.</target>
       </trans-unit>
       <trans-unit id="13732" xml:space="preserve" approved="no">
         <source>あの洞穴は、姉さんと私だけが|知っている秘密の場所だった。|父さんと母さんに知られたら|叱られるとわかっていたけど|……私は姉さんを喜ばせたくて、|よくこの場所に来た</source>
-        <target state="translated">&gt;&gt;The cave was a secret place that only my sister and I knew.|If our parents ever found out about it, we'd be in so much trouble, but...|It was all worth it|to see my sister smile.</target>
+        <target state="translated">&gt;&gt;The cave was a secret place|that only we knew about.|If our parents ever found out about it, we'd be in so much trouble, but...|It was all worth it|to see my sister smile.</target>
       </trans-unit>
       <trans-unit id="13896" xml:space="preserve" approved="no">
         <source>きれいだねえ……</source>
@@ -4940,15 +4940,15 @@
       </trans-unit>
       <trans-unit id="14468" xml:space="preserve" approved="no">
         <source>この後まもなく、|姉さんは亡くなってしまった――</source>
-        <target state="translated">&gt;&gt;My sister passed away|shortly after that.</target>
+        <target state="translated">&gt;&gt;Shortly after that,|my sister passed away…</target>
       </trans-unit>
       <trans-unit id="14520" xml:space="preserve" approved="no">
         <source>姉さんがいなくなった後も、|僕は一人で洞に行って、|姉さんを思い出していた。|あの天災が起きた時も……</source>
-        <target state="translated">&gt;&gt;But even though she was no longer there, I would still go to the cave to remember her. That's why I was there when the disaster happened…</target>
+        <target state="translated">&gt;&gt;Even after she was gone,|I would still go to the cave|to remember her.|That's why I was there|when the disaster happened…</target>
       </trans-unit>
       <trans-unit id="14624" xml:space="preserve" approved="no">
         <source>姉さんがいなくなった後も、|私は一人で洞に行って、|姉さんを思い出していた。|あの天災が起きた時も……</source>
-        <target state="translated">&gt;&gt;But even though she was no longer there, I would still go to the cave to remember her. That's why I was there when the disaster happened…</target>
+        <target state="translated">&gt;&gt;Even after she was gone,|I would still go to the cave|to remember her.|That's why I was there|when the disaster happened…</target>
       </trans-unit>
       <trans-unit id="14728" xml:space="preserve" approved="no">
         <source>……その洞はどこにある？</source>
@@ -5040,7 +5040,7 @@
       </trans-unit>
       <trans-unit id="5420" xml:space="preserve" approved="no">
         <source>ほお、まるで天窓だな</source>
-        <target state="translated">Ah, it's like a skylight.</target>
+        <target state="translated">Oh, there's a hole at the top.</target>
       </trans-unit>
       <trans-unit id="5456" xml:space="preserve" approved="no">
         <source>？　石英か</source>
@@ -9828,7 +9828,7 @@
       </trans-unit>
       <trans-unit id="732" xml:space="preserve" approved="no">
         <source>（持って行って|あの子に見せてみよう）</source>
-        <target state="translated">(I'll go show it to that girl.)</target>
+        <target state="translated">(I should show it to that girl.)</target>
       </trans-unit>
       <trans-unit id="772" xml:space="preserve" approved="no">
         <source>（でも、持ち物がいっぱいで|もう持てないや。|元に戻しておこう）</source>
