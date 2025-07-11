@@ -4812,11 +4812,11 @@
       </trans-unit>
       <trans-unit id="12660" xml:space="preserve" approved="no">
         <source>僕には、姉さんがいた。|姉さんは小さな頃から|体が弱くて、|家の中で過ごすことが|多かった……</source>
-        <target state="translated">&gt;&gt;I had an older sister.|She was very frail|and spent most of her time at home.</target>
+        <target state="translated">&gt;&gt;I had an older sister.|She was very frail|and spent most of her time|at home.</target>
       </trans-unit>
       <trans-unit id="12752" xml:space="preserve" approved="no">
         <source>私には、姉さんがいた。|姉さんは小さな頃から|体が弱くて、|家の中で過ごすことが|多かった……</source>
-        <target state="translated">&gt;&gt;I had an older sister.|She was very frail|and spent most of her time at home.</target>
+        <target state="translated">&gt;&gt;I had an older sister.|She was very frail|and spent most of her time|at home.</target>
       </trans-unit>
       <trans-unit id="12844" xml:space="preserve" approved="no">
         <source>姉さんも、|僕と同じで蟲の見える|体質だった</source>
