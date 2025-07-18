@@ -4568,11 +4568,11 @@
       </trans-unit>
       <trans-unit id="8064" xml:space="preserve" approved="no">
         <source>俺が知る限りでは、どうやら|&lt;c red&gt;「布のような形状をしている」&lt;/c&gt;|ということ</source>
-        <target state="translated">I've heard that they are &lt;c red&gt;cloth-like in shape,&lt;/c&gt;</target>
+        <target state="translated">I've heard that they are &lt;c red&gt;cloth-like in shape&lt;/c&gt;…</target>
       </trans-unit>
       <trans-unit id="8144" xml:space="preserve" approved="no">
         <source>&lt;c red&gt;「光脈筋を移動し、|大量の蟲を喰う」&lt;/c&gt;こと</source>
-        <target state="translated">&lt;c red&gt;travel along the light vein, eat vast quantities of mushi,&lt;/c&gt;</target>
+        <target state="translated">&lt;c red&gt;travel along the light vein, eat vast quantities of mushi&lt;/c&gt;…</target>
       </trans-unit>
       <trans-unit id="8196" xml:space="preserve" approved="no">
         <source>そして、|&lt;c red&gt;「そこにいた人間や動物は死に|絶え、植物は異様に育つ」&lt;/c&gt;</source>
@@ -4636,7 +4636,7 @@
       </trans-unit>
       <trans-unit id="8984" xml:space="preserve" approved="no">
         <source>……コウキ？</source>
-        <target state="translated">That's...Kouki?</target>
+        <target state="translated">Is that...Kouki?</target>
       </trans-unit>
       <trans-unit id="9012" xml:space="preserve" approved="no">
         <source>こいつを飲むと|見えやすくなるって|説もあってな</source>
@@ -4664,11 +4664,11 @@
       </trans-unit>
       <trans-unit id="548" xml:space="preserve" approved="no">
         <source>なんだ？|地面の下が光ってる……</source>
-        <target state="translated">What is this?|There's something glowing under the ground…</target>
+        <target state="translated">Huh? There's something glowing under the ground…</target>
       </trans-unit>
       <trans-unit id="584" xml:space="preserve" approved="no">
         <source>なに？|地面の下が光ってる……</source>
-        <target state="translated">What is this?|There's something glowing under the ground…</target>
+        <target state="translated">Huh? There's something glowing under the ground…</target>
       </trans-unit>
       <trans-unit id="628" xml:space="preserve" approved="no">
         <source>ギンコ</source>
@@ -4856,7 +4856,7 @@
       </trans-unit>
       <trans-unit id="13296" xml:space="preserve" approved="no">
         <source>人には見えないものが|見えるせいで、|村のみんなからは、|奇異な目で見られることが|多かった……</source>
-        <target state="translated">&gt;&gt;Because we could see things that other people couldn't, those in the village|often made fun of us.</target>
+        <target state="translated">&gt;&gt;Because we could see things|that other people couldn't,|those in the village|often made fun of us.</target>
       </trans-unit>
       <trans-unit id="13404" xml:space="preserve" approved="no">
         <source>姉</source>
@@ -4916,15 +4916,15 @@
       </trans-unit>
       <trans-unit id="14156" xml:space="preserve" approved="no">
         <source>これらを見てると、姉ちゃん、|元気になるような気が|するんだよ</source>
-        <target state="translated">When I look at them, I feel a little bit better.</target>
+        <target state="translated">Somehow, looking at them makes me feel a little better…</target>
       </trans-unit>
       <trans-unit id="14220" xml:space="preserve" approved="no">
         <source>きっと、あれらの光は、|お前の中にも私の中にもある|光なんだ</source>
-        <target state="translated">I believe that their light is the same light that's inside you and me.</target>
+        <target state="translated">I believe that their light is the same light that's inside of you and me.</target>
       </trans-unit>
       <trans-unit id="14280" xml:space="preserve" approved="no">
         <source>たとえ見えなくても……|この光は誰の中にもある</source>
-        <target state="translated">Even if they can't see it, this light is inside everyone.</target>
+        <target state="translated">Even if they can't see it, this light is inside of everyone.</target>
       </trans-unit>
       <trans-unit id="14328" xml:space="preserve" approved="no">
         <source>だから、なんだか懐かしくて、|胸の中があったかくなる</source>
@@ -5036,7 +5036,7 @@
       </trans-unit>
       <trans-unit id="5368" xml:space="preserve" approved="no">
         <source>洞穴にしちゃ明るいな……</source>
-        <target state="translated">It seems awfully bright for a cave.</target>
+        <target state="translated">It seems awfully bright for a cave…</target>
       </trans-unit>
       <trans-unit id="5420" xml:space="preserve" approved="no">
         <source>ほお、まるで天窓だな</source>
@@ -5344,7 +5344,7 @@
       </trans-unit>
       <trans-unit id="23452" xml:space="preserve" approved="no">
         <source>無礼をお許し下さい。しかし|皆が戸惑うのも無理はない。|一体どういうわけですかな？</source>
-        <target state="translated">Please forgive our rudeness. But we are all rather confused as to what we're doing here...?</target>
+        <target state="translated">Please forgive our rudeness, but we are all rather confused as to what we're doing here...?</target>
       </trans-unit>
       <trans-unit id="23536" xml:space="preserve" approved="no">
         <source>ここにいないと|蟲の影響で死んじまう。|早いとこ池に入ってくれ</source>
@@ -5360,7 +5360,7 @@
       </trans-unit>
       <trans-unit id="23648" xml:space="preserve" approved="no">
         <source>よそもんが、わけわからんこと|言いやがって。|どういうつもりだ</source>
-        <target state="translated">We don't know what you're talking about, stranger!|What are you up to?</target>
+        <target state="translated">We don't know what you're talking about, stranger! What are you trying to pull?</target>
       </trans-unit>
       <trans-unit id="23724" xml:space="preserve" approved="no">
         <source>まあ、いいから。急いでくれ</source>
@@ -5368,7 +5368,7 @@
       </trans-unit>
       <trans-unit id="23764" xml:space="preserve" approved="no">
         <source>みんな、|この人の言うことをきいて。|きっと、助かるから……</source>
-        <target state="translated">Everyone, please listen to him! I'm sure he'll save us…</target>
+        <target state="translated">Everyone, please listen to him! I'm sure he can save us…</target>
       </trans-unit>
       <trans-unit id="23824" xml:space="preserve" approved="no">
         <source>お前がそういうなら、信じよう</source>
@@ -5408,7 +5408,7 @@
       </trans-unit>
       <trans-unit id="24080" xml:space="preserve" approved="no">
         <source>！　なんだ…？|何かに体を押し付けられてる|みたいだ……</source>
-        <target state="translated">!? It feels like something's pressing down on me...!</target>
+        <target state="translated">Wha...? It feels like something's pressing down on me...!</target>
       </trans-unit>
       <trans-unit id="24136" xml:space="preserve" approved="no">
         <source>もう頭の上まで来ているのか？</source>
@@ -5420,7 +5420,7 @@
       </trans-unit>
       <trans-unit id="24220" xml:space="preserve" approved="no">
         <source>な、なんだい？</source>
-        <target state="translated">W-What's going on!?</target>
+        <target state="translated">W-what's going on!?</target>
       </trans-unit>
       <trans-unit id="24236" xml:space="preserve" approved="no">
         <source>村の男の子</source>
@@ -5436,15 +5436,15 @@
       </trans-unit>
       <trans-unit id="24284" xml:space="preserve" approved="no">
         <source>物凄い圧迫感だ……。|このまま押しつぶされて|しまいそうだ……</source>
-        <target state="translated">Such intense pressure... I feel like I'm going to be crushed...!</target>
+        <target state="translated">This pressure... It feels like I'm being crushed...!</target>
       </trans-unit>
       <trans-unit id="24348" xml:space="preserve" approved="no">
         <source>物凄い圧迫感……。|このまま押しつぶされて|しまいそう……</source>
-        <target state="translated">Such intense pressure... I feel like I'm going to be crushed...!</target>
+        <target state="translated">This pressure... It feels like I'm being crushed...!</target>
       </trans-unit>
       <trans-unit id="24408" xml:space="preserve" approved="no">
         <source>だいぶ力を溜め込んだようだ。|お前にも見えてるだろ？</source>
-        <target state="translated">It seems it's built up a lot of power. You can see it too, can't you?</target>
+        <target state="translated">Seems like it's built up a lot of power. You can see it too, can't you?</target>
       </trans-unit>
       <trans-unit id="24488" xml:space="preserve" approved="no">
         <source>あれ……？</source>
@@ -5540,11 +5540,11 @@
       </trans-unit>
       <trans-unit id="25284" xml:space="preserve" approved="no">
         <source>俺たちも獣や魚を喰う。|それは命を喰うことだ</source>
-        <target state="translated">We eat animals and fish too. That's eating life.</target>
+        <target state="translated">We also eat other living things; it's how we survive.</target>
       </trans-unit>
       <trans-unit id="25332" xml:space="preserve" approved="no">
         <source>それと同じで、|あいつもただ生きるために|喰っている</source>
-        <target state="translated">In the same way, that mushi is just eating to survive.</target>
+        <target state="translated">In the same way, that mushi is just eating to survive, too.</target>
       </trans-unit>
       <trans-unit id="25384" xml:space="preserve" approved="no">
         <source>蟲は増えすぎると|障りが出るものなんだ</source>
@@ -5556,11 +5556,11 @@
       </trans-unit>
       <trans-unit id="25492" xml:space="preserve" approved="no">
         <source>きっと、あれらの光は、|お前の中にも私の中にもある|光なんだ</source>
-        <target state="translated">&gt;&gt;"I believe that their light|is the same light that's inside you and me."#dupe</target>
+        <target state="translated">&gt;&gt;"I believe that their light|is the same light that's inside of you and me."#dupe</target>
       </trans-unit>
       <trans-unit id="25552" xml:space="preserve" approved="no">
         <source>たとえ見えなくても……|この光は誰の中にもある</source>
-        <target state="translated">&gt;&gt;"Even if they can't see it,|this light is inside everyone."#dupe</target>
+        <target state="translated">&gt;&gt;"Even if they can't see it,|this light is inside of everyone."#dupe</target>
       </trans-unit>
       <trans-unit id="25600" xml:space="preserve" approved="no">
         <source>……だが、蟲を愛しいと思う|気持ち自体は、悪いもんじゃ|ないんじゃないか</source>
@@ -5884,11 +5884,11 @@
       </trans-unit>
       <trans-unit id="2780" xml:space="preserve" approved="no">
         <source>こりゃあ下手に動いて|谷にでも|落ちたらかなわんと、</source>
-        <target state="translated">I was worried that if I kept walking I might stumble and fall into the valley,</target>
+        <target state="translated">I was worried that if I kept walking I might stumble and fall into the valley…</target>
       </trans-unit>
       <trans-unit id="2832" xml:space="preserve" approved="no">
         <source>ひとまずここに座り込んだまま、|途方に暮れていたんだ</source>
-        <target state="translated">so I've just been sitting here at a loss.</target>
+        <target state="translated">So I've just been sitting here at a loss for what to do.</target>
       </trans-unit>
       <trans-unit id="2888" xml:space="preserve" approved="no">
         <source>それは大変でしたね。|僕の肩につかまってください。|家に連れて行きますから</source>
@@ -5916,7 +5916,7 @@
       </trans-unit>
       <trans-unit id="3156" xml:space="preserve" approved="no">
         <source>いえ、そんな……。|無事で何よりでした</source>
-        <target state="translated">No, I didn't do anything... I'm just glad you're back safely.</target>
+        <target state="translated">It's no big deal... I'm just glad you're back safely.</target>
       </trans-unit>
       <trans-unit id="3196" xml:space="preserve" approved="no">
         <source>ああ。|しかし、足がこんな風に|なっちまうなんてなあ</source>
