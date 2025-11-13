@@ -236,7 +236,7 @@
       </trans-unit>
       <trans-unit id="2" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|異を唱えり　山を焼く|代償は大きく　正体不|明の蟲にて影響は如何|ばかりか知れず　人を|集め確実に抜きたるべ|きといふ　しかし里の|者らは聞く耳を持たず|山に火を放ちたり　つ|ひに蟲を絶てりと思い|し時　陰火が出現せり|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|The other mushishi|disagreed, saying it|was too risky, but|the villagers would|not listen and set|fire to the mountain.|The blazed killed|the weeds, however|from their ashes,|Kagebi appeared.|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|The other mushishi|disagreed, saying it|was too risky, but|the villagers would|not listen and set|fire to the mountain.|The blaze killed|the weeds, however|from their ashes,|Kagebi appeared.|&lt;/page&gt;</target>
       </trans-unit>
       <trans-unit id="3" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|陰火の中にヒダネあり|ヒトの熱を吸ひ生きる|蟲なり　あの草はヒダ|ネの幼生にて　火を得|る事で陰火となりたる|なり　野萩はヒダネな|れば対処するは可能な|りといふ　一年後　蟲|師は里を再訪せり　草|は絶たれり　されど陰|&lt;/page&gt;</source>
@@ -296,7 +296,7 @@
       </trans-unit>
       <trans-unit id="8" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|　　　　　　　　完|&lt;/page&gt;|</source>
-        <target state="translated">&lt;page&gt;|Following this|incident,|&lt;mg 10&gt;[name]|decided to become|Mushishi to protect|the village.&lt;/mg&gt;||||-FIN|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|Following this|incident,|&lt;mg 10&gt;[name]|decided to become|a Mushishi to protect|the village.&lt;/mg&gt;||||-FIN|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
@@ -408,7 +408,7 @@
       </trans-unit>
       <trans-unit id="1" xml:space="preserve" approved="no">
         <source>&lt;page&gt;|当然　体は衰弱してい|くので危険だ|治療に必要な処方箋を|一緒に送ったから|作ってみろ|　　　　　　ヤクノ　|&lt;/page&gt;</source>
-        <target state="translated">&lt;page&gt;|While the mushi is|not dangerous, it|is not good for a|person not to eat.|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
+        <target state="translated">&lt;page&gt;|While the mushi is|not dangerous, it|is not healthy for a|person to not eat.|I have sent you a|recipe for the|medicine needed to|treat it, so please|mix some up.|Yakuno|&lt;/page&gt;</target>
       </trans-unit>
     </body>
   </file>
